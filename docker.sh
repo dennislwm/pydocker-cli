@@ -1,0 +1,1 @@
+alias htmltopdf='drr --net=host --dns 1.1.1.1 -v d:\\docker\\pydocker-cli:/app/download:rw --name objWkhtmltopdf -it htmltopdf_app'
