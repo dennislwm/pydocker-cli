@@ -31,6 +31,8 @@ jobs:
       - name: udemyenrol_app
         uses: ./udemyenrol
         with:
+          entrypoint: python3
+          args: udemyenrol/app.py
           gmail: ${{ secrets.GITHUB_GMAIL }}
           gmail_app_password: ${{ secrets.GITHUB_GMAIL_APP_PASSWORD }}
       #------------------------------------------------

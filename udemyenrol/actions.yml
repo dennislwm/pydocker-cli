@@ -18,5 +18,5 @@ inputs:
 runs:
   using: "docker"
   image: "Dockerfile"
-  steps:
-    working-directory: ./udemyenrol
+#  steps:
+#    working-directory: ./udemyenrol

@@ -43,6 +43,7 @@ This is the minimum viable product (MVP) to test the above hypothesis.
 
 ### Non-existant viable feature
 * make lots of half-baked tiny python command line apps
+* Moved from **main.yml** 'steps.working-directory' to **actions.yml** 'run.steps.working-directory' as it does not work in combination with **main.yml** 'steps.uses'
 
 ### Existing viable feature
 
