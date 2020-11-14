@@ -24,6 +24,8 @@ jobs:
       #   Checks out your repository under $GITHUB_WORKSPACE
       #   Setups Python and specify version
       - uses: actions/checkout@v2
+      - name: List directories
+        run: ls -laR
       - uses: actions/setup-python@v2
         with:
           python-version: 3.7
@@ -36,8 +38,6 @@ jobs:
           gmail_app_password: ${{ secrets.GITHUB_GMAIL_APP_PASSWORD }}
       #------------------------------------------------
       # Runs a set of commands using the runner's shell
-      - name: List directories
-        run: ls -laR
       - name: Install Python Dependencies
         run: |
           pip install -U pip wheel coverage coveralls

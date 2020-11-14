@@ -2,8 +2,8 @@ FROM python:3.7-slim
 RUN apt-get update
 RUN apt-get --assume-yes install python-requests wkhtmltopdf
 WORKDIR /app/
-COPY requirements.txt /app/
+COPY requirements.txt .
 RUN pip install -r requirements.txt
-COPY app.py /app/
+COPY . .
 ENTRYPOINT [ "python" ]
 CMD [ "app.py" ]
