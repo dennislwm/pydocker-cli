@@ -32,6 +32,7 @@ def getConfig():
         gmail: ""
         gmail_app_password: ""
     """)
+    config = yaml.load(setting)
 
     #--------------------------------------
     # A YAML file supercedes os environment
