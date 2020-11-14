@@ -33,8 +33,8 @@ jobs:
         with:
           entrypoint: python3
           args: udemyenrol/app.py
-          gmail: ${{ secrets.GITHUB_GMAIL }}
-          gmail_app_password: ${{ secrets.GITHUB_GMAIL_APP_PASSWORD }}
+          gmail: ${{ secrets.GMAIL }}
+          gmail_app_password: ${{ secrets.GMAIL_APP_PASSWORD }}
       #------------------------------------------------
       # Runs a set of commands using the runner's shell
       - name: Install Python Dependencies
