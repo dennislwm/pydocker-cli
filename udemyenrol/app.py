@@ -44,8 +44,8 @@ def getConfig():
     if not os.path.exists("settings.yaml"):
         config["udemy"]["email"] = ""
         config["udemy"]["password"] = ""
-        config["udemy"]["gmail"] = os.environ['GITHUB_GMAIL']
-        config["udemy"]["gmail_app_password"] = os.environ['GITHUB_GMAIL_APP_PASSWORD']
+        config["udemy"]["gmail"] = os.environ['INPUT_GMAIL']
+        config["udemy"]["gmail_app_password"] = os.environ['INPUT_GMAIL_APP_PASSWORD']
     print(config)
         
     return config
