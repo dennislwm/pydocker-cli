@@ -49,6 +49,15 @@ jobs:
           args: udemyenrol/app.py
           gmail: ${{ secrets.GMAIL }}
           gmail_app_password: ${{ secrets.GMAIL_APP_PASSWORD }}
+      #----------------------
+      # Update git repository
+      - name: Commit and push if changed
+        run: |-
+          git add .
+          git config --global user.email "github-action-bot@example.com"
+          git config --global user.name "GitHub Action Bot"
+          git commit -m "Updated udemyenrol.md" -a || echo "No changes to commit"
+          git push          
       #------------------------------------------------
       # Runs a set of commands using the runner's shell
       - name: Install Python Dependencies
@@ -59,12 +68,3 @@ jobs:
         run: coveralls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #----------------------
-      # Update git repository
-      - name: Commit and push if changed
-        run: |-
-          git add .
-          git config --global user.email "github-action-bot@example.com"
-          git config --global user.name "GitHub Action Bot"
-          git commit -m "Updated udemyenrol.md" -a || echo "No changes to commit"
-          git push
