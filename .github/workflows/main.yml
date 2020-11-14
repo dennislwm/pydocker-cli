@@ -29,6 +29,7 @@ jobs:
       #------------------------------------------------
       # Runs your custom action
       - name: udemyenrol_app
+        working-directory: ./udemyenrol
         uses: ./udemyenrol
         with:
           gmail: ${{ secrets.GITHUB_GMAIL }}
