@@ -14,10 +14,6 @@ jobs:
     #----------------------------------------
     # Type of runner that the job will run on
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-        working-directory: ./udemyenrol
     steps:
       #---------------------------------------------------------
       # Runs third-party actions
