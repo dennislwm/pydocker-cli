@@ -26,6 +26,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: List directories
         run: ls -laR
+        working-directory: ./udemyenrol
       - uses: actions/setup-python@v2
         with:
           python-version: 3.7
@@ -33,7 +34,6 @@ jobs:
       # Runs your custom action
       - name: udemyenrol_app
         uses: ./udemyenrol
-        working-directory: ./udemyenrol
         with:
           gmail: ${{ secrets.GITHUB_GMAIL }}
           gmail_app_password: ${{ secrets.GITHUB_GMAIL_APP_PASSWORD }}
