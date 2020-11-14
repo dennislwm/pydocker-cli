@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  app:
+    container_name: objUdemyenrol
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - d:\docker\pydocker-cli:/app/udemyenrol:rw
+    network_mode: "host"  
+    dns:
+      - 1.1.1.1
