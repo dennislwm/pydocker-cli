@@ -24,6 +24,8 @@ jobs:
       #   Checks out your repository under $GITHUB_WORKSPACE
       #   Setups Python and specify version
       - uses: actions/checkout@v2
+      - name: List directories
+        run: ls -laR
       - uses: actions/setup-python@v2
         with:
           python-version: 3.7
