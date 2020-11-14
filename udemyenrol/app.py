@@ -168,6 +168,7 @@ def redeemUdemyCourse(url):
 
 def file_open(strPath="./"):
     filename = strPath + 'udemyenrol.md'
+    print("Write file " + filename) 
     # mode: (a)ppend, over(w)rite
     f = open(filename, 'w')
     return f
@@ -178,9 +179,7 @@ def file_write(f, strLine):
 def file_close(f):
     f.close()
 
-def send_gmail(strBody):
-    now = datetime.now()
-    strSubject = "Daily Free Udemy Courses - " + now.strftime("%d/%m/%Y")
+def send_gmail(strSubject, strBody):
     print("Send email " + strSubject) 
     msg = EmailMessage()
     msg['Subject'] = strSubject
@@ -197,7 +196,11 @@ def main_function():
     loop_run_count = 0
     strBody = ""
 
-    f = file_open("./")
+    now = datetime.now()
+    strSubject = "# Daily Free Udemy Courses - " + now.strftime("%d/%m/%Y")
+
+    f = file_open("./udemyenrol/")
+    file_write(f, strSubject + "\r\n")
     while True:
 
         print("Please Wait: Getting the course list from tutorialbar.com...")
@@ -221,7 +224,7 @@ def main_function():
         # output to text file
         if loop_run_count == 1:
             file_close(f)
-            send_gmail(strBody)
+            send_gmail(strSubject, strBody)
             break
 
 """
