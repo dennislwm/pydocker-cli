@@ -43,7 +43,20 @@ This is the minimum viable product (MVP) to test the above hypothesis.
 
 ### Non-existant viable feature
 * make lots of half-baked tiny python command line apps
-* Moved from **main.yml** 'steps.working-directory' to **actions.yml** 'run.steps.working-directory' as it does not work in combination with **main.yml** 'steps.uses'
+* In **main.yml**, set both *steps.with.entrypoint* and *steps.with.args* values in combination with *steps.uses*
+  * These overwrite ENTRYPOINT and CMD in your Dockerfile respectively
+  * For example, set *steps.with.entrypoint* and *steps.with.args* to "python3" and "udemyenrol/app.py" respectively
+  * Why? In **Dockerfile**, GitHub Actions (GA) sets its source folder to GITHUB_WORKSPACE, ie. **root** folder, when using commands COPY or ADD
+  * We tried THREE (3) workarounds that failed:
+    * In **main.yml**, *steps.working-directory* does not work in combination with *steps.uses*
+    * In **actions.yml**, *run.steps.working-directory* does not work in combination with *runs.using*: docker
+    * In  **Dockerfile**, Github Actions ignores WORKDIR command
+  * For example, when using "COPY . .", the source folder is the parent of current folder (see structure below).
+```
+     GITHUB_WORKSPACE/                            <-- Root of your project
+       +- udemyenrol/                             <-- Current folder for Dockerfile
+          |- Dockerfile                           <-- In Dockerfile, "COPY . ." copies from GITHUB_WORKSPACE instead of current folder
+```
 
 ### Existing viable feature
 
@@ -65,6 +78,7 @@ Count the cost of complexity, i.e. incremental reward and risk reduction, before
 ### References
 - (Rade2020) Dano Radecic, 2-Nov-2020, [How to Send Beautiful Emails With Python — The Essential Guide](https://towardsdatascience.com/how-to-send-beautiful-emails-with-python-the-essential-guide-a01d00c80cd0)
 - (Mezz2020) David Mezzetti, 14-Nov-2020, [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)
+- [Dockerfile support for GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions/creating-actions/dockerfile-support-for-github-actions#entrypoint)
 
 ---
 ## Contributing
