@@ -1,0 +1,46 @@
+#+-----------------------------------------------------------------------------------------+
+#|                                M A I N   W O R K F L O W                                |
+#+-----------------------------------------------------------------------------------------+
+name: main
+#+-----------------------------------------------------------------------------------------+
+#|                            E X T E R N A L   T R I G G E R S                            |
+#+-----------------------------------------------------------------------------------------+
+on: ["push", "pull_request"]
+jobs:
+  #+-----------------------------------------------------------------------------------------+
+  #|                                 C U S T O M   J O B                                     |
+  #+-----------------------------------------------------------------------------------------+
+  udemyenrol:
+    #----------------------------------------
+    # Type of runner that the job will run on
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: udemyenrol
+    steps:
+      #---------------------------------------------------------
+      # Runs third-party actions
+      #   Checks out your repository under $GITHUB_WORKSPACE
+      #   Setups Python and specify version
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      #------------------------------------------------
+      # Runs your custom action
+      - name: udemyenrol_app
+        uses: ./.github/actions/udemyenrol_app
+        with:
+          gmail: ${{ secrets.GITHUB_GMAIL }}
+          gmail_app_password: ${{ secrets.GITHUB_GMAIL_APP_PASSWORD }}
+      #------------------------------------------------
+      # Runs a set of commands using the runner's shell
+      - name: Install Python Dependencies
+        run: |
+          pip install -U pip wheel coverage coveralls
+          python --version
+      - name: Test Coverage
+        run: coveralls
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
