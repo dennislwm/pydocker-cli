@@ -20,6 +20,35 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
+
+def getConfig():
+    yaml = YAML()
+    #-----------------
+    # Initial variable
+    setting = ("""
+      udemy:
+        email: ""
+        password: ""
+        gmail: ""
+        gmail_app_password: ""
+    """)
+
+    #--------------------------------------
+    # A YAML file supercedes os environment
+    if os.path.exists("settings.yaml"):
+        with open("settings.yaml") as f:
+            config = yaml.load(f)
+    #-------------------------
+    # Read from os environment
+    if not os.path.exists("settings.yaml"):
+        config["udemy"]["email"] = ""
+        config["udemy"]["password"] = ""
+        config["udemy"]["gmail"] = os.environ['GITHUB_GMAIL']
+        config["udemy"]["gmail_app_password"] = os.environ['GITHUB_GMAIL_APP_PASSWORD']
+    print(config)
+        
+    return config
+
 settings = getConfig()
 
 email, password = settings["udemy"]["email"], settings["udemy"]["password"]
@@ -42,24 +71,6 @@ driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=chrome
 # Maximizes the browser window since Udemy has a responsive design and the code only works
 driver.maximize_window()
 # in the maximized layout
-
-def getConfig():
-    #-------------------------
-    # Read from os environment
-    config["udemy"]["email"] = ""
-    config["udemy"]["password"] = ""
-    config["udemy"]["gmail"] = os.environ['GITHUB_GMAIL']
-    config["udemy"]["gmail_app_password"] = os.environ['GITHUB_GMAIL_APP_PASSWORD']
-
-    #--------------------------------------
-    # A YAML file supercedes os environment
-    if os.path.exists("settings.yaml"):
-        yaml = YAML()
-        with open("settings.yaml") as f:
-            config = yaml.load(f)
-        
-    return config
-    
 
 def getUdemyLink(url):
     response = requests.get(url=url)
