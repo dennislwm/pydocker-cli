@@ -5,7 +5,7 @@ RUN \
   apt-get --assume-yes install python3-pip python-requests wget
 # Install app
 WORKDIR /
-COPY requirements.txt ./
+COPY ./requirements.txt ./
 RUN pip3 install -r requirements.txt
 COPY app.py settings.yaml ./
 ENTRYPOINT [ "python3" ]
