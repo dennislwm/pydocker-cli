@@ -15,7 +15,7 @@ name: main
 # │ └──────────────────── hour (0 - 23)
 # └───────────────────────── min (0 - 59)
 on:
-  push:
+  #push:
   #pull_request:
   #workflow_dispatch:
   schedule:

@@ -67,7 +67,7 @@ Count the cost of complexity, i.e. incremental reward and risk reduction, before
 
 ---
 ### References
-- (Patr2020) Antariksh Patre, accessed 14-Oct-2020, [Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/dennislwm/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
+- (Patr2020) Antariksh Patre, accessed 14-Oct-2020, [Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
 - (Rade2020) Dano Radecic, 2-Nov-2020, [How to Send Beautiful Emails With Python — The Essential Guide](https://towardsdatascience.com/how-to-send-beautiful-emails-with-python-the-essential-guide-a01d00c80cd0)
 - (Mezz2020) David Mezzetti, 14-Nov-2020, [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)
 - (Gdoc2020) GitHub Docs, accessed 14-Nov-2020, [Dockerfile support for GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions/creating-actions/dockerfile-support-for-github-actions#entrypoint)
