@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/11/2020
+# Daily Free Udemy Courses - 16/11/2020
 
-https://www.udemy.com/course/job-search-guide-20-effective-job-search-strategies/?couponCode=FEF64928551907CCCD0B
-https://www.udemy.com/course/fluent-piano-songs/?couponCode=81F887CE0239224B7613
-https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/?couponCode=4249285CA6194D3C1204
-https://www.udemy.com/course/sourcetree-ile-git-ve-github-kullanimi/?couponCode=HEDIYE16KASIMSON
-https://www.udemy.com/course/microsoft-excel-for-scientists-and-engineers/?couponCode=FREENOV
-https://www.udemy.com/course/avoid-biggest-mistakes-in-talent-acquisition-and-recruitment/?couponCode=BE-SMART
-https://www.udemy.com/course/english-speaking-course/?couponCode=SPEAKNOW
-https://www.udemy.com/course/learn-sap-hrhcm-perfect-guide-for-beginners/?couponCode=FREECOUPONSAPHR
-https://www.udemy.com/course/git-basics-for-everyone/?couponCode=BB95B5668E1AF25A2A4A
-https://www.udemy.com/course/software-testing-training-a-to-z/?couponCode=ZFREEFREE
-https://www.udemy.com/course/aws-s3-iam-ec2-lambda-i-dynamodb-podstawy-aws-2020/?couponCode=3EC4BD1572E351373343
-https://www.udemy.com/course/the-complete-sql-course-2020-become-a-mysql-master/?couponCode=SQLCOURSE27
+https://www.udemy.com/course/instagram-marketing-for-instagram-business-beginners/?couponCode=INSTAGRAM
+https://www.udemy.com/course/data-science-hands-on-covid19-face-mask-detection-cnn-opencv/?couponCode=COVIDMASK
+https://www.udemy.com/course/istqb-agile-level-training-previous-year-questions200/?couponCode=F202CCA80E52D593A443
+https://www.udemy.com/course/building-applications-with-blazor/?couponCode=5D797127E2EC4E06D6CB
+https://www.udemy.com/course/java11-new-features/?couponCode=7ACDCA5DA1222DFADDA4
+https://www.udemy.com/course/nodejs-certification-training/?couponCode=NODEJS_DIWALI_UPLATZ
+https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=E5585DD877757F2F9130
+https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=02F6D40DBD60946E028C
+https://www.udemy.com/course/reactjs-training/?couponCode=REACT_DIWALI_UPLATZ
+https://www.udemy.com/course/11-chrome-extensions-every-digital-marketer-needs-to-know/?couponCode=FB68AACD3455B0F03395
+https://www.udemy.com/course/nature-scope-of-macroeconomics-in-160-minutes/?couponCode=DIWALIOFFER
+https://www.udemy.com/course/aerospace-engineering-rocket-science-and-engineering/?couponCode=F68A2810A3C95224F1D9
 
