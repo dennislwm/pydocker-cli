@@ -6,6 +6,7 @@ pydocker-cli starter project.
 ## Table of Contents
 - [pydocker-cli](#pydocker-cli)
   - [Table of Contents](#table-of-contents)
+  - [Famed Contributors](#famed-contributors)
   - [Hypothesis](#hypothesis)
   - [Project Structure](#project-structure)
   - [Methodology](#methodology)
@@ -14,10 +15,25 @@ pydocker-cli starter project.
   - [Complexity](#complexity)
     - [Non-existant bloat](#non-existant-bloat)
     - [Existing bloat](#existing-bloat)
-    - [References](#references)
+  - [1. etfdata](#1-etfdata)
+    - [1.1 References](#11-references)
+  - [2. htmltopdf](#2-htmltopdf)
+  - [3. udemyenrol](#3-udemyenrol)
+    - [3.1 Nothing to do](#31-nothing-to-do)
+    - [3.2 Fork this repository if you want to receive email](#32-fork-this-repository-if-you-want-to-receive-email)
+    - [3.3 Contributing](#33-contributing)
+    - [3.4 References](#34-references)
+  - [Common](#common)
     - [Issue #4](#issue-4)
   - [Contributing](#contributing)
     - [Reach Out!](#reach-out)
+
+--- 
+## Famed Contributors
+| [![](https://github.com/dennislwm.png?size=50)](https://github.com/dennislwm) 
+| ----------------------------------------------------------------------------- 
+| [@dennislwm](https://github.com/dennislwm)                                    
+
 
 ---
 ## Hypothesis
@@ -28,9 +44,11 @@ pydocker-cli starter project.
 ## Project Structure
      pydocker-cli/                                <-- Root of your project
        |- .gitignore                              <-- Git ignore file
+       |- CONTRIBUTING.md                         <-- Contributing guide
        |- README.md                               <-- This README markdown file
        +- .github/                                <-- Root of GitHub templates, workflows, actions
           +- workflows/                           <-- Source files for GitHub workflows
+       +- etfdata/                                <-- Source files for ETF and stock data
        +- htmltopdf/                              <-- Source files for Html link to PDF conversion
        +- udemyenrol/                             <-- Source files for Udemy free course
           |- .dockerignore                        <-- Docker ignore file
@@ -59,14 +77,74 @@ This is the minimum viable product (MVP) to test the above hypothesis.
 
 Count the cost of complexity, i.e. incremental reward and risk reduction, before evolving MVP.
 
+* The cost of Click is quite high, ~150 lines of code in **etfdata**, for a shell file that has EMPTY functions (exclude tests).
+
 ### Non-existant bloat
 * Nil
 
 ### Existing bloat 
-* Nil
+* use Click to to create and test a Python CLI app (Bowm2020), (Ppro2020)
 
 ---
-### References
+## 1. etfdata
+
+This tiny app prints etf and stock data.
+
+### 1.1 References
+- (Bowm2020) Jonathan Bowman, 7-Aug-2020, [Build and Test a Command Line Interface with Python, Poetry, Click, and pytest](https://dev.to/bowmanjd/build-a-command-line-interface-with-python-poetry-and-click-1f5k)
+- (Ppro2020) Pallet Projects, accessed 16-Nov-2020, [Welcome to Click — Click Documentation (7.x)](https://click.palletsprojects.com/en/7.x)
+- (Finn2020) Finnhub.io, accessed 16-Nov-2020, [Finnhub API Documentation](https://finnhub.io/docs/api)
+
+---
+## 2. htmltopdf
+
+This tiny app does what its name suggests.
+
+---
+## 3. udemyenrol
+
+This tiny app is invoked by GitHub Actions daily.
+
+### 3.1 Nothing to do 
+
+The action file runs this Python app that updates this page at UTC 0:01 daily. You can bookmark this page to save thousands of dollars for Udemy courses every year (legally).
+
+> [Daily Free Udemy Courses](https://github.com/dennislwm/pydocker-cli/blob/master/udemyenrol/udemyenrol.md)
+
+### 3.2 Fork this repository if you want to receive email
+
+If you want to receive this page in your email, fork this repository. In your forked repository, add these to the GitHub secrets:
+
+```
+  GMAIL: user@gmail.com
+  GMAIL_APP_PASSWORD: generatedpassword
+```
+
+The app uses GMAIL to send both from (sender) and to (recepient). Go to [Gmail account](https://myaccount.google.com/apppasswords) to create GMAIL_APP_PASSWORD.
+
+Warning: Do not use your Gmail password for the app password, which is a special password that is used to bypass two-factor authentication.
+
+### 3.3 Contributing
+
+**Udemyenrol** requires a *settings.yaml* to run correctly. This file contains sensitive information, hence it is not checked into repo.
+
+Create a new file *settings.yaml* in the same folder as *app.py* and copy and paste below.
+
+```
+udemy:
+  email: "name@example.com" 
+  password: "password123" 
+  gmail: "name@gmail.com"
+  gmail_app_password: "generatedpassword"
+```
+This is an explanation of the above settings file.
+
+* email - Enter your Udemy registered email here (You do not need to change this as it is Disabled)
+* password - Enter your Udemy password here (You do not need to change this as it is Disabled)
+* gmail - Gmail address that is used by app to send daily free courses from and to
+* gmail_app_password - Gmail app password (Go to https://myaccount.google.com/apppasswords to generate one)
+
+### 3.4 References
 - (Patr2020) Antariksh Patre, accessed 14-Oct-2020, [Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE)
 - (Rade2020) Dano Radecic, 2-Nov-2020, [How to Send Beautiful Emails With Python — The Essential Guide](https://towardsdatascience.com/how-to-send-beautiful-emails-with-python-the-essential-guide-a01d00c80cd0)
 - (Mezz2020) David Mezzetti, 14-Nov-2020, [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)
@@ -74,6 +152,8 @@ Count the cost of complexity, i.e. incremental reward and risk reduction, before
 - (Glab2020) GitHub Lab, accessed 14-Nov-2020, [GitHub Actions: Write Docker container actions](https://lab.github.com/githubtraining/github-actions:-write-docker-container-actions)
 
 ---
+## Common
+
 ### Issue #4
 * This is a solution to enable Dockerfile WORKDIR support for GitHub Actions:
   * In **main.yml**, set both *steps.with.entrypoint* and *steps.with.args* values in combination with *steps.uses*, to overwrite ENTRYPOINT and CMD in your Dockerfile respectively
