@@ -16,7 +16,9 @@ pydocker-cli starter project.
     - [Non-existant bloat](#non-existant-bloat)
     - [Existing bloat](#existing-bloat)
   - [1. etfdata](#1-etfdata)
-    - [1.1 References](#11-references)
+    - [1.1 Usage](#11-usage)
+    - [1.2 Configuration](#12-configuration)
+    - [1.3 References](#13-references)
   - [2. htmltopdf](#2-htmltopdf)
   - [3. udemyenrol](#3-udemyenrol)
     - [3.1 Nothing to do](#31-nothing-to-do)
@@ -90,7 +92,41 @@ Count the cost of complexity, i.e. incremental reward and risk reduction, before
 
 This tiny app prints etf and stock data.
 
-### 1.1 References
+### 1.1 Usage
+
+```
+$ python3 etfdata.py
+Usage: etfdata.py [OPTIONS] COMMAND [ARGS]...
+
+  This script prints etf and stock data
+
+Options:
+  -o, --out [csv|json|markdown|text]
+                                  Output type, default=text
+  -h, --help                      Show this message and exit.
+
+Commands:
+  cal    Economic calendar
+  etf    ETF fundamentals
+  list   List of symbols
+  news   Latest market news
+  stock  Stock fundamentals of SYMBOLS where SYMBOLS is one or more...
+```
+
+### 1.2 Configuration
+
+**etfdata** requires a *config.json* to run correctly. This file contains sensitive information, hence it is not checked into repo.
+
+Create a new file *config.json* in the same folder as *etfdata.py* and copy and paste below.
+```
+{
+  "FINNHUB_API_KEY": "asdfasdfasdfasfasdfasdf",
+  "FINNHUB_API_KEY_SANDBOX": "sandbox_asdfasdfasdfsadfasfdsaf"
+}
+```
+Go to [Finnhub Stock API](https://finnhub.io) to create a free account. Then copy and paste both of the above api keys.
+
+### 1.3 References
 - (Bowm2020) Jonathan Bowman, 7-Aug-2020, [Build and Test a Command Line Interface with Python, Poetry, Click, and pytest](https://dev.to/bowmanjd/build-a-command-line-interface-with-python-poetry-and-click-1f5k)
 - (Ppro2020) Pallet Projects, accessed 16-Nov-2020, [Welcome to Click — Click Documentation (7.x)](https://click.palletsprojects.com/en/7.x)
 - (Finn2020) Finnhub.io, accessed 16-Nov-2020, [Finnhub API Documentation](https://finnhub.io/docs/api)

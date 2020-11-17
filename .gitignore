@@ -1,0 +1,7 @@
+.devcontainer
+.gitcommittemplate
+config.json
+__pycache__/
+hatabasic/
+qualifier/
+udemyenrol/settings.yaml
