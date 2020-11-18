@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/11/2020
+# Daily Free Udemy Courses - 18/11/2020
 
-https://www.udemy.com/course/setsa-selfempowerment/?couponCode=SETSAPROMO21120
-https://www.udemy.com/course/google-meet-and-google-classroom-guide-for-online-teaching/?couponCode=D1016E8FE95C3B476426
-https://www.udemy.com/course/tech-for-tefl-teach-english-writing-online-interactively/?couponCode=F02EC402D58F9FCDBE91
-https://www.udemy.com/course/job-interviews-how-to-talk-to-prospective-employers/?couponCode=7B7ED841B950F5642BBC
-https://www.udemy.com/course/mastering-mongodb/?couponCode=MONGONOV2020
-https://www.udemy.com/course/investment-banking-business-analyst-wall-street/?couponCode=EARLYAC
-https://www.udemy.com/course/sap-fico-for-beginners-with-simple-and-detailed-explanation/?couponCode=FREECOURSE1
-https://www.udemy.com/course/microsoftonedrive/?couponCode=LAUNCH2020
-https://www.udemy.com/course/the-30-days-challenge-to-better-motivate-yourself-and-others/?couponCode=NOVEMBERMOTIVATION
-https://www.udemy.com/course/renewable-energy-masterclass-a-complete-guide-to-renewable/?couponCode=BEST_COURSE_OF_2020
-https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/?couponCode=NOVFREE
-https://www.udemy.com/course/cswa-solidworks-sample-exam/?couponCode=GIFT-NOVEMBER
+https://www.udemy.com/course/pmp-certification-exam-preparation-course/?couponCode=PMPEXAM17
+https://www.udemy.com/course/flutter-cross-platform-course-that-will-get-you-job/?couponCode=83E7D27631567146D6A1
+https://www.udemy.com/course/dance-for-primary-schools-1/?couponCode=373173BE76454548AD29
+https://www.udemy.com/course/kapsamli-seo-egitimi-kursu/?couponCode=INSTAFREE
+https://www.udemy.com/course/introduction-to-music-theory/?couponCode=BFDAYFREE
+https://www.udemy.com/course/dog-training-and-behavior-learn-research-backed-approaches/?couponCode=NOV2020
+https://www.udemy.com/course/gamsoptimization/?couponCode=2FD87281C78F84FC5660
+https://www.udemy.com/course/agile-scrum-for-beginner/?couponCode=FREESCRUM20
+https://www.udemy.com/course/how-to-create-a-profitable-online-course-in-10-simple-steps/?couponCode=963AD5E78D791D6AFC16
+https://www.udemy.com/course/mastering-architectural-night-hdr-photography/?couponCode=HDRNOV2020
+https://www.udemy.com/course/remove-your-mental-financial-success-blocks-with-eft/?couponCode=RYMFSNOV192020
+https://www.udemy.com/course/speed-reading-fast/?couponCode=SRSIMEXPNOV192020
 
