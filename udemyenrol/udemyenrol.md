@@ -11,8 +11,7 @@
 
 [Value Stream Mapping in Lean Business(Rating:5)(7 ratings)](https://www.udemy.com/course/value-stream-mapping-in-lean-business/?couponCode=A326233E6A253D708B0A)
 
-[Digital Forensics for Pentesters - Hands-on Learning(Rating:5.0)(1 rating)]
-(https://www.udemy.com/course/digital-forensics-for-pentesters-hands-on-learning/?couponCode=0D6C2CD835E1C8B6E32E)
+[Digital Forensics for Pentesters - Hands-on Learning(Rating:5.0)(1 rating)](https://www.udemy.com/course/digital-forensics-for-pentesters-hands-on-learning/?couponCode=0D6C2CD835E1C8B6E32E)
 
 [Scrum Fundamentals for Scrum Master and Agile Projects- 2020(Rating:4.4)((54 ratings)](https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMNOVNOW)
 
