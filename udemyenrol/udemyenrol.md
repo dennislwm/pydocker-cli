@@ -1,10 +1,6 @@
 # Daily Free Udemy Courses - 19/11/2020
 
 
-[I'm an inline-style link](https://www.google.com)
-
-
-
 [Design Beautiful Animated Websites Incredibly Fast in 2021(Rating:3.9)(74 ratings)](https://www.udemy.com/course/design-beautiful-animated-websites-incredibly-fast/?couponCode=F80ECAE398A1183DD1B1)
 
 [Applying Lean in Service and Manufacturing Organizations(Rating:5.0)((11 ratings)](https://www.udemy.com/course/applying-lean-in-service-and-manufacturing-organizations/?couponCode=6EFF21EC3492B737FEC3)
