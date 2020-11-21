@@ -23,8 +23,11 @@ pydocker-cli starter project.
   - [3. udemyenrol](#3-udemyenrol)
     - [3.1 Nothing to do](#31-nothing-to-do)
     - [3.2 Fork this repository if you want to receive email](#32-fork-this-repository-if-you-want-to-receive-email)
-    - [3.3 Contributing](#33-contributing)
+    - [3.3 Configuration (only if you are Contributing)](#33-configuration-only-if-you-are-contributing)
     - [3.4 References](#34-references)
+  - [4. textscore](#4-textscore)
+    - [4.1 Usage](#41-usage)
+    - [4.2 References](#42-references)
   - [Common](#common)
     - [Issue #4](#issue-4)
   - [Contributing](#contributing)
@@ -52,6 +55,7 @@ pydocker-cli starter project.
           +- workflows/                           <-- Source files for GitHub workflows
        +- etfdata/                                <-- Source files for ETF and stock data
        +- htmltopdf/                              <-- Source files for Html link to PDF conversion
+       +- textscore/                              <-- Source files for text readability score
        +- udemyenrol/                             <-- Source files for Udemy free course
           |- .dockerignore                        <-- Docker ignore file
           |- actions.yml                          <-- GitHub actions file
@@ -160,9 +164,9 @@ The app uses GMAIL to send both from (sender) and to (recepient). Go to [Gmail a
 
 Warning: Do not use your Gmail password for the app password, which is a special password that is used to bypass two-factor authentication.
 
-### 3.3 Contributing
+### 3.3 Configuration (only if you are Contributing)
 
-**Udemyenrol** requires a *settings.yaml* to run correctly. This file contains sensitive information, hence it is not checked into repo.
+**Udemyenrol** requires a *settings.yaml* to run in your local development. This file contains sensitive information, hence it is not checked into repo.
 
 Create a new file *settings.yaml* in the same folder as *app.py* and copy and paste below.
 
@@ -186,6 +190,31 @@ This is an explanation of the above settings file.
 - (Mezz2020) David Mezzetti, 14-Nov-2020, [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)
 - (Gdoc2020) GitHub Docs, accessed 14-Nov-2020, [Dockerfile support for GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions/creating-actions/dockerfile-support-for-github-actions#entrypoint)
 - (Glab2020) GitHub Lab, accessed 14-Nov-2020, [GitHub Actions: Write Docker container actions](https://lab.github.com/githubtraining/github-actions:-write-docker-container-actions)
+
+---
+## 4. textscore
+
+This tiny app generates a readability score from a file.
+
+### 4.1 Usage
+
+```
+$ python3 textscore.py --help
+Usage: textscore.py [OPTIONS] TEXTFILE
+
+  This script scores the readability of a TEXTFILE
+
+  TEXTFILE may include wildcards, e.g. *.txt
+
+Options:
+  -o, --out [csv|json|markdown|text]
+                                  Output type, default=text
+  -h, --help                      Show this message and exit.
+```
+
+### 4.2 References
+
+- (Moye2020) Dawn Moyer, 9-Nov-2020, [Using Data Science Skills Now: Text Readability Analysis](https://towardsdatascience.com/using-data-science-skills-now-text-readability-analysis-c4c4641f5875)
 
 ---
 ## Common

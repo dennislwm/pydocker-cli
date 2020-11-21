@@ -7,7 +7,7 @@ RUN \
 # GitHub Action ignores WORKDIR, ENTRYPOINT and CMD
 WORKDIR /app
 COPY requirements.txt .
-RUN pip3 install -r requirements.txt
+RUN pip3 install --no-cache-dir -r requirements.txt
 COPY . .
 ENTRYPOINT [ "python3" ]
 CMD ["app.py"]
