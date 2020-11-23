@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/11/2020
+# Daily Free Udemy Courses - 23/11/2020
 
-https://www.udemy.com/course/mindfulness-meditation-for-pain-relief-stress-management/?couponCode=BA2B8F43AF87E121C75D
-https://www.udemy.com/course/become-a-crm-manager/?couponCode=BLACKFRI
-https://www.udemy.com/course/superminds-artificial-intelligence-in-2019-2025-markets/?couponCode=76D379921A50BB6183C6
-https://www.udemy.com/course/invade-your-classroom-with-digital-robot-teachers/?couponCode=A297839DE1AE3BD1761B
-https://www.udemy.com/course/introduction-au-machine-learning-regression-lineaire/?couponCode=78BC2EC3222E67CF64E4
-https://www.udemy.com/course/comic-creation-for-entrepreneurs/?couponCode=DC7490C91D1DE04CF905
-https://www.udemy.com/course/delicious-japanese-beginner-level/?couponCode=8EC1DF29571124E4D8F6
-https://www.udemy.com/course/sparring-tai-chi-chen-new-frame-routine-xinjia-2-fitness/?couponCode=24A1D839FE5873B05487
-https://www.udemy.com/course/active-learning-using-games-in-education/?couponCode=4BEF75092D8E35B0E88A
-https://www.udemy.com/course/eiq2-coaching-for-improved-performance/?couponCode=EIQCIEXPNOV242020
-https://www.udemy.com/course/quickbooks-pro-bookkeeping-the-easy-way-for-small-businesses/?couponCode=B277CE54F44CE58E6B1C
-https://www.udemy.com/course/quickbooks-online-bank-feeds-credit-card-feeds/?couponCode=C6458C9033BAA5A416EE
+https://www.udemy.com/course/automate-the-boring-stuff-using-java-programming/?couponCode=81E5F130B02DFE05AA85
+https://www.udemy.com/course/businesscontinuity/?couponCode=BCM2020
+https://www.udemy.com/course/adobe-audition-cc-sound-design-for-beginners/?couponCode=BLACKFRIDAY
+https://www.udemy.com/course/microsoft-excel-from-a-z/?couponCode=0FD5ECD4E3CBD1874BCA
+https://www.udemy.com/course/data-science-and-machine-learning-with-r-from-a-z/?couponCode=0DA6136FB4E3E9898FC2
+https://www.udemy.com/course/private-equity-fundamentals/?couponCode=43B5B1A5A335D86B4DAB
+https://www.udemy.com/course/practice-test-for-linkedin-skill-assessments-part5/?couponCode=ENROLL_FREE
+https://www.udemy.com/course/linkedin-skill-assessment-answers-part4/?couponCode=ENROL_FREE
+https://www.udemy.com/course/linkedin-skill-assessment-answers-and-questions-part-3/?couponCode=ENROLL_FREE
+https://www.udemy.com/course/learn-to-code-with-an-introduction-to-python-3/?couponCode=0AAFBE90381AE13DF089
+https://www.udemy.com/course/crea-tu-primer-pagina-web-desde-0-en-1-hora/?couponCode=DE224336E9CF31626193
+https://www.udemy.com/course/mobile-device-management-certification/?couponCode=626AA81F1354829E33B1
 
