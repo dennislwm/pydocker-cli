@@ -28,6 +28,10 @@ pydocker-cli starter project.
   - [4. textscore](#4-textscore)
     - [4.1 Usage](#41-usage)
     - [4.2 References](#42-references)
+  - [5. biblia](#5-biblia)
+    - [5.1 Usage](#51-usage)
+    - [5.1 References](#51-references)
+  - [BeautifulSoup4](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4)](#beautifulsoup4httpsthecodingpiecompostlets-do-web-scraping-with-python-beautifulsoup4)
   - [Common](#common)
     - [Issue #4](#issue-4)
   - [Contributing](#contributing)
@@ -53,6 +57,7 @@ pydocker-cli starter project.
        |- README.md                               <-- This README markdown file
        +- .github/                                <-- Root of GitHub templates, workflows, actions
           +- workflows/                           <-- Source files for GitHub workflows
+       +- biblia/                                 <-- Source files for bible data
        +- etfdata/                                <-- Source files for ETF and stock data
        +- htmltopdf/                              <-- Source files for Html link to PDF conversion
        +- textscore/                              <-- Source files for text readability score
@@ -216,6 +221,38 @@ Options:
 
 - (Moye2020) Dawn Moyer, 9-Nov-2020, [Using Data Science Skills Now: Text Readability Analysis](https://towardsdatascience.com/using-data-science-skills-now-text-readability-analysis-c4c4641f5875)
 
+---
+## 5. biblia
+
+This tiny app prints bible data from Biblia.
+
+### 5.1 Usage
+
+```
+$ python3 biblia.py --help
+Usage: biblia.py [OPTIONS] COMMAND [ARGS]...
+
+  This script prints bible data
+
+Options:
+  -o, --out [csv|json|markdown|text]
+                                  Output type, default=text
+  -h, --help                      Show this message and exit.
+
+Commands:
+  content  Returns the content of a bible
+  search   Searches the text of a bible
+  toc      Returns the table of contents of a bible
+  votd     Returns a carefully chosen verse each day
+```
+
+### 5.1 References
+
+- (Bibl2020) Biblia API, accessed 26-Nov-2020, [Biblia API](https://api.biblia.com/v1/RegisteredApplications)
+- (Post2020) Postman Documentation, accessed 26-Nov-2020, [Postman Biblia](https://documenter.getpostman.com/view/8994004/TVmFizQo)
+- (Votd2020) Biblia Verse of the Day, accessed 26-Nov-2020, [Biblia Verse of the Day plugin](https://biblia.com/plugins/VerseOfTheDay)
+- (Arav2020) Aravind, accessed 26-Nov-2020, [Let's Build a Web Scraper with Python &
+BeautifulSoup4](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4)
 ---
 ## Common
 
