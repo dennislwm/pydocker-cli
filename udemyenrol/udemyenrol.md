@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/11/2020
+# Daily Free Udemy Courses - 26/11/2020
 
-https://www.udemy.com/course/learn-about-trademarks-and-how-to-look-up-trademarks/?couponCode=98B72A6C3071EC8DBC81
-https://www.udemy.com/course/projelerle-java-egitimi/?couponCode=PROJELERLE_JAVA
-https://www.udemy.com/course/windows-command-line-batch-programming-and-automation-ideas/?couponCode=9EAD4A737E3F88CB4888
-https://www.udemy.com/course/hydra-mailz-cold-email-strategy/?couponCode=3560E426FF8A20324E1C
-https://www.udemy.com/course/chatbot-messenger-marketing-masterclass/?couponCode=82B9A85DA3AFCEA01B13
-https://www.udemy.com/course/agile-project-management-certification-scrumkanbandevops/?couponCode=AGILE23
-https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=AAADEB9B3EE4266D7B6A
-https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=5CDE23880B08D81FC4BC
-https://www.udemy.com/course/c-programming-step-by-step-from-beginner-to-ultimate-level/?couponCode=FREESALE
-https://www.udemy.com/course/customer-valuation-for-entrepreneur-and-marketers/?couponCode=NOVXXII20
-https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=B2446A812783C53283BC
-https://www.udemy.com/course/wordpress-for-absolute-beginners-course/?couponCode=WORDPRESS2020BLACKF
+https://www.udemy.com/course/romische-astrologie-1/?couponCode=0B2B48E488BFD7B7CBCF
+https://www.udemy.com/course/the-art-science-of-sales/?couponCode=ICANACESALES
+https://www.udemy.com/course/the-complete-10-in-1-public-speaking-course-beginner-to-pro/?couponCode=THANKSGIVING20
+https://www.udemy.com/course/effective-problem-solving-and-decision-making-under-pressure/?couponCode=C9A910290112657ECA9E
+https://www.udemy.com/course/pmi-acp-certification-agile-project-management-for-beginners/?couponCode=D7813A2F4E2020C24C50
+https://www.udemy.com/course/problem-solving-and-decision-making/?couponCode=DC85F44E9BBE765AEC6B
+https://www.udemy.com/course/executive-coaching-and-business-case-development/?couponCode=F5015606FDF9CC323254
+https://www.udemy.com/course/sell-books-in-amazon-google-play-books-apple-books-as-pro/?couponCode=1818DB3A20530B50DA5E
+https://www.udemy.com/course/awstutorial/?couponCode=BLACK-FRIDAY
+https://www.udemy.com/course/tableau-training-master-tableau-for-data-science/?couponCode=TABLEAU24
+https://www.udemy.com/course/comet-microsoft-azure-architect-technologies-beginner-to-expert/?couponCode=COMETAZUREFREE
+https://www.udemy.com/course/after-effects-motion-graphics-p/?couponCode=9825E1A98081310971B6
 
