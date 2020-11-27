@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/11/2020
+# Daily Free Udemy Courses - 27/11/2020
 
-https://www.udemy.com/course/romische-astrologie-1/?couponCode=0B2B48E488BFD7B7CBCF
-https://www.udemy.com/course/the-art-science-of-sales/?couponCode=ICANACESALES
-https://www.udemy.com/course/the-complete-10-in-1-public-speaking-course-beginner-to-pro/?couponCode=THANKSGIVING20
-https://www.udemy.com/course/effective-problem-solving-and-decision-making-under-pressure/?couponCode=C9A910290112657ECA9E
-https://www.udemy.com/course/pmi-acp-certification-agile-project-management-for-beginners/?couponCode=D7813A2F4E2020C24C50
-https://www.udemy.com/course/problem-solving-and-decision-making/?couponCode=DC85F44E9BBE765AEC6B
-https://www.udemy.com/course/executive-coaching-and-business-case-development/?couponCode=F5015606FDF9CC323254
-https://www.udemy.com/course/sell-books-in-amazon-google-play-books-apple-books-as-pro/?couponCode=1818DB3A20530B50DA5E
-https://www.udemy.com/course/awstutorial/?couponCode=BLACK-FRIDAY
-https://www.udemy.com/course/tableau-training-master-tableau-for-data-science/?couponCode=TABLEAU24
-https://www.udemy.com/course/comet-microsoft-azure-architect-technologies-beginner-to-expert/?couponCode=COMETAZUREFREE
-https://www.udemy.com/course/after-effects-motion-graphics-p/?couponCode=9825E1A98081310971B6
+https://www.udemy.com/course/learning-analytics/?couponCode=ANALYTICS26
+https://www.udemy.com/course/posing-for-social-media/?couponCode=POSING
+https://www.udemy.com/course/make-easy-money-from-home/?couponCode=B0D4BC459AEF3837FD36
+https://www.udemy.com/course/flystock/?couponCode=2020BLAKCFRIDAY
+https://www.udemy.com/course/the-power-of-networking-by-rajeevysr/?couponCode=POWERTOYOU
+https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?couponCode=QS2020
+https://www.udemy.com/course/wordpressmidedin/?couponCode=A0C0229879A7027EDEC0
+https://www.udemy.com/course/certified-lean-six-sigma-black-belt-training/?couponCode=SIGMA26
+https://www.udemy.com/course/the-making-of-our-modern-world-part-1/?couponCode=MODERNWORLD
+https://www.udemy.com/course/puppy-dog-how-to-choose-the-right-breed-for-your-next-pet/?couponCode=FCA07C7F4842F7238DA4
+https://www.udemy.com/course/digital-marketing-for-entrepreneurs-elearning-online-course/?couponCode=0F45137F68861C910EAF
+https://www.udemy.com/course/node-js-tutorial-api-development-sails-js-build-rest-api/?couponCode=C52D784F1FD6D8DBA655
 
