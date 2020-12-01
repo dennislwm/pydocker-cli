@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/11/2020
+# Daily Free Udemy Courses - 01/12/2020
 
-https://www.udemy.com/course/aspnet-mvc-5-course-arabic/?couponCode=23DD3426545D5DE5CF1B
-https://www.udemy.com/course/certified-lean-six-sigma-black-belt-training-e/?couponCode=BLACK28
-https://www.udemy.com/course/machine-learning-with-r-course/?couponCode=MACHINE28
-https://www.udemy.com/course/python-data-analysis-with-numpy-library/?couponCode=BA01215F8BF2D359C707
-https://www.udemy.com/course/python-data-analysis-with-pandas-library/?couponCode=18F667F6F5111ED4E73C
-https://www.udemy.com/course/istqb-foundation-level-certification2018syllabus/?couponCode=4D939FF3A58D6B48546D
-https://www.udemy.com/course/become-a-permutations-and-combinations-master/?couponCode=FREEPERCOM2
-https://www.udemy.com/course/learn-how-to-become-a-successful-exporter/?couponCode=0FEE33EE049009A5B5CD
-https://www.udemy.com/course/learn-practical-exports-marketing-skills/?couponCode=D8331B6CEFFE90887A8D
-https://www.udemy.com/course/instagram-reels-for-beginners/?couponCode=350F7F5250B6FDC0DCE0
-https://www.udemy.com/course/ict-taskforce-microsoft-office-excel-expert/?couponCode=TASKFORCE
-https://www.udemy.com/course/learn-modern-java-script-from-scratch-with-examples-and-projects/?couponCode=F1A43DE92DDDB84019F7
+https://www.udemy.com/course/development-crash-course/?couponCode=IKIJ118
+https://www.udemy.com/course/linkedin-ads-course-2020-advanced-strategies-for-success/?couponCode=D8F1733F56F4A0540D8F
+https://www.udemy.com/course/code-editors-master-course/?couponCode=TRY10FREE409
+https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=A7D533D7C2916A8B93EF
+https://www.udemy.com/course/find-remote-work/?couponCode=BLACKFRIDAYGIFT
+https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=504A89EBCFEF15099413
+https://www.udemy.com/course/pmp-revisioncourse-6th-edition/?couponCode=15B26AD031F194CCFC91
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-arabic/?couponCode=7EBEF532770A619E861F
+https://www.udemy.com/course/learn-web-development-by-building-a-blog/?couponCode=AF804C9233A6BD749077
+https://www.udemy.com/course/django-build-a-resume-website-blog-and-more-to-deployment/?couponCode=YOUTUBE
+https://www.udemy.com/course/artificial-intelligence-applications-career-opportunities/?couponCode=788F476711FA17F302E8
+https://www.udemy.com/course/youtube-advertising/?couponCode=HELPYOURSELF
 
