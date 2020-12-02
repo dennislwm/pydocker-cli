@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/12/2020
+# Daily Free Udemy Courses - 02/12/2020
 
-https://www.udemy.com/course/development-crash-course/?couponCode=IKIJ118
-https://www.udemy.com/course/linkedin-ads-course-2020-advanced-strategies-for-success/?couponCode=D8F1733F56F4A0540D8F
-https://www.udemy.com/course/code-editors-master-course/?couponCode=TRY10FREE409
-https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=A7D533D7C2916A8B93EF
-https://www.udemy.com/course/find-remote-work/?couponCode=BLACKFRIDAYGIFT
-https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=504A89EBCFEF15099413
-https://www.udemy.com/course/pmp-revisioncourse-6th-edition/?couponCode=15B26AD031F194CCFC91
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-arabic/?couponCode=7EBEF532770A619E861F
-https://www.udemy.com/course/learn-web-development-by-building-a-blog/?couponCode=AF804C9233A6BD749077
-https://www.udemy.com/course/django-build-a-resume-website-blog-and-more-to-deployment/?couponCode=YOUTUBE
-https://www.udemy.com/course/artificial-intelligence-applications-career-opportunities/?couponCode=788F476711FA17F302E8
-https://www.udemy.com/course/youtube-advertising/?couponCode=HELPYOURSELF
+https://www.udemy.com/course/viralnomics-creating-youtube-video-ideas-that-go-viral/?couponCode=E2DB41CCEBC9C7E0B3E4
+https://www.udemy.com/course/viral-content-buzz-boost-your-blog-traffic-by-500/?couponCode=D6D76340EF5D5A28C6DA
+https://www.udemy.com/course/influencer-content-marketing-killer-tactics-for-2017/?couponCode=E5CDECB3C8E23803F742
+https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=5631BACEA049C998A46E
+https://www.udemy.com/course/artificial-intelligence-website-creation-2018-no-coding/?couponCode=DB3B32567B44E20CADD5
+https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=49C77796B6A7CDCB65FE
+https://www.udemy.com/course/digishock-20-machine-learning-for-beginners-no-coding/?couponCode=7EF84A4E0391A917FF79
+https://www.udemy.com/course/artificial-intelligence-content-creation-tools-2019/?couponCode=840B84DD5C5A3E9267E1
+https://www.udemy.com/course/binary-bandit/?couponCode=1NOV20
+https://www.udemy.com/course/accounting-for-entrepreneurs/?couponCode=1B9BF7CAEFD6FEC0A7EF
+https://www.udemy.com/course/project-management-case-study/?couponCode=PMPEXAM29
+https://www.udemy.com/course/complete-portfolio-website-step-by-step-web-development/?couponCode=BLACKFRIDAY-OFF
 
