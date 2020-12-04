@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/12/2020
+# Daily Free Udemy Courses - 04/12/2020
 
-https://www.udemy.com/course/microsoft-excel-from-beginner-to-advanced/?couponCode=EXCEL1
-https://www.udemy.com/course/mastering-cpanel-manage-hosting-for-yourself-and-clients/?couponCode=BEST2020
-https://www.udemy.com/course/the-microsoft-excel-zero-to-master-complete-course/?couponCode=0STARTEXCELZEROPRO
-https://www.udemy.com/course/pmp-certification-exam-preparation-course/?couponCode=PMPEXAM1
-https://www.udemy.com/course/jolly-phonics-first-group-sounds/?couponCode=1DF140322212341DBF6A
-https://www.udemy.com/course/microsoft-sharepoint-sharepoint-server-certifiction-exams/?couponCode=6A9D55118F29143B04B8
-https://www.udemy.com/course/couples-counseling-learn-to-live-happy-with-life-partner/?couponCode=LIVE_HAPPY
-https://www.udemy.com/course/python-programming-workshop-for-beginners/?couponCode=HAPPYHOLIDAYS
-https://www.udemy.com/course/braininghacking/?couponCode=1813543467500B332C18
-https://www.udemy.com/course/learn-servlets-basics-in-a-few-hours/?couponCode=WINTERS3ASON
-https://www.udemy.com/course/build-a-simple-responsive-website-using-the-primitive-codes/?couponCode=0452E759B5AC59ED9C62
-https://www.udemy.com/course/five-proven-steps-to-real-estate-investing-success/?couponCode=FPSREEXPNDEC42020
+https://www.udemy.com/course/megapackdephotoshop/?couponCode=D0F00A74497C7D7E4DCF
+https://www.udemy.com/course/complete-digital-business-planning-strategy-masterclass/?couponCode=FREEBUSINESS
+https://www.udemy.com/course/make-money-freelancing/?couponCode=768FE62D2953016F68BB
+https://www.udemy.com/course/how-to-market-a-construction-company/?couponCode=CONSTRUCTION-MKTG
+https://www.udemy.com/course/people-care-it/?couponCode=D58985C7902E8D0F99ED
+https://www.udemy.com/course/excel-data-viz-dashboards-mastery/?couponCode=JOHN-FREE
+https://www.udemy.com/course/accounting-excel-with-dr/?couponCode=ACCOUNTINGEXCEL
+https://www.udemy.com/course/powerpoint-presentaciones-para-arquitectos-e-interioristas/?couponCode=30CURSOSGRATIS
+https://www.udemy.com/course/revit-arquitectura-bim/?couponCode=30CURSOSGRATIS
+https://www.udemy.com/course/crypto-mining/?couponCode=FREE_CRYPTO_COURSE
+https://bit.ly/2VtzUbQ
+https://www.udemy.com/course/growth-hacking-methods-for-small-businesses-and-side-hustles/?couponCode=HOLIDAY-COURSE-GIFT
 
