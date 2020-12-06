@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/12/2020
+# Daily Free Udemy Courses - 06/12/2020
 
-https://www.udemy.com/course/media-training-how-to-speak-to-the-news-media-effectively/?couponCode=7D3B4DD04EA5C667B2E7
-https://www.udemy.com/course/reiki-complete-certification-energy-healing-crystal-master-shaman-pet/?couponCode=REIKI4FREE
-https://www.udemy.com/course/debuter-avec-le-display-sur-google-ads-youtube-ads/?couponCode=FREE-DEC
-https://www.udemy.com/course/basic-industrial-spill-contingency-exercise/?couponCode=FREEGAMIFIEDOSCE3
-https://www.udemy.com/course/how-to-play-piano-go-from-a-beginnerintermediate-to-a-pro/?couponCode=3FE0207D72B3E9F800C5
-https://www.udemy.com/course/the-complete-basic-computer-course-master-using-computer/?couponCode=NEWYEARGIFT
-https://www.udemy.com/course/create-nodejs-app-with-express-socket-io-and-mongodb/?couponCode=DD280A29877AA7C1110E
-https://www.udemy.com/course/python-para-todos/?couponCode=PYTHON3
-https://www.udemy.com/course/english-grammar-course-tenses-structures/?couponCode=DECEMBERFIRST
-https://www.udemy.com/course/the-complete-business-marketing-course/?couponCode=4C8BB5A47B8F40D5A704
-https://www.udemy.com/course/complete-progressive-web-app-bootcamp/?couponCode=472E3321D1E1C4D50193
-https://www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/?couponCode=AE7FB3C83F0DEC728911
+https://www.udemy.com/course/complete-cvresumejob-search-job-interview-success-course/?couponCode=63F14B8FF58D4128D4F9
+https://www.udemy.com/course/masteringfarsi/?couponCode=ADC37588A2ACCF9A972B
+https://www.udemy.com/course/product-management-course/?couponCode=D7B87B83647A580B9F5F
+https://www.udemy.com/course/microsoft-teams-training/?couponCode=10A8C442D19BF3E167EE
+https://www.udemy.com/course/motivation-motivating-yourself-others/?couponCode=08D05D7FB7B0AF4BDD3F
+https://www.udemy.com/course/how-to-draw-the-head/?couponCode=FREEBIESGLOBAL1
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFLUENCEDEC1
+https://www.udemy.com/course/rebt-psychology-self-help/?couponCode=D255F2EE0862893D7765
+https://www.udemy.com/course/new-sat-maths-explain/?couponCode=66C24C4E7A121D6D0132
+https://bit.ly/2VCZ3B4
+https://www.udemy.com/course/get-a-in-gcse-maths-quadratic-equations-and-graph/?couponCode=9DE64894E0FB8A0D5F84
+https://www.udemy.com/course/marketing-automation/?couponCode=8C3CFBE11CFDD804E585
 
