@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/12/2020
+# Daily Free Udemy Courses - 08/12/2020
 
-https://www.udemy.com/course/introduction-to-astrophysics/?couponCode=07C4E7D3E7C8F69E945F
-https://www.udemy.com/course/learn-how-to-setup-online-exports-business-instantly/?couponCode=A1C8F6566F1EA8D253AC
-https://www.udemy.com/course/ipv6-subneteo-ita/?couponCode=E373039AC8C9E3379F62
-https://www.udemy.com/course/como-crear-una-academia-online-paso-a-paso-facil-practico-profesional/?couponCode=EAC363C038082FF626C0
-https://www.udemy.com/course/google-presentaciones/?couponCode=30CURSOSGRATIS
-https://www.udemy.com/course/prezi-presentaciones/?couponCode=30CURSOSGRATIS
-https://www.udemy.com/course/calculus-i-the-complete-guide/?couponCode=AD0C5ABF6C7EA89410B9
-https://www.udemy.com/course/probability-and-statistics-1-the-complete-guide/?couponCode=6F666FD4D86872974BA9
-https://www.udemy.com/course/the-essential-guitar-course-for-guitar-chords-scales-and-songs/?couponCode=DEC_2020
-https://www.udemy.com/course/the-most-common-chinese-characters-001-100-according-hsk/?couponCode=F15D73241564BAA94A28
-https://www.udemy.com/course/learn-digital-and-social-media-marketing-with-focus-on-exports/?couponCode=8958C66D4A3912990F3B
-https://www.udemy.com/course/ethical-hacking-hacking-real-websites/?couponCode=ETHRE_DEC6
+https://www.udemy.com/course/the-ultimate-app-making-course-master-many-coding-skills/?couponCode=4EE03A162348D62D10C2
+https://www.udemy.com/course/super-fast-web-design-using-weebly/?couponCode=6FEEB506555E9A1D3303
+https://www.udemy.com/course/wondershare-filmora-9-mastery-zero-to-hero-in-filmora9/?couponCode=MANISHMEHTA
+https://www.udemy.com/course/stop-procrastinating-within-30-days-challenges/?couponCode=STOP-PROCRASTINATING
+https://www.udemy.com/course/lets-write-your-research-proposal-research-methodology/?couponCode=C5AF1553C99C5925FBF0
+https://www.udemy.com/course/the-ultimate-css-best-practise-on-animations-effects/?couponCode=3-DAYS-OFF
+https://www.udemy.com/course/affiliate-marketing-strategies-to-grow-your-online-business/?couponCode=DEC2020AFF
+https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=8D9DD8DFD8B0532C81CE
+https://www.udemy.com/course/chronic-illness-fatigue/?couponCode=YGTOHEXPDEC92020
+https://bit.ly/3lW9GcO
+https://www.udemy.com/course/online-business-work-from-home/?couponCode=092E55E6844B4581F8BB
+https://www.udemy.com/course/hacking-real-websites-legally-2/?couponCode=HACKREAL_DEC6
 
