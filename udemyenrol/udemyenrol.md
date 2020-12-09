@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/12/2020
+# Daily Free Udemy Courses - 09/12/2020
 
-https://www.udemy.com/course/the-ultimate-app-making-course-master-many-coding-skills/?couponCode=4EE03A162348D62D10C2
-https://www.udemy.com/course/super-fast-web-design-using-weebly/?couponCode=6FEEB506555E9A1D3303
-https://www.udemy.com/course/wondershare-filmora-9-mastery-zero-to-hero-in-filmora9/?couponCode=MANISHMEHTA
-https://www.udemy.com/course/stop-procrastinating-within-30-days-challenges/?couponCode=STOP-PROCRASTINATING
-https://www.udemy.com/course/lets-write-your-research-proposal-research-methodology/?couponCode=C5AF1553C99C5925FBF0
-https://www.udemy.com/course/the-ultimate-css-best-practise-on-animations-effects/?couponCode=3-DAYS-OFF
-https://www.udemy.com/course/affiliate-marketing-strategies-to-grow-your-online-business/?couponCode=DEC2020AFF
-https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=8D9DD8DFD8B0532C81CE
-https://www.udemy.com/course/chronic-illness-fatigue/?couponCode=YGTOHEXPDEC92020
-https://bit.ly/3lW9GcO
-https://www.udemy.com/course/online-business-work-from-home/?couponCode=092E55E6844B4581F8BB
-https://www.udemy.com/course/hacking-real-websites-legally-2/?couponCode=HACKREAL_DEC6
+https://www.udemy.com/course/practical-webrtc-a-complete-webrtc-bootcamp-for-beginners/?couponCode=8A231B89D091D5E12FEE
+https://www.udemy.com/course/kids-drawing/?couponCode=KOKILA31
+https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=11FD3FC40974CA37E00C
+https://www.udemy.com/course/how-to-play-piano-go-from-a-beginnerintermediate-to-a-pro/?couponCode=4F191BDD2035C5E9537F
+https://www.udemy.com/course/phase-heat-treatment/?couponCode=EE1603172D01E242C462
+https://www.udemy.com/course/hackingwebsite-hacking-penetration-testing-bounty-hunting/?couponCode=6E5E6B997FFC73847F35
+https://www.udemy.com/course/tigergraph/?couponCode=074D26C93D42478BDEF8
+https://www.udemy.com/course/togaf-foundation-test/?couponCode=DIGITALFUNDAMENTALS
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-original-practice-tests-j/?couponCode=8C0994B283C2985CC194
+https://www.udemy.com/course/nutrition-certification-course/?couponCode=F9F4FC51FC0695527D0F
+https://bit.ly/39VAVSq
+https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=6BE9A572AA6720BECE1B
 
