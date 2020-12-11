@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/12/2020
+# Daily Free Udemy Courses - 11/12/2020
 
-https://www.udemy.com/course/en-temelden-zirveye-javascript-kursu-1/?couponCode=ARALIK01
-https://www.udemy.com/course/komple-sifirdan-adim-adim-javascript-ogrenin/?couponCode=GELARTIK2021
-https://www.udemy.com/course/fundamentals-of-p-n-junction-diode/?couponCode=FREEPNJUNCTION
-https://www.udemy.com/course/persuasive-writing-copywriting/?couponCode=YOUACCEL34630
-https://www.udemy.com/course/build-an-amazon-affiliate-e-commerce-store-from-scratch/?couponCode=YOUACCEL34630
-https://www.udemy.com/course/adobe-illustrator-perfect-beginner-course/?couponCode=VALIDUNTIL11
-https://www.udemy.com/course/tekla-structures-version-2020-steel-structures/?couponCode=TEKLASTEEL2020
-https://www.udemy.com/course/make-money-with-cryptocurrencies-in-2018-a-solid-strategy/?couponCode=4A202720D967C8ABCC39
-https://www.udemy.com/course/data-science-with-python-certification-training/?couponCode=DATA_SCIENCE_UPLATZ
-https://www.udemy.com/course/machine-learning-with-python-training/?couponCode=ML_UPLATZ
-https://www.udemy.com/course/revit-analytical-model-secrets/?couponCode=RAGEHACADEMY
-https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/?couponCode=1DC3728773C6E09842A3
+https://www.udemy.com/course/temel-seviye-ingilizce-tahtada-anlatml-ozel-ders/?couponCode=VPAFREE2
+https://www.udemy.com/course/agile-metrics/?couponCode=FREE-HOLIDAY-GIFT
+https://www.udemy.com/course/html5-rf/?couponCode=2BEFF25DFA4377913C6F
+https://www.udemy.com/course/unity-2020-ile-arttrlms-gerceklik-projeleri/?couponCode=3F60334AC54030998681
+https://www.udemy.com/course/basic-python-cpp/?couponCode=FREE-PYTHON-CPP
+https://www.udemy.com/course/learn-machine-learning-in-21-days/?couponCode=CODEWARRIORS
+https://www.udemy.com/course/meditation-masterclass/?couponCode=DEC9TO12
+https://www.udemy.com/course/meditation-for-adhd/?couponCode=DEC9TO12
+https://www.udemy.com/course/meditationforbeginners/?couponCode=DEC9TO12
+https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/?couponCode=WEB7DEC2020
+https://www.udemy.com/course/how-to-shoot-food-photography-complete-guide-for-beginners-l/?couponCode=FREE3DAYUNLIDEC
+https://www.udemy.com/course/flexible-budgets-standard-costs-variance-analysis/?couponCode=EA418EEB3235EBD4BC25
 
