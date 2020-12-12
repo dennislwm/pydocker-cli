@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/12/2020
+# Daily Free Udemy Courses - 12/12/2020
 
-https://www.udemy.com/course/temel-seviye-ingilizce-tahtada-anlatml-ozel-ders/?couponCode=VPAFREE2
-https://www.udemy.com/course/agile-metrics/?couponCode=FREE-HOLIDAY-GIFT
-https://www.udemy.com/course/html5-rf/?couponCode=2BEFF25DFA4377913C6F
-https://www.udemy.com/course/unity-2020-ile-arttrlms-gerceklik-projeleri/?couponCode=3F60334AC54030998681
-https://www.udemy.com/course/basic-python-cpp/?couponCode=FREE-PYTHON-CPP
-https://www.udemy.com/course/learn-machine-learning-in-21-days/?couponCode=CODEWARRIORS
-https://www.udemy.com/course/meditation-masterclass/?couponCode=DEC9TO12
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=DEC9TO12
-https://www.udemy.com/course/meditationforbeginners/?couponCode=DEC9TO12
-https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/?couponCode=WEB7DEC2020
-https://www.udemy.com/course/how-to-shoot-food-photography-complete-guide-for-beginners-l/?couponCode=FREE3DAYUNLIDEC
-https://www.udemy.com/course/flexible-budgets-standard-costs-variance-analysis/?couponCode=EA418EEB3235EBD4BC25
+https://www.udemy.com/course/adobexd-masterclass-become-a-professional-uiux-designer/?couponCode=B2C6E45876F0AA787B23
+https://www.udemy.com/course/learn-bubble-and-create-web-apps-without-code/?couponCode=BUBBLEFREE
+https://www.udemy.com/course/aws-certified-cloud-practitioner-test-your-knowledge/?couponCode=FREE3DAYS
+https://www.udemy.com/course/christianmeditation/?couponCode=FREEDEC10TO13
+https://www.udemy.com/course/angular-interview-questions-answers/?couponCode=PARKAR123
+https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEDEC
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEDEC
+https://www.udemy.com/course/fundamentals-of-programming-languages/?couponCode=BB58C5738F2BD25564B0
+https://www.udemy.com/course/best-cyber-security-and-ethical-hacking-introduction-course/?couponCode=EF712D028852A69B4E6D
+https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEDEC
+https://bit.ly/3a1UoB1
+https://www.udemy.com/course/teen-mba-specialization-in-marketing-finance-strategy/?couponCode=COUPON11
 
