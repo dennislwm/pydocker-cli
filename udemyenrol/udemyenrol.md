@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/12/2020
+# Daily Free Udemy Courses - 15/12/2020
 
-https://www.udemy.com/course/building-a-social-network-with-flutter-and-firebase/?couponCode=DARSLEARNING
-https://www.udemy.com/course/master-python-networking-from-a-to-z-part-iii-advanced/?couponCode=ADVANCEDNETWORK
-https://www.udemy.com/course/basic-python-programming-for-beginners-getting-started/?couponCode=FREEPYTHONHURRY
-https://www.udemy.com/course/logistics-and-ocean-shipping-in-supply-chain-management/?couponCode=EA5B65E4741C50896D26
-https://www.udemy.com/course/solidworks-sheet-metal/?couponCode=5144DEBCF21E246B92B8
-https://www.udemy.com/course/python-for-computer-vision/?couponCode=CODEWARRIORS
-https://www.udemy.com/course/1-hour-excel-for-absolute-beginners/?couponCode=7FC470902910EDBD077C
-https://www.udemy.com/course/learn-c-sharp-in-1-hour/?couponCode=F23C32A0D9E3CC2EDDB5
-https://www.udemy.com/course/c-in-1-hour/?couponCode=01C39DB67D63F59E3E5C
-https://bit.ly/3qTT9tu
-https://www.udemy.com/course/learn-html-5-in-1-hour/?couponCode=C25E776BAC053F04C795
-https://www.udemy.com/course/learn-to-compose-video-game-music-in-fl-studio-in-1-hour/?couponCode=F9ACB5BAA5F86987AF20
+https://www.udemy.com/course/search-engine-optimisation-course/?couponCode=935352F5498A4FBAA9CA
+https://www.udemy.com/course/comptia-cloud-comptia-cloud-essentials-certification-exams/?couponCode=6BF5E56D775383FB978B
+https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exams-m/?couponCode=813F71332BF0CBE44448
+https://www.udemy.com/course/pythonforabsolutebeginners/?couponCode=50F9FFF56CB8547E84C3
+https://www.udemy.com/course/ai-900-microsoft-azure-ai-fundamentals-95-practice-test/?couponCode=AI-900
+https://www.udemy.com/course/azure-az-500-security-technologies-practice-test-dec-2020/?couponCode=027A9CE6AAF6271F1A13
+https://www.udemy.com/course/cca175-practice-tests-includes-a-test-environment-vm/?couponCode=80F03AC446CCDCAD14D9
+https://www.udemy.com/course/microsoft-server-windows-server-administration-fundamentals/?couponCode=830B972DAC684B5A38F4
+https://www.udemy.com/course/togaf-9-practice-tests-for-togaf-9-certificate/?couponCode=9247CDE5B10C33EA5540
+https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-r/?couponCode=DECORA20
+https://www.udemy.com/course/passive-income-make-money-online/?couponCode=MERRYMERRY
+https://www.udemy.com/course/complete-webapplication-penetration-testing-practical-cwapt/?couponCode=SESSION7
 
