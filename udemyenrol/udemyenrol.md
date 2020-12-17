@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/12/2020
+# Daily Free Udemy Courses - 17/12/2020
 
-https://www.udemy.com/course/excel-beginner-to-advanced/?couponCode=FREEBIESGLOBAL3
-https://www.udemy.com/course/ultimate-social-skills/?couponCode=F265CC80DF5B606DC59E
-https://www.udemy.com/course/conflict-resolution-and-de-escalation/?couponCode=47151B0E32CB587EC6C7
-https://www.udemy.com/course/private-equity-career/?couponCode=34F8A223FD879C8AF984
-https://www.udemy.com/course/aws-dynamodb-s3-sns-sqs-recognitionbeanstalk-with-java/?couponCode=33EF117B47CC7EEF1781
-https://www.udemy.com/course/android-course-for-extreme-beginners/?couponCode=BYE2020
-https://www.udemy.com/course/digital-design-for-non-designers/?couponCode=DESIGNDEC2020
-https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=COURSEVANIA
-https://www.udemy.com/course/xero-job-costing-projects/?couponCode=664464E80096431E9BE9
-https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=0A0A40F96140EAE4624E
-https://www.udemy.com/course/quickbooks-desktop-vs-sage-50cloud-accounting-2020/?couponCode=399B30450CABC886EBA3
-https://www.udemy.com/course/governmental-accounting-200-capital-projects-debt-service/?couponCode=729ECF023D247D2EE3D1
+https://www.udemy.com/course/hack-website-full-course/?couponCode=RAKWANLEARNHOWTOHACK
+https://www.udemy.com/course/freelance-writing-course/?couponCode=FREELANCE16
+https://www.udemy.com/course/sifirdan-sektorun-derinliklerine-uygulamali-csarp-egitimi/?couponCode=9EE36138E772C2EBCD4A
+https://www.udemy.com/course/certificated-course-in-marketing/?couponCode=MARKETINGFREE0
+https://www.udemy.com/course/technical-writing-course/?couponCode=WRITING16
+https://www.udemy.com/course/monitoring-aws-with-cloudwatch-2021/?couponCode=EARLYACCESS
+https://www.udemy.com/course/photoshop-all-you-need-to-know/?couponCode=LIMITED
+https://www.udemy.com/course/vivado-learn-from-the-beginning-and-with-pcie-full-project/?couponCode=366BC380F8CB9AB97E96
+https://www.udemy.com/course/creating-delighted-devoted-customers/?couponCode=EEB1C647465FD41F05C8
+https://www.udemy.com/course/leading-for-results-engage-empower-enable-others/?couponCode=4ECD442DFD7E28B93B98
+https://www.udemy.com/course/leading-for-results-maximise-people-performance-profits/?couponCode=4F3142933C37642F305C
+https://www.udemy.com/course/meal-planning-14-day-trader-joes-meal-plan-masterclass/?couponCode=0984F2CDACD42B0A1F77
 
