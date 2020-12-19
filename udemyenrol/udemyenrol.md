@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/12/2020
+# Daily Free Udemy Courses - 19/12/2020
 
-https://www.udemy.com/course/microsoft-power-bi-latest-2020-beginner-to-expert-modules/?couponCode=POWER17
-https://www.udemy.com/course/web-design-layouts-a-must-to-learn-for-all-levels/?couponCode=DEC-3DAYS-OFF
-https://www.udemy.com/course/introduction-to-design-management-in-construction/?couponCode=LAUNCH_3DAY_ACCESS
-https://www.udemy.com/course/paid-to-travel-the-world/?couponCode=CHRISTMASGIFT2020
-https://www.udemy.com/course/greater-performance-through-mental-imagery-and-self-talk/?couponCode=IMAGINE
-https://www.udemy.com/course/how-to-be-a-better-leader/?couponCode=XMASLEADER
-https://www.udemy.com/course/use-would-in-english/?couponCode=7F31395A06129F19F2D0
-https://www.udemy.com/course/analog-communication-e/?couponCode=EC929EA2D72A33FE1B58
-https://www.udemy.com/course/google-analytics-beginner-az-hands-on-exercises/?couponCode=GOOG-ANALYTICS-FREE
-https://www.udemy.com/course/time-management-for-professionals/?couponCode=37E9425DA809663FD3C5
-https://www.udemy.com/course/fullstack-js-en-espanol/?couponCode=FULLSTACKDIC2020
-https://bit.ly/3oUiEsW
+https://www.udemy.com/course/2020-amazon-fba-pl-product-hunting-tactics-under-1-hour/?couponCode=2021AMAZON
+https://www.udemy.com/course/stress-management-personal-success/?couponCode=DAYOSAMUEL
+https://www.udemy.com/course/build-web-applications-without-writing-any-code-with-bubble/?couponCode=E65580F76785DA6C3AEC
+https://www.udemy.com/course/use-infographics-to-grab-customers-attention/?couponCode=8144F1D487
+https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/?couponCode=09932D8440CCC1703713
+https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=74D74511A155C03D00EA
+https://www.udemy.com/course/how-to-write-a-romance-novel/?couponCode=5C98D886C665619E3A91
+https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9DEC2020F2
+https://www.udemy.com/course/eiq2-customer-service/?couponCode=EIQPPDEC202020
+https://www.udemy.com/course/self-storage-business/?couponCode=ASSBMEXPDEC202020
+https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=A106B719EE7DB35D8001
+https://www.udemy.com/course/build-real-world-website-with-php-pdo-and-mysql/?couponCode=BA9A957850C4DE6DFE95
 
