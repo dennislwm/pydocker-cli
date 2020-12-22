@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/12/2020
+# Daily Free Udemy Courses - 22/12/2020
 
-https://www.udemy.com/course/jdbc-course/?couponCode=TY10FREE2007
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-oct-2020/?couponCode=6159C68C067474AEBF17
-https://www.udemy.com/course/apache-spark-streaming-in-scala/?couponCode=SPARK_STREAMING
-https://www.udemy.com/course/fundamental-of-embedded-operating-systems/?couponCode=COUPONFREE
-https://www.udemy.com/course/gann-square/?couponCode=1DEC20
-https://www.udemy.com/course/data-structures-and-algorithms-in-c-for-beginners/?couponCode=MASK_ELEARNINGS
-https://www.udemy.com/course/facebook-ppc/?couponCode=TOP111111111
-https://www.udemy.com/course/facebook-ads-for-real-estate-business/?couponCode=TOP111111
-https://www.udemy.com/course/arabic-ethical-hacking/?couponCode=2021YEAR
-https://www.udemy.com/course/arabicphotoshop/?couponCode=2021YEAR
-https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=46F16CCA5D0A074C61C6
-https://www.udemy.com/course/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=SCHOLLEGEDOTCOMDOTAU
+https://www.udemy.com/course/plc-programming-bootcamp-plc-delta-siemens-plcmitsubishi-s/?couponCode=STAYHOME1220201
+https://www.udemy.com/course/augment-reality-merge-cube-ar-introduction-to-augment-reality-ar/?couponCode=STAYHOME1220201
+https://www.udemy.com/course/fiverr-drops-services-passive-income-fiverr-and-other-microservice/?couponCode=STAYHOME1220201
+https://www.udemy.com/course/write-seo-optimized-articles-that-rank1st-in-search-engine/?couponCode=STAYHOME1220201
+https://www.udemy.com/course/la-web-desde-cero-aprende-diseno-web-con-html5-y-css3/?couponCode=3563832BC95D89DA03F2
+https://www.udemy.com/course/curso-informatica/?couponCode=B945FB0077A270587C74
+https://www.udemy.com/course/guitar-super-course/?couponCode=6C0D0A6651DCCDC9ACA4
+https://www.udemy.com/course/ptsd-trauma-relief/?couponCode=EYPATEXPDEC232020
+https://www.udemy.com/course/use-canva-like-a-pro/?couponCode=CANVA_COURSE
+https://www.udemy.com/course/artificial-intelligence-ai-tools-for-job-seekers/?couponCode=434EA9A11923A5D96D21
+https://www.udemy.com/course/coaching-business/?couponCode=CMBPCEXPDEC232020
+https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=DECTHRINRWS2020
 
