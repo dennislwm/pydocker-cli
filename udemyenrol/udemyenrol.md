@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/12/2020
+# Daily Free Udemy Courses - 23/12/2020
 
-https://www.udemy.com/course/plc-programming-bootcamp-plc-delta-siemens-plcmitsubishi-s/?couponCode=STAYHOME1220201
-https://www.udemy.com/course/augment-reality-merge-cube-ar-introduction-to-augment-reality-ar/?couponCode=STAYHOME1220201
-https://www.udemy.com/course/fiverr-drops-services-passive-income-fiverr-and-other-microservice/?couponCode=STAYHOME1220201
-https://www.udemy.com/course/write-seo-optimized-articles-that-rank1st-in-search-engine/?couponCode=STAYHOME1220201
-https://www.udemy.com/course/la-web-desde-cero-aprende-diseno-web-con-html5-y-css3/?couponCode=3563832BC95D89DA03F2
-https://www.udemy.com/course/curso-informatica/?couponCode=B945FB0077A270587C74
-https://www.udemy.com/course/guitar-super-course/?couponCode=6C0D0A6651DCCDC9ACA4
-https://www.udemy.com/course/ptsd-trauma-relief/?couponCode=EYPATEXPDEC232020
-https://www.udemy.com/course/use-canva-like-a-pro/?couponCode=CANVA_COURSE
-https://www.udemy.com/course/artificial-intelligence-ai-tools-for-job-seekers/?couponCode=434EA9A11923A5D96D21
-https://www.udemy.com/course/coaching-business/?couponCode=CMBPCEXPDEC232020
-https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=DECTHRINRWS2020
+https://www.udemy.com/course/pmp-certification-exam-preparation-set-d/?couponCode=PMPEXAM20
+https://www.udemy.com/course/ace-your-technical-pilot-interview-course/?couponCode=5BAD16252626DD1DB665
+https://www.udemy.com/course/machine-learning-for-kids-and-beginners/?couponCode=FREE001
+https://www.udemy.com/course/complete3dartist/?couponCode=EA7D8DB47DD13B550E35
+https://www.udemy.com/course/ai-in-marketing/?couponCode=DEAL2020
+https://www.udemy.com/course/agile-metrics/?couponCode=CHRISTMAS-GIFT
+https://www.udemy.com/course/build-a-wordpress-website/?couponCode=4C71F5C02C09BE7BF221
+https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5CHRISTMAS2020
+https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL91047
+https://www.udemy.com/course/microsoft-word-2016-for-everyone/?couponCode=AB55E6E5D561B0E38703
+https://www.udemy.com/course/seo-for-newbies/?couponCode=82F06D6BD579F42D89F9
+https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL91047
 
