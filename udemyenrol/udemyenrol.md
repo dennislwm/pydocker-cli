@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/12/2020
+# Daily Free Udemy Courses - 24/12/2020
 
-https://www.udemy.com/course/pmp-certification-exam-preparation-set-d/?couponCode=PMPEXAM20
-https://www.udemy.com/course/ace-your-technical-pilot-interview-course/?couponCode=5BAD16252626DD1DB665
-https://www.udemy.com/course/machine-learning-for-kids-and-beginners/?couponCode=FREE001
-https://www.udemy.com/course/complete3dartist/?couponCode=EA7D8DB47DD13B550E35
-https://www.udemy.com/course/ai-in-marketing/?couponCode=DEAL2020
-https://www.udemy.com/course/agile-metrics/?couponCode=CHRISTMAS-GIFT
-https://www.udemy.com/course/build-a-wordpress-website/?couponCode=4C71F5C02C09BE7BF221
-https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5CHRISTMAS2020
-https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL91047
-https://www.udemy.com/course/microsoft-word-2016-for-everyone/?couponCode=AB55E6E5D561B0E38703
-https://www.udemy.com/course/seo-for-newbies/?couponCode=82F06D6BD579F42D89F9
-https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL91047
+https://www.udemy.com/course/photoshop-cc-2021-for-beginners/?couponCode=6DCECFEDB9690A622F89
+https://www.udemy.com/course/photoshop-in-depth-compositing/?couponCode=FBG2020
+https://www.udemy.com/course/cisco-exam-cisco-ccnp-networks-certification/?couponCode=E23D5BF369909A39A87D
+https://www.udemy.com/course/fibonacci/?couponCode=1DEC20
+https://www.udemy.com/course/fundamentos-redes-comunicaciones-alvaro-chirou/?couponCode=REGALONAVIDAD
+https://www.udemy.com/course/canva-disena-sin-ser-disenador-aplicaciones-gratis-y-mas/?couponCode=C3ADAC891EB6B095B471
+https://www.udemy.com/course/fotografiabasicaconlightroom/?couponCode=DA8212EDA27726F4448E
+https://www.udemy.com/course/python-web-scraping-by-arabic/?couponCode=3FAA402787D261316186
+https://www.udemy.com/course/stock-screener/?couponCode=1DEC20
+https://www.udemy.com/course/technical-analysis-mastery-stock-trading-forex-investing/?couponCode=0BEF62A45B7DAE4801EC
+https://www.udemy.com/course/iphone-filmmaking-taking-better-photo-with-your-smartphone/?couponCode=2020DEC
+https://www.udemy.com/course/create-lightning-fast-videos-with-invideo-ai-video-making/?couponCode=1A6A92542C130AFE364A
 
