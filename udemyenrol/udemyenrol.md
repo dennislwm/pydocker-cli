@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/12/2020
+# Daily Free Udemy Courses - 25/12/2020
 
-https://www.udemy.com/course/photoshop-cc-2021-for-beginners/?couponCode=6DCECFEDB9690A622F89
-https://www.udemy.com/course/photoshop-in-depth-compositing/?couponCode=FBG2020
-https://www.udemy.com/course/cisco-exam-cisco-ccnp-networks-certification/?couponCode=E23D5BF369909A39A87D
-https://www.udemy.com/course/fibonacci/?couponCode=1DEC20
-https://www.udemy.com/course/fundamentos-redes-comunicaciones-alvaro-chirou/?couponCode=REGALONAVIDAD
-https://www.udemy.com/course/canva-disena-sin-ser-disenador-aplicaciones-gratis-y-mas/?couponCode=C3ADAC891EB6B095B471
-https://www.udemy.com/course/fotografiabasicaconlightroom/?couponCode=DA8212EDA27726F4448E
-https://www.udemy.com/course/python-web-scraping-by-arabic/?couponCode=3FAA402787D261316186
-https://www.udemy.com/course/stock-screener/?couponCode=1DEC20
-https://www.udemy.com/course/technical-analysis-mastery-stock-trading-forex-investing/?couponCode=0BEF62A45B7DAE4801EC
-https://www.udemy.com/course/iphone-filmmaking-taking-better-photo-with-your-smartphone/?couponCode=2020DEC
-https://www.udemy.com/course/create-lightning-fast-videos-with-invideo-ai-video-making/?couponCode=1A6A92542C130AFE364A
+https://www.udemy.com/course/the-complete-microsoft-teams-course-master-microsoft-teams/?couponCode=9DBCA2C9A427ADE810B2
+https://www.udemy.com/course/how-to-sell1/?couponCode=12A593490FD7D419A6AA
+https://www.udemy.com/course/basics-of-job-landing/?couponCode=EASY-LEARNING
+https://www.udemy.com/course/applying-scrum/?couponCode=CHRISTMAS-GIFT
+https://www.udemy.com/course/data-visualization-in-excel-for-business-professionals/?couponCode=DECOPE20
+https://www.udemy.com/course/the-complete-personal-development-course/?couponCode=15519B17A9AF5FC14294
+https://www.udemy.com/course/two-quickbooks-file-business-personal-vs-one-file-for-both/?couponCode=3093A543916E7083DB68
+https://www.udemy.com/course/accounting-statement-of-cash-flows/?couponCode=FCD942E42347F401E95F
+https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=E6157B262B457F69FB6C
+https://www.udemy.com/course/accounting-for-corporations/?couponCode=A3DFE15CBB9631B65C9E
+https://www.udemy.com/course/partnership-accounting/?couponCode=CF9EC0DC9D722793D6A3
+https://www.udemy.com/course/financial-accounting-depreciation-calculation-fixed-assets/?couponCode=8968B896C63B13135637
 
