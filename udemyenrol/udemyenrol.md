@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/12/2020
+# Daily Free Udemy Courses - 26/12/2020
 
-https://www.udemy.com/course/the-complete-microsoft-teams-course-master-microsoft-teams/?couponCode=9DBCA2C9A427ADE810B2
-https://www.udemy.com/course/how-to-sell1/?couponCode=12A593490FD7D419A6AA
-https://www.udemy.com/course/basics-of-job-landing/?couponCode=EASY-LEARNING
-https://www.udemy.com/course/applying-scrum/?couponCode=CHRISTMAS-GIFT
-https://www.udemy.com/course/data-visualization-in-excel-for-business-professionals/?couponCode=DECOPE20
-https://www.udemy.com/course/the-complete-personal-development-course/?couponCode=15519B17A9AF5FC14294
-https://www.udemy.com/course/two-quickbooks-file-business-personal-vs-one-file-for-both/?couponCode=3093A543916E7083DB68
-https://www.udemy.com/course/accounting-statement-of-cash-flows/?couponCode=FCD942E42347F401E95F
-https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=E6157B262B457F69FB6C
-https://www.udemy.com/course/accounting-for-corporations/?couponCode=A3DFE15CBB9631B65C9E
-https://www.udemy.com/course/partnership-accounting/?couponCode=CF9EC0DC9D722793D6A3
-https://www.udemy.com/course/financial-accounting-depreciation-calculation-fixed-assets/?couponCode=8968B896C63B13135637
+https://www.udemy.com/course/agile-business-analysis-study-guide/?couponCode=XMAS20
+https://www.udemy.com/course/learn-all-about-bitcoin-and-blockchain/?couponCode=0DDA3813AEDD61C05D5F
+https://www.udemy.com/course/werbeanzeigen-masterclass-fur-einsteiger-und-aufsteiger/?couponCode=811B7146B505A58E32BA
+https://www.udemy.com/course/diy-website-design-with-elementor/?couponCode=2F21CB61BA3A133FDD1B
+https://www.udemy.com/course/build-unseen-featuristic-javascript-web-applications/?couponCode=JS_FEATURES
+https://www.udemy.com/course/multi-site-it-deployments-business-technical-planning/?couponCode=ITDFREE2020
+https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEDEC2
+https://www.udemy.com/course/complete-course-on-how-to-copyright-graphic-designs/?couponCode=FREEDESIGNCOURSE
+https://www.udemy.com/course/build-action-on-google/?couponCode=CHRISTMAS_GIFT4ALL
+https://www.udemy.com/course/python-programming-for-beginners-easily/?couponCode=67C82747A0C3DD5788B6
+https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=CHRISTMAS01
+https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=4A714E165D5819A39763
 
