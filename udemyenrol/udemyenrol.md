@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/12/2020
+# Daily Free Udemy Courses - 27/12/2020
 
-https://www.udemy.com/course/agile-business-analysis-study-guide/?couponCode=XMAS20
-https://www.udemy.com/course/learn-all-about-bitcoin-and-blockchain/?couponCode=0DDA3813AEDD61C05D5F
-https://www.udemy.com/course/werbeanzeigen-masterclass-fur-einsteiger-und-aufsteiger/?couponCode=811B7146B505A58E32BA
-https://www.udemy.com/course/diy-website-design-with-elementor/?couponCode=2F21CB61BA3A133FDD1B
-https://www.udemy.com/course/build-unseen-featuristic-javascript-web-applications/?couponCode=JS_FEATURES
-https://www.udemy.com/course/multi-site-it-deployments-business-technical-planning/?couponCode=ITDFREE2020
-https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEDEC2
-https://www.udemy.com/course/complete-course-on-how-to-copyright-graphic-designs/?couponCode=FREEDESIGNCOURSE
-https://www.udemy.com/course/build-action-on-google/?couponCode=CHRISTMAS_GIFT4ALL
-https://www.udemy.com/course/python-programming-for-beginners-easily/?couponCode=67C82747A0C3DD5788B6
-https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=CHRISTMAS01
-https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=4A714E165D5819A39763
+https://www.udemy.com/course/neural-network-understanding-and-building-an-ann-in-r/?couponCode=DECOUP20
+https://www.udemy.com/course/advertising-psychology/?couponCode=3A13A04DF56B71A6B808
+https://www.udemy.com/course/ccrea-servicios-wcf-y-web-api-y-consume-en-app-web-y-movil/?couponCode=D86BE338A7CA2CCA7D3F
+https://www.udemy.com/course/c-la-guia-definitiva-aprende-a-programar-de-cero/?couponCode=9FEABDD9A68AB3B1DC4D
+https://www.udemy.com/course/discover-the-writer-within-you/?couponCode=THANKS_VINOD
+https://www.udemy.com/course/fundamentals-of-heat-transfer-part-1/?couponCode=FREEDEC
+https://www.udemy.com/course/how-to-analyze-football-soccer-basics/?couponCode=2E22F8B90B0444E86F1E
+https://www.udemy.com/course/football-soccer-play-styles-possession/?couponCode=D773C757313BCFCF587C
+https://www.udemy.com/course/super-humanos-la-ciencia-detras-del-maximo-potencial/?couponCode=REGALO-NAVIDAD-28-12
+https://www.udemy.com/course/motion-graphics-secrets/?couponCode=YEAREND20
+https://www.udemy.com/course/stress-und-selbstmanagement/?couponCode=96D7629943E5C81036C1
+https://www.udemy.com/course/create-your-own-gui-music-player-using-pygame-tkinter/?couponCode=3E61FCB1797AC9055FAE
 
