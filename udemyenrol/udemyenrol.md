@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/12/2020
+# Daily Free Udemy Courses - 28/12/2020
 
-https://www.udemy.com/course/neural-network-understanding-and-building-an-ann-in-r/?couponCode=DECOUP20
-https://www.udemy.com/course/advertising-psychology/?couponCode=3A13A04DF56B71A6B808
-https://www.udemy.com/course/ccrea-servicios-wcf-y-web-api-y-consume-en-app-web-y-movil/?couponCode=D86BE338A7CA2CCA7D3F
-https://www.udemy.com/course/c-la-guia-definitiva-aprende-a-programar-de-cero/?couponCode=9FEABDD9A68AB3B1DC4D
-https://www.udemy.com/course/discover-the-writer-within-you/?couponCode=THANKS_VINOD
-https://www.udemy.com/course/fundamentals-of-heat-transfer-part-1/?couponCode=FREEDEC
-https://www.udemy.com/course/how-to-analyze-football-soccer-basics/?couponCode=2E22F8B90B0444E86F1E
-https://www.udemy.com/course/football-soccer-play-styles-possession/?couponCode=D773C757313BCFCF587C
-https://www.udemy.com/course/super-humanos-la-ciencia-detras-del-maximo-potencial/?couponCode=REGALO-NAVIDAD-28-12
-https://www.udemy.com/course/motion-graphics-secrets/?couponCode=YEAREND20
-https://www.udemy.com/course/stress-und-selbstmanagement/?couponCode=96D7629943E5C81036C1
-https://www.udemy.com/course/create-your-own-gui-music-player-using-pygame-tkinter/?couponCode=3E61FCB1797AC9055FAE
+https://www.udemy.com/course/exhaustemission-after-treatment-basic-to-advanced/?couponCode=AFTERFR
+https://www.udemy.com/course/make-money-on-you-tube-without-showing-your-face/?couponCode=B978E5F5C689AC08BC7E
+https://www.udemy.com/course/snapseed-fun-and-easy-editing/?couponCode=CADOUDECRACIUN
+https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=HAPPY2021
+https://www.udemy.com/course/die-gewinner-formel-erreiche-2021-deine-ziele-mit-nlp/?couponCode=NLPFREE
+https://www.udemy.com/course/hacking-made-easy-with-hands-on-training/?couponCode=E7EEF41FF4D8FF9B0312
+https://www.udemy.com/course/ethical-hacking-hands-on-training-part-ii/?couponCode=74C9590127DE50FB9C2A
+https://www.udemy.com/course/ethical-hacking-capture-the-flag-walkthroughs/?couponCode=25C7C3DFC8DC6478024A
+https://www.udemy.com/course/communication-skills-communicate-with-confidence-charisma/?couponCode=FREEACCESS
+https://www.udemy.com/course/negotiate-anything-master-negotiation-skills-from-scratch/?couponCode=MANISHMEHTA
+https://www.udemy.com/course/advanced-pitching-for-startups/?couponCode=56EF38555D0366645930
+https://www.udemy.com/course/vegan-cooking-class-vegan-thai-food-easy-vegan-recipes/?couponCode=VEGANENDYEAR2020
 
