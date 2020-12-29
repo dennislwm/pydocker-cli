@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/12/2020
+# Daily Free Udemy Courses - 29/12/2020
 
-https://www.udemy.com/course/exhaustemission-after-treatment-basic-to-advanced/?couponCode=AFTERFR
-https://www.udemy.com/course/make-money-on-you-tube-without-showing-your-face/?couponCode=B978E5F5C689AC08BC7E
-https://www.udemy.com/course/snapseed-fun-and-easy-editing/?couponCode=CADOUDECRACIUN
-https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=HAPPY2021
-https://www.udemy.com/course/die-gewinner-formel-erreiche-2021-deine-ziele-mit-nlp/?couponCode=NLPFREE
-https://www.udemy.com/course/hacking-made-easy-with-hands-on-training/?couponCode=E7EEF41FF4D8FF9B0312
-https://www.udemy.com/course/ethical-hacking-hands-on-training-part-ii/?couponCode=74C9590127DE50FB9C2A
-https://www.udemy.com/course/ethical-hacking-capture-the-flag-walkthroughs/?couponCode=25C7C3DFC8DC6478024A
-https://www.udemy.com/course/communication-skills-communicate-with-confidence-charisma/?couponCode=FREEACCESS
-https://www.udemy.com/course/negotiate-anything-master-negotiation-skills-from-scratch/?couponCode=MANISHMEHTA
-https://www.udemy.com/course/advanced-pitching-for-startups/?couponCode=56EF38555D0366645930
-https://www.udemy.com/course/vegan-cooking-class-vegan-thai-food-easy-vegan-recipes/?couponCode=VEGANENDYEAR2020
+https://www.udemy.com/course/c-ile-hayatn-gercekleri/?couponCode=CSHARPHAYAT2020
+https://www.udemy.com/course/csharp-ile-blockchain-kodlama/?couponCode=BLOCKCHAINKOD2020
+https://www.udemy.com/course/blockchain-nedir-nasl-yazlr-srlar-ve-tum-altyaps/?couponCode=BLOCKCHAINSIRLAR2020
+https://www.udemy.com/course/introduction-to-matlab/?couponCode=B6AB6CA528EB673ADD9D
+https://www.udemy.com/course/flutter-widgets-ve-dart-programlama/?couponCode=FLUTTERDART2020
+https://www.udemy.com/course/november-blues/?couponCode=BOXINGDAYBLUES
+https://www.udemy.com/course/it-support-troubleshooting-tips-for-clinical-environments/?couponCode=DSITT2020
+https://www.udemy.com/course/tableau-desktop-specialist/?couponCode=FREE2020
+https://www.udemy.com/course/thinkific-masterclass/?couponCode=THINKIFIC202012
+https://www.udemy.com/course/the-principles-of-furniture-selection-for-home/?couponCode=8D98C0D68A2BDA446EC5
+https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL34521
+https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=1E87A7C0F52A60EB78CF
 
