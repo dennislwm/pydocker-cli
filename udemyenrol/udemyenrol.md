@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/12/2020
+# Daily Free Udemy Courses - 30/12/2020
 
-https://www.udemy.com/course/c-ile-hayatn-gercekleri/?couponCode=CSHARPHAYAT2020
-https://www.udemy.com/course/csharp-ile-blockchain-kodlama/?couponCode=BLOCKCHAINKOD2020
-https://www.udemy.com/course/blockchain-nedir-nasl-yazlr-srlar-ve-tum-altyaps/?couponCode=BLOCKCHAINSIRLAR2020
-https://www.udemy.com/course/introduction-to-matlab/?couponCode=B6AB6CA528EB673ADD9D
-https://www.udemy.com/course/flutter-widgets-ve-dart-programlama/?couponCode=FLUTTERDART2020
-https://www.udemy.com/course/november-blues/?couponCode=BOXINGDAYBLUES
-https://www.udemy.com/course/it-support-troubleshooting-tips-for-clinical-environments/?couponCode=DSITT2020
-https://www.udemy.com/course/tableau-desktop-specialist/?couponCode=FREE2020
-https://www.udemy.com/course/thinkific-masterclass/?couponCode=THINKIFIC202012
-https://www.udemy.com/course/the-principles-of-furniture-selection-for-home/?couponCode=8D98C0D68A2BDA446EC5
-https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL34521
-https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=1E87A7C0F52A60EB78CF
+https://www.udemy.com/course/angular-de-cero-a-experto-angular-2-framework-javascript-html-css/?couponCode=ANG_DIC_FIN
+https://www.udemy.com/course/introduction-to-longevity-medicine/?couponCode=LONGEVITY2021
+https://www.udemy.com/course/the-complete-mern-stack-authentication-with-source-code/?couponCode=SHEYYY
+https://www.udemy.com/course/tensorflownets/?couponCode=TENSORSONFIRE
+https://www.udemy.com/course/solidity-and-blockchain-for-beginners/?couponCode=BB3BAFD893FC090B3AC3
+https://www.udemy.com/course/get-a-relationship-life-coaching-love-relationship-building/?couponCode=54498272EBD3D9613C73
+https://www.udemy.com/course/embedded-arm-cortex-m3-programming-guide/?couponCode=87BEA6441CE3F8BA11C2
+https://www.udemy.com/course/english-for-beginners-learn-english-with-native-teacher/?couponCode=FREECOUPON_CH
+https://www.udemy.com/course/butterfly-options-trading/?couponCode=1DEC20
+https://www.udemy.com/course/definite-success/?couponCode=487C90CF618E7AB10465
+https://www.udemy.com/course/learn-swedish-idioms-a-fun-swedish-course-for-beginners/?couponCode=21E01197659F0E1351DE
+https://www.udemy.com/course/learn-how-to-budget-for-teens/?couponCode=32F2F6857B5E26E26C14
 
