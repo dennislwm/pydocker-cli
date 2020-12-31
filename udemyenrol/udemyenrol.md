@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/12/2020
+# Daily Free Udemy Courses - 31/12/2020
 
-https://www.udemy.com/course/angular-de-cero-a-experto-angular-2-framework-javascript-html-css/?couponCode=ANG_DIC_FIN
-https://www.udemy.com/course/introduction-to-longevity-medicine/?couponCode=LONGEVITY2021
-https://www.udemy.com/course/the-complete-mern-stack-authentication-with-source-code/?couponCode=SHEYYY
-https://www.udemy.com/course/tensorflownets/?couponCode=TENSORSONFIRE
-https://www.udemy.com/course/solidity-and-blockchain-for-beginners/?couponCode=BB3BAFD893FC090B3AC3
-https://www.udemy.com/course/get-a-relationship-life-coaching-love-relationship-building/?couponCode=54498272EBD3D9613C73
-https://www.udemy.com/course/embedded-arm-cortex-m3-programming-guide/?couponCode=87BEA6441CE3F8BA11C2
-https://www.udemy.com/course/english-for-beginners-learn-english-with-native-teacher/?couponCode=FREECOUPON_CH
-https://www.udemy.com/course/butterfly-options-trading/?couponCode=1DEC20
-https://www.udemy.com/course/definite-success/?couponCode=487C90CF618E7AB10465
-https://www.udemy.com/course/learn-swedish-idioms-a-fun-swedish-course-for-beginners/?couponCode=21E01197659F0E1351DE
-https://www.udemy.com/course/learn-how-to-budget-for-teens/?couponCode=32F2F6857B5E26E26C14
+https://www.udemy.com/course/biases-persuasion/?couponCode=A6949D41B9108564071E
+https://www.udemy.com/course/executive-biases/?couponCode=F0DD816A6E2B69290762
+https://www.udemy.com/course/get-started-increasing-empathy/?couponCode=4EB4D071C3FFAAE55628
+https://www.udemy.com/course/gettingthejob/?couponCode=2536C4C266C51D9E6075
+https://www.udemy.com/course/cyber-hygiene/?couponCode=CHBYKB4FNF
+https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=13DEA8A929E709D0B0AE
+https://www.udemy.com/course/private-equity-career/?couponCode=1C71E056AA4AC82CD858
+https://www.udemy.com/course/private-equity-fundamentals/?couponCode=840B89CED892C81E1D93
+https://www.udemy.com/course/interviewing/?couponCode=71C8F24F5FB27ED17A46
+https://www.udemy.com/course/academic-writing-101/?couponCode=SURVIVED2020
+https://www.udemy.com/course/best-data-science-business-analytics-course/?couponCode=ANALYTICS30
+https://www.udemy.com/course/lifelong-benefits-of-tai-chi-postures-to-ease-low-back-pain/?couponCode=DC5D656797D73D4F05D8
 
