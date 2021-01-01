@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/12/2020
+# Daily Free Udemy Courses - 01/01/2021
 
-https://www.udemy.com/course/biases-persuasion/?couponCode=A6949D41B9108564071E
-https://www.udemy.com/course/executive-biases/?couponCode=F0DD816A6E2B69290762
-https://www.udemy.com/course/get-started-increasing-empathy/?couponCode=4EB4D071C3FFAAE55628
-https://www.udemy.com/course/gettingthejob/?couponCode=2536C4C266C51D9E6075
-https://www.udemy.com/course/cyber-hygiene/?couponCode=CHBYKB4FNF
-https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=13DEA8A929E709D0B0AE
-https://www.udemy.com/course/private-equity-career/?couponCode=1C71E056AA4AC82CD858
-https://www.udemy.com/course/private-equity-fundamentals/?couponCode=840B89CED892C81E1D93
-https://www.udemy.com/course/interviewing/?couponCode=71C8F24F5FB27ED17A46
-https://www.udemy.com/course/academic-writing-101/?couponCode=SURVIVED2020
-https://www.udemy.com/course/best-data-science-business-analytics-course/?couponCode=ANALYTICS30
-https://www.udemy.com/course/lifelong-benefits-of-tai-chi-postures-to-ease-low-back-pain/?couponCode=DC5D656797D73D4F05D8
+https://www.udemy.com/course/switching-theory-logic-design-of-digital-circuits/?couponCode=F2642F4E489F7CEE8E35
+https://www.udemy.com/course/complete-android-course/?couponCode=8608B5AA5994C848FF54
+https://www.udemy.com/course/ingilizce-kelime/?couponCode=CORPUS2020
+https://www.udemy.com/course/200-vokabel-in-1-stunde-lernen/?couponCode=7B08D71F6829A89DF208
+https://www.udemy.com/course/pic-microcontroller-insect-detector/?couponCode=NEWYEAR
+https://www.udemy.com/course/create-a-game-with-arduino-and-processing/?couponCode=NEWYEAR
+https://www.udemy.com/course/arduino-control-your-browser-arduino-web-browser/?couponCode=NEWYEAR
+https://www.udemy.com/course/step-by-step-guide-to-buying-a-business-like-private-equity/?couponCode=FREEBIE
+https://www.udemy.com/course/magix-video-deluxe/?couponCode=1B46B0A6359D5191F323
+https://www.udemy.com/course/estrategias-pro-targeting-audiencia-facebook-ads-digital-social-media/?couponCode=30DIC2020
+https://www.udemy.com/course/marketing-facebook-ads-leads-clientes-ventas-2020-2021-social-media/?couponCode=30DIC2020
+https://www.udemy.com/course/configuracion-optimizacion-pagina-facebook-marketing-digital-2021/?couponCode=30DIC2020
 
