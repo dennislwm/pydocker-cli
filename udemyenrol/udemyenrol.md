@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/01/2021
+# Daily Free Udemy Courses - 02/01/2021
 
-https://www.udemy.com/course/switching-theory-logic-design-of-digital-circuits/?couponCode=F2642F4E489F7CEE8E35
-https://www.udemy.com/course/complete-android-course/?couponCode=8608B5AA5994C848FF54
-https://www.udemy.com/course/ingilizce-kelime/?couponCode=CORPUS2020
-https://www.udemy.com/course/200-vokabel-in-1-stunde-lernen/?couponCode=7B08D71F6829A89DF208
-https://www.udemy.com/course/pic-microcontroller-insect-detector/?couponCode=NEWYEAR
-https://www.udemy.com/course/create-a-game-with-arduino-and-processing/?couponCode=NEWYEAR
-https://www.udemy.com/course/arduino-control-your-browser-arduino-web-browser/?couponCode=NEWYEAR
-https://www.udemy.com/course/step-by-step-guide-to-buying-a-business-like-private-equity/?couponCode=FREEBIE
-https://www.udemy.com/course/magix-video-deluxe/?couponCode=1B46B0A6359D5191F323
-https://www.udemy.com/course/estrategias-pro-targeting-audiencia-facebook-ads-digital-social-media/?couponCode=30DIC2020
-https://www.udemy.com/course/marketing-facebook-ads-leads-clientes-ventas-2020-2021-social-media/?couponCode=30DIC2020
-https://www.udemy.com/course/configuracion-optimizacion-pagina-facebook-marketing-digital-2021/?couponCode=30DIC2020
+https://www.udemy.com/course/data-science-and-machine-learning-developer-certification/?couponCode=F184D69D88FE09A305CD
+https://www.udemy.com/course/sql-fundamentals-for-beginners/?couponCode=DDB5AC9033D098FA8D3C
+https://www.udemy.com/course/the-complete-bootstrap-5-course-from-scratch-3-projects-v5/?couponCode=A82CB245B34296582DB4
+https://www.udemy.com/course/sifirdan-uygulamalar-ile-arduino-dersleri/?couponCode=GROTOK
+https://www.udemy.com/course/cocuklar-icin-arduino-ile-robotik/?couponCode=86027DB0FFA71DFC090E
+https://www.udemy.com/course/cocuklar-icin-web-tasarimi/?couponCode=495DB7D11975B2BC5DE0
+https://www.udemy.com/course/appinventor-ile-android-mobil-uygulama-gelistirme/?couponCode=BC57E77A8C8E9BC6BC8F
+https://www.udemy.com/course/herkes-icin-uygulamalarla-web-tasarim/?couponCode=7172312ECEEC8706F073
+https://www.udemy.com/course/animasyon-ve-diyaloglarla-ingilizce-kursu/?couponCode=CORPUS2020
+https://www.udemy.com/course/ingilizce-okuma-kursu/?couponCode=CORPUS2020
+https://www.udemy.com/course/learn-to-code-in-java-from-scratch/?couponCode=18F1A24805893781022B
+https://www.udemy.com/course/how-to-build-a-facebook-messenger-chat-bot-from-scratch/?couponCode=D153C52B6016C04055FC
 
