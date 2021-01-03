@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/01/2021
+# Daily Free Udemy Courses - 03/01/2021
 
-https://www.udemy.com/course/data-science-and-machine-learning-developer-certification/?couponCode=F184D69D88FE09A305CD
-https://www.udemy.com/course/sql-fundamentals-for-beginners/?couponCode=DDB5AC9033D098FA8D3C
-https://www.udemy.com/course/the-complete-bootstrap-5-course-from-scratch-3-projects-v5/?couponCode=A82CB245B34296582DB4
-https://www.udemy.com/course/sifirdan-uygulamalar-ile-arduino-dersleri/?couponCode=GROTOK
-https://www.udemy.com/course/cocuklar-icin-arduino-ile-robotik/?couponCode=86027DB0FFA71DFC090E
-https://www.udemy.com/course/cocuklar-icin-web-tasarimi/?couponCode=495DB7D11975B2BC5DE0
-https://www.udemy.com/course/appinventor-ile-android-mobil-uygulama-gelistirme/?couponCode=BC57E77A8C8E9BC6BC8F
-https://www.udemy.com/course/herkes-icin-uygulamalarla-web-tasarim/?couponCode=7172312ECEEC8706F073
-https://www.udemy.com/course/animasyon-ve-diyaloglarla-ingilizce-kursu/?couponCode=CORPUS2020
-https://www.udemy.com/course/ingilizce-okuma-kursu/?couponCode=CORPUS2020
-https://www.udemy.com/course/learn-to-code-in-java-from-scratch/?couponCode=18F1A24805893781022B
-https://www.udemy.com/course/how-to-build-a-facebook-messenger-chat-bot-from-scratch/?couponCode=D153C52B6016C04055FC
+https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=FOR_MY_STUDENTS
+https://www.udemy.com/course/9-altidan-exit/?couponCode=9ALTIDANEXIT
+https://www.udemy.com/course/raspberry-pi-ile-ethical-hacking-ogrenin/?couponCode=SIBERKAMPUS
+https://www.udemy.com/course/how-to-write-a-speech-critical-5-step-process-for-leaders/?couponCode=99E9913E5296C6C91D12
+https://www.udemy.com/course/meditative-candlemaking-for-beginners/?couponCode=NEWYEAR
+https://www.udemy.com/course/digital-electronics-made-easy/?couponCode=FREEDAY3
+https://www.udemy.com/course/logistics-and-supply-chain-management-incoterms-2020/?couponCode=B315F3403733C1C2B85D
+https://www.udemy.com/course/databricks/?couponCode=TRY10FREE12101
+https://www.udemy.com/course/apache-groovy-course/?couponCode=TRY10FREE12101
+https://www.udemy.com/course/artificial-intelligence-in-unity/?couponCode=HAIPPY_NEW_YEAR-FREE
+https://www.udemy.com/course/watercolor-painting-landscapes-for-beginners/?couponCode=FREEWATERCOLOR2021
+https://www.udemy.com/course/dealing-with-depression/?couponCode=3DAYFREE3
 
