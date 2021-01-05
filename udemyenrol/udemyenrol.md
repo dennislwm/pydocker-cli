@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/01/2021
+# Daily Free Udemy Courses - 05/01/2021
 
-https://www.udemy.com/course/python-for-complete-beginners-1/?couponCode=PYTHON-FOR-BEGINNERS
-https://www.udemy.com/course/adobe-illustrator-mega-course/?couponCode=830D8D8E31A52500C047
-https://www.udemy.com/course/python-multi-track/?couponCode=FF8F2D1F06D90181F055
-https://www.udemy.com/course/thepythonmicrodegree/?couponCode=FREEMICRODEGREE
-https://www.udemy.com/course/web-automation-using-uipath-rpa-project/?couponCode=HAPPYNEWYEAR2021
-https://www.udemy.com/course/from-revit-to-blender-29x/?couponCode=RVTB3D
-https://www.udemy.com/course/mern-stack-e-commerce-mobile-app-react-native-redux-expo/?couponCode=3EF2F0C60B55F6B573D5
-https://www.udemy.com/course/how-to-become-a-chief-information-security-officer-ciso/?couponCode=94EF02B1CE3D18AD4995
-https://www.udemy.com/course/chinese-characters-you-must-know-for-hsk-5-volume-28/?couponCode=01873B62EECB7626E809
-https://www.udemy.com/course/assertiveness-emotional-intelligence/?couponCode=3-DAYS
-https://www.udemy.com/course/options-trading-the-essential-guide-to-profitability/?couponCode=TRADING
-https://www.udemy.com/course/polyglot/?couponCode=FREE-JAN21
+https://www.udemy.com/course/develop-your-first-app-in-android-studio-using-firebase/?couponCode=D0C4AA8E7033B210CEAD
+https://www.udemy.com/course/devil-stick-basics-how-to-start-with-stick/?couponCode=E590583ED504581C5E5C
+https://www.udemy.com/course/automate-your-job-search-with-loopcv/?couponCode=E11BBAC81FD2131114FF
+https://www.udemy.com/course/ultra-speed-3d-game-development-using-gameguru/?couponCode=B48961D3CC94329F2FBE
+https://www.udemy.com/course/ads-hacker-10-extreme-advertisement-hacking/?couponCode=33CE3677CB16E3B4DBA9
+https://www.udemy.com/course/youtube-thumbnail-blaster-create-3d-video-thumbnails/?couponCode=4540EA0795F64255B4EB
+https://www.udemy.com/course/a-complete-cyber-security-guide-for-beginners/?couponCode=NEWYEARSPECIAL
+https://www.udemy.com/course/whatsapp-stock-market-bot-with-python-twilio-marketstack/?couponCode=FOF2021
+https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=D9C860B328B22A0A2900
+https://www.udemy.com/course/superminds-artificial-intelligence-in-2019-2025-markets/?couponCode=6F0E75187AEA2EE5CA63
+https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=028591874340A0473762
+https://www.udemy.com/course/qgis-beginner-to-advanced/?couponCode=BOOSTKNOWLEDGE
 
