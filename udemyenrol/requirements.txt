@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
-ruamel.yaml
+ruamel.yaml==0.16.12
 selenium
 webdriver-manager
