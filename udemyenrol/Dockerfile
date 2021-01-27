@@ -2,7 +2,7 @@ FROM selenium/standalone-chrome
 USER root
 RUN \ 
   apt-get update && \
-  apt-get --assume-yes install python3-pip python-requests wget
+  apt-get --assume-yes install python3-pip python3-requests wget
 #--------------------------------------------------
 # GitHub Action ignores WORKDIR, ENTRYPOINT and CMD
 WORKDIR /app
