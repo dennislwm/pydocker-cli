@@ -17,7 +17,8 @@ name: main
 on:
   #push:
   #pull_request:
-  workflow_dispatch:
+  repository_dispatch:
+    types: udemyenrol
   schedule:
     - cron:  '1 0 * * *'
 jobs:
