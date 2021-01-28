@@ -59,13 +59,3 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git commit -m "Updated udemyenrol.md" -a || echo "No changes to commit"
           git push          
-      #------------------------------------------------
-      # Runs a set of commands using the runner's shell
-      - name: Install Python Dependencies
-        run: |
-          pip install -U pip wheel coverage coveralls
-          python --version
-      - name: Test Coverage
-        run: coveralls
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
