@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/01/2021
+# Daily Free Udemy Courses - 29/01/2021
 
-https://www.udemy.com/course/female-super-hero-hypnosis/?couponCode=D7E63BE096BD28DBD6F5
-https://www.udemy.com/course/getting-started-with-microsoft-excel/?couponCode=468FBA3F1161EAFB038C
-https://www.udemy.com/course/mastering-sql-server/?couponCode=LEARNFREE
-https://www.udemy.com/course/blockchain-dapps-with-web3js/?couponCode=39B6BFB47CD1C7AF5556
-https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/?couponCode=JAN_SALE
-https://www.udemy.com/course/oracle-certified-professional-java-ee-7/?couponCode=15C05001A2F9B5FC66E4
-https://www.udemy.com/course/simple-stories-for-great-wisdom-from-a-visual-story-teller/?couponCode=STORYTELLING
-https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/?couponCode=3517A9C42A4C5BDF3433
-https://www.udemy.com/course/comptia-security-sy0-501-k/?couponCode=9C23242070F99680715E
-https://www.udemy.com/course/jpcourses-ethereum-smart-contract-programming-with-solidity-project/?couponCode=180DA0169585D5766367
-https://www.udemy.com/course/how-to-create-an-online-store-with-no-budget-step-by-step/?couponCode=70087D91E5907EC3AD2E
-https://www.udemy.com/course/use-infographics-to-grab-customers-attention/?couponCode=2021PROMO
+https://www.udemy.com/course/end-to-end-react-with-prisma-2/?couponCode=ENDTOENDLAUNCH
+https://www.udemy.com/course/chinese-characters-you-must-know-for-hsk-5-volume-24/?couponCode=348B4A27B7EBED98F523
+https://www.udemy.com/course/python-101-for-absolute-beginners/?couponCode=EARLY_BIRD
+https://www.udemy.com/course/pinterest-marketing-decoded-2021/?couponCode=FREE10
+https://www.udemy.com/course/itil-foundation-bootcamp/?couponCode=ITIL4FREE
+https://www.udemy.com/course/fcp-video-editing/?couponCode=062A9ECA36A4B9F86F8A
+https://www.udemy.com/course/mac-os-it-technical-support-level-1-interview-prep/?couponCode=D5927E05DCBDBFC497DA
+https://www.udemy.com/course/mastering-youtube-2021/?couponCode=YOUTUBE1
+https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=77BE5CCDBB6DB4239BFB
+https://www.udemy.com/course/kids-drawing/?couponCode=KOKILA9
+https://www.udemy.com/course/microsoft-excel-for-scientists-and-engineers/?couponCode=FREEJAN
+https://www.udemy.com/course/microsoft-excel-training-learn-essential-excel-skills/?couponCode=FREEJAN
 
