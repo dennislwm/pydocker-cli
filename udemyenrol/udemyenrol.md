@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/01/2021
+# Daily Free Udemy Courses - 30/01/2021
 
-https://www.udemy.com/course/end-to-end-react-with-prisma-2/?couponCode=ENDTOENDLAUNCH
-https://www.udemy.com/course/chinese-characters-you-must-know-for-hsk-5-volume-24/?couponCode=348B4A27B7EBED98F523
-https://www.udemy.com/course/python-101-for-absolute-beginners/?couponCode=EARLY_BIRD
-https://www.udemy.com/course/pinterest-marketing-decoded-2021/?couponCode=FREE10
-https://www.udemy.com/course/itil-foundation-bootcamp/?couponCode=ITIL4FREE
-https://www.udemy.com/course/fcp-video-editing/?couponCode=062A9ECA36A4B9F86F8A
-https://www.udemy.com/course/mac-os-it-technical-support-level-1-interview-prep/?couponCode=D5927E05DCBDBFC497DA
-https://www.udemy.com/course/mastering-youtube-2021/?couponCode=YOUTUBE1
-https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=77BE5CCDBB6DB4239BFB
-https://www.udemy.com/course/kids-drawing/?couponCode=KOKILA9
-https://www.udemy.com/course/microsoft-excel-for-scientists-and-engineers/?couponCode=FREEJAN
-https://www.udemy.com/course/microsoft-excel-training-learn-essential-excel-skills/?couponCode=FREEJAN
+https://www.udemy.com/course/branding-guide-creation/?couponCode=CELEBRATE21
+https://www.udemy.com/course/brainstorming/?couponCode=THEGIRLAROUND
+https://www.udemy.com/course/digital-marketing-plan/?couponCode=E2B2E9A9F2FB775866A9
+https://www.udemy.com/course/python-for-data-science-machine-learning/?couponCode=5DDCD93600A7CEB564D1
+https://www.udemy.com/course/logo-design/?couponCode=FREEBIELOGO
+https://www.udemy.com/course/learnremixing/?couponCode=FREE2021
+https://www.udemy.com/course/python-3-for-absolute-beginners-and-academic-students/?couponCode=ADC7289D5DD9A6C7326C
+https://www.udemy.com/course/docker-certified-associate-practice-exam-dca-certification/?couponCode=6084975783E0689AB6E4
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-300-quest/?couponCode=ZAKI2021
+https://www.udemy.com/course/investing-in-single-family-rentals/?couponCode=LEARN-N-PROFIT
+https://www.udemy.com/course/sifirdan-orneklerle-html5-ve-css3-kursu/?couponCode=31OCAKSONHEDIYE
+https://bit.ly/3r59IC4
 
