@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/02/2021
+# Daily Free Udemy Courses - 03/02/2021
 
-https://www.udemy.com/course/start-making-passive-income-today-without-content/?couponCode=JAN22021
-https://www.udemy.com/course/serial-communication-spi-rs232-spi-communication-protocols-bundle/?couponCode=JAN22021
-https://www.udemy.com/course/online-courses-marketing-fundamentals-program/?couponCode=JAN22021
-https://www.udemy.com/course/english-language-basics-for-beginners/?couponCode=FEBRUARY1ST
-https://www.udemy.com/course/drop-servicing-simplified/?couponCode=D8FD8401732BA50374D6
-https://www.udemy.com/course/iso-45001-health-and-safety-management-system/?couponCode=FREEISO45001
-https://www.udemy.com/course/python-for-pentesting/?couponCode=B3B909ADC5C5A7C7FFCD
-https://www.udemy.com/course/learn-filmora-10-and-edit-a-tech-review-video-for-beginner/?couponCode=LEARNFILMORA
-https://www.udemy.com/course/notionapp-supereasy-crashcourse/?couponCode=CHILLCHAMPCHILL
-https://www.udemy.com/course/learn-invideo/?couponCode=JANFREE
-https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=ALL_THE_BEST
-https://www.udemy.com/course/learn-the-most-common-conversations-in-egyptian-arabic/?couponCode=SHUKRAN
+https://www.udemy.com/course/soft-skills-learn-essential-career-soft-skills-to-earn/?couponCode=EE3F6B9CC397B52FB12A
+https://www.udemy.com/course/python-programming-complete-beginner-course-bootcamp/?couponCode=FREE-PYTHON-1
+https://www.udemy.com/course/flexygo-low-code/?couponCode=BDDA8A4E82D62647FA92
+https://www.udemy.com/course/powersystemopt/?couponCode=32EA5211AD35B0EACF95
+https://www.udemy.com/course/the-ultimate-veganism-course/?couponCode=WORLDKIINDFREE
+https://www.udemy.com/course/guided-breathing-meditation-for-stress-anxiety-anger/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/creating-strategic-and-operational-marketing-plans/?couponCode=CF179A5A50AAE65F7DC8
+https://www.udemy.com/course/a1-a2-elementary-level-english-reading-read-to-learn/?couponCode=NEW-COURSE-FOR-YOU
+https://www.udemy.com/course/marvelous-designer-baslangic-ve-orta-seviye/?couponCode=17B8B703B1530BAB3839
+https://www.udemy.com/course/how-to-draft-an-agreement/?couponCode=229820D78F59276E496E
+https://www.udemy.com/course/digital-marketing-google-ads-adwords-search-seo-ppc/?couponCode=31JAN2021
+https://www.udemy.com/course/grow-fan-page-facebook-marketing-page-likes-ad-offers-messages-pixel/?couponCode=31JAN2021
 
