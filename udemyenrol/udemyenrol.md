@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/02/2021
+# Daily Free Udemy Courses - 04/02/2021
 
-https://www.udemy.com/course/soft-skills-learn-essential-career-soft-skills-to-earn/?couponCode=EE3F6B9CC397B52FB12A
-https://www.udemy.com/course/python-programming-complete-beginner-course-bootcamp/?couponCode=FREE-PYTHON-1
-https://www.udemy.com/course/flexygo-low-code/?couponCode=BDDA8A4E82D62647FA92
-https://www.udemy.com/course/powersystemopt/?couponCode=32EA5211AD35B0EACF95
-https://www.udemy.com/course/the-ultimate-veganism-course/?couponCode=WORLDKIINDFREE
-https://www.udemy.com/course/guided-breathing-meditation-for-stress-anxiety-anger/?couponCode=DISCUDEMY.COM
-https://www.udemy.com/course/creating-strategic-and-operational-marketing-plans/?couponCode=CF179A5A50AAE65F7DC8
-https://www.udemy.com/course/a1-a2-elementary-level-english-reading-read-to-learn/?couponCode=NEW-COURSE-FOR-YOU
-https://www.udemy.com/course/marvelous-designer-baslangic-ve-orta-seviye/?couponCode=17B8B703B1530BAB3839
-https://www.udemy.com/course/how-to-draft-an-agreement/?couponCode=229820D78F59276E496E
-https://www.udemy.com/course/digital-marketing-google-ads-adwords-search-seo-ppc/?couponCode=31JAN2021
-https://www.udemy.com/course/grow-fan-page-facebook-marketing-page-likes-ad-offers-messages-pixel/?couponCode=31JAN2021
+https://www.udemy.com/course/programacionparatodospythondesdecero/?couponCode=PYTHON_GRATIS_2021
+https://www.udemy.com/course/big-banks-forex-trading-secret/?couponCode=E101870E0A9D757AB5C4
+https://www.udemy.com/course/build-chat-app-android-studio-java-with-firebase-sqlite/?couponCode=C710657A2C839ADA8A2F
+https://www.udemy.com/course/3daybusinessbreakthroughchallenge_jonathan_montoya/?couponCode=73234AFA0A72F6E6CC50
+https://www.udemy.com/course/introduction-to-circuit-theory-online-course-rahsoft_rahee101/?couponCode=RAHEE101FREE
+https://www.udemy.com/course/chemistry-a-secrets/?couponCode=5FF6598D79F6B0442A41
+https://www.udemy.com/course/electrical-power-grid-modernization-smart-grid-concepts/?couponCode=9369A929F2345758A674
+https://www.udemy.com/course/real-estate-agent-payday/?couponCode=LAUNCH2021
+https://www.udemy.com/course/canva-mobile-2021-crie-designs-profissionais-no-seu-celular/?couponCode=FREECANVA
+https://www.udemy.com/course/7-days-of-magical-mornings-how-to-make-your-morning-magical/?couponCode=MORNINGREVIEW
+https://www.udemy.com/course/einstieg-ins-marketing/?couponCode=DCA614E6670CB8812337
+https://www.udemy.com/course/chinese-level-1/?couponCode=FEBSPECIAL
 
