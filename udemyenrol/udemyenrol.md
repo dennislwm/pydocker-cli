@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/02/2021
+# Daily Free Udemy Courses - 06/02/2021
 
-https://www.udemy.com/course/regression-classification-with-machine-learning-in-r/?couponCode=5A323B76217863DB738C
-https://www.udemy.com/course/iniciacion-a-la-programacion-con-javascript/?couponCode=JAVASCRIPT_GRATIS
-https://www.udemy.com/course/cross-platform-native-ios-android-in-xamarin-c-firebase/?couponCode=1D993FB8BFA1898E8EB4
-https://www.udemy.com/course/findingjobinthailand/?couponCode=FREE001
-https://www.udemy.com/course/learn-how-to-build-a-shopify-online-store-from-scratch/?couponCode=D1D58211A7968F0AFADB
-https://www.udemy.com/course/my-secret-to-eliminating-anger-from-your-life/?couponCode=35F22A0A92B65972ECC7
-https://www.udemy.com/course/how-to-get-a-job-in-it/?couponCode=2934966C53F614705585
-https://www.udemy.com/course/migrating-to-qt-6/?couponCode=AD76CED27EE3020E1200
-https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=04261AC538F465EC2FBE
-https://www.udemy.com/course/time-management-and-productivity/?couponCode=987FBB8B3910C5D91E3D
-https://www.udemy.com/course/the-power-of-networking-by-rajeevysr/?couponCode=PAIDINFULLFORYOU
-https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=D1DA51B596EDB9EE5D2D
+https://www.udemy.com/course/the-complete-sql-course-2020-become-a-mysql-master/?couponCode=SQLCOURSE32
+https://www.udemy.com/course/develop-windows-services/?couponCode=326B4084CD6A0260A8F5
+https://www.udemy.com/course/logistics-and-supply-chain-management-incoterms-2020/?couponCode=94D44294368BE67727F9
+https://www.udemy.com/course/cloud-computing-for-beginners-infrastructure-as-a-service/?couponCode=D9928139178977C5C443
+https://www.udemy.com/course/crea-un-webinar-en-zoom/?couponCode=015586491EB727C22CEB
+https://www.udemy.com/course/aplicacion-para-validacion-de-formularios-con-javascript/?couponCode=B523C12FFE23F246E3DC
+https://www.udemy.com/course/desarrollo-de-aplicacion-para-acortar-url-con-laravel-8/?couponCode=BCE5B64A41D4ED79A213
+https://www.udemy.com/course/electronic-music-production-with-ableton-live-10-level-1/?couponCode=734F6697E3EC8CA72176
+https://www.udemy.com/course/2021-top-ms-excel-templates/?couponCode=E1BE732A85F0FDA089DD
+https://www.udemy.com/course/python-from-the-beginning-in-sinhalese/?couponCode=HASHCODE2021
+https://www.udemy.com/course/the-complete-java-from-zero-to-hero2021/?couponCode=4F4C4C59E061F7904295
+https://www.udemy.com/course/curso-de-vestacp-completo-desde-0-a-experto/?couponCode=45F61956EB46F56FE499
 
