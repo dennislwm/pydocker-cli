@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/02/2021
+# Daily Free Udemy Courses - 10/02/2021
 
-https://www.udemy.com/course/organisieren-vollstandige-organisation-ihres-hauses-de/?couponCode=3CF85F1D10B33BEA5D83
-https://www.udemy.com/course/eft-tapping-sugar-addiction/?couponCode=EFTOYEXPFEB112021
-https://www.udemy.com/course/immigration-adapting-as-an-expat-and-culture-shock-2021/?couponCode=7B7A96E78B99DB99EF6B
-https://www.udemy.com/course/web-design-for-entrepreneurs/?couponCode=25A3B397130796332740
-https://www.udemy.com/course/programacion-pseint/?couponCode=APRENDE_PROGRAMACION
-https://www.udemy.com/course/2021-top-ms-excel-templates-and-dashboards-with-applications/?couponCode=42FBC92A25F91B6FF093
-https://www.udemy.com/course/professional-ms-excel-course-with-real-applications/?couponCode=95858F750B76E1120466
-https://www.udemy.com/course/instagram-marketing-2021-t/?couponCode=37BAF3F71D0A770D6F94
-https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=B5C6123AC3DE88BA2BDD
-https://www.udemy.com/course/werbeanzeigen-masterclass-fur-einsteiger-und-aufsteiger/?couponCode=D2EEED4297C6A9BA81CD
-https://www.udemy.com/course/learn-all-power-bi-dax-secrets/?couponCode=DISCUDMY
-https://www.udemy.com/course/the-complete-character-drawing-masterclass-for-beginners/?couponCode=C71CAF1C9BC45396F82D
+https://www.udemy.com/course/fibonacci-trading-course-fibonacci-retracement/?couponCode=8FF6F3E0F395FC9D51B2
+https://www.udemy.com/course/amor-propio-aprender-a-valorarse/?couponCode=B4AED2CAF86636FB8943
+https://www.udemy.com/course/vba-mastery-for-beginners-learn-excel-vba-from-scratch/?couponCode=EXCEL-VBA-FB
+https://www.udemy.com/course/video-editing-in-final-cut-pro-x-learn-the-basics-in-1-hour/?couponCode=FREEFEB
+https://www.udemy.com/course/der-ultimative-forex-trading-kurs-wahrungshandel-von-a-z/?couponCode=87766805A64EE46504AC
+https://www.udemy.com/course/rank-and-rent-local-lead-generation/?couponCode=RANKANDRENTNEW
+https://www.udemy.com/course/intermediate-animation-in-autodesk-maya/?couponCode=F08AD9A03D1678CEC770
+https://www.udemy.com/course/learn-danish-for-beginners-the-complete-danish-language-course/?couponCode=89F31165E5A8919DCC12
+https://www.udemy.com/course/foreclosure-real-estate-investing/?couponCode=EXPIRESFEB11
+https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=0C1D97CE431B071F4DAF
+https://www.udemy.com/course/python-for-beginners-course-/?couponCode=39BFA0D9D1C89F3B18DC
+https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=3C6630616680369
 
