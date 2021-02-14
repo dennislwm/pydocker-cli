@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/02/2021
+# Daily Free Udemy Courses - 14/02/2021
 
-https://www.udemy.com/course/how-to-draw-the-head/?couponCode=FREEBIESGLOBAL-P21
-https://www.udemy.com/course/most-essential-popular-excel-formulas-and-functions/?couponCode=MOSTFEB12
-https://www.udemy.com/course/adobe-after-effects-learn-comic-book-animation/?couponCode=3C3F59F93ED8693C73A0
-https://www.udemy.com/course/theory-of-automata-and-computation/?couponCode=237827017E1C10B0AB08
-https://www.udemy.com/course/juniper-jn0-221-automation-and-devops-certification-practice/?couponCode=058161D801A3520170C3
-https://www.udemy.com/course/javascript-complete-real-time-production-usage-2019/?couponCode=FEB-VALENTINES-WEEK
-https://www.udemy.com/course/google-docs-master-course/?couponCode=TRY10FREE22104
-https://www.udemy.com/course/learn-microsoft-office-365/?couponCode=TRY10FREE22104
-https://www.udemy.com/course/fundamentals-of-p-n-junction-diode/?couponCode=4BAA34E1B98F7AE486F1
-https://www.udemy.com/course/use-infographics-to-grab-customers-attention/?couponCode=FEBPROMO
-https://www.udemy.com/course/learn-front-end-development/?couponCode=TRY10FREE22104
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEFEB2
+https://www.udemy.com/course/complete-beginner-guide-in-getting-started-with-fiverr-2020/?couponCode=1FD4D35CDE7DD9AAAF58
+https://www.udemy.com/course/learn-python-3-with-software-engineering-concepts/?couponCode=2021-FREE
+https://www.udemy.com/course/pictures-and-videos-colorization-by-artificial-intelligence/?couponCode=6D87F7331957188CE1F5
+https://www.udemy.com/course/become-a-fiverr-freelancer-with-no-skills-work-from-home/?couponCode=FREELANCERS
+https://www.udemy.com/course/accelerate-your-career-today/?couponCode=VALENTINES
+https://www.udemy.com/course/hr-technology/?couponCode=VALENTINES
+https://www.udemy.com/course/procurement-masterclass/?couponCode=VALENTINES
+https://www.udemy.com/course/high-performing-teams/?couponCode=VALENTINES
+https://www.udemy.com/course/six-secrets-of-successful-programme-managers/?couponCode=VALENTINES
+https://www.udemy.com/course/comptia-security-best-practice-tests-for-comptia-security/?couponCode=8180545124F53804B674
+https://www.udemy.com/course/haozrjey/?couponCode=2AAF31408AEB504343FF
+https://www.udemy.com/course/primavera-p6-pmp-planupdatecontrol-arabic/?couponCode=03714F7FA1D23024FDCF
 
