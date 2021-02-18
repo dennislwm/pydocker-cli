@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/02/2021
+# Daily Free Udemy Courses - 18/02/2021
 
-https://www.udemy.com/course/onboarding-employees-learning-development-strategies/?couponCode=A2A9A6CE07F81CD1AC7C
-https://www.udemy.com/course/the-data-science-course-2020-q2-updated-part-1/?couponCode=BCB29ADCC307DC03F112
-https://www.udemy.com/course/managing-virtual-team/?couponCode=9CFE329BDDFCD38116A0
-https://www.udemy.com/course/the-data-science-course-2020-q2-updated-part-3/?couponCode=62E977279BD304947645
-https://www.udemy.com/course/temel-c-t-sql-frontend-egitimi/?couponCode=FEBRUARY2021
-https://www.udemy.com/course/programa-aplicaciones-para-android-con-appinventor/?couponCode=JOSECODETECH
-https://www.udemy.com/course/ing_requisitos/?couponCode=D4B1757DB7B6FD3A40FE
-https://www.udemy.com/course/hmi-interfacing-with-plc/?couponCode=FEB22021
-https://www.udemy.com/course/set-up-an-electronics-lab-tools-equipment-laboratory-electronic-solder/?couponCode=FEB22021
-https://www.udemy.com/course/plc-advance-course-data-registers-and-internal-relays/?couponCode=FEB22021
-https://www.udemy.com/course/pic18-microcontroller-step-by-step-guide/?couponCode=FEB22021
-https://www.udemy.com/course/learn-to-code-in-javascript/?couponCode=LEARNTOCODEFREE
+https://www.udemy.com/course/rijqsist/?couponCode=50C8C3D933263AE778E2
+https://www.udemy.com/course/digital-marketing-course-in-bangalore-student-edition/?couponCode=CB569950B5A806EB65CE
+https://www.udemy.com/course/lebanese-and-mediterranean-cuisine-savory-desserts-2in1/?couponCode=443547AED365F43658DD
+https://www.udemy.com/course/delegation-101-learn-how-to-multiply-your-time/?couponCode=7E46391878D0C8EBF6AD
+https://www.udemy.com/course/digital-marketing-and-advertising/?couponCode=COUPONFREE
+https://www.udemy.com/course/data-analysis-statistics/?couponCode=FREEFEB
+https://www.udemy.com/course/fluttercourse/?couponCode=4TH2021
+https://www.udemy.com/course/fotografiabasicaconlightroom/?couponCode=538C191329C33D4E6CE4
+https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=57655BA5CC5B199FE57E
+https://www.udemy.com/course/choosing-a-career-based-on-passion/?couponCode=82CB83135BEBA64E7107
+https://www.udemy.com/course/ebook-marketing-certification-for-authors/?couponCode=DB7E828E0FEF63269441
+https://www.udemy.com/course/ace-your-career-with-the-power-of-artificial-intelligence/?couponCode=9BDBBE8A09425CE47987
 
