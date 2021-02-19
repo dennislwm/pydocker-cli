@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/02/2021
+# Daily Free Udemy Courses - 19/02/2021
 
-https://www.udemy.com/course/rijqsist/?couponCode=50C8C3D933263AE778E2
-https://www.udemy.com/course/digital-marketing-course-in-bangalore-student-edition/?couponCode=CB569950B5A806EB65CE
-https://www.udemy.com/course/lebanese-and-mediterranean-cuisine-savory-desserts-2in1/?couponCode=443547AED365F43658DD
-https://www.udemy.com/course/delegation-101-learn-how-to-multiply-your-time/?couponCode=7E46391878D0C8EBF6AD
-https://www.udemy.com/course/digital-marketing-and-advertising/?couponCode=COUPONFREE
-https://www.udemy.com/course/data-analysis-statistics/?couponCode=FREEFEB
-https://www.udemy.com/course/fluttercourse/?couponCode=4TH2021
-https://www.udemy.com/course/fotografiabasicaconlightroom/?couponCode=538C191329C33D4E6CE4
-https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=57655BA5CC5B199FE57E
-https://www.udemy.com/course/choosing-a-career-based-on-passion/?couponCode=82CB83135BEBA64E7107
-https://www.udemy.com/course/ebook-marketing-certification-for-authors/?couponCode=DB7E828E0FEF63269441
-https://www.udemy.com/course/ace-your-career-with-the-power-of-artificial-intelligence/?couponCode=9BDBBE8A09425CE47987
+https://www.udemy.com/course/decluttering-completa-lorganizzazione-del-corso-della-vita/?couponCode=A542BD9DDD509F86F3BB
+https://www.udemy.com/course/the-story-of-scrum-scrum-in-real-life/?couponCode=85A0634E486C7D7A1802
+https://www.udemy.com/course/web-design-became-childs-play/?couponCode=LEARNWRIKHILNAGPAL
+https://www.udemy.com/course/c-basics-for-beginners-in-arabic/?couponCode=1873F85B5702A9F93A2B
+https://www.udemy.com/course/tailwind/?couponCode=2F8C45AD4056CFDD2DF1
+https://www.udemy.com/course/mobil-szma-testi-kursu/?couponCode=763E979A750D5BA28DE0
+https://www.udemy.com/course/amazon-fba-how-to-find-suppliers-and-manufacturers/?couponCode=07A67DA0E0E650EDA518
+https://www.udemy.com/course/spatial-data-science-in-python/?couponCode=VALENTINE_SALE
+https://www.udemy.com/course/the-complete-character-drawing-masterclass-for-beginners/?couponCode=1F8B2A061F84D6B5507B
+https://www.udemy.com/course/how-to-deliver-an-ipo-roadshow-presentation/?couponCode=C635F04D5AFD07D07939
+https://www.udemy.com/course/c-la-guia-definitiva-aprende-a-programar-de-cero/?couponCode=168084912C3421C050E8
+https://www.udemy.com/course/sell-books-in-amazon-google-play-books-apple-books-as-pro/?couponCode=7E999623AF73474A50DC
 
