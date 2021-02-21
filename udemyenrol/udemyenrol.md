@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/02/2021
+# Daily Free Udemy Courses - 21/02/2021
 
-https://www.udemy.com/course/c-complete-course-for-beginners/?couponCode=FREE2021
-https://www.udemy.com/course/c-intermediate-to-advanced-course-with-project/?couponCode=FREE2021
-https://www.udemy.com/course/recruiting-at-scale-insights-in-hrm/?couponCode=FREE2021
-https://www.udemy.com/course/learning-development-in-hrm/?couponCode=FREE2021
-https://www.udemy.com/course/the-rhythm-of-english/?couponCode=SEFREERHYTHMCOURSE
-https://www.udemy.com/course/fundamentals-of-vlsi-design-technology/?couponCode=6DCA67D4F7125A0FF403
-https://www.udemy.com/course/salesforce-administration-and-development/?couponCode=A374B5E7E448A05A26BF
-https://www.udemy.com/course/fundamental-question-on-power-electronics/?couponCode=C23B1E9C5F38583D1E82
-https://www.udemy.com/course/practical-java-course-for-beginners/?couponCode=21_FEB_FREE_2
-https://www.udemy.com/course/crack-angular-interview-top-111-interview-questions-2021/?couponCode=INTERVIEWQUESTION
-https://www.udemy.com/course/complete-sql-bootcamp-from-zero-to-hero-sql/?couponCode=SS_ACADEMY_SQL1
-https://www.udemy.com/course/certified-quality-engineer-cqe-practice-exam-test/?couponCode=C9BD36A66839DAA7B042
+https://www.udemy.com/course/bug-bounty-2021/?couponCode=FREE21
+https://www.udemy.com/course/matematicas-basicas-logica-aritmetica/?couponCode=GRATIS
+https://www.udemy.com/course/strong-leadership/?couponCode=32AFD2A3B203D218D4DB
+https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners-in-hindi/?couponCode=AA7C5D75C959A4A91E54
+https://www.udemy.com/course/sap-fico-free-video-tutorials-for-beginners-part-5/?couponCode=FREEFEB21
+https://www.udemy.com/course/editing-and-proofreading-course-edit-writing-like-a-pro/?couponCode=3-DAYFREE
+https://www.udemy.com/course/content-marketing-course-/?couponCode=TOPCOPY111111
+https://www.udemy.com/course/gatsbyjs-for-beginners/?couponCode=A1C3362051F1F0C929B8
+https://www.udemy.com/course/create-windows-forms-applications-with-c-and-visual-studio/?couponCode=C6D7234B166168FC474A
+https://www.udemy.com/course/sql-server-database-engine-for-beginners/?couponCode=651AF851072205354710
+https://www.udemy.com/course/introduction-to-data-science-with-python-for-beginners/?couponCode=343A4DB9F42C4558D99F
+https://www.udemy.com/course/how-to-create-crud-application-with-python-and-postgresql/?couponCode=CCCF707344B7346B9BE8
 
