@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/02/2021
+# Daily Free Udemy Courses - 22/02/2021
 
-https://www.udemy.com/course/bug-bounty-2021/?couponCode=FREE21
-https://www.udemy.com/course/matematicas-basicas-logica-aritmetica/?couponCode=GRATIS
-https://www.udemy.com/course/strong-leadership/?couponCode=32AFD2A3B203D218D4DB
-https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners-in-hindi/?couponCode=AA7C5D75C959A4A91E54
-https://www.udemy.com/course/sap-fico-free-video-tutorials-for-beginners-part-5/?couponCode=FREEFEB21
-https://www.udemy.com/course/editing-and-proofreading-course-edit-writing-like-a-pro/?couponCode=3-DAYFREE
-https://www.udemy.com/course/content-marketing-course-/?couponCode=TOPCOPY111111
-https://www.udemy.com/course/gatsbyjs-for-beginners/?couponCode=A1C3362051F1F0C929B8
-https://www.udemy.com/course/create-windows-forms-applications-with-c-and-visual-studio/?couponCode=C6D7234B166168FC474A
-https://www.udemy.com/course/sql-server-database-engine-for-beginners/?couponCode=651AF851072205354710
-https://www.udemy.com/course/introduction-to-data-science-with-python-for-beginners/?couponCode=343A4DB9F42C4558D99F
-https://www.udemy.com/course/how-to-create-crud-application-with-python-and-postgresql/?couponCode=CCCF707344B7346B9BE8
+https://www.udemy.com/course/ignlp-nlp-cbt-hypnosis-certificate-leadership-management-life-coach/?couponCode=C9D3E5222E31398B0318
+https://www.udemy.com/course/diploma-course-in-leadership-business-management-dlbm/?couponCode=CB997D0E39115048BD98
+https://www.udemy.com/course/python-programming-language-for-absolute-beginners-2020/?couponCode=0794EC9F39A0B77F19A0
+https://www.udemy.com/course/instagram-growth-hacking-secrets-2021-insights-big-accounts-followers/?couponCode=8DE829EE8AAD0E0540B9
+https://www.udemy.com/course/how-to-make-flower-jelly-cake/?couponCode=F91EBE554C93905CAD48
+https://www.udemy.com/course/digital-forensics-zero-to-hero-computer-forensics/?couponCode=YOUTUBE
+https://www.udemy.com/course/individual-income-tax-form-1040-comprehensive-problem/?couponCode=E260F6427BEAE3613B18
+https://www.udemy.com/course/linux-security-and-hardening/?couponCode=44708BD748D011B92E06
+https://www.udemy.com/course/r-language-with-hands-on-experience/?couponCode=B262C058983272C60B81
+https://www.udemy.com/course/oracle-database-12c-cloud-advanced-sql-hands-on/?couponCode=38F30572184100E03C6C
+https://www.udemy.com/course/learn-english-vocabulary-and-how-to-use-them-in-sentences/?couponCode=E93E4EB376008C267177
+https://www.udemy.com/course/certified-nursing-assistant-cna-practice-tests-part-3/?couponCode=F2FFB64B343C8C6F4B78
 
