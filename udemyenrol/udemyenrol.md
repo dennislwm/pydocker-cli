@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/02/2021
+# Daily Free Udemy Courses - 24/02/2021
 
-https://www.udemy.com/course/sanskritforbeginners/?couponCode=3F3CE59B63DDCCE2723B
-https://www.udemy.com/course/cpp-yeni-baslayanlar-icin-nesne-yonelimli-programlama/?couponCode=4BD736855B823A1E1CA6
-https://www.udemy.com/course/designing-with-basic-shapes-and-outlines-in-illustrator/?couponCode=FREVCTRILSTRTRCORSXX
-https://www.udemy.com/course/aws-certified-cloud-practitioner-2021-6-x-practice-exams/?couponCode=F44F51DB4262330A4197
-https://www.udemy.com/course/learn-git-and-github-in-2-hours/?couponCode=FEB-2021-FREE
-https://www.udemy.com/course/quality-management/?couponCode=FEB-2021-FREE
-https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=70BEC489630A6E13E51E
-https://www.udemy.com/course/the-complete-telecommuting-course-remote-work-work-life/?couponCode=E1F0686426F37F61F137
-https://www.udemy.com/course/complete-willpower-course-build-self-control-good-habits/?couponCode=A122F6A36E26818B45AB
-https://www.udemy.com/course/how-to-introduce-yourself/?couponCode=58697184E9388B7B2064
-https://www.udemy.com/course/complete-good-sleep-habits-course-sleep-better-tonight/?couponCode=EC9863941F96DC4298CD
-https://www.udemy.com/course/how-to-speak-to-large-audiences/?couponCode=DD279C87A8FC8EA17B49
+https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/?couponCode=3601732E4D95F0E8C959
+https://www.udemy.com/course/5-key-secrets-to-awaken-your-intuition-an-unpacked-gift/?couponCode=FREEUDEMY
+https://www.udemy.com/course/android-game-development-step-by-step/?couponCode=AGD_FREE_FEB21
+https://www.udemy.com/course/regression-analysis-in-machine-learning-statistics-in-r/?couponCode=CA161AACA475E6599D22
+https://www.udemy.com/course/data-analytics-projects-python/?couponCode=FEB_LAST
+https://www.udemy.com/course/restful-api-server-in-nodejs-arabic/?couponCode=48721912F85D2D2ABD15
+https://www.udemy.com/course/mine-crypto-for-free-easily/?couponCode=HAPPYMINING
+https://www.udemy.com/course/what-is-real-agile-part-b/?couponCode=390D73DD88FE8CAEAE44
+https://www.udemy.com/course/ultra-fast-web-design-using-carrd/?couponCode=COMEINWEB
+https://www.udemy.com/course/azure-machine-learning-studio-kodlamasz-makineogrenmesi/?couponCode=GULUMSE
+https://www.udemy.com/course/python-sfrdan-ileri-seviyeye-programlama-kursu/?couponCode=5CA530160
+https://www.udemy.com/course/extreme-automation-in-digital-marketing-certification/?couponCode=EXTREMEAI
 
