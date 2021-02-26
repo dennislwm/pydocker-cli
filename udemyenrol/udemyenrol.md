@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/02/2021
+# Daily Free Udemy Courses - 26/02/2021
 
-https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=FREE_PHOTOSHOP
-https://www.udemy.com/course/computer-vision-masterclass/?couponCode=GIVEAWAY
-https://www.udemy.com/course/aplicaciones-web-desde-0/?couponCode=799711F6290B6BF6FA0F
-https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=9066178AFD5F6B611DEC
-https://www.udemy.com/course/build-ecommerce-dropshipping-store-sell-free-without-shopify-wordpress/?couponCode=FREEFORALL
-https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=8FB3DF65A01F0F84C48F
-https://www.udemy.com/course/photo-editing-with-free-software/?couponCode=B0EC1682A6BFFAEDFFCB
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPFEBFREE
-https://www.udemy.com/course/intro-to-basic-video-creation/?couponCode=3CD527A262145B8757D3
-https://www.udemy.com/course/color-theory-basics-learning-color-theory-with-adobe-color/?couponCode=EF9EEB3D663F23A8F852
-https://www.udemy.com/course/how-to-do-flat-design-for-social-media-marketing-in-canva/?couponCode=0773596205E6A2B4B28F
-https://www.udemy.com/course/beginners-guide-to-creating-basic-logos-with-free-software/?couponCode=3E6F39E50E7DD0B55302
+https://www.udemy.com/course/react-node-cloudinary-sendgrid/?couponCode=FREE_FEB
+https://www.udemy.com/course/digital-forensics-zero-to-hero-computer-forensics/?couponCode=DIGITAL
+https://www.udemy.com/course/advanced-primavera-p6-professional-construction-scheduling/?couponCode=3536CC2E473EAE85F1DD
+https://www.udemy.com/course/einstieg-in-die-bilanzanalyse/?couponCode=CF0B20F974595A0F67B2
+https://www.udemy.com/course/lets-crack-mechanical-design-interview/?couponCode=LETSCRACK
+https://www.udemy.com/course/curso-completo-de-fundamentos-de-computacion/?couponCode=COMPU-FREE01_2021
+https://www.udemy.com/course/kaizen-event-practitioner-training/?couponCode=E7C107B3B86736D3363B
+https://www.udemy.com/course/solidworks-from-beginner-to-professional/?couponCode=1A865076F53C78E7C6C9
+https://www.udemy.com/course/solidworks-drawing-tools-professional-cswpa-dt/?couponCode=10823B9CF868560EFB94
+https://www.udemy.com/course/solidworks-cswp-preparation-exam-sample/?couponCode=BFA973B2EB0B25B27CB4
+https://www.udemy.com/course/solidworks-elementary-fea-finite-element-analysis/?couponCode=9209CAEA2371F094BA7A
+https://www.udemy.com/course/business-ethics-and-values-for-digital-workers-freelancers/?couponCode=FREETILL27FEB
 
