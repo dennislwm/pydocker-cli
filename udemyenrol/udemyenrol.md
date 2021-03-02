@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/03/2021
+# Daily Free Udemy Courses - 02/03/2021
 
-https://www.udemy.com/course/career-hacking-campus-to-corporate-with-complte-resume-guide/?couponCode=CAREER_COACHING
-https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_FEB_FREE
-https://www.udemy.com/course/fundamentals-of-data-analysis/?couponCode=FFCAD222367AC10EEAD0
-https://www.udemy.com/course/fundamentals-of-machine-learning-n/?couponCode=FEE679221D2FD1475425
-https://www.udemy.com/course/learn-all-power-bi-dax-secrets/?couponCode=DISCCUDEMY
-https://www.udemy.com/course/power-query-m-language-with-specialize-in-web-scraping/?couponCode=DSICCUDEMY
-https://www.udemy.com/course/aws-certified-solutions-architect-associate-exams/?couponCode=2178543617C59C20E14F
-https://www.udemy.com/course/create-drop-servicing-website-with-wordpress/?couponCode=LAST-FREE-COUPON
-https://bit.ly/3q6DHZs
-https://www.udemy.com/course/tailwind/?couponCode=B8EA4570304448CCAB73
-https://www.udemy.com/course/spatial-data-science-in-python/?couponCode=FEB_END
-https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=FREE_PHOTOSHOP_CLASS
+https://www.udemy.com/course/how-to-draw-101-shading-basics-shadow-drawing-exercises/?couponCode=FREEBIESGLOBAL-SH3.1
+https://www.udemy.com/course/amazon-kindle-ile-kitap-satarak-para-kazanma/?couponCode=YOUTUBE2
+https://www.udemy.com/course/crash-course-on-cpp-stl/?couponCode=HAPPYLEARNING21
+https://www.udemy.com/course/la-mejor-version-de-vos-sobre-durmientes-y-jugadores/?couponCode=VERSIONFREE2021
+https://www.udemy.com/course/the-beginners-guide-brow-tinting/?couponCode=CFF8B0B1B1E74485817F
+https://www.udemy.com/course/the-complete-beginners-guide-to-facial-threading-in-4-weeks/?couponCode=3D6DF60913837E60F2F6
+https://www.udemy.com/course/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/?couponCode=GRATIS022021
+https://www.udemy.com/course/amazon-limitless-course/?couponCode=FREEAZCOURSE
+https://www.udemy.com/course/java-ile-nesne-merkezli-programlamaya-giris/?couponCode=7504B565BE7B8E6EA0D9
+https://www.udemy.com/course/the-complete-beginners-online-trading-course/?couponCode=FFDD1391BF01A651694F
+https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY10FREE22109
+https://www.udemy.com/course/creacion-de-webservice-con-node-js-y-sql-server/?couponCode=FREE022021
 
