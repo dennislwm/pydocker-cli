@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/03/2021
+# Daily Free Udemy Courses - 03/03/2021
 
-https://www.udemy.com/course/how-to-draw-101-shading-basics-shadow-drawing-exercises/?couponCode=FREEBIESGLOBAL-SH3.1
-https://www.udemy.com/course/amazon-kindle-ile-kitap-satarak-para-kazanma/?couponCode=YOUTUBE2
-https://www.udemy.com/course/crash-course-on-cpp-stl/?couponCode=HAPPYLEARNING21
-https://www.udemy.com/course/la-mejor-version-de-vos-sobre-durmientes-y-jugadores/?couponCode=VERSIONFREE2021
-https://www.udemy.com/course/the-beginners-guide-brow-tinting/?couponCode=CFF8B0B1B1E74485817F
-https://www.udemy.com/course/the-complete-beginners-guide-to-facial-threading-in-4-weeks/?couponCode=3D6DF60913837E60F2F6
-https://www.udemy.com/course/php-y-mysql-convierte-cualquier-template-html-en-una-webapp/?couponCode=GRATIS022021
-https://www.udemy.com/course/amazon-limitless-course/?couponCode=FREEAZCOURSE
-https://www.udemy.com/course/java-ile-nesne-merkezli-programlamaya-giris/?couponCode=7504B565BE7B8E6EA0D9
-https://www.udemy.com/course/the-complete-beginners-online-trading-course/?couponCode=FFDD1391BF01A651694F
-https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY10FREE22109
-https://www.udemy.com/course/creacion-de-webservice-con-node-js-y-sql-server/?couponCode=FREE022021
+https://www.udemy.com/course/ukulele-play-along-songs/?couponCode=UKULELE
+https://www.udemy.com/course/data-structures-with-python/?couponCode=FREE2021PYTHON3
+https://www.udemy.com/course/sales-and-relationship-management/?couponCode=HAPPY-CUSTOMERS
+https://www.udemy.com/course/pinterest-marketing-for-beginners/?couponCode=68379FDF1328358F4280
+https://www.udemy.com/course/core-java-programming-language-tutorial/?couponCode=FC1D04367355D4C93FF5
+https://www.udemy.com/course/automation-testing-masterclass/?couponCode=3795FF9C4258F6A2EAB2
+https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL57720
+https://www.udemy.com/course/learning-english-for-arabic-speakers/?couponCode=A66F00838666B7065A8D
+https://www.udemy.com/course/sc-300-exam-prep-microsoft-identity-and-access-administrator/?couponCode=FREE030121
+https://www.udemy.com/course/learn-norwegian-master-beginners-norwegian/?couponCode=46FA8B57EE7D35704A30
+https://www.udemy.com/course/creacion-de-api-rest-web-service-con-python-y-mysql/?couponCode=GRATIS032021
+https://www.udemy.com/course/filosofia-de-la-persuasion/?couponCode=FILOSFREEMAR2021
 
