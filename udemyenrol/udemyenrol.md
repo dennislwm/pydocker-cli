@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/03/2021
+# Daily Free Udemy Courses - 06/03/2021
 
-https://www.udemy.com/course/advanced-heat-transfer-heat-exchangers/?couponCode=FREEMARCH
-https://www.udemy.com/course/learn-advanced-level-python-programming/?couponCode=8B94F420B04EBD8B663C
-https://www.udemy.com/course/el-mejor-metodo-para-aprender-ingles-conversacional/?couponCode=5FA0C1D2B6B12D53E9C8
-https://www.udemy.com/course/introduction-to-mindfulness-meditation-1/?couponCode=FREE-MARCH-1
-https://www.udemy.com/course/bitcoin-mining-farm-infrastructure-fundamentals/?couponCode=DAD2BC4CCFF1EE6BEBEF
-https://www.udemy.com/course/user-centred-design/?couponCode=11672DDA707C8CF5C588
-https://www.udemy.com/course/python-for-beginners-course-/?couponCode=98E2BDEFD4D74A92CA51
-https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=2B0501F7C0339EA16335
-https://www.udemy.com/course/investing-in-single-family-rentals/?couponCode=2021-SPRING-SALE
-https://www.udemy.com/course/survival-skills-for-the-new-trainer/?couponCode=MAR2021
-https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=TOPDYNAMIC111
-https://www.udemy.com/course/installing-configuring-dns-services-on-windows-server-2016/?couponCode=MAR2021
+https://www.udemy.com/course/egyptian-food-hawawshi/?couponCode=60EFF2E9E6CB4AF4D09C
+https://www.udemy.com/course/investment-portfolio-optimization-with-excel-r/?couponCode=THANKS4UREVIEWS
+https://www.udemy.com/course/facebook-ads-secrets-step-by-step/?couponCode=FBADSTART042021
+https://www.udemy.com/course/car-repair-bootcamp-tunning-hacking-masterclass/?couponCode=UDEMYFREE
+https://www.udemy.com/course/mysql-database-development-mastery/?couponCode=MYSQL_MARCH_FREE
+https://www.udemy.com/course/advanced-php-web-development-w-mysql-github-bootstrap-4/?couponCode=PHP_MARCH_FREE
+https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_MARCH_FREE
+https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/?couponCode=MSSQL_MARCH_FREE
+https://www.udemy.com/course/functional-programming-learnit/?couponCode=FP_MARCH_FREE
+https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=CSHARP_MARCH_FREE
+https://www.udemy.com/course/publicspeakingtactics/?couponCode=FE177B015EEE46C7D33B
+https://www.udemy.com/course/course-on-superchargers-supercharging-basic-to-advanced/?couponCode=SUPER123
 
