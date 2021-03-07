@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/03/2021
+# Daily Free Udemy Courses - 07/03/2021
 
-https://www.udemy.com/course/egyptian-food-hawawshi/?couponCode=60EFF2E9E6CB4AF4D09C
-https://www.udemy.com/course/investment-portfolio-optimization-with-excel-r/?couponCode=THANKS4UREVIEWS
-https://www.udemy.com/course/facebook-ads-secrets-step-by-step/?couponCode=FBADSTART042021
-https://www.udemy.com/course/car-repair-bootcamp-tunning-hacking-masterclass/?couponCode=UDEMYFREE
-https://www.udemy.com/course/mysql-database-development-mastery/?couponCode=MYSQL_MARCH_FREE
-https://www.udemy.com/course/advanced-php-web-development-w-mysql-github-bootstrap-4/?couponCode=PHP_MARCH_FREE
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_MARCH_FREE
-https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/?couponCode=MSSQL_MARCH_FREE
-https://www.udemy.com/course/functional-programming-learnit/?couponCode=FP_MARCH_FREE
-https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=CSHARP_MARCH_FREE
-https://www.udemy.com/course/publicspeakingtactics/?couponCode=FE177B015EEE46C7D33B
-https://www.udemy.com/course/course-on-superchargers-supercharging-basic-to-advanced/?couponCode=SUPER123
+https://www.udemy.com/course/supercomputing/?couponCode=LINUX4HPC-FREE
+https://www.udemy.com/course/accelerate-your-career-growth-through-a-proven-process/?couponCode=MANFREE1
+https://www.udemy.com/course/sound-healing-vocal-toning-sound-healing-at-home/?couponCode=125E3EBFAC6669F95D18
+https://www.udemy.com/course/the-complete-html-css-bootcamp-zero-to-hero-html-css/?couponCode=SS-ACADEMY-HTML1
+https://www.udemy.com/course/online-marketing-kurs/?couponCode=GIFT-FOR-YOU
+https://www.udemy.com/course/advanced-microsoft-powerpoint/?couponCode=POWERPOINTFREE1-3
+https://www.udemy.com/course/fundamental-question-on-ethical-hacking/?couponCode=74B74426D6168C3D3B99
+https://www.udemy.com/course/photo-editing-with-free-software/?couponCode=9C2599C9E06780C73F16
+https://www.udemy.com/course/options-trading-the-essential-guide-to-profitability/?couponCode=DOWJONES
+https://www.udemy.com/course/java-basico-para-recruiters-y-no-programadores/?couponCode=FREE-3DAYS-MARZO
+https://www.udemy.com/course/beginners-guide-to-creating-basic-logos-with-free-software/?couponCode=0654657FD7C0283F67E8
+https://bit.ly/3cc5raj
 
