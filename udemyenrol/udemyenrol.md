@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/03/2021
+# Daily Free Udemy Courses - 13/03/2021
 
-https://www.udemy.com/course/cybersecurity-fundamentals/?couponCode=D3FE99E4A01B5DB05866
-https://www.udemy.com/course/amazonda-retail-arbitrage-ve-private-label-fba-egitimi/?couponCode=6ED20A1AE0AE73B00730
-https://www.udemy.com/course/a1-a2-temel-seviye-ingilizce-kursu-tum-konular-ve-yaplar/?couponCode=WELCOME1
-https://www.udemy.com/course/create-digital-lesson-plan-presentation-in-5-minutes/?couponCode=ANSHUAGGARWAL
-https://www.udemy.com/course/how-to-draw-101-shading-basics-shadow-drawing-exercises/?couponCode=FREEBIESGLOBAL-SH3.2
-https://www.udemy.com/course/r-programming-course-for-absolute-beginners/?couponCode=LEARN101
-https://www.udemy.com/course/the-complete-microsoft-sharepoint-masterclass/?couponCode=8MARTCH
-https://www.udemy.com/course/statistics-with-r-beginner-level/?couponCode=IDENTICAL
-https://bit.ly/30AllWG
-https://www.udemy.com/course/six-sigma-white-belt/?couponCode=10MARCH2021
-https://www.udemy.com/course/fatherhood/?couponCode=FMHGDEXPMARCH132021
-https://www.udemy.com/course/developing-html5-multiplayer-browser-games-also-know-as-io/?couponCode=VISIT-SOLCODE-IG
+https://www.udemy.com/course/get-organised-manage-time-effectively/?couponCode=B9B9EF7782C64E939A28
+https://www.udemy.com/course/brazilian-portuguese-the-ultimate-course-level-1/?couponCode=MARCH-FOR-FREE
+https://www.udemy.com/course/mastering-the-interview-b/?couponCode=MAR2021
+https://www.udemy.com/course/certificacion-de-anuncios-de-facebook/?couponCode=46EE40F74DC08FE652F6
+https://www.udemy.com/course/python-for-machine-learning-with-numpy-and-pandas/?couponCode=CW3DAYSFREE
+https://www.udemy.com/course/learn-italian-for-beginners-and-travelers-course/?couponCode=082098BE85E0A5D8C703
+https://www.udemy.com/course/information-technology-fundamentals-f/?couponCode=CCBE81EE158F1D117656
+https://www.udemy.com/course/best-hacking-tools-using-termux-on-android-part-1/?couponCode=E7EA0085FFF9CC5D3D86
+https://www.udemy.com/course/lanzando-una-idea-de-negocio-desde-cero-paso-a-paso/?couponCode=8FBD39CE89D6403CE5BD
+https://www.udemy.com/course/modern-web-scraping-in-python/?couponCode=4EE1451A3706F2B467F4
+https://www.udemy.com/course/basics-of-stop-motion-animation-using-canva-and-openshot/?couponCode=411707E2CC7B2B9B8952
+https://www.udemy.com/course/power-bi-para-business-inteligence-de-0-a-100/?couponCode=MARZO2021
 
