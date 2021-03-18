@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/03/2021
+# Daily Free Udemy Courses - 18/03/2021
 
-https://www.udemy.com/course/lightworks-video-editing/?couponCode=DFD7231BB06CDED197C0
-https://www.udemy.com/course/tricks-to-create-excelling-youtube-channel/?couponCode=FE375A148E31C82F3F18
-https://www.udemy.com/course/vim-profesional/?couponCode=9C3F7CC5E94617AF3E87
-https://www.udemy.com/course/ultimate-turkish/?couponCode=525EA4ED6AEF81D67785
-https://www.udemy.com/course/anxiety-to-excitement/?couponCode=MAR2021
-https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL52338
-https://www.udemy.com/course/html-javascript-bootstrap-certification-course/?couponCode=YOUACCEL52338
-https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL52338
-https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCEL52338
-https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=4810D2F831605D4377ED
-https://www.udemy.com/course/sap-basis-erp/?couponCode=1526D11637411170948F
-https://www.udemy.com/course/englishlanguageskills/?couponCode=601A1B9DA66056B449B9
+https://www.udemy.com/course/app-android-y-sistema-para-karaoke-en-xamarin-forms/?couponCode=510045DE2BB8696CA003
+https://www.udemy.com/course/redacao-empresarial-com-atualizacao-gramatical/?couponCode=866520F4CC3B816427CA
+https://www.udemy.com/course/first-steps-into-recruitment-and-selection/?couponCode=MAR2021
+https://www.udemy.com/course/achievement-masterclass/?couponCode=FE0A7DBA668CE2568C89
+https://www.udemy.com/course/productivity-guide/?couponCode=08A124CEE4865BE24E1C
+https://www.udemy.com/course/alexa-skills-aplicaciones-de-voz-con-alexa/?couponCode=MARZO-2021-GRATIS
+https://www.udemy.com/course/google-analytics-reports/?couponCode=14439E64F8EC8D7F54F5
+https://www.udemy.com/course/how-to-sell-google-ads/?couponCode=FE19CC0876069CB23601
+https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEMAR2
+https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEMAR2
+https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEMAR2
+https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEMAR2
 
