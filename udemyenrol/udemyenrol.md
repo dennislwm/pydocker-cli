@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/03/2021
+# Daily Free Udemy Courses - 22/03/2021
 
-https://www.udemy.com/course/the-future-of-digital-marketing-tips-for-2021-and-beyond/?couponCode=FREE2021MARKETING
-https://www.udemy.com/course/the-complete-leadership-mastery-course/?couponCode=DE5C38826F6D7A9258D6
-https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=OMGITISFREE
-https://www.udemy.com/course/palo-alto-ngfw-for-arab/?couponCode=FREE4ARAB
-https://www.udemy.com/course/ehyuekss/?couponCode=0C7529B0D2EFB397EF53
-https://www.udemy.com/course/typing-faster-methods/?couponCode=ENDSSOON
-https://www.udemy.com/course/dummy-variables-for-regression-models/?couponCode=00127BF9792D0A958B8C
-https://www.udemy.com/course/introduction-to-music-production/?couponCode=786C30DAAAD22A24E22D
-https://www.udemy.com/course/egg-timer-igcse-business-studies/?couponCode=SPRINGSTART
-https://www.udemy.com/course/data-science-machine-learning-a-z-hands-on-python/?couponCode=D722181906497C555E15
-https://www.udemy.com/course/curso-de-tableau-analisis-de-datos-y-visualizaciones/?couponCode=MARCH2021
-https://www.udemy.com/course/react-typescript-complete-master-class/?couponCode=REACTTYPESCRIPTFREE
+https://www.udemy.com/course/find-the-right-it-job/?couponCode=MARCHFREE1
+https://www.udemy.com/course/linux-technical-interview-questions-and-answers/?couponCode=MARCHFREE1
+https://www.udemy.com/course/introduccion-a-azure/?couponCode=ANIVERSARIO2
+https://www.udemy.com/course/life-after-graduation/?couponCode=COACHING_AN_ENGINEER
+https://www.udemy.com/course/mapas-mentais-revolucione-sua-vida-pessoal-e-profissional/?couponCode=89276EDFF7F38FF8A3AE
+https://www.udemy.com/course/maya-3d-masterclass-modeling-a-3d-sci-fi-vehicle-in-maya/?couponCode=MARCH2
+https://www.udemy.com/course/learn-local-seo-make-your-site-rank-higher/?couponCode=71980AA77688A38E60AD
+https://www.udemy.com/course/blockchain-technology-the-complete-course-for-beginners/?couponCode=FREEBTC
+https://www.udemy.com/course/ipo-intensive-course-on-investing-in-intial-public-offering/?couponCode=CA76069C57D656995F6D
+https://www.udemy.com/course/productivity-and-time-management-masterclass-for-all/?couponCode=ECE6E5E06D196C43E65E
+https://www.udemy.com/course/business-intelligence-with-power-bi-desktop/?couponCode=74FECAAC944CE126C53F
+https://www.udemy.com/course/build-a-to-do-list-with-react-express-and-mongodb-2021/?couponCode=SAMAQA4U
 
