@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/03/2021
+# Daily Free Udemy Courses - 23/03/2021
 
-https://www.udemy.com/course/find-the-right-it-job/?couponCode=MARCHFREE1
-https://www.udemy.com/course/linux-technical-interview-questions-and-answers/?couponCode=MARCHFREE1
-https://www.udemy.com/course/introduccion-a-azure/?couponCode=ANIVERSARIO2
-https://www.udemy.com/course/life-after-graduation/?couponCode=COACHING_AN_ENGINEER
-https://www.udemy.com/course/mapas-mentais-revolucione-sua-vida-pessoal-e-profissional/?couponCode=89276EDFF7F38FF8A3AE
-https://www.udemy.com/course/maya-3d-masterclass-modeling-a-3d-sci-fi-vehicle-in-maya/?couponCode=MARCH2
-https://www.udemy.com/course/learn-local-seo-make-your-site-rank-higher/?couponCode=71980AA77688A38E60AD
-https://www.udemy.com/course/blockchain-technology-the-complete-course-for-beginners/?couponCode=FREEBTC
-https://www.udemy.com/course/ipo-intensive-course-on-investing-in-intial-public-offering/?couponCode=CA76069C57D656995F6D
-https://www.udemy.com/course/productivity-and-time-management-masterclass-for-all/?couponCode=ECE6E5E06D196C43E65E
-https://www.udemy.com/course/business-intelligence-with-power-bi-desktop/?couponCode=74FECAAC944CE126C53F
-https://www.udemy.com/course/build-a-to-do-list-with-react-express-and-mongodb-2021/?couponCode=SAMAQA4U
+https://www.udemy.com/course/cuenta-instagram-empresa-2021-facebook-business-manager-photoshop/?couponCode=22MARZO2021
+https://www.udemy.com/course/the-best-dropshipping-tips-and-tricks/?couponCode=THANKYOU
+https://www.udemy.com/course/zoom-masterclass-grundlagen-anleitungen-und-geheime-tricks/?couponCode=2A8CBA5B7D78B4AB7CB4
+https://www.udemy.com/course/learn-how-to-become-a-successful-exporter/?couponCode=3CE35018769391A1692D
+https://www.udemy.com/course/leadership-and-supervision-skills/?couponCode=MAR2021
+https://www.udemy.com/course/learn-javascript-from-scratch-2021-edition/?couponCode=A2Z-JAVASCRIPT
+https://www.udemy.com/course/facebook-marketing-for-lead-generation-and-web-conversion/?couponCode=FREENOW
+https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=27C4F2BE315B525430CB
+https://www.udemy.com/course/machine-learning-predictive-models-in-r-theory-practice/?couponCode=C0EEE13A78EC472FA01B
+https://www.udemy.com/course/english-language-basics-for-beginners/?couponCode=MARCH22
+https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=DBC4A6DF44DAA089759F
+https://bit.ly/316IhNc
 
