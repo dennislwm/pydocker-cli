@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/03/2021
+# Daily Free Udemy Courses - 26/03/2021
 
-https://www.udemy.com/course/c-for-absolute-beginners-from-zero-to-hero/?couponCode=E7C4274D97716FF9AEBB
-https://www.udemy.com/course/learn-yaml/?couponCode=69100042FB64FDBED055
-https://www.udemy.com/course/artificial-intelligence-music-creation-remixing-2018/?couponCode=YESTRENDINGNOW
-https://www.udemy.com/course/davinci-resolve-correccion-de-color-17/?couponCode=D1CDFE052BD6D543E752
-https://www.udemy.com/course/claim-your-healing-heal-trauma-physical-mental-emotional/?couponCode=F1F4CC62EEC1ACD7FE6C
-https://www.udemy.com/course/advanced-acoustic-guitar-fingerpicking/?couponCode=PICKING-ADVANCED
-https://www.udemy.com/course/turn-your-idea-into-a-stunning-video-in-minutes/?couponCode=7809D319D391475293B4
-https://www.udemy.com/course/learn-microsoft-planner-course/?couponCode=TRY10FREE32107
-https://www.udemy.com/course/learn-basic-trello/?couponCode=TRY10FREE32107
-https://www.udemy.com/course/learn-microsoft-powerapps-/?couponCode=TRY10FREE32107
-https://www.udemy.com/course/learn-microsoft-teams/?couponCode=TRY10FREE32107
-https://www.udemy.com/course/learn-microsoft-publisher/?couponCode=TRY10FREE32107
+https://www.udemy.com/course/business-plan-success/?couponCode=DBD34B1C9EF1B24653CB
+https://www.udemy.com/course/excel-pivot-tabellen/?couponCode=4D9C06177324762171DE
+https://www.udemy.com/course/master-hard-surface-modeling-in-maya-2020/?couponCode=MARCH4
+https://www.udemy.com/course/modeling-and-rendering-cute-characters-in-maya-2020/?couponCode=MARCH5
+https://www.udemy.com/course/facebook-ads-y-google-ads-curso-de-campanas-de-anuncios/?couponCode=49F77402A29AFF7EBE35
+https://www.udemy.com/course/complete-video-marketing-course/?couponCode=FIVESTARSCOURSE
+https://www.udemy.com/course/primavera-p6-pmp-planupdatecontrol-arabic/?couponCode=166607DC0365F6B89219
+https://www.udemy.com/course/migrating-it-infrastructure-from-windows-7-to-windows-10/?couponCode=MAR2021
+https://bit.ly/31ffcPZ
+https://www.udemy.com/course/tubeheroes/?couponCode=228AB382024E5159DF6F
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALSTRATEGY
+https://www.udemy.com/course/all-exports-documentation-procedure-any-country-of-origin/?couponCode=B63044E2DCF89E25B547
 
