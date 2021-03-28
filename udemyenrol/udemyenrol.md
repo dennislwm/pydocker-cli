@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/03/2021
+# Daily Free Udemy Courses - 28/03/2021
 
-https://www.udemy.com/course/scientific-python-masterclass/?couponCode=SCIPYTHON-FREE
-https://www.udemy.com/course/from-stranger-to-a-high-paying-customer-secret-formula/?couponCode=FREEFORME
-https://www.udemy.com/course/javaeclipse-programmation-oriente-objet/?couponCode=75F616D23E0F888A04F1
-https://www.udemy.com/course/communications-multimedia/?couponCode=4125B3EC9A72F7FEF075
-https://www.udemy.com/course/windev-logiciel/?couponCode=140B4DD3089FA4F8B535
-https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL50637
-https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL50637
-https://www.udemy.com/course/mastering-sql-server/?couponCode=MONTH_END_GALA
-https://www.udemy.com/course/60-day-startup/?couponCode=ROCKSTAR69VER1
-https://bit.ly/3cn4woz
-https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=42A473663FE0035811D8
-https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=C862CE04F60261FACC41
+https://www.udemy.com/course/robotik-kodlama-egitimi/?couponCode=4BC7AC7D67BFE45AE273
+https://www.udemy.com/course/11-great-ways-to-innovate/?couponCode=70504FDAA01BADD21220
+https://www.udemy.com/course/color-correction-grading-with-adobe-premiere-pro/?couponCode=524EFE68973E09FCA6B3
+https://www.udemy.com/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/?couponCode=C36B9C70942A60765682
+https://www.udemy.com/course/o-fig-scm-en/?couponCode=FREEODOOSCM
+https://www.udemy.com/course/selenium-in-java-taf-for-beginners-learnit/?couponCode=SEL_MAR_FREE_2
+https://www.udemy.com/course/how-to-create-a-youtube-channel/?couponCode=0EA2DB2FE4EEA51B234B
+https://www.udemy.com/course/how-to-write-a-romance-novel/?couponCode=D1FEB60F804875B693DB
+https://www.udemy.com/course/financial-accounting-closing-process/?couponCode=9324AAAD8D5CFDDED139
+https://www.udemy.com/course/financial-accountinginventory-merchandising-transactions/?couponCode=89A615128E2DC910EEC4
+https://www.udemy.com/course/partnership-accounting/?couponCode=EF0A93031BB03D57D2D8
+https://www.udemy.com/course/financial-accounting-adjusting-entries-financial-statement/?couponCode=4E3EC5E968A53FA055AE
 
