@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/03/2021
+# Daily Free Udemy Courses - 01/04/2021
 
-https://www.udemy.com/course/bitcoin2/?couponCode=1MAR21
-https://www.udemy.com/course/c-programming-guide-for-beginners/?couponCode=FREE2021MAR
-https://www.udemy.com/course/how-to-find-the-next-million-dollar-cryptocurrency/?couponCode=D3PROMO100
-https://www.udemy.com/course/learn-basics-of-adobe-photoshop-cc-for-beginners/?couponCode=BEB788C0F56EE74128B1
-https://www.udemy.com/course/2-in-1-cisco-ccna-200-301-python-network-automation/?couponCode=B1C84079081E45DAE376
-https://www.udemy.com/course/learn-servlets-basics-in-a-few-hours/?couponCode=LEARNTHISSPRING
-https://www.udemy.com/course/the-complete-sqli/?couponCode=FREESQLI
-https://www.udemy.com/course/learn-php-for-beginners-n/?couponCode=CLUBHOUSE101
-https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=CLUBHOUSE101
-https://www.udemy.com/course/learn-bootstrap-for-beginners/?couponCode=CLUBHOUSE101
-https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=CLUBHOUSE101
-https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=CLUBHOUSE101
+https://www.udemy.com/course/ui-ux-adobe-xd-masterclass-app-designing-guide-to-earning/?couponCode=48C93741E3FC06CF4685
+https://www.udemy.com/course/creating-a-cartoon-octopus-monster-in-maya-2020/?couponCode=MARCH8
+https://www.udemy.com/course/creating-a-cartoon-monster-in-maya-2020/?couponCode=MARCH10
+https://www.udemy.com/course/unternehmensgrundung-fur-einsteiger/?couponCode=C0C24119D9D6ECE1AE27
+https://www.udemy.com/course/mastering-the-fundamental-of-quantum-physics-level-1-course/?couponCode=937CBE9480FD64D0C8A1
+https://www.udemy.com/course/learn-html-css-and-bootstrap-5-to-make-responsive-websites-t/?couponCode=74D5507086462EB2479B
+https://www.udemy.com/course/digital-marketing-strategy-course-wordpress-seo-instagram-facebook/?couponCode=LOVETIME21
+https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=7CF4AB9D278CF4BBD33F
+https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/?couponCode=GIFTFORHOLIMARCH21
+https://www.udemy.com/course/complete-arabic-course-learn-arabic-for-beginners/?couponCode=718D1F44C2100566C608
+https://bit.ly/3sEMnIN
+https://www.udemy.com/course/active-directory-red-team-hacking/?couponCode=3F183F296BDEA5536245
 
