@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/04/2021
+# Daily Free Udemy Courses - 03/04/2021
 
-https://www.udemy.com/course/master-class-on-time-productivity-and-stress-management/?couponCode=DB6A443454DF76388FB9
-https://www.udemy.com/course/boost-your-confidence-self-esteem-30-guide/?couponCode=F02D858A17E80298F6E3
-https://www.udemy.com/course/2021-learn-flute-basics-beginners-guide-part-2/?couponCode=LEARNCARNATICFLUTE
-https://www.udemy.com/course/2021-carnatic-flute-basics-swarajathis-swarapallavis/?couponCode=CARNATICFLUTEPART3
-https://www.udemy.com/course/yaplacaklar-listesi-todo-list-musteri-panelli/?couponCode=9882C644F4244268741E
-https://www.udemy.com/course/introduccion-a-google-cloud-platform/?couponCode=ANIVERSARIO
-https://www.udemy.com/course/design-thinking-for-the-employee-experience-crash-course/?couponCode=LEARNVIRAL
-https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=MARCH_END
-https://www.udemy.com/course/wordpress-for-absolute-beginners-course/?couponCode=WORDPRESSAPR2021
-https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=BE1225A733E03A07C707
-https://www.udemy.com/course/chinese-for-beginners-mandarin-learning-course/?couponCode=96D7C2661C26AA002C81
-https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial/?couponCode=0B047C9C2A7A03BF4F41
+https://www.udemy.com/course/mysql-database-admin-dba-for-beginners/?couponCode=8A07CBE4D538273296BA
+https://www.udemy.com/course/become-a-mean-stack-developer-mongodb-expressangularnode/?couponCode=BE554CDCC742430A6BF0
+https://www.udemy.com/course/a-to-z-of-business-studies/?couponCode=ALPHABUS
+https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-ii/?couponCode=FREECODE
+https://www.udemy.com/course/2021-scrum-for-product-owner-and-scrum-master-course/?couponCode=740CF97E0A73A6A71818
+https://www.udemy.com/course/mastering-portrait-photography/?couponCode=PORTRAITAPR2021
+https://www.udemy.com/course/12-weekend-coding-projects-for-beginners-from-scratch/?couponCode=BE37595ECC5F0594AC7D
+https://bit.ly/31G7hLJ
+https://www.udemy.com/course/introduction-to-data-science-with-python-for-beginners/?couponCode=36B5C7B9CCF891037AF1
+https://www.udemy.com/course/easypy3-python-for-beginners/?couponCode=APR2021
+https://www.udemy.com/course/christmas-blues/?couponCode=POSITIVITY
+https://www.udemy.com/course/expressive-drawing-painting-mixed-media-techniques-course/?couponCode=THANKSFORREVIEW
 
