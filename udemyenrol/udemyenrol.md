@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/04/2021
+# Daily Free Udemy Courses - 04/04/2021
 
-https://www.udemy.com/course/mysql-database-admin-dba-for-beginners/?couponCode=8A07CBE4D538273296BA
-https://www.udemy.com/course/become-a-mean-stack-developer-mongodb-expressangularnode/?couponCode=BE554CDCC742430A6BF0
-https://www.udemy.com/course/a-to-z-of-business-studies/?couponCode=ALPHABUS
-https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-ii/?couponCode=FREECODE
-https://www.udemy.com/course/2021-scrum-for-product-owner-and-scrum-master-course/?couponCode=740CF97E0A73A6A71818
-https://www.udemy.com/course/mastering-portrait-photography/?couponCode=PORTRAITAPR2021
-https://www.udemy.com/course/12-weekend-coding-projects-for-beginners-from-scratch/?couponCode=BE37595ECC5F0594AC7D
-https://bit.ly/31G7hLJ
-https://www.udemy.com/course/introduction-to-data-science-with-python-for-beginners/?couponCode=36B5C7B9CCF891037AF1
-https://www.udemy.com/course/easypy3-python-for-beginners/?couponCode=APR2021
-https://www.udemy.com/course/christmas-blues/?couponCode=POSITIVITY
-https://www.udemy.com/course/expressive-drawing-painting-mixed-media-techniques-course/?couponCode=THANKSFORREVIEW
+https://www.udemy.com/course/how-to-create-an-effective-football-soccer-analysis-video/?couponCode=BC73A53F7724B79DC642
+https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/?couponCode=E3FEE55527BA454149AC
+https://www.udemy.com/course/build-a-team-and-succeed/?couponCode=636FF76BFAEF6CF5311D
+https://www.udemy.com/course/pianoscales/?couponCode=PIANO-SCALES3-21
+https://www.udemy.com/course/csharpin5hours/?couponCode=D3291207992BACFA5945
+https://www.udemy.com/course/basic-chinese-abc-for-zero-beginners/?couponCode=02CCCF6DA574E19CC391
+https://www.udemy.com/course/bonds-insurances-payments-cash-flow-earned-value/?couponCode=FREE100_ENGMOSTAFA
+https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/?couponCode=MSSQL_APR_FREE
+https://www.udemy.com/course/mysql-database-development-mastery/?couponCode=MYSQL_APR_FREE
+https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_APR_FREE
+https://www.udemy.com/course/the-python-programming-v39-comprehensive-bootcamp/?couponCode=3E5F099B742A24BB68C6
+https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=CSHARP_APR_FREE
 
