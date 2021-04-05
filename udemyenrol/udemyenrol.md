@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/04/2021
+# Daily Free Udemy Courses - 05/04/2021
 
-https://www.udemy.com/course/how-to-create-an-effective-football-soccer-analysis-video/?couponCode=BC73A53F7724B79DC642
-https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/?couponCode=E3FEE55527BA454149AC
-https://www.udemy.com/course/build-a-team-and-succeed/?couponCode=636FF76BFAEF6CF5311D
-https://www.udemy.com/course/pianoscales/?couponCode=PIANO-SCALES3-21
-https://www.udemy.com/course/csharpin5hours/?couponCode=D3291207992BACFA5945
-https://www.udemy.com/course/basic-chinese-abc-for-zero-beginners/?couponCode=02CCCF6DA574E19CC391
-https://www.udemy.com/course/bonds-insurances-payments-cash-flow-earned-value/?couponCode=FREE100_ENGMOSTAFA
-https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/?couponCode=MSSQL_APR_FREE
-https://www.udemy.com/course/mysql-database-development-mastery/?couponCode=MYSQL_APR_FREE
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_APR_FREE
-https://www.udemy.com/course/the-python-programming-v39-comprehensive-bootcamp/?couponCode=3E5F099B742A24BB68C6
-https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=CSHARP_APR_FREE
+https://www.udemy.com/course/amazon-fba-mastery-course-how-to-sell-on-amazon/?couponCode=3BBB7E8990D4BB79850B
+https://www.udemy.com/course/the-complete-oracle-sql-development-bootcamp-2021/?couponCode=ORACLE4EVERYONE
+https://www.udemy.com/course/learn-economics-from-scratch-eco04/?couponCode=TEACHLEADX
+https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=BED138AA19FA7A2F470F
+https://www.udemy.com/course/easily-setup-online-global-business-from-anywhere-anytime/?couponCode=E6B66DBC7AE20989D2D8
+https://www.udemy.com/course/learn-css-and-bootstrap-from-scratch/?couponCode=CSS3APR2021
+https://www.udemy.com/course/bookkeepingquickbooksonline/?couponCode=APRILPROMOTION
+https://www.udemy.com/course/online-seo-training/?couponCode=DOGOOD7777777
+https://www.udemy.com/course/active-directory-administration-for-helpdesk-technicians/?couponCode=APR2021
+https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=APR_START
+https://www.udemy.com/course/basics-of-pricing-arabic/?couponCode=AB7F2C757BE5A4EFC9DE
+https://www.udemy.com/course/curso-microsoft-power-bi/?couponCode=ABR2021
 
