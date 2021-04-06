@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/04/2021
+# Daily Free Udemy Courses - 06/04/2021
 
-https://www.udemy.com/course/amazon-fba-mastery-course-how-to-sell-on-amazon/?couponCode=3BBB7E8990D4BB79850B
-https://www.udemy.com/course/the-complete-oracle-sql-development-bootcamp-2021/?couponCode=ORACLE4EVERYONE
-https://www.udemy.com/course/learn-economics-from-scratch-eco04/?couponCode=TEACHLEADX
-https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=BED138AA19FA7A2F470F
-https://www.udemy.com/course/easily-setup-online-global-business-from-anywhere-anytime/?couponCode=E6B66DBC7AE20989D2D8
-https://www.udemy.com/course/learn-css-and-bootstrap-from-scratch/?couponCode=CSS3APR2021
-https://www.udemy.com/course/bookkeepingquickbooksonline/?couponCode=APRILPROMOTION
-https://www.udemy.com/course/online-seo-training/?couponCode=DOGOOD7777777
-https://www.udemy.com/course/active-directory-administration-for-helpdesk-technicians/?couponCode=APR2021
-https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=APR_START
-https://www.udemy.com/course/basics-of-pricing-arabic/?couponCode=AB7F2C757BE5A4EFC9DE
-https://www.udemy.com/course/curso-microsoft-power-bi/?couponCode=ABR2021
+https://www.udemy.com/course/digital-forensics-zero-to-hero-computer-forensics/?couponCode=FORENSICS
+https://www.udemy.com/course/android-studio-basics-using-java-windows-10/?couponCode=93EA24C1DD13F695039F
+https://www.udemy.com/course/certified-ecommerce-management-professional-cpd-accredited/?couponCode=FREEMAY
+https://www.udemy.com/course/how-to-find-keywords-on-a-website-with-mangool-seo-tools/?couponCode=CDC2E877BA325B76E381
+https://www.udemy.com/course/microservicios-api-management-wso2/?couponCode=EBA46B7769FB399F4E61
+https://www.udemy.com/course/create-infographics-and-tell-a-story/?couponCode=69A8AAE07FCDF5B75EF1
+https://www.udemy.com/course/dealing-with-difficult-people-h/?couponCode=MAR2021
+https://www.udemy.com/course/rest-api-using-mongodb-and-nodejs-beginners-guide/?couponCode=47456B153ED2D6ACAFBD
+https://www.udemy.com/course/business-analytics-with-r-2021/?couponCode=ANALYTICS5
+https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=PMFREEAPR21
+https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/?couponCode=APR_START
+https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=F9EB14CA15DC2E8C0499
 
