@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/04/2021
+# Daily Free Udemy Courses - 09/04/2021
 
-https://www.udemy.com/course/controlling-mit-excel-teil-3/?couponCode=F240DB8A425951692514
-https://www.udemy.com/course/quickbooks-online-multiple-currencies/?couponCode=5AD1740103EAFD82791A
-https://www.udemy.com/course/cracking-faang-coding-interviews-masterclass-learn-data-structures/?couponCode=FRESHERCOOKER.IN
-https://www.udemy.com/course/quickbooks-online-2018-start-to-finish/?couponCode=7408907E31E315F07157
-https://www.udemy.com/course/fundamentals-basics-of-mathematics/?couponCode=FRESHDEAL100PCOFF
-https://www.udemy.com/course/estrategia-de-marketing-y-marketing-digital/?couponCode=E05DE9BC4281026ED000
-https://www.udemy.com/course/pitching-your-brilliant-idea-or-project/?couponCode=B3BDB73ED49B7F2429E1
-https://www.udemy.com/course/gdpr-and-data-protection-compliance-for-beginners/?couponCode=APR2021
-https://www.udemy.com/course/essential-leadership/?couponCode=LEADERSHIP2021
-https://www.udemy.com/course/curso-portugues-para-hispanohablantes/?couponCode=APRIL-FOR-FREE
-https://www.udemy.com/course/power-bi-desde-cero/?couponCode=INSTAGRAM.NUMPI.MX
-https://www.udemy.com/course/marker-sketching-from-scratch-to-professional/?couponCode=SKETCH-FOR-ALL
+https://www.udemy.com/course/the-ux-designers-accessibility-guide/?couponCode=UX-DESIGNERS-ONLY
+https://www.udemy.com/course/the-complete-ap-physics-course/?couponCode=F1650DF11661D5F6E782
+https://www.udemy.com/course/chrome-extension-development-course-for-everyone/?couponCode=C1ECF7486EA06BE40022
+https://www.udemy.com/course/facebook-ads-strategy/?couponCode=DOGOOD7722
+https://www.udemy.com/course/data-structures-with-c-programming/?couponCode=FCI-CAREER-BUILD
+https://www.udemy.com/course/amazon-ppc-masterclass-the-ultimate-ppc-guide/?couponCode=FREEPPCCOURSE
+https://www.udemy.com/course/learn-all-about-bitcoin-and-blockchain/?couponCode=9F7F313992DF57D4D6CD
+https://www.udemy.com/course/curso-de-dibujo-cartoon/?couponCode=F4F0489D642463A9D400
+https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYAPR2021
+https://www.udemy.com/course/affinity-publisher-guide/?couponCode=945BF2351A42E92CA129
+https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=E85426D81C0512E4866F
+https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=678227F3D0E106A5A2D2
 
