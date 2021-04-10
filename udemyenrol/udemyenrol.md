@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/04/2021
+# Daily Free Udemy Courses - 10/04/2021
 
-https://www.udemy.com/course/the-ux-designers-accessibility-guide/?couponCode=UX-DESIGNERS-ONLY
-https://www.udemy.com/course/the-complete-ap-physics-course/?couponCode=F1650DF11661D5F6E782
-https://www.udemy.com/course/chrome-extension-development-course-for-everyone/?couponCode=C1ECF7486EA06BE40022
-https://www.udemy.com/course/facebook-ads-strategy/?couponCode=DOGOOD7722
-https://www.udemy.com/course/data-structures-with-c-programming/?couponCode=FCI-CAREER-BUILD
-https://www.udemy.com/course/amazon-ppc-masterclass-the-ultimate-ppc-guide/?couponCode=FREEPPCCOURSE
-https://www.udemy.com/course/learn-all-about-bitcoin-and-blockchain/?couponCode=9F7F313992DF57D4D6CD
-https://www.udemy.com/course/curso-de-dibujo-cartoon/?couponCode=F4F0489D642463A9D400
-https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYAPR2021
-https://www.udemy.com/course/affinity-publisher-guide/?couponCode=945BF2351A42E92CA129
-https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=E85426D81C0512E4866F
-https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=678227F3D0E106A5A2D2
+https://www.udemy.com/course/meteorology-101-part-2/?couponCode=28A1AFE6F52E9C922FB5
+https://www.udemy.com/course/the-sales-funnels-explained-course/?couponCode=2CBAF2B126F9EBCE7796
+https://www.udemy.com/course/istqb-foundation-level-certification-with-sample-papers/?couponCode=FREEEEE
+https://www.udemy.com/course/selling-your-home-for-maximum-value/?couponCode=DC7D144A47C0FB340C60
+https://www.udemy.com/course/youtube-strategic-planning-secrets/?couponCode=307A25FC34CB7CD92360
+https://www.udemy.com/course/themetemethod/?couponCode=E278D46C4D89F54070B3
+https://www.udemy.com/course/network-protocol-analysis-using-wireshark-part-1/?couponCode=VINOAPR3
+https://www.udemy.com/course/learn-information-security-from-scratch/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/learn-it-basics/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/optimizing-kali-linux-in-arabic/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/fastest-microsoft-word-course/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/intro-to-basic-video-creation/?couponCode=B4318F30883E38599122
 
