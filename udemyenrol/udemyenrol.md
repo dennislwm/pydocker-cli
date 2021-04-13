@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/04/2021
+# Daily Free Udemy Courses - 13/04/2021
 
-https://www.udemy.com/course/7-gunde-python-0dan-100e-pyt101/?couponCode=NISANOZEL
-https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/?couponCode=FREE_CODE
-https://www.udemy.com/course/complete-beginner-piano-course-r/?couponCode=CB287F8A29FE109D59B4
-https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=C8A308E66D89AC8B1B18
-https://www.udemy.com/course/reverse-engineering-debugging-and-malware-analysis-2021/?couponCode=REVERSEFREE
-https://www.udemy.com/course/video-editing-in-premiere/?couponCode=2DAYSFREE
-https://www.udemy.com/course/grafana-latest/?couponCode=GRAFANA20210410
-https://www.udemy.com/course/complete-video-marketing-course/?couponCode=DOGOOD7777777
-https://www.udemy.com/course/building-a-deep-learning-model-and-neural-network-with-keras/?couponCode=KERAS_UPLATZ
-https://www.udemy.com/course/deep-learning-with-tensorflow-certification-training/?couponCode=TENSORFLOW_UPLATZ
-https://www.udemy.com/course/real-time-spark-project-for-beginners-hadoop-spark-docker/?couponCode=234249E6A59B6623C1B7
-https://www.udemy.com/course/learn-photo-editing-with-photoshop-2020/?couponCode=TRY10FREE42104
+https://www.udemy.com/course/lean-six-sigma-green-belt-certification-and-training/?couponCode=GREEN12
+https://www.udemy.com/course/chinese-characters-you-must-know-for-hsk-3-hsk-4-volume-17/?couponCode=5836AF47419F1D6DB4E8
+https://www.udemy.com/course/seo-tutorial-for-beginners-course/?couponCode=1B36083C9E875A316E18
+https://www.udemy.com/course/cinema-theatre-depression-2/?couponCode=SPRINGNEW
+https://www.udemy.com/course/lenze-plc-programming-basics-all-in-one/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/agile-project-management-genman/?couponCode=AGILEAPRILXII
+https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=PROGRAMMING_LEARNERS
+https://www.udemy.com/course/budgeting-for-your-personal-finances-and-saving-more/?couponCode=9DEAC576A07FE2B152C1
+https://www.udemy.com/course/complete-sql-bootcamp-with-mysql-php-python/?couponCode=SQLBAPR2021
+https://www.udemy.com/course/relative-strength-index-rsi-technical-analysis-indicator/?couponCode=1APR21
+https://www.udemy.com/course/ultimate-beginners-guide-to-open-broadcaster-softwareobs/?couponCode=3167F17AD8CBD9CBF267
+https://www.udemy.com/course/learn-basics-of-adobe-photoshop-cc-for-beginners/?couponCode=1E8AF0CEBACAD1AB8A1B
 
