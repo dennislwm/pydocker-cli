@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/04/2021
+# Daily Free Udemy Courses - 17/04/2021
 
-https://www.udemy.com/course/advance-bug-bounty-hunting-penetration-testing-course-2021-t/?couponCode=DECRYPT3R2021
-https://www.udemy.com/course/software-testing-interview-preparation/?couponCode=LETSSPRINTDOTCOM
-https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLAPRILXV
-https://www.udemy.com/course/advance-option-strategies-bundle/?couponCode=1APR21
-https://www.udemy.com/course/quickbooks-desktop-job-costing/?couponCode=1253EDA0B8569DCE0A9F
-https://www.udemy.com/course/quickbooks-desktop-vs-qbo-multiple-currencies/?couponCode=47665F8EFC18CEA556E1
-https://www.udemy.com/course/quickbooks-enterprise-classes-responsibility-accounting/?couponCode=C25106C67D2913314470
-https://www.udemy.com/course/xero-not-for-profit-organization/?couponCode=8C119308709D04E56C18
-https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=40F62656892E265E058E
-https://www.udemy.com/course/quickbooks-online-vs-xero-accounting-software-2020/?couponCode=AB1525B2E0E0BA2032CE
-https://www.udemy.com/course/partnership-income-tax-form-1065/?couponCode=77A18FDF5DEC6B6746C5
-https://bit.ly/3e335eI
+https://www.udemy.com/course/cognitive-behavioural-therapy/?couponCode=LAUNCH-C0BB40E096362
+https://www.udemy.com/course/japanese-for-beginners-based-on-misj-version-2/?couponCode=SECTION_3-OWNERS
+https://www.udemy.com/course/misj-welcome-program-section-3/?couponCode=6CF0211D4E7199C5950E
+https://www.udemy.com/course/misj-novice-program-level-1/?couponCode=SECTION-3-OWNERS
+https://www.udemy.com/course/ingenieria-electrica-analisis-de-sistemas-de-potencia-i/?couponCode=D1548E1D950E2F6ABE92
+https://www.udemy.com/course/animation-101-learning-the-basics-in-toonboom-harmony/?couponCode=B7CC2378B330502DE079
+https://www.udemy.com/course/introduction-to-biostatistics-e/?couponCode=5F8CC2BEB6ADB9F82A1E
+https://www.udemy.com/course/facebook-page-with-shop-for-facebook-ads/?couponCode=584D0CF37A0D5DE203CE
+https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=DOGOOD7777777
+https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=FREEPREMIEREPROCC
+https://www.udemy.com/course/it-security-101-protecting-and-securing-computer-networks/?couponCode=APR2021
+https://www.udemy.com/course/network-ethical-hacking/?couponCode=D442263E721746A49A19
 
