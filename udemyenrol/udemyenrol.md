@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/04/2021
+# Daily Free Udemy Courses - 18/04/2021
 
-https://www.udemy.com/course/cognitive-behavioural-therapy/?couponCode=LAUNCH-C0BB40E096362
-https://www.udemy.com/course/japanese-for-beginners-based-on-misj-version-2/?couponCode=SECTION_3-OWNERS
-https://www.udemy.com/course/misj-welcome-program-section-3/?couponCode=6CF0211D4E7199C5950E
-https://www.udemy.com/course/misj-novice-program-level-1/?couponCode=SECTION-3-OWNERS
-https://www.udemy.com/course/ingenieria-electrica-analisis-de-sistemas-de-potencia-i/?couponCode=D1548E1D950E2F6ABE92
-https://www.udemy.com/course/animation-101-learning-the-basics-in-toonboom-harmony/?couponCode=B7CC2378B330502DE079
-https://www.udemy.com/course/introduction-to-biostatistics-e/?couponCode=5F8CC2BEB6ADB9F82A1E
-https://www.udemy.com/course/facebook-page-with-shop-for-facebook-ads/?couponCode=584D0CF37A0D5DE203CE
-https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=DOGOOD7777777
-https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=FREEPREMIEREPROCC
-https://www.udemy.com/course/it-security-101-protecting-and-securing-computer-networks/?couponCode=APR2021
-https://www.udemy.com/course/network-ethical-hacking/?couponCode=D442263E721746A49A19
+https://www.udemy.com/course/nlp-procesamiento-del-lenguaje-natural-con-nlp-y-python/?couponCode=NLP-A21-GRATIS
+https://www.udemy.com/course/build-a-news-portal-with-laravel-and-bootstrap-2021/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/python-programming-language-for-absolute-beginners-to-advanced/?couponCode=C750F07B8B6EF80A0AAA
+https://www.udemy.com/course/got-hip-pain-do-this-now-no-surgery-required/?couponCode=59888B095F17776CDEF4
+https://www.udemy.com/course/machine-learning-a-beginners-basic-introduction/?couponCode=81A290BA27607D46A2F1
+https://www.udemy.com/course/build-a-chatapp-with-nodejssocketio-expressjs-mongodb/?couponCode=549948405A583EBB7385
+https://www.udemy.com/course/web-scraping-for-beginners-with-python-scrapy-bs4/?couponCode=68F915BD619D3CEAAD00
+https://www.udemy.com/course/power-bi-for-beginners/?couponCode=244DB087F1D83FD41D64
+https://www.udemy.com/course/talento-humano-30/?couponCode=E6C18655791FAFEB18FC
+https://www.udemy.com/course/creating-online-dashboards-and-storymaps-using-arcgis-online/?couponCode=RAMADAN-MUBARAK
+https://www.udemy.com/course/complete-aws-call-centervoip-course-bootcamp-zero-to-hero/?couponCode=FREE_3_AWS_USESCASES
+https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMAPRILXVII
 
