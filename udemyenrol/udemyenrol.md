@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/04/2021
+# Daily Free Udemy Courses - 20/04/2021
 
-https://www.udemy.com/course/business-intelligence-data-mining/?couponCode=02CF5DDFE51721D4372A
-https://www.udemy.com/course/essential-of-microsoft-office-with-ultimate-new-features/?couponCode=FREECOURSE
-https://www.udemy.com/course/clubhouse-audio-chat-app-ft-bre-donofrio-matthew-rolnick/?couponCode=YOUACCEL79262
-https://www.udemy.com/course/create-toucan-in-illustrator-from-sketch/?couponCode=2D4879BD7D1F35AE3297
-https://www.udemy.com/course/business-data-analystexcelvbamacrospowerquerypowerpivot/?couponCode=8C7CB04420BF16D66848
-https://www.udemy.com/course/verilog-hdl-through-examples/?couponCode=MASKELEARNINGS
-https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=CEE9C16B141F94F10E80
-https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=3225A3A02520B3469E22
-https://www.udemy.com/course/digishock-10-basics-create-operating-system-without-code/?couponCode=11325FBB958A196E3C70
-https://www.udemy.com/course/spatial-data-science-in-python/?couponCode=APR_MID
-https://www.udemy.com/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/?couponCode=F84BE4F2ED17D5113B30
-https://www.udemy.com/course/artificial-intelligence-in-digital-marketing-part-2/?couponCode=905B63A3BE3164DEF025
+https://www.udemy.com/course/opencv-and-java/?couponCode=OPENCVAPR19
+https://www.udemy.com/course/goal-setting-how-to-set-big-goals-and-work-towards-them/?couponCode=A2A2D62A52EFFA5299E6
+https://www.udemy.com/course/react-native-complete-navigation/?couponCode=7167C662B6E0D0E6E297
+https://www.udemy.com/course/theoreritcalml1/?couponCode=FRIENDOFRAVI
+https://www.udemy.com/course/psd-to-html-responsive-portfolio-template/?couponCode=FRIENDS99
+https://www.udemy.com/course/tableau-training-and-certification-data-visualization/?couponCode=TABLEAU19
+https://www.udemy.com/course/2021-agile-project-management-19-courses-in-1/?couponCode=AGILE19
+https://www.udemy.com/course/crea-una-landing-page-desde-cero-con-wordpress/?couponCode=C4D80AB1F5E05587A168
+https://www.udemy.com/course/photoshopavanzadoflujodetrabajo/?couponCode=F23F8B24DC5DC86B1BC4
+https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/?couponCode=8CD347D70500E357B233
+https://www.udemy.com/course/mvc-ile-siparis-takip-paneli-yapalim/?couponCode=2RUNMVC
+https://www.udemy.com/course/createlogo/?couponCode=CREATELOGO
 
