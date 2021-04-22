@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/04/2021
+# Daily Free Udemy Courses - 22/04/2021
 
-https://www.udemy.com/course/becoming-an-administrative-assistant-h/?couponCode=APR2021
-https://www.udemy.com/course/ichimoku-trading/?couponCode=1APR21
-https://www.udemy.com/course/gsi-value-investing/?couponCode=91CCD6FCBD4D6FCAB028
-https://www.udemy.com/course/adobe-premiere-pro-audio-editing-a-masterclass/?couponCode=PREMIEREPRO
-https://www.udemy.com/course/s-m-nazmuz-sakib/?couponCode=COUPON1
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SOCIALMEDIA020421
-https://www.udemy.com/course/skills-require-to-become-successful-exporter/?couponCode=098FE18487A8B632B64A
-https://www.udemy.com/course/the-essentials-of-body-language/?couponCode=5F7E30A80893CA707FD1
-https://www.udemy.com/course/data-visualization-in-excel-for-business-professionals/?couponCode=APRXLCFR
-https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=APR_MID
-https://www.udemy.com/course/mastering-stock-photography-step-by-step-guideline/?couponCode=STOCKPAPR2021
-https://www.udemy.com/course/graphic-design-rules/?couponCode=5F6987A11AD893803DCF
+https://www.udemy.com/course/curso-completo-de-gestion-del-tiempo/?couponCode=D13073961F46C8E56CD6
+https://www.udemy.com/course/youtube-seo-optimization-for-beginners/?couponCode=BC680169FDAD38FB044E
+https://www.udemy.com/course/salesforce-experience-aka-community-cloud-complete-guide/?couponCode=LEARN-IN-APRIL
+https://www.udemy.com/course/curso-seo/?couponCode=FELIZ420
+https://www.udemy.com/course/penetration-testing-i/?couponCode=0D8C79140FC29FFAD621
+https://www.udemy.com/course/numbers-el-excel-de-apple/?couponCode=CEDE01D81F5B5A6512D1
+https://www.udemy.com/course/facebook-live-masterclass-engage-more-with-facebook-live/?couponCode=9B86149F6D30F88B38E3
+https://www.udemy.com/course/cuestion-de-tiempo/?couponCode=CA783AED5D1847E682F3
+https://www.udemy.com/course/istqb-mobile-application-testing-with-sample-papers/?couponCode=FREEEEE
+https://www.udemy.com/course/istqb-acceptance-testing-training-with-sample-paper/?couponCode=FREEEE
+https://www.udemy.com/course/youtube-live-streaming-as-a-marketing-strategy/?couponCode=84AF06E1D47D213E3123
+https://www.udemy.com/course/intellectual-property-what-and-why-for-small-businesses/?couponCode=IPWHAT2021
 
