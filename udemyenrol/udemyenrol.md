@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/04/2021
+# Daily Free Udemy Courses - 23/04/2021
 
-https://www.udemy.com/course/curso-completo-de-gestion-del-tiempo/?couponCode=D13073961F46C8E56CD6
-https://www.udemy.com/course/youtube-seo-optimization-for-beginners/?couponCode=BC680169FDAD38FB044E
-https://www.udemy.com/course/salesforce-experience-aka-community-cloud-complete-guide/?couponCode=LEARN-IN-APRIL
-https://www.udemy.com/course/curso-seo/?couponCode=FELIZ420
-https://www.udemy.com/course/penetration-testing-i/?couponCode=0D8C79140FC29FFAD621
-https://www.udemy.com/course/numbers-el-excel-de-apple/?couponCode=CEDE01D81F5B5A6512D1
-https://www.udemy.com/course/facebook-live-masterclass-engage-more-with-facebook-live/?couponCode=9B86149F6D30F88B38E3
-https://www.udemy.com/course/cuestion-de-tiempo/?couponCode=CA783AED5D1847E682F3
-https://www.udemy.com/course/istqb-mobile-application-testing-with-sample-papers/?couponCode=FREEEEE
-https://www.udemy.com/course/istqb-acceptance-testing-training-with-sample-paper/?couponCode=FREEEE
-https://www.udemy.com/course/youtube-live-streaming-as-a-marketing-strategy/?couponCode=84AF06E1D47D213E3123
-https://www.udemy.com/course/intellectual-property-what-and-why-for-small-businesses/?couponCode=IPWHAT2021
+https://www.udemy.com/course/modern-react-js-hooks-and-context-with-most-recent-edition/?couponCode=36AC292F24F62A54D090
+https://www.udemy.com/course/successful-project-manager/?couponCode=APR2021
+https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=SPECIAL3
+https://www.udemy.com/course/competitive-programming-using-python/?couponCode=81CB0E53F3A766AA7519
+https://www.udemy.com/course/oracle-fusion-business-intelligence-publisher/?couponCode=FREEBIP1
+https://www.udemy.com/course/practical-reinforcement-learning/?couponCode=150336130778173C0A71
+https://www.udemy.com/course/modern-web-development-with-blazor-and-net-core-5/?couponCode=F32FABA41CF867EF2210
+https://www.udemy.com/course/how-to-draw-anime-manga-for-beginners-with-easiest-method/?couponCode=FD80DB5E69132DCC79AD
+https://www.udemy.com/course/100-python-challenges/?couponCode=PYTHON_CHALLENGE_APR
+https://www.udemy.com/course/microsoft-cybersecurity-pro-track-threat-detection/?couponCode=1A76637CC36B6117C06B
+https://www.udemy.com/course/a-laymans-guide-to-python/?couponCode=PYTHON_APR21
+https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVMPMAPR
 
