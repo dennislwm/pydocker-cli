@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/04/2021
+# Daily Free Udemy Courses - 24/04/2021
 
-https://www.udemy.com/course/modern-react-js-hooks-and-context-with-most-recent-edition/?couponCode=36AC292F24F62A54D090
-https://www.udemy.com/course/successful-project-manager/?couponCode=APR2021
-https://www.udemy.com/course/typescript-with-react-jest-testing/?couponCode=SPECIAL3
-https://www.udemy.com/course/competitive-programming-using-python/?couponCode=81CB0E53F3A766AA7519
-https://www.udemy.com/course/oracle-fusion-business-intelligence-publisher/?couponCode=FREEBIP1
-https://www.udemy.com/course/practical-reinforcement-learning/?couponCode=150336130778173C0A71
-https://www.udemy.com/course/modern-web-development-with-blazor-and-net-core-5/?couponCode=F32FABA41CF867EF2210
-https://www.udemy.com/course/how-to-draw-anime-manga-for-beginners-with-easiest-method/?couponCode=FD80DB5E69132DCC79AD
-https://www.udemy.com/course/100-python-challenges/?couponCode=PYTHON_CHALLENGE_APR
-https://www.udemy.com/course/microsoft-cybersecurity-pro-track-threat-detection/?couponCode=1A76637CC36B6117C06B
-https://www.udemy.com/course/a-laymans-guide-to-python/?couponCode=PYTHON_APR21
-https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVMPMAPR
+https://www.udemy.com/course/python-programming-essentials/?couponCode=FREEPY
+https://www.udemy.com/course/cka-certified-kubernetes-administrator-practice-tests-2021/?couponCode=CKA-0004
+https://www.udemy.com/course/tips-for-creating-a-cute-simple-character-animating-it/?couponCode=159F717CE50415C9C0A2
+https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-2021-w/?couponCode=FREEDAYS
+https://www.udemy.com/course/s-m-nazmuz-sakib-philosophy/?couponCode=COUPON1
+https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=136F6246B54CF8E828D6
+https://www.udemy.com/course/the-transition-from-waterfall-to-agile/?couponCode=2E1BD4B14E8ABAF9F13A
+https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=D98EBAF5388CDEED33F0
+https://www.udemy.com/course/how-to-do-art-design-like-a-pro-without-adobe/?couponCode=245EA3EBBC1901E32B8D
+https://bit.ly/3gv6EgJ
+https://www.udemy.com/course/ultimate-beginner-guide-for-streamlabs-obs/?couponCode=EF539EADC10954E92D4F
+https://www.udemy.com/course/60-day-startup/?couponCode=STARTUP101
 
