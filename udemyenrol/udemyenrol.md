@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/04/2021
+# Daily Free Udemy Courses - 27/04/2021
 
-https://www.udemy.com/course/prototyping-protopie/?couponCode=36516D0FDBEA0C810F98
-https://www.udemy.com/course/actualizacion-digital-herramientas-para-negocios/?couponCode=LANZA-REIMEE0421
-https://www.udemy.com/course/learn-sql-concepts-with-simple-examples/?couponCode=4FBECD218A48932D7844
-https://www.udemy.com/course/ultimate-google-adwords-ads-training-for-ppc-seo-2019/?couponCode=25APRIL
-https://www.udemy.com/course/wordpress-e-commerce/?couponCode=TECHBHOLE-STUDENTS
-https://www.udemy.com/course/chinese-language-and-culture-learning-made-easy/?couponCode=888888
-https://www.udemy.com/course/enscape-sketchup-revit-archicad-rhino/?couponCode=15INSCRIPCIONES
-https://www.udemy.com/course/facebook-marketing-mentorship-program-yasir-ahmed-mba-hindi-urdu-ads/?couponCode=CFCF2246B3B6DBBBAD45
-https://www.udemy.com/course/update-to-modern-cplusplus/?couponCode=48F1C79D30D0EEC1BC9D
-https://www.udemy.com/course/be-kindbe-happyreduce-stress/?couponCode=SPRINGGIFT
-https://www.udemy.com/course/instagram-ads-marketing-selling-strategy-hindi-2021-2022-2023-2024/?couponCode=6959584FD691FC149F68
-https://www.udemy.com/course/lightroom-cc-masterclass-beginner-guide-for-photographers/?couponCode=BF990F11E99D01735EDD
+https://www.udemy.com/course/how-to-boost-your-productivity-and-achieve-your-goals/?couponCode=EEA1A10B6503FFFF5E4A
+https://www.udemy.com/course/kurumsal-girisimcilik-egitimi/?couponCode=CF836CDB7C01700A7B2F
+https://www.udemy.com/course/zihinlerfora-zihin-haritalari-ile-ogrenmeyi-ogrenelim/?couponCode=FORAMINDKULLAN
+https://www.udemy.com/course/djangoflix/?couponCode=24B343B8A04544EB8DA3
+https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=2F763D4B77D279178B75
+https://www.udemy.com/course/build-your-own-chatbot-in-python/?couponCode=PYTHON4AIMLNCHATBOT
+https://www.udemy.com/course/python-financial-analysis-investment-data-fundamentals/?couponCode=PYTHONFINANCE
+https://www.udemy.com/course/becoming-a-project-manager-l/?couponCode=APR2021
+https://www.udemy.com/course/crie-sua-loja-virtual-profissional-com-loja-integrada-2021/?couponCode=8BA418F6345C7BFC57B1
+https://www.udemy.com/course/programacion-curso-basico-de-cgato/?couponCode=B6CD35CE60ADD45798F7
+https://www.udemy.com/course/crea-una-landing-page-con-html5-css3-jquery-y-bootstrap-5/?couponCode=FB73198391D8C67954D9
+https://www.udemy.com/course/meditationguide/?couponCode=STRESSFREE
 
