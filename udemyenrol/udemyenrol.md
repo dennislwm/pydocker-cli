@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/04/2021
+# Daily Free Udemy Courses - 28/04/2021
 
-https://www.udemy.com/course/how-to-boost-your-productivity-and-achieve-your-goals/?couponCode=EEA1A10B6503FFFF5E4A
-https://www.udemy.com/course/kurumsal-girisimcilik-egitimi/?couponCode=CF836CDB7C01700A7B2F
-https://www.udemy.com/course/zihinlerfora-zihin-haritalari-ile-ogrenmeyi-ogrenelim/?couponCode=FORAMINDKULLAN
-https://www.udemy.com/course/djangoflix/?couponCode=24B343B8A04544EB8DA3
-https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=2F763D4B77D279178B75
-https://www.udemy.com/course/build-your-own-chatbot-in-python/?couponCode=PYTHON4AIMLNCHATBOT
-https://www.udemy.com/course/python-financial-analysis-investment-data-fundamentals/?couponCode=PYTHONFINANCE
-https://www.udemy.com/course/becoming-a-project-manager-l/?couponCode=APR2021
-https://www.udemy.com/course/crie-sua-loja-virtual-profissional-com-loja-integrada-2021/?couponCode=8BA418F6345C7BFC57B1
-https://www.udemy.com/course/programacion-curso-basico-de-cgato/?couponCode=B6CD35CE60ADD45798F7
-https://www.udemy.com/course/crea-una-landing-page-con-html5-css3-jquery-y-bootstrap-5/?couponCode=FB73198391D8C67954D9
-https://www.udemy.com/course/meditationguide/?couponCode=STRESSFREE
+https://www.udemy.com/course/build-ecommerce-dropshipping-store-sell-free-without-shopify-wordpress/?couponCode=FREEDOM
+https://www.udemy.com/course/visual-studio-xamarin-ile-ios-ve-andiroid-ayn-anda-glstm/?couponCode=1C9BFC4359A3C8535260
+https://www.udemy.com/course/the-full-python-bootcamp-from-scratch-for-beginners/?couponCode=PYTHON-SS-1
+https://www.udemy.com/course/microsoft-advanced-excel-advanced-training-2021/?couponCode=EXCEL27
+https://www.udemy.com/course/ignite-your-podcast-power/?couponCode=PODCASTFREEDOM
+https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=FREE_PHOTOSHOP_2HOUR
+https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=LEARNING
+https://www.udemy.com/course/business-analytics-with-python-2021/?couponCode=ANALYTICS27
+https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPAPRFREE
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALSTRATEGY30421
+https://www.udemy.com/course/make-money-freelancing/?couponCode=8E9C2FE37F0907BEA6CA
+https://www.udemy.com/course/create-drop-servicing-website-with-wordpress/?couponCode=LAST-FREE-GIVEAWAY
 
