@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/04/2021
+# Daily Free Udemy Courses - 29/04/2021
 
-https://www.udemy.com/course/build-ecommerce-dropshipping-store-sell-free-without-shopify-wordpress/?couponCode=FREEDOM
-https://www.udemy.com/course/visual-studio-xamarin-ile-ios-ve-andiroid-ayn-anda-glstm/?couponCode=1C9BFC4359A3C8535260
-https://www.udemy.com/course/the-full-python-bootcamp-from-scratch-for-beginners/?couponCode=PYTHON-SS-1
-https://www.udemy.com/course/microsoft-advanced-excel-advanced-training-2021/?couponCode=EXCEL27
-https://www.udemy.com/course/ignite-your-podcast-power/?couponCode=PODCASTFREEDOM
-https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=FREE_PHOTOSHOP_2HOUR
-https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=LEARNING
-https://www.udemy.com/course/business-analytics-with-python-2021/?couponCode=ANALYTICS27
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPAPRFREE
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALSTRATEGY30421
-https://www.udemy.com/course/make-money-freelancing/?couponCode=8E9C2FE37F0907BEA6CA
-https://www.udemy.com/course/create-drop-servicing-website-with-wordpress/?couponCode=LAST-FREE-GIVEAWAY
+https://www.udemy.com/course/how-to-activate-your-7-chakras-through-sacred-codes/?couponCode=52C90D071D31056EA5A1
+https://www.udemy.com/course/lie-detection-cia-detective-investigation-how-to-catch-liar-cheater/?couponCode=80B5BBF85C6EC611DBD5
+https://www.udemy.com/course/diseno-de-personajes-con-photoshop/?couponCode=WOLFENSTAN
+https://www.udemy.com/course/introduccion-a-microsoft-biztalk-server-2016/?couponCode=3D3EEC330E21D98B4C23
+https://www.udemy.com/course/ecom-mini-course/?couponCode=720C58512CF2A8EBD8EC
+https://www.udemy.com/course/henry-zhang-affiliate-networking-mini-course/?couponCode=078E3C790C13F586771F
+https://www.udemy.com/course/power-transformer-protection/?couponCode=D928AF046AC0E6F5D514
+https://www.udemy.com/course/outsourcing-mini-course/?couponCode=19046B6D1E71E6064845
+https://www.udemy.com/course/professional-course-poster-designing-with-adobe-photoshop/?couponCode=8A5B5955399CDB0BA170
+https://www.udemy.com/course/learn-advanced-google-ads-from-scratch-2020-updated/?couponCode=6EF5EEA71438344D66F5
+https://www.udemy.com/course/master-adobe-photoshop-cc-learn-adobe-photoshop-in-hindi/?couponCode=PHOTOSHOPFREE
+https://www.udemy.com/course/exports-imports-risks-management-international-trading-global-business/?couponCode=655BED7E38B29C233BD5
 
