@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/04/2021
+# Daily Free Udemy Courses - 30/04/2021
 
-https://www.udemy.com/course/how-to-activate-your-7-chakras-through-sacred-codes/?couponCode=52C90D071D31056EA5A1
-https://www.udemy.com/course/lie-detection-cia-detective-investigation-how-to-catch-liar-cheater/?couponCode=80B5BBF85C6EC611DBD5
-https://www.udemy.com/course/diseno-de-personajes-con-photoshop/?couponCode=WOLFENSTAN
-https://www.udemy.com/course/introduccion-a-microsoft-biztalk-server-2016/?couponCode=3D3EEC330E21D98B4C23
-https://www.udemy.com/course/ecom-mini-course/?couponCode=720C58512CF2A8EBD8EC
-https://www.udemy.com/course/henry-zhang-affiliate-networking-mini-course/?couponCode=078E3C790C13F586771F
-https://www.udemy.com/course/power-transformer-protection/?couponCode=D928AF046AC0E6F5D514
-https://www.udemy.com/course/outsourcing-mini-course/?couponCode=19046B6D1E71E6064845
-https://www.udemy.com/course/professional-course-poster-designing-with-adobe-photoshop/?couponCode=8A5B5955399CDB0BA170
-https://www.udemy.com/course/learn-advanced-google-ads-from-scratch-2020-updated/?couponCode=6EF5EEA71438344D66F5
-https://www.udemy.com/course/master-adobe-photoshop-cc-learn-adobe-photoshop-in-hindi/?couponCode=PHOTOSHOPFREE
-https://www.udemy.com/course/exports-imports-risks-management-international-trading-global-business/?couponCode=655BED7E38B29C233BD5
+https://www.udemy.com/course/facebook-marketing-ads/?couponCode=ADSMASTERCLASS
+https://www.udemy.com/course/manifest-of-product-promotion-and-internet-marketing/?couponCode=796DA2BD1EAC4FFA10E9
+https://www.udemy.com/course/escribir-bien-para-pensar-mejor/?couponCode=FBC72AAF3CA245175226
+https://www.udemy.com/course/build-web-app-without-writing-single-line-of-code/?couponCode=TRYNOCODEAPRIL
+https://www.udemy.com/course/diseno-responsivo-con-cajas-flexibles-css3/?couponCode=B00790A63283B36D4BE4
+https://www.udemy.com/course/soap-with-spring-web-services/?couponCode=E468636033CD9894C80E
+https://www.udemy.com/course/introduction-to-song-tantra-songwriting-from-the-soul/?couponCode=148D768D61179AFAA832
+https://www.udemy.com/course/data-science-bootcamp-with-python/?couponCode=FREECOUPON
+https://www.udemy.com/course/cocuklar-icin-python-ile-kodlama/?couponCode=6D082B47E0732224E98A
+https://www.udemy.com/course/0dan-uzmanlga-gittigidiyor-sats-yapma-e-ticaret-egitimi/?couponCode=TELEGRAMOZEL
+https://www.udemy.com/course/improve-english-by-listening-movies-1b/?couponCode=38A437782E05B5EF47EE
+https://www.udemy.com/course/youtube-marketing-for-beginners-youtube-business-made-easy/?couponCode=9346B886A9209405903F
 
