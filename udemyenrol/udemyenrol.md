@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/05/2021
+# Daily Free Udemy Courses - 04/05/2021
 
-https://www.udemy.com/course/delicious-cake-recipes-for-your-kitchen/?couponCode=CAKE4FREE
-https://www.udemy.com/course/bgp-routing-protocol-on-huawei-with-labs-entry/?couponCode=C2787A1D034F0DA61B22
-https://www.udemy.com/course/amazon-affiliate-mini-course/?couponCode=1A958A93157B138A08B3
-https://www.udemy.com/course/t-shirt-business-mini-course/?couponCode=7F9DD82405F1C42C3034
-https://www.udemy.com/course/content-marketing-mini-course/?couponCode=AD241AAE74B314360E1C
-https://www.udemy.com/course/achtsamkeit-yoga-5-minuten-meditation-mindfulness/?couponCode=MAIWUNSCH
-https://www.udemy.com/course/product-costing-pricing/?couponCode=MAY21BOOST
-https://www.udemy.com/course/pricing-strategies-mini-course/?couponCode=C8A465482B3ED91FE5E2
-https://www.udemy.com/course/devops-engineering-git-github-maven-junit-log4j/?couponCode=DEVOPS_UPLATZ
-https://www.udemy.com/course/ingilizce-konusma-kursu/?couponCode=FREEE1710
-https://www.udemy.com/course/react-hooks-reactin-modern-yuzu-react-hooks-ve-context/?couponCode=40AE1532EFEC2C454AE7
-https://www.udemy.com/course/curso-microsoft-power-bi/?couponCode=MAY2021
+https://www.udemy.com/course/accounting-bookkeeping-basics-foundation-course/?couponCode=ACCOUNTINGMASTER
+https://www.udemy.com/course/how-to-prevent-a-stroke/?couponCode=STOPSTROKES
+https://www.udemy.com/course/dogonomics/?couponCode=MAYSALE
+https://www.udemy.com/course/how-to-avoid-a-stroke-at-xmas/?couponCode=MAYSTROKEFREE
+https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=59F985B1B7DD010A35BA
+https://www.udemy.com/course/time-series-data-analysis-with-python/?couponCode=FREETSA
+https://www.udemy.com/course/web-design-layouts-a-must-to-learn-for-all-levels/?couponCode=MAY-OFF-3DAYS
+https://www.udemy.com/course/certified-lean-six-sigma-black-belt-training-t/?couponCode=BLACK3
+https://www.udemy.com/course/mobile-and-web-development-with-react-and-react-native/?couponCode=22BAC32B5F7CE397BF84
+https://www.udemy.com/course/content-marketing-course-portuguese/?couponCode=CONTENTTRANSLATE
+https://www.udemy.com/course/corso-social-media-manager/?couponCode=BAF34EB698DE86EBA72E
+https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE22
 
