@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/05/2021
+# Daily Free Udemy Courses - 10/05/2021
 
-https://www.udemy.com/course/hz-mobile-marketing-mini-course/?couponCode=7D204F291B25E75909E2
-https://www.udemy.com/course/how-to-use-metatrader-4-your-guide-to-mastering-mt4/?couponCode=96D74AB36014F7E74539
-https://www.udemy.com/course/hz-instagram-business-mastery-2021/?couponCode=DC8D2ED0A9A8D08D7110
-https://www.udemy.com/course/clickbankmini/?couponCode=A0BD3BCE2C21CBFB825E
-https://www.udemy.com/course/forex-101-the-beginners-introduction-to-trading-forex/?couponCode=9EFA59C1F98E8F47FDFD
-https://www.udemy.com/course/learn-complete-google-drive/?couponCode=821D1E757519D6EB6494
-https://www.udemy.com/course/learn-complete-python-3-gui-using-tkinter/?couponCode=48B93445EF1BD1B0FF03
-https://bit.ly/3f8XWT7
-https://www.udemy.com/course/how-to-activate-your-7-chakras-through-sacred-codes/?couponCode=4D1173D2AC38A19CCC5B
-https://www.udemy.com/course/operation-management-inventory-management-and-control/?couponCode=9D3B13ECE4FB0B87538A
-https://www.udemy.com/course/henry-zhang-side-hustle-mastery/?couponCode=4F01E2E29CB3ED1545AD
-https://www.udemy.com/course/music-production-the-ultimate-beginners-guide-to-ableton/?couponCode=60F4369D21AB3DCD2715
+https://www.udemy.com/course/codeigniter-rest-api-vuejs-todolist-uygulama/?couponCode=C144D398B21A5F236D63
+https://www.udemy.com/course/infrastructure-as-code-iac-terraform-aws-cloudformation/?couponCode=FAGAMAH4U
+https://www.udemy.com/course/digitales-marketing-online-marketing/?couponCode=F9C9B82886578038AD71
+https://www.udemy.com/course/configuracion-optimizacion-pagina-facebook-marketing-digital-2021/?couponCode=SATURDAY
+https://www.udemy.com/course/henry-zhang-affiliate-networking-mini-course/?couponCode=85B5BDD1103B1E381138
+https://www.udemy.com/course/hz-futures-trading-mini-course/?couponCode=933BE662BAF773DAB7AF
+https://www.udemy.com/course/build-17-beginners-projects-with-python-javascript-c/?couponCode=25B54FEAD4D14C8A0662
+https://www.udemy.com/course/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/?couponCode=PIVOTMAY10
+https://www.udemy.com/course/most-essential-popular-excel-formulas-and-functions/?couponCode=MOSTMAY10
+https://www.udemy.com/course/populer-sosyal-mecralar-icin-api-kullanm-rehberi/?couponCode=4A30C8F79A051112E371
+https://bit.ly/3o0xqiC
+https://www.udemy.com/course/the-complete-c-programming-course-for-beginners/?couponCode=BEDF4F0DDCE5A618E355
 
