@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/05/2021
+# Daily Free Udemy Courses - 13/05/2021
 
-https://www.udemy.com/course/sifirdan-web-sitesi-yapmak-html-egitimi/?couponCode=UDEMYUCRETSIZKURS
-https://www.udemy.com/course/create-lightning-fast-videos-with-invideo-ai-video-making/?couponCode=6B15DDE17A1F2947AFB3
-https://www.udemy.com/course/best-sap-fico-tutorial-for-beginners-freshers/?couponCode=97241B5A26AF95F9D1FD
-https://www.udemy.com/course/cursillo-excel-basico/?couponCode=894335530AC94E6D6C47
-https://www.udemy.com/course/matematicas-basicas-teoria-de-conjuntos/?couponCode=GRATISS
-https://www.udemy.com/course/adobe-photoshop-beginners-course-on-digital-painting/?couponCode=C90F0F4D2C5710E18F93
-https://www.udemy.com/course/vim-learn-to-master-vim/?couponCode=LASTTIMEKALI
-https://www.udemy.com/course/make-a-responsive-portfolio-website-javascript-html-css/?couponCode=TAKE_IT-FREE
-https://bit.ly/3uHN8Sa
-https://www.udemy.com/course/tikker-lingua-discover-german-dialects/?couponCode=7228A588DB4DFEA3EDCC
-https://www.udemy.com/course/germanclearandheartfull/?couponCode=9653D1EE580E8D243BFD
-https://www.udemy.com/course/learn-dna-primer-design-for-polymerase-chain-reaction/?couponCode=14008C9F208F7BCD2AA4
+https://www.udemy.com/course/neuroestetica-e-design-emotivo/?couponCode=0A48DE63AEEA1982D98E
+https://www.udemy.com/course/milli-sporcudan-satranc-kursu/?couponCode=42DF5DDB869A99EB945C
+https://www.udemy.com/course/testprep24-maths-for-gre-gmat/?couponCode=MATHS100
+https://www.udemy.com/course/vray-mac/?couponCode=15CURSOSGRATIS
+https://www.udemy.com/course/work-from-home-job-opportunities/?couponCode=480EA66C19CFB59275CA
+https://www.udemy.com/course/instant-affiliate-mini-course/?couponCode=9BFA449C27867CE46D6A
+https://www.udemy.com/course/unique-selling-proposition-mini-course/?couponCode=64E30BD8D0223BF16282
+https://www.udemy.com/course/ecom-mini-course/?couponCode=E2A51A3018657BB75CDE
+https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=DISCOUNTUDEMY.COM
+https://www.udemy.com/course/automate/?couponCode=MAY2021FREE
+https://www.udemy.com/course/online-business-selling-simple-products-amazon/?couponCode=WFHTAFMMAY21FREE
+https://www.udemy.com/course/istqb-foundation-level-certification-with-sample-papers/?couponCode=MAYFREEE1
 
