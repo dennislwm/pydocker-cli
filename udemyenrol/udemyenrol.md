@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/05/2021
+# Daily Free Udemy Courses - 14/05/2021
 
-https://www.udemy.com/course/neuroestetica-e-design-emotivo/?couponCode=0A48DE63AEEA1982D98E
-https://www.udemy.com/course/milli-sporcudan-satranc-kursu/?couponCode=42DF5DDB869A99EB945C
-https://www.udemy.com/course/testprep24-maths-for-gre-gmat/?couponCode=MATHS100
-https://www.udemy.com/course/vray-mac/?couponCode=15CURSOSGRATIS
-https://www.udemy.com/course/work-from-home-job-opportunities/?couponCode=480EA66C19CFB59275CA
-https://www.udemy.com/course/instant-affiliate-mini-course/?couponCode=9BFA449C27867CE46D6A
-https://www.udemy.com/course/unique-selling-proposition-mini-course/?couponCode=64E30BD8D0223BF16282
-https://www.udemy.com/course/ecom-mini-course/?couponCode=E2A51A3018657BB75CDE
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=DISCOUNTUDEMY.COM
-https://www.udemy.com/course/automate/?couponCode=MAY2021FREE
-https://www.udemy.com/course/online-business-selling-simple-products-amazon/?couponCode=WFHTAFMMAY21FREE
-https://www.udemy.com/course/istqb-foundation-level-certification-with-sample-papers/?couponCode=MAYFREEE1
+https://www.udemy.com/course/pd2-aspen-hysys/?couponCode=ASPENFREE
+https://www.udemy.com/course/ecommerce-business-fast-start/?couponCode=0355DFBC051AF66C1BA2
+https://www.udemy.com/course/temiz-kod/?couponCode=0FAFF2FE77729089039E
+https://www.udemy.com/course/effective-java/?couponCode=9E1748A96AA86982008F
+https://www.udemy.com/course/soliddesignprinciple/?couponCode=5F78299AA3D59ED641FF
+https://www.udemy.com/course/security-awareness-training-internet-security-and-privacy/?couponCode=MAYFREEE1
+https://www.udemy.com/course/multiplication-tables-up-to-1000-mentally-vedic-math/?couponCode=2BF5067944DE5935331C
+https://www.udemy.com/course/fundamentals-of-network-security-b/?couponCode=19E116295EB98F5B3158
+https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=MAY.21
+https://www.udemy.com/course/java-ile-nesne-merkezli-programlamaya-giris/?couponCode=FBC610FCA45A6E5F6E72
+https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=CMMAY2021
+https://bit.ly/3fkLS0U
 
