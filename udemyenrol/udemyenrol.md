@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/05/2021
+# Daily Free Udemy Courses - 18/05/2021
 
-https://www.udemy.com/course/java-coding-challenge-bootcamp/?couponCode=71D32C61CC254EA1525E
-https://www.udemy.com/course/bewerbungstraining_von_psychologin/?couponCode=A2CD8570A5948A8C52A3
-https://www.udemy.com/course/diy-product-photography/?couponCode=AWESOME
-https://www.udemy.com/course/linux-basic-course/?couponCode=OSAMA_SBEIH
-https://www.udemy.com/course/programming-for-beginners-/?couponCode=OSAMA_SBEIH
-https://www.udemy.com/course/speak-to-win-and-influence/?couponCode=319651292E259B138778
-https://www.udemy.com/course/cryptocurrencies-complet-practical-course-on-crypto-trading/?couponCode=4A238348B146104A7C8E
-https://www.udemy.com/course/learn-evernote/?couponCode=TRY10FREE52106
-https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?couponCode=TRY10FREE52106
-https://www.udemy.com/course/adobe-dreamweaver-cc-2020-master-course/?couponCode=TRY10FREE52106
-https://www.udemy.com/course/adobe-audition-cc-2020-master-course/?couponCode=TRY10FREE52106
-https://bit.ly/2S39zDe
+https://www.udemy.com/course/vivado-regular-fifo-vs-axi-fifo/?couponCode=F5013667273617F5EC6B
+https://www.udemy.com/course/the-ultimate-fashion-design-course/?couponCode=89979CBB0CB340A169C8
+https://www.udemy.com/course/cpp-programming-from-scratch-to-advanced/?couponCode=CPP_LD
+https://www.udemy.com/course/affiliate-marketing-corso-come-guadagnare-online/?couponCode=8A858C12692E2022C1FC
+https://www.udemy.com/course/facebook-ads-business-manager-ad-manager-custom-audience/?couponCode=B766709F99595F4401F8
+https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?couponCode=F6E00D9E3176A16694B1
+https://www.udemy.com/course/covalent/?couponCode=BUGRAAYAN.COM
+https://www.udemy.com/course/advanced-usage-of-excel-vlookuphlookupindexmatch-more/?couponCode=VLOOKMAY18
+https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=6EED9ACFE7DD781194AA
+https://www.udemy.com/course/master-the-violin-from-beginner-zero-level-to-advanced-level/?couponCode=RIMMASTRING
+https://www.udemy.com/course/database-engineerdba-mysql-mongodb-sqlite/?couponCode=6931D18C46366ABDCC05
+https://www.udemy.com/course/learn-microsoft-planner-course/?couponCode=TRY10FREE52106
 
