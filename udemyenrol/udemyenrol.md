@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/05/2021
+# Daily Free Udemy Courses - 19/05/2021
 
-https://www.udemy.com/course/vivado-regular-fifo-vs-axi-fifo/?couponCode=F5013667273617F5EC6B
-https://www.udemy.com/course/the-ultimate-fashion-design-course/?couponCode=89979CBB0CB340A169C8
-https://www.udemy.com/course/cpp-programming-from-scratch-to-advanced/?couponCode=CPP_LD
-https://www.udemy.com/course/affiliate-marketing-corso-come-guadagnare-online/?couponCode=8A858C12692E2022C1FC
-https://www.udemy.com/course/facebook-ads-business-manager-ad-manager-custom-audience/?couponCode=B766709F99595F4401F8
-https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?couponCode=F6E00D9E3176A16694B1
-https://www.udemy.com/course/covalent/?couponCode=BUGRAAYAN.COM
-https://www.udemy.com/course/advanced-usage-of-excel-vlookuphlookupindexmatch-more/?couponCode=VLOOKMAY18
-https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=6EED9ACFE7DD781194AA
-https://www.udemy.com/course/master-the-violin-from-beginner-zero-level-to-advanced-level/?couponCode=RIMMASTRING
-https://www.udemy.com/course/database-engineerdba-mysql-mongodb-sqlite/?couponCode=6931D18C46366ABDCC05
-https://www.udemy.com/course/learn-microsoft-planner-course/?couponCode=TRY10FREE52106
+https://www.udemy.com/course/complete-course-in-catia/?couponCode=DESIGNWITHCATIA
+https://www.udemy.com/course/instagram-teknikleri/?couponCode=DUYAMADIM
+https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/?couponCode=UP_MAYO_2
+https://www.udemy.com/course/make-money-on-amazon-with-kindle-direct-publishing-in-2020/?couponCode=MAYSALEXL
+https://www.udemy.com/course/instala-windows10-como-un-pro-master-hardware/?couponCode=AF9C43B7F418938402A3
+https://www.udemy.com/course/ux-design-portfolios-with-notion/?couponCode=LEARN4FREE
+https://www.udemy.com/course/microsoft-sql-server-2017-linux-docker-and-macos-hands-on/?couponCode=09FE9570B9420EEB78B4
+https://www.udemy.com/course/corejava/?couponCode=GIFT_XTA43
+https://www.udemy.com/course/java-games-development/?couponCode=7918451D2E05924010ED
+https://www.udemy.com/course/how-to-ask-for-a-raise2/?couponCode=AADBCE3696E7E6BE62D0
+https://www.udemy.com/course/body-language-for-speakers/?couponCode=F217733B17C7C98B967A
+https://www.udemy.com/course/pasar-de-sqlserver-a-firebase-en-xamarin-forms-2021/?couponCode=549C8D02DBC5F27D043C
 
