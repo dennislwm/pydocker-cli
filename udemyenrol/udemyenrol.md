@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/05/2021
+# Daily Free Udemy Courses - 21/05/2021
 
-https://www.udemy.com/course/2021-curso-profesional-excel-para-empresas/?couponCode=LIMITADO-APROVECHA
-https://www.udemy.com/course/zamanyonetimi/?couponCode=3GUNSINIRSIZ
-https://www.udemy.com/course/eliminate-your-fear-of-public-speaking/?couponCode=1682030F38BDAE14E1A3
-https://www.udemy.com/course/mindset-for-success-and-happiness-complete-mindset-course/?couponCode=500F7A9E468164D40F57
-https://www.udemy.com/course/agile-kanban/?couponCode=KANBANMAYXIX
-https://bit.ly/2SdLSIs
-https://www.udemy.com/course/youtube-traffic/?couponCode=TUYTHMAY222021
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMGIFT
-https://www.udemy.com/course/dapp-programlamaya-giris/?couponCode=19MAYIS
-https://www.udemy.com/course/subsrate/?couponCode=19MAYIS
-https://www.udemy.com/course/tailwind/?couponCode=7327FDE362A90D2F8CB4
-https://www.udemy.com/course/modela-y-renderiza-profesionalmente-con-sketchup-vray-ps/?couponCode=635F32D25732B5AD9984
+https://www.udemy.com/course/photoshop-video-3d-y-web/?couponCode=789A991BAAAE6ACD5796
+https://www.udemy.com/course/turning-digital-private-label-10-e-books-a-day/?couponCode=7D87281B4E97158264E8
+https://www.udemy.com/course/sophos-central-endpoint-security-with-edr/?couponCode=14D15176BB231C35D3F3
+https://www.udemy.com/course/angular-8-with-project/?couponCode=8A1A8A07166A1B3B67F7
+https://www.udemy.com/course/the-complete-growth-mindset-course-the-mindset-for-success/?couponCode=0B2BD5D62EB6DC2E3E17
+https://www.udemy.com/course/public-speaking-for-parents-teach-your-kids-to-present-1hr/?couponCode=861CAD327EEF364920B4
+https://www.udemy.com/course/advanced-microsoft-powerpoint/?couponCode=POWERPOINT2-5
+https://www.udemy.com/course/advanced-microsoft-excel-j/?couponCode=EXCELFREE2-5
+https://www.udemy.com/course/advanced-microsoft-word-j/?couponCode=WORDFREE2-5
+https://www.udemy.com/course/learn-microsoft-power-automate/?couponCode=TRY10FREE52107
+https://www.udemy.com/course/cpanel-course/?couponCode=TRY10FREE52107
+https://www.udemy.com/course/easy-learning-c-for-beginners/?couponCode=340D9E7598373C786A99
 
