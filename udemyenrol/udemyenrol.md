@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/05/2021
+# Daily Free Udemy Courses - 22/05/2021
 
-https://www.udemy.com/course/photoshop-video-3d-y-web/?couponCode=789A991BAAAE6ACD5796
-https://www.udemy.com/course/turning-digital-private-label-10-e-books-a-day/?couponCode=7D87281B4E97158264E8
-https://www.udemy.com/course/sophos-central-endpoint-security-with-edr/?couponCode=14D15176BB231C35D3F3
-https://www.udemy.com/course/angular-8-with-project/?couponCode=8A1A8A07166A1B3B67F7
-https://www.udemy.com/course/the-complete-growth-mindset-course-the-mindset-for-success/?couponCode=0B2BD5D62EB6DC2E3E17
-https://www.udemy.com/course/public-speaking-for-parents-teach-your-kids-to-present-1hr/?couponCode=861CAD327EEF364920B4
-https://www.udemy.com/course/advanced-microsoft-powerpoint/?couponCode=POWERPOINT2-5
-https://www.udemy.com/course/advanced-microsoft-excel-j/?couponCode=EXCELFREE2-5
-https://www.udemy.com/course/advanced-microsoft-word-j/?couponCode=WORDFREE2-5
-https://www.udemy.com/course/learn-microsoft-power-automate/?couponCode=TRY10FREE52107
-https://www.udemy.com/course/cpanel-course/?couponCode=TRY10FREE52107
-https://www.udemy.com/course/easy-learning-c-for-beginners/?couponCode=340D9E7598373C786A99
+https://www.udemy.com/course/procesamiento-de-texto-profesional/?couponCode=881489266468720AF9BD
+https://www.udemy.com/course/english-writing-skills-grammar-learning-module/?couponCode=93EFA81D3BF24F8BAEDC
+https://www.udemy.com/course/salesforce-developer-training/?couponCode=SF_DEVELOPER_UPLATZ
+https://www.udemy.com/course/database-engineerdba-postgresql-ibm-db2-mariadbnosql/?couponCode=68E73F4C03B770550420
+https://www.udemy.com/course/autodesk-robot-steel-structure-modeling-analysis-and-design/?couponCode=8D0781AAFB7D483FF29F
+https://www.udemy.com/course/artificial-intelligence-in-python-/?couponCode=AI_FREE
+https://www.udemy.com/course/automatizacion-robotica-de-procesos-rpa-casos-practicos/?couponCode=JUNIOFREE
+https://www.udemy.com/course/python-for-ethical-hackers-new/?couponCode=FREETIME
+https://www.udemy.com/course/ssis-giris-egitimi/?couponCode=ALKANITY
+https://www.udemy.com/course/kerzz-stok-maliyet/?couponCode=KERZZ_STOK
+https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=F8431EDE8FA42F8C5AE1
+https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/?couponCode=MAY_SALE
 
