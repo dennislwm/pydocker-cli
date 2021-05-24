@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/05/2021
+# Daily Free Udemy Courses - 24/05/2021
 
-https://www.udemy.com/course/first-principles/?couponCode=2732480074CD3E48B426
-https://www.udemy.com/course/breathwork-pranayama-from-beginner-to-practitioner/?couponCode=C27EBB9D21CA38827D50
-https://www.udemy.com/course/comprehensive-cost-management/?couponCode=6059C1E03BD5B838D98A
-https://www.udemy.com/course/csharp-in-arabic-for-beginners/?couponCode=EASIERINARABIC
-https://bit.ly/346fWbB
-https://www.udemy.com/course/learn-html5-programming-from-beginner-to-pro/?couponCode=36D85EAE731E5DA47416
-https://www.udemy.com/course/excel-kurs/?couponCode=0A37F0E4D9FCF6C3F569
-https://www.udemy.com/course/installing-and-configuring-windows-10/?couponCode=C0EA28762EBA989E16FD
-https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL81471
-https://www.udemy.com/course/social-media-calendar-template/?couponCode=B00D0C84CEB5E6032290
-https://www.udemy.com/course/customer-experience-management-in-2020/?couponCode=LEARNINGVIALINKEDIN2
-https://www.udemy.com/course/artificial-intelligence-for-civil-engineers-part-1/?couponCode=3C8233649D5EE4702D06
+https://www.udemy.com/course/power-bi-para-business-inteligence-de-0-a-100/?couponCode=248790E654CFC2DB7FEC
+https://www.udemy.com/course/number-1-on-google-a-jargon-free-seo-guide-for-the-layman/?couponCode=F2A0ADF72D81F4059FA7
+https://www.udemy.com/course/ukulele-complete-course-for-beginners/?couponCode=FREECOURSE
+https://www.udemy.com/course/beginners-endless-course-ideas/?couponCode=END25TH
+https://www.udemy.com/course/practical-web-development-with-docker-django-nginx-redis/?couponCode=TA-MAY-2021
+https://www.udemy.com/course/professional-certificate-in-java-programming/?couponCode=933B21FC1218E13E7CF4
+https://www.udemy.com/course/financial-budgeting-forecasting-for-business/?couponCode=57788B188B6A9630601F
+https://www.udemy.com/course/react-redux-redux-bootcamp-ile-react-reduxu-ogrenin/?couponCode=9232151F989161E839E9
+https://www.udemy.com/course/full-ethical-hacking-penetration-testing-course/?couponCode=25CB7C731A083CA1F122
+https://www.udemy.com/course/veri-bilimi-ve-makine-ogrenmesi-icin-python/?couponCode=MEHMETTEK
+https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/?couponCode=MAYGIFT786
+https://www.udemy.com/course/plan-de-defensa-alimentaria/?couponCode=PLAN_DE_DEFENSA_2021
 
