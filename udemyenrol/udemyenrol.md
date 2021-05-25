@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/05/2021
+# Daily Free Udemy Courses - 25/05/2021
 
-https://www.udemy.com/course/power-bi-para-business-inteligence-de-0-a-100/?couponCode=248790E654CFC2DB7FEC
-https://www.udemy.com/course/number-1-on-google-a-jargon-free-seo-guide-for-the-layman/?couponCode=F2A0ADF72D81F4059FA7
-https://www.udemy.com/course/ukulele-complete-course-for-beginners/?couponCode=FREECOURSE
-https://www.udemy.com/course/beginners-endless-course-ideas/?couponCode=END25TH
-https://www.udemy.com/course/practical-web-development-with-docker-django-nginx-redis/?couponCode=TA-MAY-2021
-https://www.udemy.com/course/professional-certificate-in-java-programming/?couponCode=933B21FC1218E13E7CF4
-https://www.udemy.com/course/financial-budgeting-forecasting-for-business/?couponCode=57788B188B6A9630601F
-https://www.udemy.com/course/react-redux-redux-bootcamp-ile-react-reduxu-ogrenin/?couponCode=9232151F989161E839E9
-https://www.udemy.com/course/full-ethical-hacking-penetration-testing-course/?couponCode=25CB7C731A083CA1F122
-https://www.udemy.com/course/veri-bilimi-ve-makine-ogrenmesi-icin-python/?couponCode=MEHMETTEK
-https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/?couponCode=MAYGIFT786
-https://www.udemy.com/course/plan-de-defensa-alimentaria/?couponCode=PLAN_DE_DEFENSA_2021
+https://www.udemy.com/course/data-engineerdata-scientist-power-bi-python-etlssis/?couponCode=03EC48420A0789A19CF4
+https://www.udemy.com/course/ripple-coin-cryptocurrency/?couponCode=1MAY21
+https://www.udemy.com/course/complete-french-course/?couponCode=D5C105F1CDD0E3BD3B4B
+https://www.udemy.com/course/henry-zhang-influencer-mini-course/?couponCode=E1EFAC9D7EA245AFF13C
+https://www.udemy.com/course/piano-lessons-for-beginners-with-a-world-class-pianist/?couponCode=4B32666202A43B49B1B4
+https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?couponCode=QSBEGINFREEMAY
+https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/?couponCode=MAY_SALE
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=FREEDIGITAL
+https://www.udemy.com/course/living-your-dreams-with-unstoppable-passion/?couponCode=LYDWUEXPMAY272021
+https://bit.ly/3vjKq5S
+https://www.udemy.com/course/businesscontinuity/?couponCode=BCM42021
+https://www.udemy.com/course/business-success/?couponCode=OBCTBEXPMAY272021
 
