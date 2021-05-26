@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/05/2021
+# Daily Free Udemy Courses - 26/05/2021
 
-https://www.udemy.com/course/data-engineerdata-scientist-power-bi-python-etlssis/?couponCode=03EC48420A0789A19CF4
-https://www.udemy.com/course/ripple-coin-cryptocurrency/?couponCode=1MAY21
-https://www.udemy.com/course/complete-french-course/?couponCode=D5C105F1CDD0E3BD3B4B
-https://www.udemy.com/course/henry-zhang-influencer-mini-course/?couponCode=E1EFAC9D7EA245AFF13C
-https://www.udemy.com/course/piano-lessons-for-beginners-with-a-world-class-pianist/?couponCode=4B32666202A43B49B1B4
-https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?couponCode=QSBEGINFREEMAY
-https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/?couponCode=MAY_SALE
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=FREEDIGITAL
-https://www.udemy.com/course/living-your-dreams-with-unstoppable-passion/?couponCode=LYDWUEXPMAY272021
-https://bit.ly/3vjKq5S
-https://www.udemy.com/course/businesscontinuity/?couponCode=BCM42021
-https://www.udemy.com/course/business-success/?couponCode=OBCTBEXPMAY272021
+https://www.udemy.com/course/learn-how-to-heal-from-your-traumatic-past/?couponCode=2A36C94953F761737444
+https://www.udemy.com/course/spring-boot-framework/?couponCode=970389253BCD39516B43
+https://www.udemy.com/course/design-thinking-crash-course-get-your-certificate/?couponCode=FREEDTEFB
+https://www.udemy.com/course/nft-masterclass-der-praktische-guide-zu-non-fungible-token/?couponCode=3B0B7204E2ABC9341291
+https://www.udemy.com/course/21-essential-minerals-for-health/?couponCode=00025417F1B8BECAEE7D
+https://www.udemy.com/course/crud-con-php-mysql-y-js-en-el-modelo-mvc/?couponCode=FREE0521
+https://www.udemy.com/course/mobile-web-prototyping/?couponCode=MOBWEBPRO1
+https://www.udemy.com/course/12-fundamentos-de-seguridad-para-lideres/?couponCode=BD002340D77GB-270521
+https://bit.ly/3fkqREU
+https://www.udemy.com/course/customer-service-fundamentals/?couponCode=CSF10K
+https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATESMAY2021
+https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=D8ED4B975D4E2950C361
 
