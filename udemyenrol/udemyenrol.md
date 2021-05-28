@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/05/2021
+# Daily Free Udemy Courses - 28/05/2021
 
-https://www.udemy.com/course/de-complete-mindfulness-cursus-geniet-van-het-leven/?couponCode=17F2DFD429684898426A
-https://www.udemy.com/course/learn-splunk-in-1-hour/?couponCode=FREE3DAY
-https://www.udemy.com/course/moodle-para-profesores-desde-cero/?couponCode=MAY2021
-https://www.udemy.com/course/hz-consulting-business-mini-course/?couponCode=C8329F259EC5507DF29E
-https://www.udemy.com/course/how-to-lead-and-manage-people-side-of-an-organization/?couponCode=0ED37739029965C35D44
-https://www.udemy.com/course/cisco-ccna-understanding-ospf-lsa-types/?couponCode=6A4E8D1A0C0A8D23D9FC
-https://www.udemy.com/course/zeit-sparen-mit-excel-und-outlook-durch-vba/?couponCode=96891682286B62E6CFD6
-https://www.udemy.com/course/self-publishing-mini-course/?couponCode=D65C28F372B973F3B9BF
-https://www.udemy.com/course/hz-content-marketing-profits-mini-course/?couponCode=60C512D6C65B9C4C9AB2
-https://www.udemy.com/course/learn-photoshop-for-ui-design-from-scratch/?couponCode=FREEGIFT
-https://www.udemy.com/course/henry-zhang-lead-generation-mini-course/?couponCode=80F56C73FE39C822CAC3
-https://www.udemy.com/course/microsoft-excel-turkmener/?couponCode=A79F6141D3C977A5363D
+https://www.udemy.com/course/mastering-pre-constructionproject-management/?couponCode=FREEFREE2022
+https://www.udemy.com/course/c-sharp-and-visual-studio-productivity-masterclass/?couponCode=UNITYLAUNCHFREE1
+https://www.udemy.com/course/secretos-para-la-abundancia-y-prosperidad/?couponCode=014B851390F0354AD8FE
+https://www.udemy.com/course/canva-by-khalidgraphy/?couponCode=CANVAFREE2
+https://www.udemy.com/course/oracle-cloud-and-oracle-12c-database-release-2-new-features/?couponCode=C243A11DFF6284994C9A
+https://www.udemy.com/course/learning-windows-server-2016-with-hands-on-experience/?couponCode=C93EF474D3009BFA2236
+https://www.udemy.com/course/the-complete-nonverbal-communication-course-body-language/?couponCode=94B6B0B1B9CE18DC49D3
+https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=2DD82E019477D3328B63
+https://www.udemy.com/course/cashflow-forecasting-made-easy-learn-it-in-40-mins/?couponCode=FREEACCOUNTING
+https://www.udemy.com/course/make-money-online-training/?couponCode=910ECBBCD19E28BB3A27
+https://bit.ly/2RJvEa8
+https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial/?couponCode=104D9D1960614EF0A276
 
