@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/05/2021
+# Daily Free Udemy Courses - 29/05/2021
 
-https://www.udemy.com/course/mastering-pre-constructionproject-management/?couponCode=FREEFREE2022
-https://www.udemy.com/course/c-sharp-and-visual-studio-productivity-masterclass/?couponCode=UNITYLAUNCHFREE1
-https://www.udemy.com/course/secretos-para-la-abundancia-y-prosperidad/?couponCode=014B851390F0354AD8FE
-https://www.udemy.com/course/canva-by-khalidgraphy/?couponCode=CANVAFREE2
-https://www.udemy.com/course/oracle-cloud-and-oracle-12c-database-release-2-new-features/?couponCode=C243A11DFF6284994C9A
-https://www.udemy.com/course/learning-windows-server-2016-with-hands-on-experience/?couponCode=C93EF474D3009BFA2236
-https://www.udemy.com/course/the-complete-nonverbal-communication-course-body-language/?couponCode=94B6B0B1B9CE18DC49D3
-https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=2DD82E019477D3328B63
-https://www.udemy.com/course/cashflow-forecasting-made-easy-learn-it-in-40-mins/?couponCode=FREEACCOUNTING
-https://www.udemy.com/course/make-money-online-training/?couponCode=910ECBBCD19E28BB3A27
-https://bit.ly/2RJvEa8
-https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial/?couponCode=104D9D1960614EF0A276
+https://www.udemy.com/course/iso-9001-qms-audit/?couponCode=ISO9001FREEWEEKEND
+https://www.udemy.com/course/adobe-xd-mega-course-user-experience-design/?couponCode=5861A75DE3E18F246C9A
+https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/?couponCode=6E432B15E3A7F5B35820
+https://www.udemy.com/course/full-stack-mobile-application-development-master-class/?couponCode=E95A4E42CBB8D8033276
+https://www.udemy.com/course/public-speaking-mastery-workshop/?couponCode=INSPIREMENK
+https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=HRAMAYFRE
+https://www.udemy.com/course/marketing-analytics-marketing-strategy-models-in-excel/?couponCode=FRERETMAY
+https://www.udemy.com/course/self-taught-programmer/?couponCode=81AEB28DFEB2B9908D6C
+https://bit.ly/3c0JZpx
+https://www.udemy.com/course/ultimate-ethical-hacking/?couponCode=EDUCATIONISFREE
+https://www.udemy.com/course/improve-english-by-listening-movies-1c/?couponCode=A02690EBA03F499C692F
+https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=FRESHCOURSE
 
