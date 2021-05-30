@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/05/2021
+# Daily Free Udemy Courses - 30/05/2021
 
-https://www.udemy.com/course/iso-9001-qms-audit/?couponCode=ISO9001FREEWEEKEND
-https://www.udemy.com/course/adobe-xd-mega-course-user-experience-design/?couponCode=5861A75DE3E18F246C9A
-https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/?couponCode=6E432B15E3A7F5B35820
-https://www.udemy.com/course/full-stack-mobile-application-development-master-class/?couponCode=E95A4E42CBB8D8033276
-https://www.udemy.com/course/public-speaking-mastery-workshop/?couponCode=INSPIREMENK
-https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=HRAMAYFRE
-https://www.udemy.com/course/marketing-analytics-marketing-strategy-models-in-excel/?couponCode=FRERETMAY
-https://www.udemy.com/course/self-taught-programmer/?couponCode=81AEB28DFEB2B9908D6C
-https://bit.ly/3c0JZpx
-https://www.udemy.com/course/ultimate-ethical-hacking/?couponCode=EDUCATIONISFREE
-https://www.udemy.com/course/improve-english-by-listening-movies-1c/?couponCode=A02690EBA03F499C692F
-https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=FRESHCOURSE
+https://www.udemy.com/course/scientific-research-paper/?couponCode=FREERESEARCHH
+https://www.udemy.com/course/productivity-and-time-management-/?couponCode=COVIDRELIEF9873
+https://www.udemy.com/course/electronics-diode-part-3-the-question-answer-session/?couponCode=8F88A7B5268CCCF8FFAF
+https://www.udemy.com/course/a1a2-seviye-paragraf-okuma-ve-analiz-sanat/?couponCode=YAZARAKFREE
+https://www.udemy.com/course/data-structures-in-python/?couponCode=PYTHONDS
+https://www.udemy.com/course/leavedepression/?couponCode=FREEHAPPY
+https://bit.ly/3fvVOWD
+https://www.udemy.com/course/wordpress-ile-sfrdan-uzman-seviyeye-kadar-proje-gelistirme/?couponCode=01D063F6EB113995980D
+https://www.udemy.com/course/start-business-model-course/?couponCode=4239E55D271C2EE5237C
+https://www.udemy.com/course/the-lean-startup-best-course-on-entrepreneurship/?couponCode=CBDF5FC68EF1AD8C5A94
+https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=SEL_C_MAY_FREE_3
+https://www.udemy.com/course/learn-basic-trello/?couponCode=TRY10FREE52110
 
