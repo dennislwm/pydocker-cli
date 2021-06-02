@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/06/2021
+# Daily Free Udemy Courses - 02/06/2021
 
-https://www.udemy.com/course/conversion-optimization-mini-course/?couponCode=BF6EE79BA278E02D27B0
-https://www.udemy.com/course/az-140-exam-practice-test-questions/?couponCode=9AFBFD291D9344735FC9
-https://www.udemy.com/course/anchor-podcasting-masterclass-say-it-with-anchor-by-spotify/?couponCode=5E81596D434E230334A1
-https://www.udemy.com/course/product-marketing-strategy-tactics-that-really-works/?couponCode=FREEMARKETINGCOURSE
-https://www.udemy.com/course/alteryx-masterclass-for-data-analytics-etl-and-reporting/?couponCode=ALTREEMAYX
-https://www.udemy.com/course/podcasting-mini-course/?couponCode=B5C7D013CEB8EC4C7BA4
-https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=499F0BF8CD6E3C7206F0
-https://www.udemy.com/course/learn-program-csharp-make-videogame-unity-prefabs-animations-platform/?couponCode=9F6BFAC35AE40B8A629D
-https://www.udemy.com/course/sap-s4-hana/?couponCode=0F29498992CCC32F1914
-https://www.udemy.com/course/sap-basis-erp/?couponCode=8F2EF9CC8131327BE736
-https://www.udemy.com/course/sap-erp-project/?couponCode=61728619BB7B6711DEC8
-https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=C23486236F11DC4D75AE
+https://www.udemy.com/course/c-for-beginners-learn-c-programming-from-scratch/?couponCode=OAKACADEMY
+https://www.udemy.com/course/mandala-sanat-atolyesi/?couponCode=MERRDESIGN
+https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=7E9A26227AD0B1778B78
+https://www.udemy.com/course/personal-finance-for-the-employed-budget-save-and-spend/?couponCode=3DA6C4773B637311CF4B
+https://www.udemy.com/course/corso-guerrilla-marketing/?couponCode=00372B722EB2DAC26419
+https://www.udemy.com/course/web-uygulamalarna-yonelik-szma-testi-egitimi/?couponCode=FREE3DAYS
+https://www.udemy.com/course/introduction-to-r-programming-r-r-studio-for-beginners/?couponCode=FREERINTRODUCTION
+https://www.udemy.com/course/k-means-for-cluster-analysis-and-unsupervised-learning-in-r/?couponCode=FREEKMEANSR
+https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=0EC5906D8B1D53A2DBF5
+https://www.udemy.com/course/javascript-complete-real-time-production-usage-2019/?couponCode=JUN-OFF
+https://www.udemy.com/course/creador-de-licencias-para-software-en-c/?couponCode=5A1F7A81182B623B2E2A
+https://www.udemy.com/course/pasar-de-sqlserver-a-firebase-en-xamarin-forms-2021/?couponCode=4A3A1CE80C414C318CAC
 
