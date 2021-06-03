@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/06/2021
+# Daily Free Udemy Courses - 03/06/2021
 
-https://www.udemy.com/course/c-for-beginners-learn-c-programming-from-scratch/?couponCode=OAKACADEMY
-https://www.udemy.com/course/mandala-sanat-atolyesi/?couponCode=MERRDESIGN
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=7E9A26227AD0B1778B78
-https://www.udemy.com/course/personal-finance-for-the-employed-budget-save-and-spend/?couponCode=3DA6C4773B637311CF4B
-https://www.udemy.com/course/corso-guerrilla-marketing/?couponCode=00372B722EB2DAC26419
-https://www.udemy.com/course/web-uygulamalarna-yonelik-szma-testi-egitimi/?couponCode=FREE3DAYS
-https://www.udemy.com/course/introduction-to-r-programming-r-r-studio-for-beginners/?couponCode=FREERINTRODUCTION
-https://www.udemy.com/course/k-means-for-cluster-analysis-and-unsupervised-learning-in-r/?couponCode=FREEKMEANSR
-https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=0EC5906D8B1D53A2DBF5
-https://www.udemy.com/course/javascript-complete-real-time-production-usage-2019/?couponCode=JUN-OFF
-https://www.udemy.com/course/creador-de-licencias-para-software-en-c/?couponCode=5A1F7A81182B623B2E2A
-https://www.udemy.com/course/pasar-de-sqlserver-a-firebase-en-xamarin-forms-2021/?couponCode=4A3A1CE80C414C318CAC
+https://www.udemy.com/course/python-3-programming-masterclass/?couponCode=FREEJUNE
+https://www.udemy.com/course/dropshipping-mini-course/?couponCode=B51CF373AAA49CE48B40
+https://www.udemy.com/course/domina-shopify-2021-crea-tu-tienda-online-de-0-a-experto/?couponCode=1E1371B5291AA7724693
+https://www.udemy.com/course/introduction-to-biostatistics-e/?couponCode=68F2B294330709B8F536
+https://www.udemy.com/course/audit-financial-statement/?couponCode=9921BFF12AEC6C700639
+https://www.udemy.com/course/best-sap-fico-tutorial-for-beginners-freshers/?couponCode=FREEJUNE
+https://www.udemy.com/course/time-management-and-productivity/?couponCode=10DD21B95ED92A7070CC
+https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=A3F7AFE4B790DB3AD1D6
+https://www.udemy.com/course/self-discipline-build-habits/?couponCode=3EC200B3F0DB6B5DBD6D
+https://www.udemy.com/course/r-programming-course-for-absolute-beginners/?couponCode=BLIZZARD
+https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVACTAKEOFFJUNE
+https://www.udemy.com/course/corso-social-media-manager/?couponCode=LAPAGINADEGLISCONTI
 
