@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/06/2021
+# Daily Free Udemy Courses - 04/06/2021
 
-https://www.udemy.com/course/python-3-programming-masterclass/?couponCode=FREEJUNE
-https://www.udemy.com/course/dropshipping-mini-course/?couponCode=B51CF373AAA49CE48B40
-https://www.udemy.com/course/domina-shopify-2021-crea-tu-tienda-online-de-0-a-experto/?couponCode=1E1371B5291AA7724693
-https://www.udemy.com/course/introduction-to-biostatistics-e/?couponCode=68F2B294330709B8F536
-https://www.udemy.com/course/audit-financial-statement/?couponCode=9921BFF12AEC6C700639
-https://www.udemy.com/course/best-sap-fico-tutorial-for-beginners-freshers/?couponCode=FREEJUNE
-https://www.udemy.com/course/time-management-and-productivity/?couponCode=10DD21B95ED92A7070CC
-https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=A3F7AFE4B790DB3AD1D6
-https://www.udemy.com/course/self-discipline-build-habits/?couponCode=3EC200B3F0DB6B5DBD6D
-https://www.udemy.com/course/r-programming-course-for-absolute-beginners/?couponCode=BLIZZARD
-https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVACTAKEOFFJUNE
-https://www.udemy.com/course/corso-social-media-manager/?couponCode=LAPAGINADEGLISCONTI
+https://www.udemy.com/course/lightworks-video-editing/?couponCode=74E20700B9692D059C8E
+https://www.udemy.com/course/complete-machine-learning-data-science-libraries-with-python/?couponCode=GOEDUHUB-ELEARNING
+https://www.udemy.com/course/youtube-success-for-newbies/?couponCode=STARTACHANNEL
+https://www.udemy.com/course/5s-training-implementation-and-understanding/?couponCode=3B64622B56DBB2F0E881
+https://www.udemy.com/course/advanced-neural-networks-in-r-a-practical-approach/?couponCode=BLIZZARD
+https://www.udemy.com/course/learn-chemistry-with-basic-concepts-keywords/?couponCode=CC90F4A9A403C4C5BE8B
+https://www.udemy.com/course/master-complete-statistics-for-computer-science-i/?couponCode=FREEMCSCS8
+https://bit.ly/34LaUkZ
+https://www.udemy.com/course/internet-and-web-development-fundamentals/?couponCode=YOUACCEL44184
+https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=2715E213167AAE321057
+https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?couponCode=5B0D13596E86F8590815
+https://www.udemy.com/course/60-day-startup/?couponCode=ACQUISITION
 
