@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/06/2021
+# Daily Free Udemy Courses - 07/06/2021
 
-https://www.udemy.com/course/best-techniques-to-speed-up-your-mathematics/?couponCode=A97BE4059F624CFA2051
-https://www.udemy.com/course/jenkins-github-and-aws-in-practice/?couponCode=TAPIR4U
-https://www.udemy.com/course/git_dersleri_aytiqaqash/?couponCode=3GUNPULSUZ
-https://www.udemy.com/course/java-tutorial-by-sagar/?couponCode=02BFC0E1D99DD0A317BD
-https://www.udemy.com/course/marketing-analytics-pricing-strategies-and-price-analytics/?couponCode=PRSJUNFRE
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=DISCUDEMY.CO.IN
-https://www.udemy.com/course/introduction-to-artificial-intelligence-in-the-workplace/?couponCode=JUN21DC132E4E3
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_JUN_FREE
-https://www.udemy.com/course/timemanagementcourse/?couponCode=INCREASEPRODUCTIVITY
-https://www.udemy.com/course/agile-project-management-genman/?couponCode=APMJUNFRE
-https://bit.ly/3preCtF
-https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=0786C6B90C9F0C190AB0
+https://www.udemy.com/course/henry-zhang-affiliate-networking-mini-course/?couponCode=F980BEE26A9686CAABB9
+https://www.udemy.com/course/algebra-trigonometria-y-geometria-analitica-parte-i/?couponCode=46C3F4D08C2228C2EBFD
+https://www.udemy.com/course/ginos-lambda-expressions-course-for-java-certification/?couponCode=MMFT925
+https://www.udemy.com/course/linear-programming-for-data-science/?couponCode=1F7AFDD175012084E536
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=FINAJUNFR
+https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=CCFA0FCDC95DF1472769
+https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=CEDC008E411DDFF9B851
+https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=82036B5C06C5C98711E5
+https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?couponCode=QSBEGINJUNE
+https://www.udemy.com/course/pinheroes/?couponCode=D2247C5F123B75F5DE1D
+https://www.udemy.com/course/first-steps-into-selling-smarter-t/?couponCode=JUNE21
+https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/?couponCode=PYTHONNOW
 
