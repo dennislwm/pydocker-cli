@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/06/2021
+# Daily Free Udemy Courses - 10/06/2021
 
-https://www.udemy.com/course/complete-japanese-course-learn-japanese-for-beginners-lvl-1/?couponCode=1B683BDF7A6509400E5D
-https://www.udemy.com/course/neuropath/?couponCode=32519F3627981175E3FB
-https://www.udemy.com/course/learn-word-powerpoint-from-beginner-to-advanced/?couponCode=BB60A033A357C82DA1D6
-https://www.udemy.com/course/videoscribe-whiteboard-animations-masterclass-with-project/?couponCode=8EFC5F98FD18B78E0738
-https://www.udemy.com/course/sqlserverjobsandalerts/?couponCode=FREEFORTHREEDAYS
-https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=7A62F45DC26FE68D620D
-https://www.udemy.com/course/orthorexia/?couponCode=HEALTHYEATING
-https://www.udemy.com/course/home-business-basic-sales-marketing-tools/?couponCode=BFFB7A13CA52D5989081
-https://bit.ly/352cora
-https://www.udemy.com/course/photoshopavanzadoflujodetrabajo/?couponCode=056DB3F3881141B00612
-https://www.udemy.com/course/excelparanegocios/?couponCode=7FEDC7B21193DAD5BE6D
-https://www.udemy.com/course/basics-of-stop-motion-animation-using-canva-and-openshot/?couponCode=8B13A00E4D4ADED48B62
+https://www.udemy.com/course/pnl-para-ventas-influencia-y-persuasion/?couponCode=0DB92D5A02199D43D735
+https://www.udemy.com/course/snapchat-social-media-marketing/?couponCode=SNAPCHAT-GESCHENK
+https://www.udemy.com/course/how-to-start-your-own-social-media-marketing-agency/?couponCode=PROMOTION
+https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/?couponCode=BLACKFRIDAYADOBE
+https://www.udemy.com/course/sosyal-medya-pazarlamasi-reklamciligi-ve-yonetimi-egitimi/?couponCode=75FD4335E67E3A754C70
+https://www.udemy.com/course/sosyal-medya-yonetimi-hap-bilgiler/?couponCode=A98C8FBC64EEB888FD76
+https://bit.ly/3goNcAq
+https://www.udemy.com/course/discover-meditation/?couponCode=6B1E040F7C62AC24D3C9
+https://www.udemy.com/course/scrum-genman/?couponCode=SCRJUNFR
+https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/?couponCode=FREEJUN2
+https://www.udemy.com/course/black-friday-economics/?couponCode=SALESSALESSALES
+https://www.udemy.com/course/henry-zhang-influencer-marketing-mini-course/?couponCode=6D91556799A1947A0D81
 
