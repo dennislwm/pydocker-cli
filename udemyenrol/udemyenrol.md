@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/06/2021
+# Daily Free Udemy Courses - 12/06/2021
 
-https://www.udemy.com/course/binary-option-money-system/?couponCode=F451CAFE3F6854CB74BD
-https://www.udemy.com/course/cryptocurrencymoneysystem/?couponCode=9CE6E8B1A09C666E4CEC
-https://www.udemy.com/course/negotiate-salaries-you-can-double-your-salary-in-12-18mths/?couponCode=NEGOTIATE
-https://www.udemy.com/course/ventas-by-diegososa/?couponCode=CURSOSDEV.COMV61
-https://www.udemy.com/course/desarrollo-de-aplicaciones-web-con-javascript-2020/?couponCode=81EBE9862477A8E126B8
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEJUN2
-https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEJUN2
-https://www.udemy.com/course/plan-de-defensa-alimentaria/?couponCode=DEFENSAALIMENTARIA
-https://www.udemy.com/course/nlp-course-for-beginner/?couponCode=E1EFCC006FACB01F650A
-https://www.udemy.com/course/machine-learning-course/?couponCode=C39F96C47378BCE74CA9
-https://www.udemy.com/course/python-for-computer-vision/?couponCode=A4A1A2B65E3B44C35CBF
-https://www.udemy.com/course/the-complete-html-5-course-from-scratch/?couponCode=TRY10FREE62103
+https://www.udemy.com/course/internet-evangelism-strategies/?couponCode=BONANZAGIFT101
+https://www.udemy.com/course/seo-x-magic-massive-free-traffic-unique-articles-more/?couponCode=_BBHF_
+https://www.udemy.com/course/how-does-an-overseas-letter-of-credit-work-a-short-course/?couponCode=5E3005B475936E8B8D87
+https://www.udemy.com/course/the-big-5-guitar-techniques-ultimate-muscle-memory-builder/?couponCode=614E1FEE22AF65854CA1
+https://www.udemy.com/course/tableau-data-visualization-bi/?couponCode=TABLEAUFREE
+https://www.udemy.com/course/agile-certification-project-managment-training-scrum/?couponCode=AGILESCRUM
+https://www.udemy.com/course/learn-complete-google-drive/?couponCode=B849F712E0AA42791HI
+https://www.udemy.com/course/learn-advanced-svg/?couponCode=TRY10FREE62103
+https://www.udemy.com/course/the-complete-css-course/?couponCode=TRY10FREE62103
+https://www.udemy.com/course/the-learn-jquery-course/?couponCode=TRY10FREE62103
+https://www.udemy.com/course/the-learn-javascript-course/?couponCode=TRY10FREE62103
+https://www.udemy.com/course/learn-google-drive-from-beginner-to-advanced/?couponCode=TRY10FREE62103
 
