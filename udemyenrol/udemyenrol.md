@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/06/2021
+# Daily Free Udemy Courses - 13/06/2021
 
-https://www.udemy.com/course/internet-evangelism-strategies/?couponCode=BONANZAGIFT101
-https://www.udemy.com/course/seo-x-magic-massive-free-traffic-unique-articles-more/?couponCode=_BBHF_
-https://www.udemy.com/course/how-does-an-overseas-letter-of-credit-work-a-short-course/?couponCode=5E3005B475936E8B8D87
-https://www.udemy.com/course/the-big-5-guitar-techniques-ultimate-muscle-memory-builder/?couponCode=614E1FEE22AF65854CA1
-https://www.udemy.com/course/tableau-data-visualization-bi/?couponCode=TABLEAUFREE
-https://www.udemy.com/course/agile-certification-project-managment-training-scrum/?couponCode=AGILESCRUM
-https://www.udemy.com/course/learn-complete-google-drive/?couponCode=B849F712E0AA42791HI
-https://www.udemy.com/course/learn-advanced-svg/?couponCode=TRY10FREE62103
-https://www.udemy.com/course/the-complete-css-course/?couponCode=TRY10FREE62103
-https://www.udemy.com/course/the-learn-jquery-course/?couponCode=TRY10FREE62103
-https://www.udemy.com/course/the-learn-javascript-course/?couponCode=TRY10FREE62103
-https://www.udemy.com/course/learn-google-drive-from-beginner-to-advanced/?couponCode=TRY10FREE62103
+https://www.udemy.com/course/cissp-certification-practice-exam-2021-explained-all-domains/?couponCode=7B14A3975F23B047F7AA
+https://www.udemy.com/course/java-generics-in-tamil/?couponCode=DE7AF1600781B5543475
+https://www.udemy.com/course/smtjavascript/?couponCode=SMTJSBASICS12JUNE
+https://www.udemy.com/course/python-for-beginners-by-imran-syed/?couponCode=C3748EDF37950EA5B665
+https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass/?couponCode=FREE_MASTERCLASS
+https://www.udemy.com/course/curso-de-tableau-analisis-de-datos-y-visualizaciones/?couponCode=FREE_JUNE
+https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=472639AF8492D2BA1BE8
+https://www.udemy.com/course/curso-tutorial-aprender-como-usar-power-bi-excel-ejercicios-practicos/?couponCode=JUN2021
+https://bit.ly/3vdhawM
+https://www.udemy.com/course/english-grammar-tenses-structures-usage-the-best-course/?couponCode=LEARNTENSES
+https://www.udemy.com/course/network-ethical-hacking/?couponCode=31DC8F1E98333E6ED380
+https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=FREE-AGAIN
 
