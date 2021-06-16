@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/06/2021
+# Daily Free Udemy Courses - 16/06/2021
 
-https://www.udemy.com/course/build-a-team-and-succeed/?couponCode=C3C79EF22447F680F3E7
-https://www.udemy.com/course/increase-your-freelance-design-income/?couponCode=9ABC0C337730E375CD1A
-https://www.udemy.com/course/coreldraw-2021-graphic-design-beginners-bootcamp/?couponCode=11A840D10357B4F6749F
-https://www.udemy.com/course/universidad-desarrollo-web-moderno-html-css-javascript-html5-css3/?couponCode=GM_ONCE
-https://www.udemy.com/course/universidad-javascript-angular-react-vue-typescript-html-css-bootstrap/?couponCode=GM_ONCE
-https://www.udemy.com/course/angular-de-cero-a-experto-angular-2-framework-javascript-html-css/?couponCode=GM_ONCE
-https://www.udemy.com/course/universidad-spring-framework-springboot-java-security-rest-webservices/?couponCode=GM_ONCE
-https://www.udemy.com/course/universidad-excel-microsoft-tablas-dinamicas-dashboard-macros-vba/?couponCode=GM_ONCE
-https://www.udemy.com/course/seo-with-google-other-large-platforms-to-get-great-scale/?couponCode=9EA479E284A16022D0AA
-https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=GM_ONCE
-https://www.udemy.com/course/rebt-psychology-self-help/?couponCode=A70BC114FAF77FEF7BAA
-https://www.udemy.com/course/nlp-neuro-linguistic-programming/?couponCode=02CDF28672532C481432
+https://www.udemy.com/course/fiverr-101/?couponCode=FREELANCE
+https://www.udemy.com/course/komple-frontend-egitimi/?couponCode=FRONTENDGIFT
+https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=9F4EBFAD98AAA8D81D5D
+https://www.udemy.com/course/learn-sap-fico-basic-to-advance-h/?couponCode=JUNE21
+https://www.udemy.com/course/best-leadership-presentationskills-teamwork-timemanagement/?couponCode=SOFTSKILLS
+https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-for-beginners/?couponCode=CEEC4CEACE0969D9C0E5
+https://www.udemy.com/course/master-mandarin-chinese-characters-best-online-course/?couponCode=GIVEUS5STAR
+https://www.udemy.com/course/how-to-manage-your-anger/?couponCode=AMSFJ-003
+https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/?couponCode=9CDA9D0B682251BA8A88
+https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JUNE-2021
+https://www.udemy.com/course/financial-statement-analysis-ratio-analysis/?couponCode=BA6C6A90B98074D2AB78
+https://bit.ly/3wtx3kd
 
