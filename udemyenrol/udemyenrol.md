@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/06/2021
+# Daily Free Udemy Courses - 17/06/2021
 
-https://www.udemy.com/course/fiverr-101/?couponCode=FREELANCE
-https://www.udemy.com/course/komple-frontend-egitimi/?couponCode=FRONTENDGIFT
-https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=9F4EBFAD98AAA8D81D5D
-https://www.udemy.com/course/learn-sap-fico-basic-to-advance-h/?couponCode=JUNE21
-https://www.udemy.com/course/best-leadership-presentationskills-teamwork-timemanagement/?couponCode=SOFTSKILLS
-https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-for-beginners/?couponCode=CEEC4CEACE0969D9C0E5
-https://www.udemy.com/course/master-mandarin-chinese-characters-best-online-course/?couponCode=GIVEUS5STAR
-https://www.udemy.com/course/how-to-manage-your-anger/?couponCode=AMSFJ-003
-https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/?couponCode=9CDA9D0B682251BA8A88
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JUNE-2021
-https://www.udemy.com/course/financial-statement-analysis-ratio-analysis/?couponCode=BA6C6A90B98074D2AB78
-https://bit.ly/3wtx3kd
+https://www.udemy.com/course/ethical-hacking-for-android-apps-and-devices/?couponCode=OAKACADEMY
+https://www.udemy.com/course/evidence-based-life-coaching/?couponCode=LAUNCH-FREE-6951529A
+https://www.udemy.com/course/how-to-find-your-voice-the-resonates-with-your-customers/?couponCode=4AAC81580EE23B59AEED
+https://www.udemy.com/course/learn-asana-master-course/?couponCode=TRY10FREE62105
+https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?couponCode=99DB51B9B0E6667B86F2
+https://www.udemy.com/course/nodejs-restapi-its-simple/?couponCode=8637C14DBDA290B1E3F2
+https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?couponCode=TRY10FREE62105
+https://www.udemy.com/course/adobe-audition-cc-2020-master-course/?couponCode=TRY10FREE62105
+https://www.udemy.com/course/adobe-dreamweaver-cc-2020-master-course/?couponCode=TRY10FREE62105
+https://www.udemy.com/course/adobe-illustrator-cc-2020-master-course/?couponCode=TRY10FREE62105
+https://www.udemy.com/course/adobe-animate-cc-2020-master-course/?couponCode=TRY10FREE62105
+https://www.udemy.com/course/learn-basic-trello/?couponCode=TRY10FREE62105
 
