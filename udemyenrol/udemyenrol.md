@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/06/2021
+# Daily Free Udemy Courses - 19/06/2021
 
-https://www.udemy.com/course/css-transition-and-animation/?couponCode=FREE_FOR_STUDENTS
-https://www.udemy.com/course/introduction-to-interior-design/?couponCode=4C74F9A6C1A5A13662E8
-https://www.udemy.com/course/digital-marketing-courses/?couponCode=GOODNESS777
-https://www.udemy.com/course/youtube-seo-marketing-masterclass-for-growth/?couponCode=YOUTUBEGROWTHNOW
-https://www.udemy.com/course/alzheimers-disease-know-your-enemy/?couponCode=ALZHEIMERS_3DAYFREE
-https://www.udemy.com/course/six-sigma-white-belt-certification-training/?couponCode=FREESIXSIGMA
-https://www.udemy.com/course/a1-a2-seviyesi-100-metin-ceviri-kursu-r/?couponCode=FREELESSON
-https://www.udemy.com/course/diy-home-inspection/?couponCode=DIYHOME2021
-https://www.udemy.com/course/sistema-web-facturacion-e-inventario-net-framework-45/?couponCode=EE1CC3C54A798FBCCE88
-https://www.udemy.com/course/konusturan-ingilizce-kursu/?couponCode=FREEFORTHISTIME
-https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=JUNE-21
-https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=7A1AA3AE4DD97A9C9A26
+https://www.udemy.com/course/fresh-pasta-recipes-to-add-your-cuisine-pasta-making-course/?couponCode=FREEPASTA
+https://www.udemy.com/course/tableau-crash-course-build-and-share-a-covid-19-dashboard/?couponCode=0BA45D7DA77FF31ABB3A
+https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-tests-2021/?couponCode=C5A1CFF01C3CFAA7BA4E
+https://www.udemy.com/course/the-complete-web-development-course/?couponCode=WEB22JUNE2021
+https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/?couponCode=JUNE_OFFER
+https://www.udemy.com/course/talking-robots-artificial-intelligence-audiobook-creation/?couponCode=89B0DBB5C7A02F959ED9
+https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=DISCUDEM
+https://www.udemy.com/course/create-super-fast-videos-and-online-courses-with-wevideo/?couponCode=8A9F21065C4C85F062AD
+https://www.udemy.com/course/the-ultimate-text-to-video-creation-course/?couponCode=6447EC5DE7E68E202ECA
+https://www.udemy.com/course/the-internet-of-things-iot-2020-trends-and-the-future/?couponCode=10D2F2107D53BE82FF02
+https://www.udemy.com/course/killer-ways-to-create-and-promote-youtube-videos/?couponCode=2CB43C2B1A511C3B4D90
+https://www.udemy.com/course/superminds-artificial-intelligence-in-2019-2025-markets/?couponCode=D1E0DBA0FD4E297760D8
 
