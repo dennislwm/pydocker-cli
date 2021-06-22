@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/06/2021
+# Daily Free Udemy Courses - 22/06/2021
 
-https://www.udemy.com/course/the-pursuit-of-happiness-how-to-be-happier-in-life-101/?couponCode=F5C2F9B63F9C0817DB79
-https://www.udemy.com/course/ecommercemasterclass/?couponCode=FREEFORALL
-https://www.udemy.com/course/the-pinterest-marketing-guide-for-creatives/?couponCode=FREEPINTEREST3DAYS
-https://www.udemy.com/course/tallyprimewithgst/?couponCode=GETTALLYPRIMEFREE
-https://www.udemy.com/course/mindfulness-based-art-the-mindful-mandala-drawing-course/?couponCode=FREEMANDALAMINDFUL
-https://www.udemy.com/course/complete-microsoft-word-lessons/?couponCode=TRICKYMAN
-https://www.udemy.com/course/2-saatte-wordpress-ile-para-kazanmayi-ogren/?couponCode=MUSTAFA
-https://www.udemy.com/course/cost-management/?couponCode=E79CD08224D2845AC065
-https://www.udemy.com/course/pmp-prep-arabic/?couponCode=E9C14AC79C051ADCE685
-https://www.udemy.com/course/practical-project-in-python-and-qml3/?couponCode=6C5861CA10A453A54782
-https://www.udemy.com/course/software-development-in-python-a-practical-approach/?couponCode=F73EFCCBEDEE2CC2A990
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=FRCONJUN
+https://www.udemy.com/course/authentic-leadership-practices-and-examples/?couponCode=AUTHLEAD-FREE-JUNE21
+https://www.udemy.com/course/parlare-in-pubblico-in-2-ore/?couponCode=0C8F3073CDB80B1600ED
+https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=EA9ABAAF2AD9FD2AD68F
+https://www.udemy.com/course/huawei-hcia-datacom-entry-espanol/?couponCode=EF2714A228E3AE323992
+https://www.udemy.com/course/most-essential-popular-excel-formulas-and-functions/?couponCode=TRITRICKYMAN2
+https://www.udemy.com/course/expressjs-rozwijanie-mikroserwisow-z-nodejs-i-mongodb/?couponCode=298AC2624AC6256B0311
+https://www.udemy.com/course/how-to-give-a-ted-talk/?couponCode=73841DF1A537BDCAF2D1
+https://www.udemy.com/course/selling-with-online-video/?couponCode=FC8CD4E7935F07CA6B22
+https://www.udemy.com/course/the-complete-google-forms-course-sending-analyzing-forms/?couponCode=B2065DC097AFA8BF3137
+https://bit.ly/3iZjQeU
+https://www.udemy.com/course/teacher-training-how-to-teach-online-remote-teaching-1hr/?couponCode=47E0F9C2A0A7E0CD1454
+https://www.udemy.com/course/media-training-how-to-speak-to-the-news-media-effectively/?couponCode=4C0C15BBFC48F0889FB7
 
