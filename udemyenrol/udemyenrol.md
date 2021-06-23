@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/06/2021
+# Daily Free Udemy Courses - 23/06/2021
 
-https://www.udemy.com/course/authentic-leadership-practices-and-examples/?couponCode=AUTHLEAD-FREE-JUNE21
-https://www.udemy.com/course/parlare-in-pubblico-in-2-ore/?couponCode=0C8F3073CDB80B1600ED
-https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=EA9ABAAF2AD9FD2AD68F
-https://www.udemy.com/course/huawei-hcia-datacom-entry-espanol/?couponCode=EF2714A228E3AE323992
-https://www.udemy.com/course/most-essential-popular-excel-formulas-and-functions/?couponCode=TRITRICKYMAN2
-https://www.udemy.com/course/expressjs-rozwijanie-mikroserwisow-z-nodejs-i-mongodb/?couponCode=298AC2624AC6256B0311
-https://www.udemy.com/course/how-to-give-a-ted-talk/?couponCode=73841DF1A537BDCAF2D1
-https://www.udemy.com/course/selling-with-online-video/?couponCode=FC8CD4E7935F07CA6B22
-https://www.udemy.com/course/the-complete-google-forms-course-sending-analyzing-forms/?couponCode=B2065DC097AFA8BF3137
-https://bit.ly/3iZjQeU
-https://www.udemy.com/course/teacher-training-how-to-teach-online-remote-teaching-1hr/?couponCode=47E0F9C2A0A7E0CD1454
-https://www.udemy.com/course/media-training-how-to-speak-to-the-news-media-effectively/?couponCode=4C0C15BBFC48F0889FB7
+https://www.udemy.com/course/hz-storytelling-marketing-mini-course/?couponCode=6718B02DCA6D09F9B256
+https://www.udemy.com/course/henry-zhang-print-on-demand-mini-course/?couponCode=87E934AA14E3B5BA5E53
+https://www.udemy.com/course/learn-graphics-from-scratch/?couponCode=BOB2021
+https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=A1A8CF340454F1FB5C4A
+https://www.udemy.com/course/quickbooks-desktop-multiple-currencies/?couponCode=D82CC03DD0509700AA75
+https://www.udemy.com/course/job-cost-quickbooks-online-vs-quickbooks-desktopcontractor/?couponCode=122E84B047B14AA6A788
+https://www.udemy.com/course/responsibility-accounting-performance-measurement/?couponCode=3520BA8836295D416A8D
+https://www.udemy.com/course/reverse-engineering-debugging-and-malware-analysis-2021/?couponCode=FREEDEBUGGING
+https://www.udemy.com/course/criminology-fundamentals-of-criminal-psychology-and-law/?couponCode=CRIMINALPSYCHOLOGY
+https://www.udemy.com/course/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/?couponCode=TRICKYMAN1
+https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLFREJUN
+https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=0CB534C3584F1B71F6DC
 
