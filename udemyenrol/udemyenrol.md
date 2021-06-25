@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/06/2021
+# Daily Free Udemy Courses - 25/06/2021
 
-https://www.udemy.com/course/sqlmicrodegree/?couponCode=FREEMICRODEGREE
-https://www.udemy.com/course/digital-analog-introduction-to-modulation-in-communication-systems/?couponCode=JUNEFREE
-https://www.udemy.com/course/rfic-interview-questions-analog-interview-questions-rahsoft/?couponCode=JUNEFREE
-https://www.udemy.com/course/phase-lock-loop-online-course-rahsoft-system-design-theory/?couponCode=JUNEFREE
-https://www.udemy.com/course/rf-fundamentals_all-basic-concepts_rahsoft/?couponCode=JUNEFREE
-https://www.udemy.com/course/rfic-software-keysight-advanced-design-system-adsrahrf209l-rf-sofrware/?couponCode=JUNEFREE
-https://www.udemy.com/course/laboratorio-microbiologia/?couponCode=LABORATORIODEMICRO
-https://www.udemy.com/course/machine-learning-using-python-programming/?couponCode=MACHINE_LEARNING
-https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=PAYJUNE23
-https://www.udemy.com/course/clubhouse-audio-chat-app-ft-bre-donofrio-matthew-rolnick/?couponCode=YOUACCEL40602
-https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL40602
-https://www.udemy.com/course/persuasive-writing-copywriting/?couponCode=YOUACCEL40602
+https://www.udemy.com/course/top-python-for-data-science-course/?couponCode=PYTHON100
+https://www.udemy.com/course/phpstorm-masterclass-best-php-ide-fullstack-laravel-angular-react/?couponCode=LEARNPHPSTORM
+https://www.udemy.com/course/the-canva-masterclass-design-collaborate-share-with-canva/?couponCode=AFDBF905FA707CB571FC
+https://www.udemy.com/course/how-to-build-confidence/?couponCode=FREECONFIDENCE
+https://www.udemy.com/course/transportation-system-planning-fundamentals/?couponCode=AB4E1ACF29219B8D0FC3
+https://www.udemy.com/course/tableau_certified_associate/?couponCode=FREE2021
+https://www.udemy.com/course/data-analytics-python/?couponCode=BIGTREAT
+https://www.udemy.com/course/create-a-simple-interior-scene-with-blender-29/?couponCode=BASICQ1
+https://www.udemy.com/course/learn-carnatic-flute-intermediate-level-varnams-volume-2/?couponCode=VARNAMS2
+https://www.udemy.com/course/2021-learn-carnatic-flute-intermediate-level-varnams/?couponCode=VARNAMS1
+https://www.udemy.com/course/passive-income-beginners-design-print-on-demand/?couponCode=171FE85866B537DA7929
+https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/?couponCode=JUNE22
 
