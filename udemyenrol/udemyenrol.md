@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/06/2021
+# Daily Free Udemy Courses - 01/07/2021
 
-https://www.udemy.com/course/learn-autocad-2021-3d-toolstechniques/?couponCode=45D97E30E6A8CBCF6E13
-https://www.udemy.com/course/data-analysis-con-sql-y-tableau/?couponCode=86C02BEE88311F7E815C
-https://www.udemy.com/course/power-bi-desde-cero/?couponCode=1D95497143C010B542A9
-https://www.udemy.com/course/the-complete-instagram-growth-course-canva-instagram-templates-bundle/?couponCode=FREEIGCOUPON
-https://www.udemy.com/course/corporate-finance-7-short-term-financing/?couponCode=D5762F0C2D9595C5FD89
-https://www.udemy.com/course/corporate-finance-8-time-value-of-money-pv-fv/?couponCode=DB455FEBF0748349B452
-https://www.udemy.com/course/a-beginners-guide-on-starting-a-successful-business/?couponCode=FREE01-01072021
-https://www.udemy.com/course/mobile-device-management-certification/?couponCode=MOBILEDEVICE
-https://www.udemy.com/course/influencer-content-marketing-killer-tactics-for-2017/?couponCode=INFLUENCERCOURSE
-https://www.udemy.com/course/boost-your-creativity-today/?couponCode=59122616D7C0F246B42D
-https://www.udemy.com/course/mindfulness-for-executives/?couponCode=B7218C280EF2EF89BC22
-https://www.udemy.com/course/aimarketing/?couponCode=FREEBESGLOBAL2025
+https://www.udemy.com/course/tally-erp-9-complete-course-beginners-to-advanced/?couponCode=FREETRIAL
+https://www.udemy.com/course/learn-java-fundamentals-for-beginners/?couponCode=FREEFORTHREEDAYS
+https://www.udemy.com/course/sfrdan-ileri-duzey-bilgisayar-donanm-egitimi/?couponCode=FREETEL
+https://www.udemy.com/course/arabic-alphabet-for-beginners/?couponCode=FC3C55630D02E33DBA56
+https://www.udemy.com/course/profesyonel-facebook-instagram-reklamclg-adan-zye/?couponCode=MEHMETAYDINAKADEMI2
+https://www.udemy.com/course/scrum-master-espanol/?couponCode=JUNFREE
+https://www.udemy.com/course/devops-portugues/?couponCode=JUNFREE
+https://www.udemy.com/course/inbound-marketing-kpi/?couponCode=61576B325116D470D12E
+https://www.udemy.com/course/clickbank/?couponCode=4B583A77A0EE7FFD8B09
+https://www.udemy.com/course/music-theory-course/?couponCode=FREETHEORY
+https://www.udemy.com/course/aws-practitioner-guide/?couponCode=D874BA39460A2A159CAC
+https://www.udemy.com/course/learn-python-programming-from-a-z/?couponCode=1B7210E1BD8A95A9FEDD
 
