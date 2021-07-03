@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/07/2021
+# Daily Free Udemy Courses - 03/07/2021
 
-https://www.udemy.com/course/accelerated-certification-techniques/?couponCode=3E39DDC4326D8D537455
-https://www.udemy.com/course/consumer-law/?couponCode=TRICKYCHANNEL
-https://www.udemy.com/course/complete-formulas-functions-masterclass-in-excel/?couponCode=2FB3D63FD5EA87385C07
-https://www.udemy.com/course/fundamentals-of-english-grammar-beginner-to-intermediate/?couponCode=UDEMYPROMO
-https://www.udemy.com/course/hacking-a-redes-inalambricas/?couponCode=82E813F0A6B9C13EAA1C
-https://www.udemy.com/course/kendini-kesfet-ve-bir-kazanana-donus/?couponCode=F0D9CDB40105947ADD35
-https://www.udemy.com/course/full-python-programming/?couponCode=F2E4D21860B8BE2A34BA
-https://www.udemy.com/course/python-course-for-beginners-in-hindi/?couponCode=FREE1-7-21
-https://www.udemy.com/course/facebook-instagram-egitim-seti/?couponCode=DISCUDEMYFREE
-https://www.udemy.com/course/excel-lessons-zero-to-pro-for-teachers-and-office-workers/?couponCode=FREEEXCEL
-https://www.udemy.com/course/remote-worker-trabajo-remoto/?couponCode=REMOTEJUNE
-https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=JUNE_THANKYOU
+https://www.udemy.com/course/7-fortune-habits-for-creating-massive-wealth-health-happiness-in-life/?couponCode=C4C9125AEB31275385E8
+https://www.udemy.com/course/how-to-choose-paint-colors-a-simple-guide-for-any-space/?couponCode=91997E465486CFC6C762
+https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=FREEMBA
+https://www.udemy.com/course/the-lean-startup-best-course-on-entrepreneurship/?couponCode=FREESTARTUP
+https://www.udemy.com/course/start-business-model-course/?couponCode=FREESTARTUP
+https://www.udemy.com/course/real-estate-investing-foreclosures/?couponCode=REIFFEXPJULY42021
+https://www.udemy.com/course/four-real-estate-investing-strategies/?couponCode=FREISJULY42021
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEJULY1
+https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEJULY1
+https://www.udemy.com/course/528-hz-sound-healing-meditation-ancient-sound-therapy/?couponCode=D1CD320B73824816443A
+https://www.udemy.com/course/microsoft-word-power-point-2016/?couponCode=LANZAMIENTOGRATIS
+https://www.udemy.com/course/emotional-peace/?couponCode=82469AC12F7D96557787
 
