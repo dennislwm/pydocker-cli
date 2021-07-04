@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/07/2021
+# Daily Free Udemy Courses - 04/07/2021
 
-https://www.udemy.com/course/7-fortune-habits-for-creating-massive-wealth-health-happiness-in-life/?couponCode=C4C9125AEB31275385E8
-https://www.udemy.com/course/how-to-choose-paint-colors-a-simple-guide-for-any-space/?couponCode=91997E465486CFC6C762
-https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=FREEMBA
-https://www.udemy.com/course/the-lean-startup-best-course-on-entrepreneurship/?couponCode=FREESTARTUP
-https://www.udemy.com/course/start-business-model-course/?couponCode=FREESTARTUP
-https://www.udemy.com/course/real-estate-investing-foreclosures/?couponCode=REIFFEXPJULY42021
-https://www.udemy.com/course/four-real-estate-investing-strategies/?couponCode=FREISJULY42021
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEJULY1
-https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEJULY1
-https://www.udemy.com/course/528-hz-sound-healing-meditation-ancient-sound-therapy/?couponCode=D1CD320B73824816443A
-https://www.udemy.com/course/microsoft-word-power-point-2016/?couponCode=LANZAMIENTOGRATIS
-https://www.udemy.com/course/emotional-peace/?couponCode=82469AC12F7D96557787
+https://www.udemy.com/course/opt-mech/?couponCode=SOHEILMECHCOURSE
+https://www.udemy.com/course/the-complete-microsoft-word-course-master-microsoft-word/?couponCode=WORDGIFT
+https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=F96B74E84353E29960FC
+https://www.udemy.com/course/finance-career-development-using-blue-ocean-strategy/?couponCode=D21E1770B8058E0A9740
+https://www.udemy.com/course/learn-wireless-security-from-scratch-2021/?couponCode=FREEWIFIFOREVER
+https://www.udemy.com/course/sql-data-analysis-learn-by-doing/?couponCode=3A8C72BF8B5723852582
+https://www.udemy.com/course/practical-internet-of-things-hacking-2021/?couponCode=FREEIOT
+https://www.udemy.com/course/advance-bug-bounty-hunting-penetration-testing-course-2021-t/
+https://www.udemy.com/course/car-repair-bootcamp-tunning-hacking-masterclass/?couponCode=AUTOTECHNICIANFREE
+https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=JULY001
+https://www.udemy.com/course/guitar-lessons-walking-blues-guitar-on-treble-strings-i/?couponCode=209A5F0247BE1AF8B3E3
+https://www.udemy.com/course/digital-forensics-zero-to-hero-computer-forensics/?couponCode=DIGITALFORENSICSFREE
 
