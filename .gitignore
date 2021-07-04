@@ -2,6 +2,8 @@
 .gitcommittemplate
 config.json
 __pycache__/
+.venv/
+.vscode/
 hatabasic/
 qualifier/
 udemyenrol/settings.yaml
