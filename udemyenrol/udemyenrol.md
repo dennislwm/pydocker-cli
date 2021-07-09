@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/07/2021
+# Daily Free Udemy Courses - 09/07/2021
 
+https://www.udemy.com/course/advanced-sql-server-masterclass-for-data-analysis/?couponCode=FREE-ADVANCED-SQL
+https://www.udemy.com/course/aliexpress-affiliate-marketing-zero-to-hero/?couponCode=DCA24ED4E91B43B02B9C
+https://www.udemy.com/course/ceh-v10-practice-test/?couponCode=C549A908B46C90A65F4A
+https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=CMLRFRULY
+https://www.udemy.com/course/the-complete-fitness-health-masterclass/?couponCode=B18819C7318DBB456CD3
+https://www.udemy.com/course/fastcash/?couponCode=UNLIMITEDMONEY
+https://www.udemy.com/course/fundamentos-programacion-curso/?couponCode=GRATIS_2021
+https://www.udemy.com/course/c-la-guia-definitiva-aprende-a-programar-de-cero/?couponCode=316FE281E38DA41E0ED7
+https://www.udemy.com/course/veganvejetaryen-cikolata-egitimi-naturel-sfr-seker/?couponCode=69AZ93AY31BS16
+https://www.udemy.com/course/materiales/?couponCode=15CURSOSGRATIS
+https://www.udemy.com/course/curso-de-css-introduccion-a-las-hojas-de-estilos-en-cascada/?couponCode=C08D8D45C24F34EF2765
 https://www.udemy.com/course/innovation-personality/?couponCode=EFD97DD6F76EA600D972
-https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=41E019E6FDBC5B442163
-https://www.udemy.com/course/aws-cloud-practitioner-certification/?couponCode=FREEAWSCCPC
-https://www.udemy.com/course/introduction-to-hospitality-industry-and-finance/?couponCode=M1MASTERCLASS
-https://www.udemy.com/course/gana-dinero-en-dolares-viajando-por-el-mundo-en-cruceros/?couponCode=14C19B804EDB417560C3
-https://www.udemy.com/course/meditation-course/?couponCode=FREEMIND
-https://www.udemy.com/course/habit-patterns/?couponCode=CHANGEYOURLIFE
-https://www.udemy.com/course/agile-metrics/?couponCode=ENROLL4FREE
-https://www.udemy.com/course/personal-capital-free-financial-planner-application/?couponCode=E6A64B49E36B0B2CCA9D
-https://www.udemy.com/course/advanced-financial-accounting/?couponCode=42451E1556739990CBD6
-https://www.udemy.com/course/interactive-photography-basics/?couponCode=PHOTO21JULY2021
-https://www.udemy.com/course/romische-astrologie-1/?couponCode=EB956647F62ED2614849
 
