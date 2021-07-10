@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/07/2021
+# Daily Free Udemy Courses - 10/07/2021
 
-https://www.udemy.com/course/advanced-sql-server-masterclass-for-data-analysis/?couponCode=FREE-ADVANCED-SQL
-https://www.udemy.com/course/aliexpress-affiliate-marketing-zero-to-hero/?couponCode=DCA24ED4E91B43B02B9C
-https://www.udemy.com/course/ceh-v10-practice-test/?couponCode=C549A908B46C90A65F4A
-https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=CMLRFRULY
-https://www.udemy.com/course/the-complete-fitness-health-masterclass/?couponCode=B18819C7318DBB456CD3
-https://www.udemy.com/course/fastcash/?couponCode=UNLIMITEDMONEY
-https://www.udemy.com/course/fundamentos-programacion-curso/?couponCode=GRATIS_2021
-https://www.udemy.com/course/c-la-guia-definitiva-aprende-a-programar-de-cero/?couponCode=316FE281E38DA41E0ED7
-https://www.udemy.com/course/veganvejetaryen-cikolata-egitimi-naturel-sfr-seker/?couponCode=69AZ93AY31BS16
-https://www.udemy.com/course/materiales/?couponCode=15CURSOSGRATIS
-https://www.udemy.com/course/curso-de-css-introduccion-a-las-hojas-de-estilos-en-cascada/?couponCode=C08D8D45C24F34EF2765
-https://www.udemy.com/course/innovation-personality/?couponCode=EFD97DD6F76EA600D972
+https://www.udemy.com/course/dealing-with-bullies-harassers/?couponCode=E69E1B0F949A348926E3
+https://www.udemy.com/course/dealing-with-whiners-complainers/?couponCode=E938F16652977CAF4158
+https://www.udemy.com/course/dealing-with-needy-people/?couponCode=A107BE7A8B2B0B56E051
+https://www.udemy.com/course/dealing-with-cynics/?couponCode=D895DB59FF4F74BBC926
+https://www.udemy.com/course/dealing-with-arrogant-people/?couponCode=0E8D73FA8CC7D99C1B4B
+https://www.udemy.com/course/dealing-with-manipulators/?couponCode=9D0878D120535414FCBA
+https://www.udemy.com/course/dealing-with-perfectionists/?couponCode=2F62080648DD228C0295
+https://www.udemy.com/course/tensorflow-interview-questions-and-answers/?couponCode=TF_INTEVIEW_UPLATZ
+https://www.udemy.com/course/machine-learning-interview-questions-and-answers/?couponCode=ML_INTERVIEW_UPLATZ
+https://www.udemy.com/course/python-interview-questions-and-answers/?couponCode=PY_INTERVIEW_UPLATZ
+https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=JULY_SALE
+https://bit.ly/3dZSWjV
 
