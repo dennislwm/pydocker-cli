@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/07/2021
+# Daily Free Udemy Courses - 23/07/2021
 
-https://www.udemy.com/course/digital-marketing-course-for-fitness-professionals/?couponCode=LEGENDSRINIDHI
-https://www.udemy.com/course/learn-java-programming-classes-and-objects/?couponCode=LEGENDSRINIDHI
-https://www.udemy.com/course/tech-ready-founder-the-ultimate-guide-to-app-prototyping/?couponCode=APPPRO-FREE
-https://www.udemy.com/course/the-complete-ebay-dropshipping-university/?couponCode=2BFC8C4731334E61B195
-https://www.udemy.com/course/the-complete-animal-reiki-course/?couponCode=8A5C20DBFE7F86E9B2FA
-https://www.udemy.com/course/solarwinds-and-webflow/?couponCode=UDEMY2021
-https://www.udemy.com/course/no-code-machine-learning/?couponCode=BUNDLEOFFER
-https://www.udemy.com/course/complete-guide-for-payroll-accounting-in-microsoft-excel/?couponCode=PAYJULY21
-https://www.udemy.com/course/basics-of-stop-motion-animation-using-canva-and-openshot/?couponCode=E6415BAB023B206ABF78
-https://www.udemy.com/course/meditationforbeginners/?couponCode=9049EF130EAD76CEC529
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=BE97D5FE78A6E1651C46
-https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?couponCode=92B9AA2E7AD290DCFD3A
+https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONF2JLFR
+https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=77B98E99469F4D950083
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PENDIJ2FR
+https://www.udemy.com/course/bank-feeds-quickbooks-online-xero-sage-wave-comparison/?couponCode=FB607232474D6B0FA629
+https://www.udemy.com/course/xero-job-costing-projects/?couponCode=ECF9C7CB2B3F0487041A
+https://www.udemy.com/course/quickbooks-online-not-for-profit-organization/?couponCode=CAD199DB5A81FDCD5A68
+https://www.udemy.com/course/quickbooks-desktop-export-directly-to-tax-software-lacerte/?couponCode=D2579CF1FE0D145CBCA1
+https://www.udemy.com/course/quickbooks-enterprise-classes-responsibility-accounting/?couponCode=BBF1F242BDDB5B68B04C
+https://www.udemy.com/course/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2021/?couponCode=A00883DAC8A2FCACA7A5
+https://www.udemy.com/course/testing-mastery-in-agile-and-scrum/?couponCode=DC367813D2BCFCC99B35
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALSTRATEGY2207
 
