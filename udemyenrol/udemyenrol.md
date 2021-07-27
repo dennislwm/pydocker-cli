@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/07/2021
+# Daily Free Udemy Courses - 27/07/2021
 
-https://www.udemy.com/course/aws-fundamentals-quizz-prepare-your-certification/?couponCode=AGAIN_FREE
-https://udemy.com/course/overcomeshyness/?couponCode=53A4FAD95C97785645CE
-https://www.udemy.com/course/crisc-exam-complete-preparation-2021-new-isaca/?couponCode=CRISCFREE2021
-https://www.udemy.com/course/artikel-schreiben/?couponCode=8ACBA19553F174989194
-https://www.udemy.com/course/sayi-sekanslari-sayilarla-sifa-ve-istek-uygulamalari/?couponCode=B68BB1E4B89BC7043A11
-https://www.udemy.com/course/php-with-pdo-2021-the-ultimate-pdo-crash-course/?couponCode=PDOCOURSE23
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=FREECOURSES
-https://bit.ly/3eQOkgs
-https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/?couponCode=JULY_LAST
-https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=3BC4747883C364134F82
-https://www.udemy.com/course/the-memory-techniques-course/?couponCode=2DAYSJ
-https://www.udemy.com/course/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/?couponCode=MUBEENPIVJULY25
+https://www.udemy.com/course/stock-photography-beginners-guide/?couponCode=3-DAY-UNLIMITED
+https://www.udemy.com/course/money-aura/?couponCode=MONEYAURA1
+https://www.udemy.com/course/successfully-doing-business-with-japan/?couponCode=692FAE20FFF82264F4B2
+https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=FRMLR3JL
+https://www.udemy.com/course/entrepreneurship-fundamentals-build-your-first-pitch-deck/?couponCode=FREEIDEA
+https://www.udemy.com/course/2021-beginners-guide-to-cyber-security/?couponCode=99423DFEF102C7EDF39F
+https://www.udemy.com/course/curso-microsoft-power-bi/?couponCode=JUL2021
+https://www.udemy.com/course/masterclass-inversion-en-fondos-mutuos/?couponCode=50369CF5E3FEA0052B47
+https://www.udemy.com/course/emdr-goz-hareketleri-ile-duyarszlastrma-ve-yeniden-islem/?couponCode=DE5C3F5F5F3E4E08EF93
+https://www.udemy.com/course/panik-atak-icin-pratik-cozum/?couponCode=PANIKAFREE
+https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY2607
+https://www.udemy.com/course/make-money-online-training/?couponCode=DFBF08E07A0276621113
 
