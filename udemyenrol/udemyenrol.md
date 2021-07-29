@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/07/2021
+# Daily Free Udemy Courses - 29/07/2021
 
-https://www.udemy.com/course/easy-python-for-beginners-to-pro/?couponCode=JUL-FREE
-https://www.udemy.com/course/product-marketing-psychology/?couponCode=7D3EA05C0CA26042089E
-https://www.udemy.com/course/microsoft-excel-intermedio/?couponCode=F5D5A0673AFF684054A7
-https://www.udemy.com/course/javascript-comprehensive-coding/?couponCode=MUBASHIR2
-https://www.udemy.com/course/startup-marketing/?couponCode=9603035A1A00B0C4A768
-https://www.udemy.com/course/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/?couponCode=03308AD57CBCF71128A2
-https://www.udemy.com/course/git-github-y-gitlab-uso-de-repositorios-de-codigo/?couponCode=GIT_GRATIS
-https://www.udemy.com/course/positional-play-football-soccer-play-styles/?couponCode=6D057F1A07E4F18A5AA5
-https://www.udemy.com/course/trigger-points-therapy-headache-and-neck-pain-treatment/?couponCode=FREECOUPON1
-https://www.udemy.com/course/create-web-app-with-angular-12-net-core-web-api-mongo-db/?couponCode=B94E1855948A322F5BAD
-https://www.udemy.com/course/create-web-app-with-angular-12-net-core-web-api-mysql/?couponCode=92DE0E2E0B49BE945CB2
-https://www.udemy.com/course/angular-12-net-core-web-api-microsoft-sql-full-stack-app/?couponCode=52BB3FA1992ED523364F
+https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?couponCode=D9473DECCD06742FD622
+https://www.udemy.com/course/learn-program-csharp-make-videogame-unity-prefabs-animations-platform/?couponCode=D90927DA5FB6ACA8E7CC
+https://www.udemy.com/course/learn-to-make-money-online/?couponCode=F603C3EB32B65E1076F0
+https://www.udemy.com/course/test-your-english-vocabulary-level-in-10-minutes-flash-cards/?couponCode=DFFF4BF2DDBAE4993F45
+https://www.udemy.com/course/inventory-control-fundamentals/?couponCode=11B1AB4C5F0B70A9DB64
+https://www.udemy.com/course/diversity-at-workplace-t/?couponCode=JULY.21
+https://www.udemy.com/course/lead-generation-b2b-sales-linkedin-and-cold-email-scripts/?couponCode=C79C28DF341E811DEE0E
+https://www.udemy.com/course/invideo-masterclass/?couponCode=7715DE4AF249201EADD6
+https://www.udemy.com/course/the-lean-startup-best-course-on-entrepreneurship/?couponCode=082ED45359B6F115A131
+https://bit.ly/2WxNS0c
+https://www.udemy.com/course/plan-and-execute-the-perfect-sprints-in-agile-and-scrum/?couponCode=B646ABCEC1A2A6C85B19
+https://www.udemy.com/course/how-to-find-your-voice-the-resonates-with-your-customers/?couponCode=A88231EFA43F6FBC03F5
 
