@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/08/2021
+# Daily Free Udemy Courses - 04/08/2021
 
-https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEAUG1
-https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEAUG1
-https://www.udemy.com/course/malware-analysis-intermediate/?couponCode=REMAIFREE_JUL31
-https://www.udemy.com/course/aprende-edicion-de-videos-sony-vegas/?couponCode=DB3CF0DB09C3B61B6D50
-https://www.udemy.com/course/machine-learning-mastering-course-in-arabic/?couponCode=8B9F76DD8CC5208BD8F7
-https://www.udemy.com/course/full-stack-mobile-application-development-master-class/?couponCode=870A79CEF20C0E2EC2DB
-https://www.udemy.com/course/music-production-in-logic-pro-x-hip-hop-course-logic-pro-x/?couponCode=F12162F85A721DD78602
-https://www.udemy.com/course/b2b-lead-generation-via-personalised-sales-videos-linkedin/?couponCode=EC3D12917AD09D7024BC
-https://www.udemy.com/course/online-mini-mba/?couponCode=0D483D946D68F534C0E5
-https://www.udemy.com/course/seo-with-google-other-large-platforms-to-get-great-scale/?couponCode=382815F6CE73898FD82A
-https://www.udemy.com/course/english-language-basics-for-beginners/?couponCode=AUGUST1
-https://www.udemy.com/course/make-money-with-cryptocurrencies-in-2018-a-solid-strategy/?couponCode=9DD3B1689DE1C5A3C422
+https://www.udemy.com/course/microsoft-excel-complete-course-all-in-one-ms-excel-course/?couponCode=COMPLETEEXCELCOURSE
+https://www.udemy.com/course/cookthatspeech/?couponCode=FREEQUICK
+https://www.udemy.com/course/faux-calligraphy-masterclass/?couponCode=CALLIGRAPHY
+https://www.udemy.com/course/google-cloud-digital-cloud-leader-certification-crash-course/?couponCode=31964E3E51B97755F011
+https://www.udemy.com/course/precursores-de-biofilm/?couponCode=BIOFILM
+https://www.udemy.com/course/adobe-illustrator-cc-beginner-essentials-masterclass/?couponCode=E4C3AF2223FB74766A3B
+https://www.udemy.com/course/statistics-with-r-beginner-level/?couponCode=TENSTARS
+https://www.udemy.com/course/prtg-paessler/?couponCode=0B2702CBAFF213EC7244
+https://www.udemy.com/course/lightroom-edicion-fotografica-avanzada-para-arquitectura/?couponCode=15ACCESOSGRATIS
+https://www.udemy.com/course/alignment-of-the-shaft-engineering-maintenance/?couponCode=44CAABC0D48FDFEDD874
+https://www.udemy.com/course/testes-de-integracao-com-spring-boot/?couponCode=8E386895259949F203B4
+https://www.udemy.com/course/learn-user-experience-design-from-a-z/?couponCode=43E13FB7C0D9920B3B02
 
