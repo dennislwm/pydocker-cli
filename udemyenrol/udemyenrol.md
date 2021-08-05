@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/08/2021
+# Daily Free Udemy Courses - 05/08/2021
 
-https://www.udemy.com/course/microsoft-excel-complete-course-all-in-one-ms-excel-course/?couponCode=COMPLETEEXCELCOURSE
-https://www.udemy.com/course/cookthatspeech/?couponCode=FREEQUICK
-https://www.udemy.com/course/faux-calligraphy-masterclass/?couponCode=CALLIGRAPHY
-https://www.udemy.com/course/google-cloud-digital-cloud-leader-certification-crash-course/?couponCode=31964E3E51B97755F011
-https://www.udemy.com/course/precursores-de-biofilm/?couponCode=BIOFILM
-https://www.udemy.com/course/adobe-illustrator-cc-beginner-essentials-masterclass/?couponCode=E4C3AF2223FB74766A3B
-https://www.udemy.com/course/statistics-with-r-beginner-level/?couponCode=TENSTARS
-https://www.udemy.com/course/prtg-paessler/?couponCode=0B2702CBAFF213EC7244
-https://www.udemy.com/course/lightroom-edicion-fotografica-avanzada-para-arquitectura/?couponCode=15ACCESOSGRATIS
-https://www.udemy.com/course/alignment-of-the-shaft-engineering-maintenance/?couponCode=44CAABC0D48FDFEDD874
-https://www.udemy.com/course/testes-de-integracao-com-spring-boot/?couponCode=8E386895259949F203B4
-https://www.udemy.com/course/learn-user-experience-design-from-a-z/?couponCode=43E13FB7C0D9920B3B02
+https://www.udemy.com/course/corporate-finance-13-investment-banking-long-term-debt/?couponCode=E4A486299D9062CEA99D
+https://www.udemy.com/course/money-in-excel-income-tax-sch-c-personal-financials/?couponCode=F48CFAEE4EAAB2EDAE94
+https://www.udemy.com/course/online-business-work-from-home/?couponCode=F2E5EC0CAF28E031422E
+https://www.udemy.com/course/quickbooks-desktop-multiple-currencies/?couponCode=B79F4741A8C015CDF06A
+https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=8A7027728CDB9BDE39F0
+https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=573C2C11431053F0354F
+https://www.udemy.com/course/assertveness-training/?couponCode=E8B81CECDAD761BE5FDE
+https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=BFB3A3BE9C014EFB91A9
+https://www.udemy.com/course/calendar-spread-options/?couponCode=1AUG21
+https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=F607CC5DC6580EAE4FE6
+https://www.udemy.com/course/cost-management/?couponCode=CF2D2588ED4024E953C6
+https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=AUG001
 
