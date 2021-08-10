@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/08/2021
+# Daily Free Udemy Courses - 10/08/2021
 
-https://www.udemy.com/course/how-to-prevent-a-stroke/?couponCode=STROKEINTIME
-https://www.udemy.com/course/learn-egyptian-arabic-through-animation/?couponCode=C7C80A64C4F57F3C7D3B
-https://www.udemy.com/course/facebook-ads-strategy/?couponCode=AUGUSTGOODNESS8
-https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=PMEVMAUG
-https://www.udemy.com/course/startups-with-data-and-kpi/?couponCode=D2F32379F9D1AE34BB99
-https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=AUGFWGOWZDF2021
-https://bit.ly/3fJf6rA
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=AUGUST_SALE
-https://www.udemy.com/course/excel-quick-start-guide-from-beginner-to-expert/?couponCode=ZXLFR1AU
-https://www.udemy.com/course/marketing-analytics-pricing-strategies-and-price-analytics/?couponCode=AUFR1PRI
-https://www.udemy.com/course/scrum-genman/?couponCode=AUFR1SCR
-https://www.udemy.com/course/from-business-vision-to-manifestation/?couponCode=1CA50B7356B38207FB3C
+https://www.udemy.com/course/ms-word-for-novice/?couponCode=FREEMSWORDOFFICE
+https://www.udemy.com/course/f5-certified-big-ip-administrator-prep-tests/?couponCode=7565A22A5C194F9F3594
+https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=8036E6254FF4596A3360
+https://www.udemy.com/course/solidworks-2019-2-boyutlu-cizim-egitimi/?couponCode=TLFREE
+https://www.udemy.com/course/solidworks-2019-3-boyutlu-kat-model-egitimi/?couponCode=TLFREE
+https://www.udemy.com/course/learn-advanced-google-ads-from-scratch-2020-updated/?couponCode=3A6D9D9B0CEAFF32FA5C
+https://www.udemy.com/course/premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video/?couponCode=YOUTUBEVIDEOEDITING
+https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=FREE_PHOTOSHOP2022
+https://bit.ly/3fOztDA
+https://www.udemy.com/course/how-does-an-overseas-letter-of-credit-work-a-short-course/?couponCode=971F17FE12202A4E03F7
+https://www.udemy.com/course/advanced-parenting-skills-best-parenting-class/?couponCode=4FC17BA4FB5DD2138F3F
+https://www.udemy.com/course/zen-buddhist-tools-skills-buddhism-mindfulness/?couponCode=D4CCD5A6AA87BE560975
 
