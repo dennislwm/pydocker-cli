@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/08/2021
+# Daily Free Udemy Courses - 11/08/2021
 
-https://www.udemy.com/course/ms-word-for-novice/?couponCode=FREEMSWORDOFFICE
-https://www.udemy.com/course/f5-certified-big-ip-administrator-prep-tests/?couponCode=7565A22A5C194F9F3594
-https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=8036E6254FF4596A3360
-https://www.udemy.com/course/solidworks-2019-2-boyutlu-cizim-egitimi/?couponCode=TLFREE
-https://www.udemy.com/course/solidworks-2019-3-boyutlu-kat-model-egitimi/?couponCode=TLFREE
-https://www.udemy.com/course/learn-advanced-google-ads-from-scratch-2020-updated/?couponCode=3A6D9D9B0CEAFF32FA5C
-https://www.udemy.com/course/premiere-pro-cc-novice-to-expert-how-to-earn-money-by-video/?couponCode=YOUTUBEVIDEOEDITING
-https://www.udemy.com/course/adobe-photoshop-cc-principal-essential-course-for-beginners/?couponCode=FREE_PHOTOSHOP2022
-https://bit.ly/3fOztDA
-https://www.udemy.com/course/how-does-an-overseas-letter-of-credit-work-a-short-course/?couponCode=971F17FE12202A4E03F7
-https://www.udemy.com/course/advanced-parenting-skills-best-parenting-class/?couponCode=4FC17BA4FB5DD2138F3F
-https://www.udemy.com/course/zen-buddhist-tools-skills-buddhism-mindfulness/?couponCode=D4CCD5A6AA87BE560975
+https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=5FF240F1D84CB8439BB5
+https://www.udemy.com/course/2018-world-cup-and-economics/?couponCode=ECONSFOOTBALL2021
+https://www.udemy.com/course/estimation-and-quantity-surveying-certification/?couponCode=ERAOFLEGEND
+https://www.udemy.com/course/blazor-net-core-web-api-and-microsoft-sql-full-stack-app/?couponCode=C87B4C1D747B46F6B809
+https://www.udemy.com/course/a-complete-css-course/?couponCode=3D44812451998F060807
+https://www.udemy.com/course/react-native-expo-for-multiplatform-ios-android-mobile-app-development/?couponCode=8C3E7AEBF9F449876D9F
+https://www.udemy.com/course/complete-modern-javascript-with-firebase-bootcamp-for-beginners/?couponCode=DD248CDAF0000152A7EC
+https://www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/?couponCode=28643DFDF210E3231FB1
+https://www.udemy.com/course/new-sat-math-complete-course/?couponCode=E7816299F20FC0926C12
+https://www.udemy.com/course/get-a-in-gcse-maths-quadratic-equations-and-graph/?couponCode=AE45796C31B589BCDA5F
+https://www.udemy.com/course/microsoft-excel-turkmener/?couponCode=5F421ED7CE500D202A5E
+https://www.udemy.com/course/autocad-2020-/?couponCode=6BB228E711B6CABB89BA
 
