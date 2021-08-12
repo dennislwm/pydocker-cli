@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/08/2021
+# Daily Free Udemy Courses - 12/08/2021
 
-https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=5FF240F1D84CB8439BB5
-https://www.udemy.com/course/2018-world-cup-and-economics/?couponCode=ECONSFOOTBALL2021
-https://www.udemy.com/course/estimation-and-quantity-surveying-certification/?couponCode=ERAOFLEGEND
-https://www.udemy.com/course/blazor-net-core-web-api-and-microsoft-sql-full-stack-app/?couponCode=C87B4C1D747B46F6B809
-https://www.udemy.com/course/a-complete-css-course/?couponCode=3D44812451998F060807
-https://www.udemy.com/course/react-native-expo-for-multiplatform-ios-android-mobile-app-development/?couponCode=8C3E7AEBF9F449876D9F
-https://www.udemy.com/course/complete-modern-javascript-with-firebase-bootcamp-for-beginners/?couponCode=DD248CDAF0000152A7EC
-https://www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/?couponCode=28643DFDF210E3231FB1
-https://www.udemy.com/course/new-sat-math-complete-course/?couponCode=E7816299F20FC0926C12
-https://www.udemy.com/course/get-a-in-gcse-maths-quadratic-equations-and-graph/?couponCode=AE45796C31B589BCDA5F
-https://www.udemy.com/course/microsoft-excel-turkmener/?couponCode=5F421ED7CE500D202A5E
-https://www.udemy.com/course/autocad-2020-/?couponCode=6BB228E711B6CABB89BA
+https://www.udemy.com/course/how-to-learn-any-language-the-best-ways-to-learn-a-language/?couponCode=AB0D90864C2EB1353C20
+https://www.udemy.com/course/the-complete-telecommuting-course-remote-work-work-life/?couponCode=984695268BFD0734C7C3
+https://www.udemy.com/course/bilgisayar-ogretmeninden-hzlandrlms-python3-kursu/?couponCode=40970A6845BDB68D1FA7
+https://www.udemy.com/course/b2b-lead-generation-via-personalised-sales-videos-linkedin/?couponCode=7CA73DD774DEBCD67F63
+https://www.udemy.com/course/essential-adobe-photoshop-free-photoshop-crash-course/?couponCode=PHOTOSHOPFREECLASS
+https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=DISCUDEMY.COMM
+https://www.udemy.com/course/learn-airtable/?couponCode=TRY10FREE82104
+https://www.udemy.com/course/learn-google-forms/?couponCode=TRY10FREE82104
+https://www.udemy.com/course/hermit-contortion-ruesee-dudton-level-1/?couponCode=AF0201D8D7793C203466
+https://www.udemy.com/course/profitable-app-development-blueprint-for-startups/?couponCode=APPSFORYOU
+https://www.udemy.com/course/60-day-startup/?couponCode=ENTREPRENEURSHIP
+https://www.udemy.com/course/mastering-adobe-lightroom/?couponCode=LRAUG2021
 
