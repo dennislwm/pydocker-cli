@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/08/2021
+# Daily Free Udemy Courses - 17/08/2021
 
-https://www.udemy.com/course/snapchat-clone-with-flutter/?couponCode=AUGUST-DISCOUNT
-https://www.udemy.com/course/her-sey-dahil-wordpress-kursu/?couponCode=DB4B71C421CBA137D58C
-https://www.udemy.com/course/utreon-course/?couponCode=104238A27BFEB7876B65
-https://www.udemy.com/course/diseno-hoteles/?couponCode=15ACCESOSALCURSO
-https://www.udemy.com/course/containers-design/?couponCode=31E8152721DD073FC5E3
-https://www.udemy.com/course/fundamentals-of-fire-alarms-conventional-fire-panel-setup/?couponCode=FREE_UNTIL_17.08.21
-https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=9F36A89A07253893D73A
-https://www.udemy.com/course/facebook-page-2022/?couponCode=AUGUSTGOODNESS8
-https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=AUGUST-21
-https://www.udemy.com/course/henry-zhang-audiobook-mini-course/?couponCode=5172517E0F4C0E5D2D38
-https://www.udemy.com/course/digital-products-mini-course/?couponCode=72E88E453D45D26C0204
-https://www.udemy.com/course/ecom-mini-course/?couponCode=0B00AA3ACC279929B63C
+https://www.udemy.com/course/intermediate-premiere-pro/?couponCode=STAY_HOME_AUGUST
+https://www.udemy.com/course/how-to-become-a-firefighter/?couponCode=FIREFIGHTER
+https://www.udemy.com/course/ustun-basarinin-50-sirri/?couponCode=B945E8BBA7832436CE61
+https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=ADVAUG16
+https://www.udemy.com/course/learn-basic-html-css-javascript-typescript-and-react-fast/?couponCode=CODEBRAINSFREE
+https://www.udemy.com/course/kommgzmw/?couponCode=8409EF89244AB9B03DEE
+https://www.udemy.com/course/pdtvfyxw/?couponCode=31B75B0E259616B4A4CB
+https://www.udemy.com/course/nfowpiwq/?couponCode=FBAE106782C37EFF9FE5
+https://www.udemy.com/course/consciousness-spiritual-and-physics/?couponCode=5A2498DDEE4581C1797A
+https://www.udemy.com/course/arduino-build-arduino-practical-projects/?couponCode=AUGUST2021
+https://www.udemy.com/course/shopify-secrets/?couponCode=STUDENTS
+https://www.udemy.com/course/complete-inventory-management-in-microsoft-excel-tally-erp9/?couponCode=INVAUG16
 
