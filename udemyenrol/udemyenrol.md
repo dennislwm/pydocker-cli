@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/08/2021
+# Daily Free Udemy Courses - 18/08/2021
 
-https://www.udemy.com/course/intermediate-premiere-pro/?couponCode=STAY_HOME_AUGUST
-https://www.udemy.com/course/how-to-become-a-firefighter/?couponCode=FIREFIGHTER
-https://www.udemy.com/course/ustun-basarinin-50-sirri/?couponCode=B945E8BBA7832436CE61
-https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=ADVAUG16
-https://www.udemy.com/course/learn-basic-html-css-javascript-typescript-and-react-fast/?couponCode=CODEBRAINSFREE
-https://www.udemy.com/course/kommgzmw/?couponCode=8409EF89244AB9B03DEE
-https://www.udemy.com/course/pdtvfyxw/?couponCode=31B75B0E259616B4A4CB
-https://www.udemy.com/course/nfowpiwq/?couponCode=FBAE106782C37EFF9FE5
-https://www.udemy.com/course/consciousness-spiritual-and-physics/?couponCode=5A2498DDEE4581C1797A
-https://www.udemy.com/course/arduino-build-arduino-practical-projects/?couponCode=AUGUST2021
-https://www.udemy.com/course/shopify-secrets/?couponCode=STUDENTS
-https://www.udemy.com/course/complete-inventory-management-in-microsoft-excel-tally-erp9/?couponCode=INVAUG16
+https://www.udemy.com/course/seo-2023/?couponCode=AUGUSTGOODNESS8
+https://www.udemy.com/course/photoshop-en-18-dias/?couponCode=GRATIS_PHOTOSHOP2021
+https://www.udemy.com/course/como-ser-un-consultor-de-negocios-fast-track-mba/?couponCode=544BB4AA62477DB5491D
+https://www.udemy.com/course/introduccion-programacion-kotlin/?couponCode=K_FBG_FREE_F0821
+https://www.udemy.com/course/regression-analysis-in-machine-learning-statistics-in-r/?couponCode=AUGUST17FREE
+https://www.udemy.com/course/the-child-and-educational-psychology/?couponCode=2E9BBE43C12F48BDBDE8
+https://www.udemy.com/course/writing-your-business-plan/?couponCode=AUGPROMO
+https://www.udemy.com/course/foundations-of-screenwriting-script-screenplay-formatting-filmmaking/?couponCode=59A7A93A4202EAB8889A
+https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=9A17BEAA321194A6B868
+https://www.udemy.com/course/complete-polish-course-learn-polish-for-beginners/?couponCode=FBEE3139122FC710AD26
+https://www.udemy.com/course/make-money-online-blogging/?couponCode=1600AAE1665F0B08D2CB
+https://www.udemy.com/course/sap-s4-hana/?couponCode=F26C2B1777167D57AD66
 
