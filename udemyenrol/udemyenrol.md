@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/08/2021
+# Daily Free Udemy Courses - 20/08/2021
 
-https://www.udemy.com/course/automotive-essentials/?couponCode=5F155E8FAA64EDB00283
-https://www.udemy.com/course/proje-dongusu-yonetimi-ab-proje-yazm/?couponCode=PROJE-001
-https://www.udemy.com/course/the-art-of-being-productive-planning-effective-execution/?couponCode=ADC05B0461912585B2E3
-https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=18EDA1885E15319F51E0
-https://www.udemy.com/course/bootsrap-40-ile-front-end-web-sitesi-egitimi/?couponCode=0CC854E9B5FABF8AA6A6
-https://www.udemy.com/course/astronomie-mit-handy-apps/?couponCode=0F2454ECD62FA5617B54
-https://www.udemy.com/course/germanclearandheartfull/?couponCode=B31D8F7BD52DB3D3417A
-https://www.udemy.com/course/tableau-data-visualization-bi/?couponCode=FREETABLEAU
-https://www.udemy.com/course/time-management-for-students-professionals-entrepreneurs/?couponCode=5FB48083E5D929C730FF
-https://www.udemy.com/course/facebook-conversion-ads/?couponCode=AUGUSTGOODNESS8
-https://www.udemy.com/course/time-management-techniques-101/?couponCode=TIMEMNGT101
-https://www.udemy.com/course/micro-budget-feature-filmmaking-film-school/?couponCode=DB8CB5286482EAC586C7
+https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=9262CBCF58ACE717E703
+https://www.udemy.com/course/quickbooks-online-2018-start-to-finish/?couponCode=86AA021F7A5B5F7EF724
+https://www.udemy.com/course/quickbooks-pro-desktop-bookkeeping-with-bank-feeds-2021/?couponCode=E85025A93F68AD3A778D
+https://www.udemy.com/course/job-cost-quickbooks-online-vs-quickbooks-desktopcontractor/?couponCode=7722F125133E7CDC6382
+https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=DISCUDEMY.COM1
+https://www.udemy.com/course/corporate-finance-3-forecasting-budgeting/?couponCode=4BAB0AC2CF959AADE341
+https://www.udemy.com/course/ozgecmis-cv-hazrlama-ve-mulakat-teknikleri/?couponCode=MULAKAT-07
+https://www.udemy.com/course/motivation-intention-goals/?couponCode=HSPICEXPAUG212021
+https://www.udemy.com/course/beginner-video-production-video-creation-for-youtube/?couponCode=D3FF51E827ABB415310C
+https://www.udemy.com/course/the-canva-masterclass-design-collaborate-share-with-canva/?couponCode=796349BD6E1A90F121CA
+https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY1908
+https://www.udemy.com/course/aso-how-i-got-5m-downloads-in-6-months-from-app-store/?couponCode=MAPPAUG2021
 
