@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/08/2021
+# Daily Free Udemy Courses - 24/08/2021
 
-https://www.udemy.com/course/english-speaking-course-beginner-advance-hindi-to-english/?couponCode=057944EE4D7DB5E2752C
-https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=1522B95D43C258041A60
-https://www.udemy.com/course/a-beginners-guide-on-starting-a-successful-business/?couponCode=1CB4B55B8795D3C28B20
-https://www.udemy.com/course/wifi-penetesting/?couponCode=186C4E2B37E94B763676
-https://www.udemy.com/course/learn-html5-in-depth-with-real-world-examples/?couponCode=FREE-AUG
-https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=CONTRACTSAUG2
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=4BEECD4BC5EA968EBF32
-https://www.udemy.com/course/meditation-masterclass/?couponCode=AFA8C3E17D17E36CAC15
-https://www.udemy.com/course/seo-2022/?couponCode=AUGUSTGOODNESS8
-https://www.udemy.com/course/meditationforbeginners/?couponCode=0418789A2084B31A1C33
-https://bit.ly/3ycEhJ7
-https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=E9372A20F2F1BE54C927
+https://www.udemy.com/course/project-finance-fundamentals/?couponCode=THANKYOUACCESS
+https://www.udemy.com/course/art-of-dating/?couponCode=GETITFREE
+https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=2A8DB422B3095E3163F7
+https://www.udemy.com/course/cross-cultural-management-made-easy/?couponCode=583D0FC6C7B8A5C67FD7
+https://www.udemy.com/course/5-h-data-challenge-course-scraping-cleaning-analysis/?couponCode=71EAF0AA91FC6ABAC701
+https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=0768F80FFE85A226315C
+https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=B6B48EEF1D12CB22F39A
+https://www.udemy.com/course/corporate-finance/?couponCode=ECD83521CE5258DC507F
+https://www.udemy.com/course/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2021/?couponCode=44ECDA13DBA8AF4E05E7
+https://www.udemy.com/course/bank-feeds-quickbooks-online-xero-sage-wave-comparison/?couponCode=C260C860CC8E2C74E9BB
+https://www.udemy.com/course/quickbooks-desktop-job-costing/?couponCode=897C8C24660F97953D5E
+https://www.udemy.com/course/responsibility-accounting-performance-measurement/?couponCode=7FDE1478F92E18007838
 
