@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/08/2021
+# Daily Free Udemy Courses - 25/08/2021
 
-https://www.udemy.com/course/project-finance-fundamentals/?couponCode=THANKYOUACCESS
-https://www.udemy.com/course/art-of-dating/?couponCode=GETITFREE
-https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=2A8DB422B3095E3163F7
-https://www.udemy.com/course/cross-cultural-management-made-easy/?couponCode=583D0FC6C7B8A5C67FD7
-https://www.udemy.com/course/5-h-data-challenge-course-scraping-cleaning-analysis/?couponCode=71EAF0AA91FC6ABAC701
-https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=0768F80FFE85A226315C
-https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=B6B48EEF1D12CB22F39A
-https://www.udemy.com/course/corporate-finance/?couponCode=ECD83521CE5258DC507F
-https://www.udemy.com/course/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2021/?couponCode=44ECDA13DBA8AF4E05E7
-https://www.udemy.com/course/bank-feeds-quickbooks-online-xero-sage-wave-comparison/?couponCode=C260C860CC8E2C74E9BB
-https://www.udemy.com/course/quickbooks-desktop-job-costing/?couponCode=897C8C24660F97953D5E
-https://www.udemy.com/course/responsibility-accounting-performance-measurement/?couponCode=7FDE1478F92E18007838
+https://www.udemy.com/course/the-authority-guide-to-emotional-resilience-in-business/?couponCode=SUMMER21
+https://www.udemy.com/course/come-realizzare-un-cortometraggio/?couponCode=BA13D7ED45DBC5EEDEFD
+https://www.udemy.com/course/dal-giallo-al-noir-scrittura-creativa-vol-6/?couponCode=77C498A1ABF9575A8720
+https://www.udemy.com/course/crm-customer-relationship-management/?couponCode=40914E13CB33E4EFFA79
+https://www.udemy.com/course/negotiating-executive-salary/?couponCode=6B6EC1E55B477ADF87E2
+https://www.udemy.com/course/negotiating-salary-asset-management/?couponCode=A3C225F7C3A2E0092CC5
+https://www.udemy.com/course/negotiating-salary-startups/?couponCode=788200A46CBDDE8AD76E
+https://www.udemy.com/course/system-design-a-brand-new-step-by-step-guide-for-interview/?couponCode=A25A7119C0DDB34A25A2
+https://www.udemy.com/course/arabic-beginner-complete-course-arabic-between-your-hands/?couponCode=3F3C97B69C952C31090B
+https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=B4CA13CB66F80858DFB8
+https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/?couponCode=B92D25F833FE834699DF
+https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE24
 
