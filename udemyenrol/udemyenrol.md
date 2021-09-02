@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/09/2021
+# Daily Free Udemy Courses - 02/09/2021
 
-https://www.udemy.com/course/quickbooks-desktop-pro-2019-personal-tax-tracking-tricks/?couponCode=E8DB86FBD73DE09456BC
-https://www.udemy.com/course/quickbooks-online-bank-feeds-credit-card-feeds/?couponCode=8436E3404A7511AFA0C2
-https://www.udemy.com/course/google-ads-academy-search-101/?couponCode=FREEAUG
-https://www.udemy.com/course/exploring-startups-meet-a-virtual-community-for-startups/?couponCode=E8A46DCF8B4FE8DB4CD3
-https://www.udemy.com/course/professional-tarot-card-reading-masterclass-accredited-diploma/?couponCode=ZERO-PRICE-COUPON
-https://www.udemy.com/course/tarot-through-your-writers-block/?couponCode=C72AD236A472D1FF8112
-https://www.udemy.com/course/prophethood/?couponCode=PROPHETHOOD
-https://www.udemy.com/course/proving-god/?couponCode=PROVINGGOD
-https://www.udemy.com/course/leadership-after-prophet/?couponCode=LEADERSHIP
-https://www.udemy.com/course/make-huge-profits-with-cryptocurrencies-retirement-funded/?couponCode=1ED788DEA2D2FD371C98
-https://www.udemy.com/course/temelden-ileri-seviyeye-css-egitimi/?couponCode=AUG2021
-https://www.udemy.com/course/project-management-the-fundamentals/?couponCode=40350FC085E1922D7B42
+https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/?couponCode=AUG_CRAZYSALES
+https://www.udemy.com/course/subnetting-for-absolute-beginners/?couponCode=START_SUBNETTING
+https://www.udemy.com/course/blender-29-model-render-a-stylized-water-scene/?couponCode=COURSEROCKS.COM
+https://www.udemy.com/course/angiosperm-flowering-plant/?couponCode=C6B8C3149A4A8F43E635
+https://www.udemy.com/course/drawing-for-business-communication/?couponCode=ALEXDAY2021
+https://www.udemy.com/course/curso-de-impresion-3d-con-anet-a8/?couponCode=42093574984CA13D7C5D
+https://www.udemy.com/course/aprende-rapidamente-en-1-hora-power-bi-en-espanol/?couponCode=22364C9583131305DAA1
+https://www.udemy.com/course/labs-ccna-parte-1-de-2/?couponCode=NETLABS-GRATIS
+https://www.udemy.com/course/tai-chi-chen-style-for-beginner-strengthens-mind-and-body/?couponCode=7277D43CE9426537098B
+https://www.udemy.com/course/first-impression-hack/?couponCode=SHUBHAMJHA386
+https://www.udemy.com/course/meditation-for-beginners-with-mrs-joy/?couponCode=3DAYSFORFREE
+https://www.udemy.com/course/how-to-earn-through-online-business-10k-200k-monthly-tagalog/?couponCode=5STARREVIEW
 
