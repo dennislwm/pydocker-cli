@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/09/2021
+# Daily Free Udemy Courses - 05/09/2021
 
-https://www.udemy.com/course/x64dbg-static-analysis/?couponCode=RE3_FREE_AUG31
-https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=SEPTGOODNESS9
-https://www.udemy.com/course/seo-training-2021/?couponCode=SEPTGOODNESS9
-https://www.udemy.com/course/basic-concepts-of-databases-and-writing-query-in-sql-server/?couponCode=SEP_MANIA
-https://www.udemy.com/course/options-trading-the-essential-guide-to-profitability/?couponCode=18FC8553B284894F3AF5
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY0209
-https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLE0209
-https://www.udemy.com/course/email-marketing-mastery-the-complete-email-masterclass/?couponCode=EMAILCOUPON
-https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=SEPT001
-https://www.udemy.com/course/selenium-beautiful-soup-combined-project/?couponCode=F88921372473EC4F6550
-https://www.udemy.com/course/api-course/?couponCode=BAF17E160C7C28927CD0
-https://www.udemy.com/course/be-an-expert-in-english-grammar/?couponCode=SEPTEMBER1ST
+https://www.udemy.com/course/start-js/?couponCode=8D467B18E600CCD0EFB3
+https://www.udemy.com/course/startcss/?couponCode=8E857CCCFF2FCEB2A90F
+https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=SEP2021
+https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=SEPT_SALE
+https://www.udemy.com/course/spatial-data-science-in-python/?couponCode=SEP_FIRST
+https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=747E127AE44439522764
+https://www.udemy.com/course/personal-finance-i/?couponCode=0EC2F5CCF3B40EFF2D65
+https://www.udemy.com/course/financial-statement-analysis-ratio-analysis/?couponCode=A550D93CA72D6E9949EC
+https://www.udemy.com/course/brilliant-startup-liderazgo-para-jovenes-profesionales/?couponCode=C4BCFFCC900FE4269CF3
+https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=FADFEFDC42854A5E9F8E
+https://www.udemy.com/course/how-to-become-a-firefighter/?couponCode=FIREFIGHTERPREP
+https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=2B78B738468001198CC7
 
