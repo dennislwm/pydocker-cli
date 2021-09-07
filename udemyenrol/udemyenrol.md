@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/09/2021
+# Daily Free Udemy Courses - 07/09/2021
 
-https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=FREEBIESGLOBAL.COM
-https://www.udemy.com/course/complete-python-mastery-course/?couponCode=FREE_PYTHON_COURSES
-https://www.udemy.com/course/applied-ethical-hacking-and-rules-of-engagement/?couponCode=C072E3E189EBE49FA8CD
-https://www.udemy.com/course/henry-zhang-success-mini-course/?couponCode=09C4053F2D2189DBCE77
-https://bit.ly/2WUiF7O
-https://www.udemy.com/course/henry-zhang-youtube-mini-course/?couponCode=8F64D7ECC0A6C77E11EA
-https://www.udemy.com/course/authority-marketing-mini-course/?couponCode=F99C4EA483EB4F202635
-https://www.udemy.com/course/full-stack-web-development-with-react-and-mongodb/?couponCode=8FB8B41C2F87E42C25F2
-https://www.udemy.com/course/python-networking/?couponCode=248881A7D0B4B1ED3565
-https://www.udemy.com/course/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/?couponCode=935AFFD6168C79F9827D
-https://www.udemy.com/course/tailwind/?couponCode=7C6ECF4ABA50DEE64E7C
-https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/?couponCode=PWEB7SEP2021
+https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?couponCode=7A3FB632FAC9189E6C40
+https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/?couponCode=7A3CEF7BB1C18729C813
+https://www.udemy.com/course/high-school-organic-chemistry-1/?couponCode=FREECHEMISTRY
+https://www.udemy.com/course/allama-iqbal-poetry-explanation-course/?couponCode=FREECOUPON
+https://www.udemy.com/course/henry-zhang-laser-focus-mini-course/?couponCode=E115334DAE588EBF86CB
+https://bit.ly/38LyNLu
+https://www.udemy.com/course/henry-zhang-public-speaking-mini-course/?couponCode=17D5BB5925C7B515BA3F
+https://www.udemy.com/course/henry-zhang-referral-marketing-mini-course/?couponCode=24C0E9FFE93110A93EFE
+https://www.udemy.com/course/henry-zhang-facebook-marketing-mini-course/?couponCode=033873DD8C4A382ABF48
+https://www.udemy.com/course/henry-zhang-bitcoin-mini-course/?couponCode=D1F65B64E633D190571D
+https://www.udemy.com/course/first-steps-into-selling-smarter-t/?couponCode=SEPT.21
+https://www.udemy.com/course/math-fundamentals-masterclass-build-a-solid-foundation/?couponCode=F517CE13E4D5D0B3A8E1
 
