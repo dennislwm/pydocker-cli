@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/09/2021
+# Daily Free Udemy Courses - 12/09/2021
 
-https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEAUG7
-https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEJULY5
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEJUN2
-https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEJULY7
-https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-python/?couponCode=CNNSPFR1PY
-https://www.udemy.com/course/machine-learning-adv-support-vector-machines-svm-in-r/?couponCode=SVMRSP1
-https://www.udemy.com/course/data_science_a_to_z/?couponCode=MLDLFRSP1
-https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=KINGOFDM
-https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=LEGENDGRAPHICS
-https://www.udemy.com/course/roboauthor-content-writing-automation-2019-part-1/?couponCode=ROBOROCKZ
-https://www.udemy.com/course/artificial-intelligence-website-creation-2018-no-coding/?couponCode=NOWTHETIME
-https://www.udemy.com/course/jira-essentials/?couponCode=PROMOTION
+https://www.udemy.com/course/tiktok-marketing-2021-go-viral-with-authentic-videos/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/excel-beginner-to-advanced/?couponCode=FREEBIESGLOBAL-2192
+https://www.udemy.com/course/how-to-draw-101-basic-drawing-skills-sketching-exercises/?couponCode=FREEBIESGLOBAL-2192
+https://www.udemy.com/course/procreate-5/?couponCode=FREEBIESGLOBAL-2192
+https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=FREEBIESGLOBAL.COM
+https://bit.ly/38Zgm68
+https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=TRICKYMAN8
+https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/?couponCode=SEP_CRAZY
+https://www.udemy.com/course/managerial-skills-course-v/?couponCode=DA6EE0056E7B4675AF33
+https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=UPSKILL-NOW
+https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=ABD90A6C3EC87E487485
+https://www.udemy.com/course/mastering-adobe-lightroom/?couponCode=LRSEP2021
 
