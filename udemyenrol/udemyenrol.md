@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/09/2021
+# Daily Free Udemy Courses - 14/09/2021
 
-https://www.udemy.com/course/data-science-real-world-use-cases-hands-on-python/?couponCode=SEP_CRAZY_SALES
-https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=3AB86A0176694F04F3E3
-https://www.udemy.com/course/complete-sql-bootcamp-with-mysql-php-python/?couponCode=SQLSEP2021
-https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=8889761B8087282634E8
-https://www.udemy.com/course/corporate-finance-8-time-value-of-money-pv-fv/?couponCode=6423DCCC88870CA232C2
-https://www.udemy.com/course/corporate-finance-6-management-of-current-assets/?couponCode=45F93784F5889FDA7BF3
-https://www.udemy.com/course/personal-capital-free-financial-planner-application/?couponCode=F1576F3D358AE691707E
-https://www.udemy.com/course/individual-income-tax-form-1040-comprehensive-problem/?couponCode=02FFE2C1D2AC3EF33650
-https://www.udemy.com/course/infographics-design/?couponCode=4239996308E62F336E31
-https://www.udemy.com/course/seo-2023/?couponCode=SEPTGOODNESS999
-https://www.udemy.com/course/tubebuddy/?couponCode=C524A01F4E8455C86B1A
-https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=324F14F27B41EA8053A8
+https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/?couponCode=FREEUNTILSEPT162021
+https://www.udemy.com/course/youtube-editing-in-premiere-pro/?couponCode=488AA272955F441EEE14
+https://www.udemy.com/course/build-a-real-world-responsive-website-with-html-5-css-3-js/?couponCode=BE-BEST-NOW
+https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?couponCode=TRY10FREE92104
+https://www.udemy.com/course/learn-carnatic-flute-intermediate-level-varnams-volume-6/?couponCode=2E927B92579FD39BB385
+https://www.udemy.com/course/affinity-publisher-guide/?couponCode=DC41E0555B70ED671150
+https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?couponCode=FD19ED6DED9A324F7FB1
+https://www.udemy.com/course/node-express-angular-12-mysql-full-stack-web-development/?couponCode=57339934260C041EED3A
+https://www.udemy.com/course/excel-data-analytics-with-pivot-tables-pivot-charts/?couponCode=TRICKYMAN9
+https://bit.ly/3lmwKDg
+https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY10FREE92104
+https://www.udemy.com/course/learn-microsoft-powerpoint/?couponCode=TRY10FREE92104
 
