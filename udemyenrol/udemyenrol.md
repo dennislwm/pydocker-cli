@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/09/2021
+# Daily Free Udemy Courses - 15/09/2021
 
-https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/?couponCode=FREEUNTILSEPT162021
-https://www.udemy.com/course/youtube-editing-in-premiere-pro/?couponCode=488AA272955F441EEE14
-https://www.udemy.com/course/build-a-real-world-responsive-website-with-html-5-css-3-js/?couponCode=BE-BEST-NOW
-https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?couponCode=TRY10FREE92104
-https://www.udemy.com/course/learn-carnatic-flute-intermediate-level-varnams-volume-6/?couponCode=2E927B92579FD39BB385
-https://www.udemy.com/course/affinity-publisher-guide/?couponCode=DC41E0555B70ED671150
-https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?couponCode=FD19ED6DED9A324F7FB1
-https://www.udemy.com/course/node-express-angular-12-mysql-full-stack-web-development/?couponCode=57339934260C041EED3A
-https://www.udemy.com/course/excel-data-analytics-with-pivot-tables-pivot-charts/?couponCode=TRICKYMAN9
-https://bit.ly/3lmwKDg
-https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY10FREE92104
-https://www.udemy.com/course/learn-microsoft-powerpoint/?couponCode=TRY10FREE92104
+https://www.udemy.com/course/ultimate-tallyprime-with-gst-step-by-step-guide-2021/?couponCode=TRICKYMAN10
+https://www.udemy.com/course/meditation-for-beginners-with-mrs-joy/?couponCode=MYGIFTFORYOU
+https://www.udemy.com/course/data-structures-and-algorithms-for-coding-interview/?couponCode=88762DDEEA2C15A11A2E
+https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=1977085BCE8FB5541284
+https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREESEP3
+https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREESEP3
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREESEP3
+https://www.udemy.com/course/database-course/?couponCode=PDBSEP2021
+https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=FREE_PREMIERE_PRO22
+https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/python-for-beginners-course-/?couponCode=DISCUDEMY.COM2
+https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=3A822A321C3FE244950F
 
