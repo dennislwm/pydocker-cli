@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/09/2021
+# Daily Free Udemy Courses - 16/09/2021
 
-https://www.udemy.com/course/ultimate-tallyprime-with-gst-step-by-step-guide-2021/?couponCode=TRICKYMAN10
-https://www.udemy.com/course/meditation-for-beginners-with-mrs-joy/?couponCode=MYGIFTFORYOU
-https://www.udemy.com/course/data-structures-and-algorithms-for-coding-interview/?couponCode=88762DDEEA2C15A11A2E
-https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=1977085BCE8FB5541284
-https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREESEP3
-https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREESEP3
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREESEP3
-https://www.udemy.com/course/database-course/?couponCode=PDBSEP2021
-https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=FREE_PREMIERE_PRO22
-https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=DISCUDEMY.COM
-https://www.udemy.com/course/python-for-beginners-course-/?couponCode=DISCUDEMY.COM2
-https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=3A822A321C3FE244950F
+https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=DISCUDEMY.COM4
+https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/?couponCode=FREESEP4
+https://www.udemy.com/course/english-pronunciation-for-you/?couponCode=691D950947B0CF4D60BC
+https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREESEP4
+https://www.udemy.com/course/mini-mba-in-branding/?couponCode=846FE74843C953C29CF4
+https://www.udemy.com/course/amazon-ebay-dropshipping-fba-wholesale-2021-para-kazanmak/?couponCode=F63AF468D4B94A660027
+https://www.udemy.com/course/meditation-for-adhd/?couponCode=346D84424542CCE0B035
+https://www.udemy.com/course/meditationforbeginners/?couponCode=C2556A0E4A676EB40A85
+https://www.udemy.com/course/web-security-fundamentals-how-to-hack-and-secure-web-apps/?couponCode=IMESSAGE
+https://www.udemy.com/course/learn-wordpress-now/?couponCode=FREEBIE
+https://www.udemy.com/course/quickbooks-online-2018-start-to-finish/?couponCode=9B46FF7A512725EFA9BA
+https://www.udemy.com/course/managerial-accounting-cost-accounting/?couponCode=3C23F00A53E00CB1000B
 
