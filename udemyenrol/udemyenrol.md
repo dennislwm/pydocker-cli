@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/09/2021
+# Daily Free Udemy Courses - 18/09/2021
 
-https://www.udemy.com/course/learn-basic-photoshop/?couponCode=TRY10FREE92105
-https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/?couponCode=TRY10FREE92105
-https://www.udemy.com/course/python-3-master-course-for-2021/?couponCode=TRY10FREE92105
-https://www.udemy.com/course/learn-g-suite/?couponCode=TRY10FREE92105
-https://www.udemy.com/course/learn-front-end-development/?couponCode=TRY10FREE92105
-https://www.udemy.com/course/learn-microsoft-office-365/?couponCode=TRY10FREE92105
-https://www.udemy.com/course/python-programming-bootcamp-from-basics-to-advanced/?couponCode=GET-FREE
-https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=89139F3F2B1CA83D6995
-https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=SEPTGOODNESS999
-https://www.udemy.com/course/mastering-architectural-night-hdr-photography/?couponCode=HDRSEP2021
-https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=50C7A26FEA93DC1282F2
-https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=A7B9B514634F9FE5F399
+https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=723F82526F0CF2EAB01B
+https://www.udemy.com/course/java-development-for-beginners-learnit/?couponCode=JAVA_FREE_SEP_2
+https://www.udemy.com/course/oracle-certification-1z0-808-and-1z0-811-learnit/?couponCode=ORAC_FREE_SEP_2
+https://www.udemy.com/course/10-steps-to-permanent-happiness/?couponCode=SHUBHAM
+https://www.udemy.com/course/forex-trading-like-banks-step-by-step-with-live-examples/?couponCode=SEPT2021
+https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=C24BA9C633AFE8127069
+https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=C8AEB7DACF2CB7EE169B
+https://www.udemy.com/course/tesol-and-tprs-course-/?couponCode=FREEFORTEACHERS
+https://www.udemy.com/course/excel-analyst-bootcamp/?couponCode=FREE-EXCEL-BOOTCAMP
+https://www.udemy.com/course/accredited-diploma-certificate-mindfulness-meditation-coach/?couponCode=TOTAL-OFF
+https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLSEPXV
+https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=04F02A8267C84FDC636D
 
