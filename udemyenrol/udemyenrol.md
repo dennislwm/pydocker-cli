@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/09/2021
+# Daily Free Udemy Courses - 20/09/2021
 
-https://www.udemy.com/course/master-self-sabotage/?couponCode=MINDMASTERYFREE
-https://www.udemy.com/course/cracking-cpp-interview/?couponCode=CPPOOPFREE6
-https://www.udemy.com/course/graphic-design-passive-income-downloads-self-publishing/?couponCode=F9E68CC8243D6DDE9762
-https://www.udemy.com/course/create-your-online-course-now/?couponCode=05EC2B5ACCF5B52607FF
-https://www.udemy.com/course/growth-mindset-mindset/?couponCode=022015E7B2571973EF1F
-https://www.udemy.com/course/goal-setting-training-course/?couponCode=00CBECA5BBB04BF8FA5A
-https://www.udemy.com/course/total-confidence-course-training/?couponCode=1D6737641D4956ED29AA
-https://www.udemy.com/course/reverse-aging-longevity-life-extension-health-training/?couponCode=4C0EE79D989674B3243B
-https://www.udemy.com/course/peak-productivity-hacks-training-course-business/?couponCode=09005B5F98EAB677D6B4
-https://www.udemy.com/course/beginner-advanced-udemy-course-creation-training-seo/?couponCode=910F51B72EBB894142B3
-https://www.udemy.com/course/excel-quick-start-guide-from-beginner-to-expert/?couponCode=ZTHSEPVII
-https://www.udemy.com/course/marketing-analytics-forecasting-models-with-excel/?couponCode=MARKSEPVII
+https://www.udemy.com/course/flexible-laundry-systems-for-the-creative-adhd-business-mum/?couponCode=ADHDLAUNDRYSYSTEMS
+https://www.udemy.com/course/learn-evernote/?couponCode=TRY10FREE92106
+https://www.udemy.com/course/learn-copywriting/?couponCode=3282D8A2375550CACF02
+https://www.udemy.com/course/ecom-mini-course/?couponCode=CD46136CAE209B2EC947
+https://www.udemy.com/course/digital-products-mini-course/?couponCode=84F7A703E9020FEA91CC
+https://www.udemy.com/course/henry-zhang-affiliate-networking-mini-course/?couponCode=4351B15DFADF3DAB74AC
+https://www.udemy.com/course/pinheroes/?couponCode=FF96F6AF43CABE8EA77D
+https://www.udemy.com/course/certification-in-business-brand-storytelling-for-leaders/?couponCode=F8A2D6C5860384027B56
+https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE25
+https://www.udemy.com/course/linux-system-admin/?couponCode=BACK2SCHOOL
+https://www.udemy.com/course/charting-for-penny-stocks-technical-analysis-best-penny-stocks-buy/?couponCode=1SEP21
+https://www.udemy.com/course/indian-cooking-course-15-potato-recipes-you-should-know/?couponCode=FREEFOR1DAY
 
