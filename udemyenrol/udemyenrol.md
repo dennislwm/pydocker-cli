@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/09/2021
+# Daily Free Udemy Courses - 21/09/2021
 
-https://www.udemy.com/course/flexible-laundry-systems-for-the-creative-adhd-business-mum/?couponCode=ADHDLAUNDRYSYSTEMS
-https://www.udemy.com/course/learn-evernote/?couponCode=TRY10FREE92106
-https://www.udemy.com/course/learn-copywriting/?couponCode=3282D8A2375550CACF02
-https://www.udemy.com/course/ecom-mini-course/?couponCode=CD46136CAE209B2EC947
-https://www.udemy.com/course/digital-products-mini-course/?couponCode=84F7A703E9020FEA91CC
-https://www.udemy.com/course/henry-zhang-affiliate-networking-mini-course/?couponCode=4351B15DFADF3DAB74AC
-https://www.udemy.com/course/pinheroes/?couponCode=FF96F6AF43CABE8EA77D
-https://www.udemy.com/course/certification-in-business-brand-storytelling-for-leaders/?couponCode=F8A2D6C5860384027B56
-https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE25
-https://www.udemy.com/course/linux-system-admin/?couponCode=BACK2SCHOOL
-https://www.udemy.com/course/charting-for-penny-stocks-technical-analysis-best-penny-stocks-buy/?couponCode=1SEP21
-https://www.udemy.com/course/indian-cooking-course-15-potato-recipes-you-should-know/?couponCode=FREEFOR1DAY
+https://www.udemy.com/course/mindfulness-busy-people/?couponCode=F85EA00C0DA71CA4DCA8
+https://www.udemy.com/course/scrum-certification/?couponCode=200921_FREE
+https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=97976DE9E1653FBB19CA
+https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=B2E1E695A788E9BF4355
+https://www.udemy.com/course/responsibility-accounting-performance-measurement/?couponCode=BE702AF35831EE62B17B
+https://www.udemy.com/course/flexible-budgets-standard-costs-variance-analysis/?couponCode=C6B1EA1E550CF7429F47
+https://www.udemy.com/course/artificial-intelligence-in-the-classroom/?couponCode=100OFF_SEPT1
+https://www.udemy.com/course/google-calendar-virtual-assistant/?couponCode=SEP-2021
+https://www.udemy.com/course/unlimited-free-traffic-generation-course/?couponCode=KEYPASS
+https://www.udemy.com/course/amazon-sagemaker/?couponCode=TRY10FREE92106
+https://www.udemy.com/course/automate-your-job-search-with-loopcv/?couponCode=KEYPASS
+https://www.udemy.com/course/viralnomics-creating-youtube-video-ideas-that-go-viral/?couponCode=KEYPASS
 
