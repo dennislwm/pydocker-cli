@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/09/2021
+# Daily Free Udemy Courses - 22/09/2021
 
-https://www.udemy.com/course/mindfulness-busy-people/?couponCode=F85EA00C0DA71CA4DCA8
-https://www.udemy.com/course/scrum-certification/?couponCode=200921_FREE
-https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=97976DE9E1653FBB19CA
-https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=B2E1E695A788E9BF4355
-https://www.udemy.com/course/responsibility-accounting-performance-measurement/?couponCode=BE702AF35831EE62B17B
-https://www.udemy.com/course/flexible-budgets-standard-costs-variance-analysis/?couponCode=C6B1EA1E550CF7429F47
-https://www.udemy.com/course/artificial-intelligence-in-the-classroom/?couponCode=100OFF_SEPT1
-https://www.udemy.com/course/google-calendar-virtual-assistant/?couponCode=SEP-2021
-https://www.udemy.com/course/unlimited-free-traffic-generation-course/?couponCode=KEYPASS
-https://www.udemy.com/course/amazon-sagemaker/?couponCode=TRY10FREE92106
-https://www.udemy.com/course/automate-your-job-search-with-loopcv/?couponCode=KEYPASS
-https://www.udemy.com/course/viralnomics-creating-youtube-video-ideas-that-go-viral/?couponCode=KEYPASS
+https://www.udemy.com/course/introduction-to-finance-u/?couponCode=FINANCE4ALL
+https://www.udemy.com/course/ethical-hacking-python/?couponCode=BACK2SCHOOL
+https://www.udemy.com/course/tubeheroes/?couponCode=BEB68D874EB40FD14F94
+https://bit.ly/3nQ0H1u
+https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/?couponCode=FREEUPTOSEPT23
+https://www.udemy.com/course/getting-started-with-microsoft-excel/?couponCode=AFAD0A9391B77EDF3890
+https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY21
+https://www.udemy.com/course/it-desktop-computer-support-real-world-troubleshooting/?couponCode=SEP2021
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PENTSEP1
+https://www.udemy.com/course/creationalpatternsinjava/?couponCode=CRACKINTERVIEW
+https://www.udemy.com/course/land-a-new-digital-job-during-the-pandemic/?couponCode=CC5B0D9E678B9A60FEDE
+https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=212D63B0BDB9C808BEA5
 
