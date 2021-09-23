@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/09/2021
+# Daily Free Udemy Courses - 23/09/2021
 
-https://www.udemy.com/course/introduction-to-finance-u/?couponCode=FINANCE4ALL
-https://www.udemy.com/course/ethical-hacking-python/?couponCode=BACK2SCHOOL
-https://www.udemy.com/course/tubeheroes/?couponCode=BEB68D874EB40FD14F94
-https://bit.ly/3nQ0H1u
-https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/?couponCode=FREEUPTOSEPT23
-https://www.udemy.com/course/getting-started-with-microsoft-excel/?couponCode=AFAD0A9391B77EDF3890
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY21
-https://www.udemy.com/course/it-desktop-computer-support-real-world-troubleshooting/?couponCode=SEP2021
-https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PENTSEP1
-https://www.udemy.com/course/creationalpatternsinjava/?couponCode=CRACKINTERVIEW
-https://www.udemy.com/course/land-a-new-digital-job-during-the-pandemic/?couponCode=CC5B0D9E678B9A60FEDE
-https://www.udemy.com/course/vagrant-visualized-development-environments-and-oracle/?couponCode=212D63B0BDB9C808BEA5
+https://www.udemy.com/course/adobe-premiere-pro-cc-2020/?couponCode=TRY10FREE92107
+https://www.udemy.com/course/how-to-rise-above-your-fears-and-solve-problems/?couponCode=66C56B5D4D3FABC7E062
+https://www.udemy.com/course/ultimate-success-formula/?couponCode=1YEAR_CELEBRATION
+https://www.udemy.com/course/sports-coaching-certificate-course-all-sports-foundation/?couponCode=2D91262A286C9BAE5DED
+https://www.udemy.com/course/habitually-better-building-habits-to-be-your-best-self/?couponCode=FAF4A90C0949802C4B98
+https://www.udemy.com/course/complete-guide-to-crack-a-data-science-interview/?couponCode=2021DS
+https://www.udemy.com/course/make-easy-money-from-home/?couponCode=5AE50A6F7F1A28E2CDA8
+https://www.udemy.com/course/linux-operating-system-with-shell-from-scratch-for-beginners/?couponCode=29AD76DDB57041A377D8
+https://www.udemy.com/course/ultimate-tallyprime-with-gst-step-by-step-guide-2021/?couponCode=TRICKYMAN15
+https://www.udemy.com/course/the-ultimate-beginners-guide-to-python-recommender-systems/?couponCode=55F9D6FFB0844155BECA
+https://www.udemy.com/course/front-end-web-development-bootcamp-2021/?couponCode=59853A51607C020D3B10
+https://www.udemy.com/course/art-legends-in-history-introduction/?couponCode=F5A0CFC2397D0F77ADFB
 
