@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/09/2021
+# Daily Free Udemy Courses - 29/09/2021
 
-https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=UPSKILL-NOW-FREE
-https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=8AFB4D4784A56FCFFD02
-https://www.udemy.com/course/learn-to-code-by-making-games-in-python/?couponCode=E8765FC44168031D0F5E
-https://www.udemy.com/course/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/?couponCode=PIVSEP27
-https://www.udemy.com/course/corporate-finance/?couponCode=8E46FAB14767CD011365
-https://www.udemy.com/course/personal-finance-i/?couponCode=B44425E44B9C4BDB8E22
-https://www.udemy.com/course/quickbooks-online-multiple-currencies/?couponCode=295CBBBEE5728FB9B059
-https://www.udemy.com/course/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2021/?couponCode=D97C00AE67305752AE21
-https://www.udemy.com/course/xero-not-for-profit-organization/?couponCode=61FE31C12596EF919A4B
-https://www.udemy.com/course/quickbooks-desktop-export-directly-to-tax-software-lacerte/?couponCode=10BE5A1ED239BD6ECF13
-https://www.udemy.com/course/aplos-not-for-profit-accounting-software/?couponCode=EE706EB9C0D045203FCC
-https://www.udemy.com/course/tax-adjusting-entry-year-end-accounting-excel-worksheet/?couponCode=1E6AF1F9A720213BDF4F
+https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=C4700C71C47675BDEB1F
+https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=7BD322D926298F90F54D
+https://www.udemy.com/course/r-programming-course-for-absolute-beginners/?couponCode=OPENSPACE
+https://www.udemy.com/course/build-profitable-shopify-dropshipping-business/?couponCode=FREE88
+https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=YOUACCEL13590
+https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL13590
+https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-r/?couponCode=OPENSPACE
+https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/?couponCode=TRY10FREE92108
+https://www.udemy.com/course/learn-microsoft-office-365/?couponCode=TRY10FREE92108
+https://www.udemy.com/course/learn-g-suite/?couponCode=TRY10FREE92108
+https://www.udemy.com/course/learn-front-end-development/?couponCode=TRY10FREE92108
+https://www.udemy.com/course/solarwinds-security-event-manager-sem-complete-course-2021/?couponCode=AURORABESTCOURSES
 
