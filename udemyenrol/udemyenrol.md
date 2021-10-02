@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/10/2021
+# Daily Free Udemy Courses - 02/10/2021
 
-https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course/?couponCode=1E1E66DF69A73DA81B27
-https://www.udemy.com/course/neural-networks-for-autoencoders-and-recommender-systems/?couponCode=3DBC23137AF46D91703F
-https://www.udemy.com/course/learn-mysql-for-beginners/?couponCode=YOUACCEL48923
-https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL48923
-https://www.udemy.com/course/html-css-certification-course-for-beginners/?couponCode=YOUACCEL48923
-https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=YOUACCEL48923
-https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=271256DB77BA8E2A3B64
-https://www.udemy.com/course/learn-php-for-beginners-n/?couponCode=YOUACCEL48923
-https://www.udemy.com/course/learn-bootstrap-for-beginners/?couponCode=YOUACCEL48923
-https://www.udemy.com/course/python-for-bioinformatics-self-learning-course/?couponCode=1A7380B0319636557414
-https://www.udemy.com/course/principles-ppt-design/?couponCode=NEW_COURSE_FREE
-https://www.udemy.com/course/managing-and-working-in-virtual-and-hybrid-teams/?couponCode=E21B4644974FB287661E
+https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=MLRSEP3
+https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=MSESEP3F
+https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/?couponCode=GBQF3SE
+https://www.udemy.com/course/data_science_a_to_z/?couponCode=MLPFSE3
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PDISEFR2
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=FIN3SEPFR
+https://www.udemy.com/course/alteryx-masterclass-for-data-analytics-etl-and-reporting/?couponCode=ALTSEFR3
+https://www.udemy.com/course/statistics-for-business-analytics-using-ms-excel/?couponCode=STATSEP1
+https://www.udemy.com/course/self-taught-programmer/?couponCode=0A1E7D98E101F82F1995
+http://CSS%20And%20Javascript%20Crash%20Course
+https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREESEP9
+https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREESEP9
 
