@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/10/2021
+# Daily Free Udemy Courses - 04/10/2021
 
-https://www.udemy.com/course/art-legends-in-history-introduction/?couponCode=8F6CFF37287C62FEDA71
-https://www.udemy.com/course/laser-targeted-traffic/?couponCode=13731DA7D00E50676F41
-https://www.udemy.com/course/amazon-secrets/?couponCode=7036A417369028884A87
-https://www.udemy.com/course/list-building-secrets-copy-paste/?couponCode=8D564A0C1DEFBB6FD6A6
-https://www.udemy.com/course/minimalist-lifestyle-simplify-your-life-and-feel-amazing/?couponCode=37C4B736B0E7834C5DA0
-https://www.udemy.com/course/the-power-of-focus-the-master-key-to-success/?couponCode=00D2DDB4A15FA8DBDA2D
-https://www.udemy.com/course/iso-27001-network-communication-security-management/?couponCode=FREE3DAYS
-https://www.udemy.com/course/learn-arabic-with-fun/?couponCode=5A6ABA2D9C3C84FFD0E3
-https://www.udemy.com/course/postpandemic-love-the-undoing-effect/?couponCode=861A219CE17665C0C2DA
-https://www.udemy.com/course/masteringfarsi/?couponCode=CCBEE06D720BC3CED02B
-https://www.udemy.com/course/home-automation-using-arduino/?couponCode=D72C3DA689FCD3F37989
-https://www.udemy.com/course/digital-marketing-courses/?couponCode=OCTGOODNESS10
+https://www.udemy.com/course/sales-strategy-how-to-boost-your-sales/?couponCode=C2FB1A07AA9735EBC052
+https://www.udemy.com/course/essential-job-interview-skills-that-will-hired-you/?couponCode=ECDC9DBFC45664239DD2
+https://www.udemy.com/course/microsoft-access-training-master-the-ms-access/?couponCode=MSACCESS21
+https://www.udemy.com/course/sap_s4_hana_complete_course/?couponCode=F29424F0D8C519D35CF1
+https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=OCT-2021
+https://www.udemy.com/course/laravel-blog-development/?couponCode=C6C70CB9F891EDDF073B
+https://www.udemy.com/course/certified-lead-generation-professional-list-building-easy/?couponCode=0252D80B121236F5857D
+https://www.udemy.com/course/rigging-with-joysticks-nsliders-in-after-effects/?couponCode=UNTIL_OCT_5
+https://www.udemy.com/course/activecampaign-email-automation-masterclass/?couponCode=82DEFF85BF2148E0CB39
+https://www.udemy.com/course/product-marketing-strategy-tactics-that-really-works/?couponCode=D323522F1C5F2DD1FE4B
+https://www.udemy.com/course/computer-fundamentals-u/?couponCode=DB9C7DBA3A2096BDCC2F
+https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL90964
 
