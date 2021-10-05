@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/10/2021
+# Daily Free Udemy Courses - 05/10/2021
 
-https://www.udemy.com/course/sales-strategy-how-to-boost-your-sales/?couponCode=C2FB1A07AA9735EBC052
-https://www.udemy.com/course/essential-job-interview-skills-that-will-hired-you/?couponCode=ECDC9DBFC45664239DD2
-https://www.udemy.com/course/microsoft-access-training-master-the-ms-access/?couponCode=MSACCESS21
-https://www.udemy.com/course/sap_s4_hana_complete_course/?couponCode=F29424F0D8C519D35CF1
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=OCT-2021
-https://www.udemy.com/course/laravel-blog-development/?couponCode=C6C70CB9F891EDDF073B
-https://www.udemy.com/course/certified-lead-generation-professional-list-building-easy/?couponCode=0252D80B121236F5857D
-https://www.udemy.com/course/rigging-with-joysticks-nsliders-in-after-effects/?couponCode=UNTIL_OCT_5
-https://www.udemy.com/course/activecampaign-email-automation-masterclass/?couponCode=82DEFF85BF2148E0CB39
-https://www.udemy.com/course/product-marketing-strategy-tactics-that-really-works/?couponCode=D323522F1C5F2DD1FE4B
-https://www.udemy.com/course/computer-fundamentals-u/?couponCode=DB9C7DBA3A2096BDCC2F
-https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL90964
+https://www.udemy.com/course/containerize-springboot-crud-app-with-docker-dockercompose/?couponCode=FA08DA1D19CB07EEE98D
+https://www.udemy.com/course/alibaba-product-sourcing-import-to-amazon-fba-mastery/?couponCode=5A1F9D4FC55E37A4E785
+https://www.udemy.com/course/the-complete-value-investing-and-investing-mindset-course/?couponCode=324BC78109BEF43C6BB9
+https://www.udemy.com/course/goal-setting-for-success/?couponCode=GOAL-SETTING-FREE
+https://www.udemy.com/course/learn-css-and-bootstrap-from-scratch/?couponCode=CSS3OCT2021
+https://www.udemy.com/course/build-a-todolist-with-kotlin-spring-boot-and-react/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/build-a-todolist-fast-with-ruby-on-rails-and-react/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/press-release-marketing/?couponCode=C43765E7AD56745FB873
+https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners/?couponCode=E1ADDDF3A2A93C604532
+https://www.udemy.com/course/python-for-beginners-course-/?couponCode=FREEBIESGLOBAL.COM1
+https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY0410
+https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY0410
 
