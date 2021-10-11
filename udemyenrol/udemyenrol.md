@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/10/2021
+# Daily Free Udemy Courses - 11/10/2021
 
-https://www.udemy.com/course/next-gen-memory-learning-improvement/?couponCode=FREE-MEMORY-COURSE
-https://www.udemy.com/course/learn-nosql-databases-complete-mongodb-bootcamp-2019/?couponCode=LEARN-WITH-VINSLOEV
-https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=821689EEB509B6E24CC9
-https://www.udemy.com/course/startups-with-data-and-kpi/?couponCode=AD512CA1CCAE410E8B12
-https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=AC1A4E1D62D79B3CF878
-https://www.udemy.com/course/pinheroes/?couponCode=BA04EA90DBF72AAAAA1F
-https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass/?couponCode=GRAPHICS2022
-https://www.udemy.com/course/improve-english-by-listening-movies-1b/?couponCode=A6FB44DD8A75E8C62EAE
-https://www.udemy.com/course/goal-setting-mastery-for-success/?couponCode=GOALMASTERY
-https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=91AF4118C260175C3125
-https://www.udemy.com/course/improve-english-by-movies/?couponCode=E2EFC3F89AF9800A10AA
-https://www.udemy.com/course/video-editing-in-adobe-premiere-pro-mega-pack-5-course-in-1/?couponCode=100OFFBYYASHR04
+https://www.udemy.com/course/manipulation-in-politics/?couponCode=D4495DB72B2DCCD94C88
+https://www.udemy.com/course/ultimate-influence-and-persuasion/?couponCode=43DCFDFD8D9C237C428D
+https://www.udemy.com/course/manipulation-sales/?couponCode=C90F9FA06BF004348C1D
+https://www.udemy.com/course/chargeback-reason-codes/?couponCode=A072DF3F5A3A9D3E9C4A
+https://www.udemy.com/course/masteringlatex/?couponCode=2E40CB3B3A29B2452E55
+https://www.udemy.com/course/build-a-todolist-with-java-spring-boot-and-vue/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/learn-integration-testing-with-spring-boot/?couponCode=NEW_COURSE
+https://www.udemy.com/course/premiere-pro-course/?couponCode=FREEPREMIERE3
+https://www.udemy.com/course/computer-basics-for-beginners/?couponCode=5C79176F501C10E348E8
+https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=OCT2021
+https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=DFA6EE4FA95C1A7CF1AD
+https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=2D36A91EAEB681EC345A
 
