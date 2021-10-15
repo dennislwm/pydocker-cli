@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/10/2021
+# Daily Free Udemy Courses - 15/10/2021
 
-https://www.udemy.com/course/fast-video-curation-create-an-online-branded-tv-channel/?couponCode=9D038A27ACCABA73E1BF
-https://www.udemy.com/course/complete-formulas-functions-masterclass-in-excel/?couponCode=3B14EBD14BF20649020D
-https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=80A39FA0B5142A3EDDF9
-https://www.udemy.com/course/mastering-mongodb/?couponCode=MONGOOCT2021
-https://www.udemy.com/course/artificial-intelligence-presentation-creation-secrets-2018/?couponCode=EF2CAC112ADF2C1EF458
-https://www.udemy.com/course/artificial-intelligence-website-creation-2018-no-coding/?couponCode=6101C79378E34FFA4CA4
-https://www.udemy.com/course/artificial-intelligence-video-creation-amazing-video-tools/?couponCode=523D1A819D2BDA53B45F
-https://www.udemy.com/course/create-your-own-virtual-3d-events-in-vr/?couponCode=4D51E4F13F10974B93B4
-https://www.udemy.com/course/viralnomics-creating-youtube-video-ideas-that-go-viral/?couponCode=B19AD186F8A3EAF935A5
-https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=E1BC356EE2B59B8D433F
-https://www.udemy.com/course/artificial-intelligence-music-creation-remixing-2018/?couponCode=4037029F1BCFB2122DAD
-https://www.udemy.com/course/win-at-job-interviews-for-high-potential-candidates/?couponCode=4D27734D6E18B1DACD67
+https://www.udemy.com/course/become-professional-social-media-visual-designer-canva/?couponCode=LOBICANVA
+https://www.udemy.com/course/solarwinds-arm/?couponCode=A494F3BEA4C452AC4A61
+https://www.udemy.com/course/marketing-analytics-pricing-strategies-and-price-analytics/?couponCode=PRIOC2B
+https://www.udemy.com/course/project-with-laravel-pizza-ordering-web-application/?couponCode=61C77BF7DEABCC43EC34
+https://www.udemy.com/course/object-oriented-programming-in-java-hands-on/?couponCode=E2994E092EC02668901D
+https://www.udemy.com/course/the-complete-wordpress-developer-course-w/?couponCode=2EEAFACB3B9187535DCB
+https://www.udemy.com/course/how-to-become-a-facilitator-7-effective-skills/?couponCode=99EAE98E33D485A1D490
+https://www.udemy.com/course/instagram-marketing-how-to-promote-anything-on-instagram/?couponCode=50AA999A9642BC738956
+https://www.udemy.com/course/data_science_a_to_z/?couponCode=MLOC2BFRPY
+https://www.udemy.com/course/instagram-photography-top-3-key-ways-to-shoot-everything/?couponCode=4810133623C2CECD9732
+https://www.udemy.com/course/make-your-instagram-look-astonishingly-pretty-in-5-steps/?couponCode=FEB352C1B4B5E78E448B
+https://www.udemy.com/course/top-5-secrets-for-improving-screenwriting-skills/?couponCode=4DA855C4FA6B6E73A458
 
