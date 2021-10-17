@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/10/2021
+# Daily Free Udemy Courses - 17/10/2021
 
-https://www.udemy.com/course/automate-reactjs-springboot-cicd-pipelines-on-azuredevops/?couponCode=F5903EA0DBD4FA033883
-https://www.udemy.com/course/cyberintro/?couponCode=56DD06CB062B53A273BE
-https://www.udemy.com/course/containercrashcourse/?couponCode=C4BFD63FA77A587AFD24
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEOCT4
-https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEOCT4
-https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEOCT4
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEOCT4
-https://www.udemy.com/course/python-for-beginners-course-/?couponCode=FREEBIESGLOBAL.COMM
-https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEOCT4
-https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEOCT4
-https://www.udemy.com/course/english-speaking-courses/?couponCode=FREETRIAL
-https://www.udemy.com/course/freelance-success-for-artists-a-quick-easy-guide/?couponCode=FREEFALL2021
+https://www.udemy.com/course/build-a-todolist-with-aspnet-core-and-ionic-angular/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/build-a-todolist-with-fastapi-and-ionic-angular/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/build-a-todolist-with-nestjs-and-ionic-angular/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/build-a-todolist-with-elixir-phoenix-and-ionic-angular/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/build-a-todolist-fast-with-go-fiber-and-ionic-angular/?couponCode=CODEBRAINS_FREE
+https://www.udemy.com/course/the-complete-high-school-and-college-chemistry/?couponCode=LEARNFREE
+https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python/?couponCode=91369D039E184BD96518
+https://www.udemy.com/course/costing-and-cost-accounting/?couponCode=COST_MGMT_ACC_UPLATZ
+https://www.udemy.com/course/business-finance-and-financial-modeling/?couponCode=BUS_FIN_MOD_UPLATZ
+https://www.udemy.com/course/financial-accounting-and-reporting/?couponCode=FIN_ACC_REP_UPLATZ
+https://www.udemy.com/course/how-to-beat-the-forex-market-quick-and-effective/?couponCode=FREEVALUE
+https://www.udemy.com/course/seo-training-2022/?couponCode=OCTGOODNESS10
 
