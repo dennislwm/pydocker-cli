@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/10/2021
+# Daily Free Udemy Courses - 18/10/2021
 
-https://www.udemy.com/course/build-a-todolist-with-aspnet-core-and-ionic-angular/?couponCode=CODEBRAINS_FREE
-https://www.udemy.com/course/build-a-todolist-with-fastapi-and-ionic-angular/?couponCode=CODEBRAINS_FREE
-https://www.udemy.com/course/build-a-todolist-with-nestjs-and-ionic-angular/?couponCode=CODEBRAINS_FREE
-https://www.udemy.com/course/build-a-todolist-with-elixir-phoenix-and-ionic-angular/?couponCode=CODEBRAINS_FREE
-https://www.udemy.com/course/build-a-todolist-fast-with-go-fiber-and-ionic-angular/?couponCode=CODEBRAINS_FREE
-https://www.udemy.com/course/the-complete-high-school-and-college-chemistry/?couponCode=LEARNFREE
-https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python/?couponCode=91369D039E184BD96518
-https://www.udemy.com/course/costing-and-cost-accounting/?couponCode=COST_MGMT_ACC_UPLATZ
-https://www.udemy.com/course/business-finance-and-financial-modeling/?couponCode=BUS_FIN_MOD_UPLATZ
-https://www.udemy.com/course/financial-accounting-and-reporting/?couponCode=FIN_ACC_REP_UPLATZ
-https://www.udemy.com/course/how-to-beat-the-forex-market-quick-and-effective/?couponCode=FREEVALUE
-https://www.udemy.com/course/seo-training-2022/?couponCode=OCTGOODNESS10
+https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=EC5E8F9144CCA4123994
+https://www.udemy.com/course/become-a-freelance-content-writer-get-paid-to-write-online/?couponCode=FREE-WRITING-COURSE
+https://www.udemy.com/course/mega-microsoft-office-course-covers-seven-office-products/?couponCode=MEGAMSOFFICE21
+https://www.udemy.com/course/astrology-the-planets/?couponCode=FREE_ASTROLOGY
+https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=OCT_2021
+https://www.udemy.com/course/the-complete-web-development-course/?couponCode=WEB22OCT2021
+https://www.udemy.com/course/car-repair-bootcamp-tunning-hacking-masterclass/?couponCode=CARMECHANIC100OFF
+https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL38058
+https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL38058
+https://bit.ly/3pbLjNM
+https://www.udemy.com/course/ethical-hacking-masterclass-best/?couponCode=LEARNKALILINUX
+https://www.udemy.com/course/criminology-fundamentals-of-criminal-psychology-and-law/?couponCode=CRIMINOLOGYFREE100
 
