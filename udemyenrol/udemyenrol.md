@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/10/2021
+# Daily Free Udemy Courses - 21/10/2021
 
-https://www.udemy.com/course/transformyourdreams/?couponCode=BA3F1F15E2820CC76837
-https://www.udemy.com/course/how-to-develop-rest-web-api-using-aspnet-mvc/?couponCode=0F31BEEDE7AC1CE241A2
-https://www.udemy.com/course/economics-basics-to-advanced-level/?couponCode=3F3D98B9696C4EBD13FC
-https://www.udemy.com/course/data-science-and-machine-learning-with-r-from-a-z/?couponCode=9529CE34627233816B5F
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFO2FR
-https://www.udemy.com/course/scrum-genman/?couponCode=SCROC2F
-https://www.udemy.com/course/tubeheroes/?couponCode=F08F84905A1C8592C435
-https://www.udemy.com/course/agile-kanban/?couponCode=KANO2F
-https://www.udemy.com/course/natural-language-processing-real-world-use-cases-in-python/?couponCode=OCT_SALES_CRAZY
-https://www.udemy.com/course/cryptocurrencies-complet-practical-course-on-crypto-trading/?couponCode=F5F960E7B9E2414A1D61
-https://www.udemy.com/course/microsoft-excel-from-a-z/?couponCode=83B3966DABB080F8D6CE
-https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9OCT2021
+https://www.udemy.com/course/the-complete-intro-to-machine-learning-with-python/?couponCode=SMLCCOURSE1
+https://www.udemy.com/course/adobe-dreamweaver-projects/?couponCode=TRY10FREE102106
+https://www.udemy.com/course/learn-basic-adobe-xd/?couponCode=TRY10FREE102106
+https://www.udemy.com/course/amazon-glue/?couponCode=TRY10FREE102106
+https://www.udemy.com/course/amazon-redshift/?couponCode=TRY10FREE102106
+https://www.udemy.com/course/complete-gmail-productivity-course-more-productive-email/?couponCode=403103D61B5FE4C5CFAA
+https://www.udemy.com/course/master-classes-for-web-design-course-html-css-js-seo/?couponCode=404FE8B599DE364BBE65
+https://www.udemy.com/course/the-memory-palace-course/?couponCode=LIMITEDOCT
+https://www.udemy.com/course/time-series-analysis-real-world-use-cases-in-python/?couponCode=OCT_LAST_SALES
+https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=EA4774EB842D292D1E53
+https://www.udemy.com/course/natural-language-processing-building-real-world-projects/?couponCode=E65206A15B0BF9B531CC
+https://www.udemy.com/course/project-with-laravel-pizza-ordering-web-application/?couponCode=E6A4DC9CF0F115221330
 
