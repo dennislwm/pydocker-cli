@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/10/2021
+# Daily Free Udemy Courses - 23/10/2021
 
-https://www.udemy.com/course/questions-job-interview-sql-developer/?couponCode=LASTCHANCE
-https://www.udemy.com/course/learn-adobe-xd-essentials-for-uiux-design/?couponCode=FREE-XD-COURSE
-https://www.udemy.com/course/dbt-interpersonal-effectiveness-f/?couponCode=5295642035C35E3149D3
-https://www.udemy.com/course/make-money-online-with-freelance-writing/?couponCode=FREE101
-https://www.udemy.com/course/tiktok-marketing-2021-go-viral-with-authentic-videos/?couponCode=FREEBIESGLOBAL1
-https://www.udemy.com/course/learn-to-host-multiple-domains-on-one-virtual-server/?couponCode=YOUACCEL31550
-https://www.udemy.com/course/transformyourdreams/?couponCode=DREAMS21
-https://www.udemy.com/course/nexus-scrum-advanced/?couponCode=211021_FREE
-https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=PROMO_INFOGRAPHICS
-https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEOCT6
-https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=EVMOCT
-https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEOCT6
+https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners/?couponCode=35B28892B14EB9AD90EC
+https://www.udemy.com/course/conversion-optimization-mini-course/?couponCode=DBE27AB2571B94BCC12A
+https://www.udemy.com/course/html-5-course/?couponCode=FREEHTML
+https://www.udemy.com/course/lead-generation-cold-emails/?couponCode=OCTOBERLEARN
+https://www.udemy.com/course/interactive-powerpoint-presentations-made-simple/?couponCode=THECOUPONFREE2
+https://www.udemy.com/course/modern-zooming-powerpoint-presentations-within-minutes/?couponCode=THECOUPONFREE
+https://www.udemy.com/course/how-to-create-online-courses-using-an-iphone/?couponCode=FREEFIVERR
+https://www.udemy.com/course/setting-yourself-up-for-sustainable-sobriety/?couponCode=DRYANDDISORDERLY
+https://www.udemy.com/course/launch-your-first-successful-product-and-win-working-method/?couponCode=EARLYGIFT
+https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/?couponCode=OCT2021
+https://www.udemy.com/course/aviation-passenger-service-and-handling/?couponCode=6B2F89EFF6B73BE3E46B
+https://www.udemy.com/course/emergency-speech-preparation-last-minute-presentation-tips/?couponCode=6CDD5E988E89BC5F1C41
 
