@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/10/2021
+# Daily Free Udemy Courses - 24/10/2021
 
-https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners/?couponCode=35B28892B14EB9AD90EC
-https://www.udemy.com/course/conversion-optimization-mini-course/?couponCode=DBE27AB2571B94BCC12A
-https://www.udemy.com/course/html-5-course/?couponCode=FREEHTML
-https://www.udemy.com/course/lead-generation-cold-emails/?couponCode=OCTOBERLEARN
-https://www.udemy.com/course/interactive-powerpoint-presentations-made-simple/?couponCode=THECOUPONFREE2
-https://www.udemy.com/course/modern-zooming-powerpoint-presentations-within-minutes/?couponCode=THECOUPONFREE
-https://www.udemy.com/course/how-to-create-online-courses-using-an-iphone/?couponCode=FREEFIVERR
-https://www.udemy.com/course/setting-yourself-up-for-sustainable-sobriety/?couponCode=DRYANDDISORDERLY
-https://www.udemy.com/course/launch-your-first-successful-product-and-win-working-method/?couponCode=EARLYGIFT
-https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/?couponCode=OCT2021
-https://www.udemy.com/course/aviation-passenger-service-and-handling/?couponCode=6B2F89EFF6B73BE3E46B
-https://www.udemy.com/course/emergency-speech-preparation-last-minute-presentation-tips/?couponCode=6CDD5E988E89BC5F1C41
+https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=FREE_COUPON
+https://www.udemy.com/course/microsoft-azure-serverless-for-busy-net-developers/?couponCode=CB66865C4F337C5FD7B0
+https://www.udemy.com/course/powerfull-negotiator/?couponCode=3B02795615F954F5B4F5
+https://www.udemy.com/course/complete-clip-studio-paint-megacourse-beginner-to-expert/?couponCode=B3259218B53E3423CE53
+https://www.udemy.com/course/net-apps-on-azure-virtual-machine-windows-linux-docker/?couponCode=2581CF1B4F80859CCF75
+https://www.udemy.com/course/finding-a-unique-niche-to-build-a-successful-business/?couponCode=3DAYSFREE
+https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVAC4OCT
+https://www.udemy.com/course/asp-net-core-5-web-apis-using-db-first-in-depth-in-8-days/?couponCode=6D721CF4F2AC9CB3CE17
+https://www.udemy.com/course/certified-psychological-self-healing-specialist-course/?couponCode=40A0570A195E051D6B59
+https://www.udemy.com/course/learn-video-editing-for-freelancing-social-media-marketing/?couponCode=FREELIMITEDTIME
+https://www.udemy.com/course/advanced-financial-accounting/?couponCode=9A569616FF7FDA8BCD43
+https://www.udemy.com/course/comptia-a-core-1-comptia-a-220-1001-course/?couponCode=COMPTIA_APLUS_1001
 
