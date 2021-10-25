@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/10/2021
+# Daily Free Udemy Courses - 25/10/2021
 
-https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=FREE_COUPON
-https://www.udemy.com/course/microsoft-azure-serverless-for-busy-net-developers/?couponCode=CB66865C4F337C5FD7B0
-https://www.udemy.com/course/powerfull-negotiator/?couponCode=3B02795615F954F5B4F5
-https://www.udemy.com/course/complete-clip-studio-paint-megacourse-beginner-to-expert/?couponCode=B3259218B53E3423CE53
-https://www.udemy.com/course/net-apps-on-azure-virtual-machine-windows-linux-docker/?couponCode=2581CF1B4F80859CCF75
-https://www.udemy.com/course/finding-a-unique-niche-to-build-a-successful-business/?couponCode=3DAYSFREE
-https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVAC4OCT
-https://www.udemy.com/course/asp-net-core-5-web-apis-using-db-first-in-depth-in-8-days/?couponCode=6D721CF4F2AC9CB3CE17
-https://www.udemy.com/course/certified-psychological-self-healing-specialist-course/?couponCode=40A0570A195E051D6B59
-https://www.udemy.com/course/learn-video-editing-for-freelancing-social-media-marketing/?couponCode=FREELIMITEDTIME
-https://www.udemy.com/course/advanced-financial-accounting/?couponCode=9A569616FF7FDA8BCD43
-https://www.udemy.com/course/comptia-a-core-1-comptia-a-220-1001-course/?couponCode=COMPTIA_APLUS_1001
+https://www.udemy.com/course/dropshippingfornewbies/?couponCode=9189A9B36789CC460DE3
+https://www.udemy.com/course/microsoft-project-learn-project-management-with-ms-project/?couponCode=2CF0C02852E9CA550206
+https://www.udemy.com/course/certified-data-privacy-solutions-engineer-cdpse-practice-set-sp/?couponCode=SP29_KP
+https://www.udemy.com/course/etsymasterclass/?couponCode=728FC3F194F54C87FB6B
+https://www.udemy.com/course/how-to-start-selling-digital-products-on-etsy-seo-marketing-strategies/?couponCode=7264BB6243AA975C6884
+https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=AB8D55CD999BF03B485A
+https://www.udemy.com/course/2-thessalonians-summary-life-lessons-for-todays-living/?couponCode=76665D7B4E12ED9B1F50
+https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=OCTGOODNESS100
+https://www.udemy.com/course/75-linux-commands-you-ever-need-to-work-in-linux-environment/?couponCode=E7419655F7D836E780DC
+https://www.udemy.com/course/sex-education/?couponCode=FREE3UNLIMITED
+https://www.udemy.com/course/computer-fundamentals-u/?couponCode=LAST_CHANCE
+https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=B6D4BD9482F2D4C5BA23
 
