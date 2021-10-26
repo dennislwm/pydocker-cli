@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/10/2021
+# Daily Free Udemy Courses - 26/10/2021
 
-https://www.udemy.com/course/dropshippingfornewbies/?couponCode=9189A9B36789CC460DE3
-https://www.udemy.com/course/microsoft-project-learn-project-management-with-ms-project/?couponCode=2CF0C02852E9CA550206
-https://www.udemy.com/course/certified-data-privacy-solutions-engineer-cdpse-practice-set-sp/?couponCode=SP29_KP
-https://www.udemy.com/course/etsymasterclass/?couponCode=728FC3F194F54C87FB6B
-https://www.udemy.com/course/how-to-start-selling-digital-products-on-etsy-seo-marketing-strategies/?couponCode=7264BB6243AA975C6884
-https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=AB8D55CD999BF03B485A
-https://www.udemy.com/course/2-thessalonians-summary-life-lessons-for-todays-living/?couponCode=76665D7B4E12ED9B1F50
-https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=OCTGOODNESS100
-https://www.udemy.com/course/75-linux-commands-you-ever-need-to-work-in-linux-environment/?couponCode=E7419655F7D836E780DC
-https://www.udemy.com/course/sex-education/?couponCode=FREE3UNLIMITED
-https://www.udemy.com/course/computer-fundamentals-u/?couponCode=LAST_CHANCE
-https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=B6D4BD9482F2D4C5BA23
+https://www.udemy.com/course/data-analyst-skillpath-zero-to-hero-in-excel-sql-python/?couponCode=DATSO2EE
+https://www.udemy.com/course/interview-essentials-master-your-interview-essentials-now/?couponCode=7F04E9ED9956DFBAEA4B
+https://www.udemy.com/course/kubeflow-fundamentals/?couponCode=74BA42632E34D3C7CA54
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GAGA4GTM
+https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING
+https://www.udemy.com/course/utreon-course/?couponCode=27F7874878155F58B771
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=FAFOFR2
+https://www.udemy.com/course/the-complete-punctuation-course-english-writing-grammar/?couponCode=DD8BE22C3AF8D4CAE499
+https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEOCT7
+https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEOCT7
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEOCT7
+https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEOCT7
 
