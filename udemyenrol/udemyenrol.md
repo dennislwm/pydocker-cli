@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/10/2021
+# Daily Free Udemy Courses - 27/10/2021
 
-https://www.udemy.com/course/data-analyst-skillpath-zero-to-hero-in-excel-sql-python/?couponCode=DATSO2EE
-https://www.udemy.com/course/interview-essentials-master-your-interview-essentials-now/?couponCode=7F04E9ED9956DFBAEA4B
-https://www.udemy.com/course/kubeflow-fundamentals/?couponCode=74BA42632E34D3C7CA54
-https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GAGA4GTM
-https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING
-https://www.udemy.com/course/utreon-course/?couponCode=27F7874878155F58B771
-https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=FAFOFR2
-https://www.udemy.com/course/the-complete-punctuation-course-english-writing-grammar/?couponCode=DD8BE22C3AF8D4CAE499
-https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEOCT7
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEOCT7
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEOCT7
-https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEOCT7
+https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=E9E43C589E8B0922B1A8
+https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=2D5C593ED3F76C4C779C
+https://www.udemy.com/course/dash-altcoin/?couponCode=1OCT21
+https://www.udemy.com/course/facebook-conversion-ads/?couponCode=OCTGOODNESS10
+https://www.udemy.com/course/local-business-2022/?couponCode=OCTGOODNESS100
+https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPATES4OCT
+https://www.udemy.com/course/logo-design/?couponCode=FREEBLIES
+https://www.udemy.com/course/business-card-design-logo/?couponCode=FDC0F64021ADB00FE1CB
+https://www.udemy.com/course/how-the-internet-works-the-web-development-process/?couponCode=YOUACCEL14928
+https://www.udemy.com/course/get-start-to-meditate-and-change-your-life/?couponCode=711EE54D1D755CDF9EFB
+https://www.udemy.com/course/pl-900-microsoft-power-platform-latest-practice-test-oct2021/?couponCode=ONLYFORYOU
+https://www.udemy.com/course/master-class-on-time-productivity-and-stress-management/?couponCode=6B171882F7EE2F6EE115
 
