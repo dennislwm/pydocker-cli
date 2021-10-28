@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/10/2021
+# Daily Free Udemy Courses - 28/10/2021
 
-https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=E9E43C589E8B0922B1A8
-https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=2D5C593ED3F76C4C779C
-https://www.udemy.com/course/dash-altcoin/?couponCode=1OCT21
-https://www.udemy.com/course/facebook-conversion-ads/?couponCode=OCTGOODNESS10
-https://www.udemy.com/course/local-business-2022/?couponCode=OCTGOODNESS100
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPATES4OCT
-https://www.udemy.com/course/logo-design/?couponCode=FREEBLIES
-https://www.udemy.com/course/business-card-design-logo/?couponCode=FDC0F64021ADB00FE1CB
-https://www.udemy.com/course/how-the-internet-works-the-web-development-process/?couponCode=YOUACCEL14928
-https://www.udemy.com/course/get-start-to-meditate-and-change-your-life/?couponCode=711EE54D1D755CDF9EFB
-https://www.udemy.com/course/pl-900-microsoft-power-platform-latest-practice-test-oct2021/?couponCode=ONLYFORYOU
-https://www.udemy.com/course/master-class-on-time-productivity-and-stress-management/?couponCode=6B171882F7EE2F6EE115
+https://www.udemy.com/course/job-cost-quickbooks-online-vs-quickbooks-desktopcontractor/?couponCode=A79F9CBB7A7E140E6678
+https://www.udemy.com/course/quickbooks-desktop-not-for-profit-organizations/?couponCode=6DAF5D18DE1BE438FE2C
+https://www.udemy.com/course/partnership-income-tax-form-1065/?couponCode=1CDD7C12FD451EF0707C
+https://www.udemy.com/course/governmental-accounting-200-capital-projects-debt-service/?couponCode=FD7F1845DCFC17DCEC89
+https://www.udemy.com/course/master-classes-for-web-design-course-html-css-js-seo/?couponCode=AFF000FC49004A640DDE
+https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=00A204E8F27B0CC92B13
+https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL81467
+https://www.udemy.com/course/html-css-certification-course-for-beginners/?couponCode=YOUACCEL81467
+https://www.udemy.com/course/master-cpp-byteboard/?couponCode=BYTEBOARDCPP11
+https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=YOUACCEL81467
+https://www.udemy.com/course/learn-mysql-for-beginners/?couponCode=YOUACCEL81467
+https://www.udemy.com/course/splunk-enterprise-architect-practice-tests-certification/?couponCode=03DB0327FD9F67056FDE
 
