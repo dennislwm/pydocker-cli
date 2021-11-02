@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/11/2021
+# Daily Free Udemy Courses - 02/11/2021
 
-https://www.udemy.com/course/how-to-work-in-subtitling-from-home/?couponCode=CAPTIONING2021
-https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial/?couponCode=D3814F7CD725B847ABAB
-https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/?couponCode=PREMIEREPRO2022
-https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=OCT-2021
-https://www.udemy.com/course/zoho-crm-complete-course-get-certificate/?couponCode=ZOHOFREE
-https://www.udemy.com/course/meditation-masterclass/?couponCode=763550343D693DAAB631
-https://www.udemy.com/course/meditationforbeginners/?couponCode=6581617C246DF1175A78
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=8F2C3D8021E3967D2B7D
-https://www.udemy.com/course/book-of-1-thessalonians-bible-study-5-insightful-lessons/?couponCode=82DD10AE8D84CFF1A717
-https://www.udemy.com/course/henry-zhang-patreon-mini-course/?couponCode=B347DD51424B12997BC8
-https://www.udemy.com/course/henry-zhang-facebook-messenger-mini-course/?couponCode=D2D0E299A0EAE4A18EFB
-https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=62F19E1A6D1ED2EA98EE
+https://www.udemy.com/course/complete-guide-to-invideo-and-invideo-video-creation/?couponCode=5295EE20F5F8A30F34BB
+https://www.udemy.com/course/product-owner-certification/?couponCode=011121_FREE
+https://www.udemy.com/course/google-calendar-virtual-assistant/?couponCode=1NOVEMBER
+https://www.udemy.com/course/marketing-analytics-forecasting-models-with-excel/?couponCode=6D4339E
+https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=29843833D6549D84562F
+https://www.udemy.com/course/microsoft-excel-basic-excel-formulas-and-functions/?couponCode=71EF5CFD0
+https://www.udemy.com/course/marketing-analytics-marketing-strategy-models-in-excel/?couponCode=1D4E849MA
+https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=10135199E
+https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=08D3248
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=42CA3F21FI
+https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREENOV1
+https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREENOV1
 
