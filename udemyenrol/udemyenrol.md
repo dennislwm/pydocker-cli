@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/11/2021
+# Daily Free Udemy Courses - 06/11/2021
 
-https://www.udemy.com/course/systeme_course/?couponCode=A82B62D68334654F4742
-https://www.udemy.com/course/hiring-process-talent-management/?couponCode=NOV-21
-https://www.udemy.com/course/how-to-beat-the-forex-market-quick-and-effective/?couponCode=BIGVALUE
-https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=3B60EBACC0673B0E11F0
-https://www.udemy.com/course/arabic-writing-course-for-beginners/?couponCode=HASSAN_ACADEMY
-https://www.udemy.com/course/tesol-and-tprs-course-/?couponCode=FREEFOR1000PEOPLE
-https://www.udemy.com/course/the-complete-microsoft-excel-pivot-tables-and-pivot-charts/?couponCode=PIVOTNOV04
-https://www.udemy.com/course/python-bootcamp-for-data-science-2021-numpy-pandas-seaborn/?couponCode=OCT32021
-https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=C29290C7D41C70DC6522
-https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=NOVEMBERGOODNESS11
-https://www.udemy.com/course/learn-copywriting/?couponCode=C1ABB177DBAFEDFEE938
-https://www.udemy.com/course/vidiq-course/?couponCode=312E1A279AF36F36B0D1
+https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=395C9469D3151F935F46
+https://www.udemy.com/course/ultimate-beginner-guide-for-streamlabs-obs/?couponCode=682E45FFF9B738126FCF
+https://www.udemy.com/course/design-thinking-product-development/?couponCode=1NOV21
+https://www.udemy.com/course/learn-to-host-multiple-domains-on-one-virtual-server/?couponCode=YOUACCEL24943
+https://www.udemy.com/course/2021-beginners-guide-to-cyber-security/?couponCode=043B94FDBBCA5E6DD0D0
+https://www.udemy.com/course/python-exercises-workbook/?couponCode=66DF5446FF902FD14530
+https://www.udemy.com/course/python-games-development/?couponCode=A5569BC1CCE587EB98CF
+https://www.udemy.com/course/key-concepts-in-project-management/?couponCode=1NOV21
+https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL24943
+https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=YOUACCEL24943
+https://www.udemy.com/course/sql-bootcamp-course/?couponCode=A559593071574984CECF
+https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/?couponCode=25F777E4FD34CFFB664C
 
