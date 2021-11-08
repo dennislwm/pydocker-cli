@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/11/2021
+# Daily Free Udemy Courses - 08/11/2021
 
-https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5NOV2021
-https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=3A3C70CABCB6F6FD1334
-https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=B220BCB535CF236B64B5
-https://www.udemy.com/course/personal-finance-i/?couponCode=E719320C5AF5FDB18964
-https://www.udemy.com/course/corporate-finance/?couponCode=FCFA7C726168E11C8608
-https://www.udemy.com/course/personal-capital-free-financial-planner-application/?couponCode=512909A8B24C401D56A9
-https://www.udemy.com/course/money-in-excel-income-tax-sch-c-personal-financials/?couponCode=EE1857DE8458834CA29B
-https://www.udemy.com/course/quickbooks-desktop-vs-qbo-multiple-currencies/?couponCode=70B1E4F80981871D788A
-https://www.udemy.com/course/advanced-financial-accounting/?couponCode=7BEA0448344C004F69EA
-https://www.udemy.com/course/online-business-work-from-home/?couponCode=FE048C2653B400983ACB
-https://www.udemy.com/course/professional-life-coach-certification-course/?couponCode=84161B1BAEED9994E6F1
-https://www.udemy.com/course/cbt-course/?couponCode=0677AE42861AF1E76B62
+https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=TEMPLATE4QS
+https://www.udemy.com/course/windows-iot-core-raspberry-pi-windows10iot/?couponCode=DDDA4CDC53326E261B19
+https://www.udemy.com/course/practical-bacteriology-from-scratch/?couponCode=9B41BABA1D0BF82A445C
+https://www.udemy.com/course/smd-smt-surface-mount-technology-soldering-surface-pcb-circuit-design/?couponCode=D01EB63DE2D6B6AD33B8
+https://www.udemy.com/course/pic-microcontroller-meets-python-step-by-step/?couponCode=A79323A1E9AB325930CB
+https://www.udemy.com/course/advanced-sales-skills-training-complete-sales-masterclass/?couponCode=50E2D3923D0A1B4BB381
+https://www.udemy.com/course/cissp-practice-test-c/?couponCode=EAA749F4B89B55679A78
+https://www.udemy.com/course/beyourboss/?couponCode=AC011F15AB345C4F4CEE
+https://www.udemy.com/course/adsmasterclass/?couponCode=29ABCA9047D5BD36AC60
+https://www.udemy.com/course/positivity-made-easy-how-to-think-live-positively/?couponCode=FREEPOSITIVE
+https://www.udemy.com/course/unofficial-udemy-instructors-succeed-on-udemy-fast/?couponCode=EASYGIFT
+https://www.udemy.com/course/tubebuddy/?couponCode=B2E7DD6911127068879B
 
