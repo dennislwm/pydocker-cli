@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/11/2021
+# Daily Free Udemy Courses - 10/11/2021
 
-https://www.udemy.com/course/digital-marketing-2022/?couponCode=NOVEMBERGOODNESS11
-https://www.udemy.com/course/time-management-for-student-success-in-college-and-beyond/?couponCode=F7EB5D7D052B72C52EAA
-https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=LEARN_NOW
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=LEARN_NOW
-https://www.udemy.com/course/30-day-life-power-up/?couponCode=3F096A4ECE2C6F88B145
-https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=27456CFBDFB5C10E638A
-https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=3CCCF5C541FC994414A4
-https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=NOVFWREK8L20VGU2021
-https://www.udemy.com/course/interview-questions-answers/?couponCode=BLACKFRIDAY
-https://www.udemy.com/course/modern-job-interview-preparation-tips-tricks-masterclass/?couponCode=20212022
-https://www.udemy.com/course/twitter-chat-bot-in-python/?couponCode=0AAE9EA26809ED5E602F
-https://www.udemy.com/course/create-reddit-bots-with-python-beginner-to-advanced/?couponCode=B24A5997492C47A4196E
+https://www.udemy.com/course/miller-analogies-test-mat-top-practical-questions/?couponCode=CB1D1E5131EBCBF86253
+https://www.udemy.com/course/project-management-crash-course1/?couponCode=PMCS2021
+https://www.udemy.com/course/make-money-online-blogging/?couponCode=0D40EB9E5A6FB63AFE89
+https://www.udemy.com/course/basic-concepts-of-databases-and-writing-query-in-sql-server/?couponCode=KNOWLEDGE
+https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=63625105FF081CAC41DF
+https://www.udemy.com/course/digital-marketing-course-in-bangalore-student-edition/?couponCode=FUTUREGOLD
+https://www.udemy.com/course/complete-adobe-photoshop-megacourse-beginner-to-expert/?couponCode=29D6F84EA99806EB8E73
+https://www.udemy.com/course/financial-education-for-everyone/?couponCode=84583BD1C687C51DFB44
+https://www.udemy.com/course/complete-cryptocurrency-trading-course-2021/?couponCode=2350F2375A2AB351FA6B
+https://www.udemy.com/course/stockmarket/?couponCode=E4D036AF1E704774B771
+https://www.udemy.com/course/content-marketing-course-/?couponCode=NOVEMBERGOODNESS11
+https://www.udemy.com/course/learn-how-to-do-woocommerce-wordpress-on-page-seo-to-increase-sales/?couponCode=DISCUDEMY.COM
 
