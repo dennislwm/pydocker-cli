@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/11/2021
+# Daily Free Udemy Courses - 13/11/2021
 
-https://www.udemy.com/course/affinity-publisher-guide/?couponCode=0008674AFF91B445FA10
-https://www.udemy.com/course/become-a-next-generation-leader/?couponCode=NOV2021FREE1
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING1111
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1111
-https://www.udemy.com/course/google-adwords-fundamentals-exam-2020/?couponCode=GADWARD100OFF
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=NOV_2021
-https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=NOV_2021
-https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=B4CEDC0574F957335767
-https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=NOV2021FREE1
-https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?couponCode=NOV2021FREE1
-https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=NOV2021FREE1
-https://www.udemy.com/course/design-thinking-for-long-term-business-success/?couponCode=NOV2021FREE1
+https://www.udemy.com/course/dd-innovations-ml-ds-python-all/?couponCode=AIMERS
+https://www.udemy.com/course/az-300-azure-architecture-technologies-exam-mock-test-2021/?couponCode=C9C06C1776E48A74E1CA
+https://www.udemy.com/course/beating-ocd-at-the-tips-of-your-fingers-and-inner-healer/?couponCode=62FDDF9E4AA58661DB1B
+https://www.udemy.com/course/ultimate-beginners-guide-to-open-broadcaster-softwareobs/?couponCode=3C1EB62DD35E3DBADB2C
+https://www.udemy.com/course/realtors-and-real-estate-investing/?couponCode=MSRREEXP162021
+https://www.udemy.com/course/how-to-start-your-own-business-7-hard-questions-to-ask/?couponCode=07321BEF75F19EB83268
+https://www.udemy.com/course/habitually-better-building-habits-to-be-your-best-self/?couponCode=14975E1CC658361F7624
+https://www.udemy.com/course/webinar-crusher-by-howard-lynch-sell-high-ticket-products/?couponCode=WEBINARFIRST1000
+https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=FREE_PROMO
+https://www.udemy.com/course/udemy-bootcamphow-to-quickly-creat-a-good-course-unofficial/?couponCode=6DC7AA1274926FA12A44
+https://www.udemy.com/course/content-marketing-course-/?couponCode=NOVEMBERGOODNESS111
+https://www.udemy.com/course/complete-video-marketing-course/?couponCode=NOVEMBERGOODNESS111
 
