@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/11/2021
+# Daily Free Udemy Courses - 17/11/2021
 
-https://www.udemy.com/course/mastering-architectural-night-hdr-photography/?couponCode=HDRNOV2021
-https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=63D5218B8AB6D44A004A
-https://www.udemy.com/course/python-for-beginners-learn/?couponCode=BB3753D62859B2FA028E
-https://www.udemy.com/course/corp-finance-12-capital-budgeting-investment-risk-tools/?couponCode=E7B48DD3EAB699351DDA
-https://www.udemy.com/course/corporate-finance-16-convertible-bonds-warrants/?couponCode=CF1E279DC25E6E4592C2
-https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=PROMO_INFO1
-https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=B2A276
-https://www.udemy.com/course/skills-require-to-become-successful-exporter/?couponCode=4495FB63872F160C0D41
-https://www.udemy.com/course/ultimate-beginner-guide-for-streamlabs-obs/?couponCode=0E97C7B914A3614DE2BD
-https://www.udemy.com/course/design-thinking-product-development/?couponCode=2NOV21
-https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY1511
-https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING1511
+https://www.udemy.com/course/persuasive-writing-copywriting/?couponCode=YOUACCEL47842
+https://www.udemy.com/course/make-money-on-tiktok/?couponCode=FDACEC6B5E957F49B05B
+https://www.udemy.com/course/business-networking-for-success-5-influence/?couponCode=BNSP5EXPNOV172021
+https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=A8C0A498E07EDE2831A7
+https://www.udemy.com/course/xss-survival-guide/?couponCode=9EFFD8A4EC1623C9C030
+https://www.udemy.com/course/business-networking-for-success-3/?couponCode=BNSUAEXPNOV212021
+https://www.udemy.com/course/react-developer-crash-course/?couponCode=887196A3E8B185AB7397
+https://www.udemy.com/course/tallyprimewithgst/?couponCode=GETFREENOV21
+https://www.udemy.com/course/complete-adobe-photoshop-megacourse-beginner-to-expert/?couponCode=764C172608CC3B6ADA92
+https://www.udemy.com/course/learn-hypnosis/?couponCode=B4CB12A72558B5E6894B
+https://bit.ly/3DjvkBj
+https://www.udemy.com/course/complete-turkish-course-learn-turkish-for-beginners/?couponCode=C0E291A13298966683EE
 
