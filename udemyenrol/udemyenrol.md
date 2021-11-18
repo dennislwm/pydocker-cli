@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/11/2021
+# Daily Free Udemy Courses - 18/11/2021
 
-https://www.udemy.com/course/persuasive-writing-copywriting/?couponCode=YOUACCEL47842
-https://www.udemy.com/course/make-money-on-tiktok/?couponCode=FDACEC6B5E957F49B05B
-https://www.udemy.com/course/business-networking-for-success-5-influence/?couponCode=BNSP5EXPNOV172021
-https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=A8C0A498E07EDE2831A7
-https://www.udemy.com/course/xss-survival-guide/?couponCode=9EFFD8A4EC1623C9C030
-https://www.udemy.com/course/business-networking-for-success-3/?couponCode=BNSUAEXPNOV212021
-https://www.udemy.com/course/react-developer-crash-course/?couponCode=887196A3E8B185AB7397
-https://www.udemy.com/course/tallyprimewithgst/?couponCode=GETFREENOV21
-https://www.udemy.com/course/complete-adobe-photoshop-megacourse-beginner-to-expert/?couponCode=764C172608CC3B6ADA92
-https://www.udemy.com/course/learn-hypnosis/?couponCode=B4CB12A72558B5E6894B
-https://bit.ly/3DjvkBj
-https://www.udemy.com/course/complete-turkish-course-learn-turkish-for-beginners/?couponCode=C0E291A13298966683EE
+https://www.udemy.com/course/python-programming-tutorial-for-the-absolute-beginner-code-included/?couponCode=PRE-BLACKFRIDAY
+https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=E7094F8BF30CDD9A5C43
+https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=PRE-BLACKFRIDAY
+https://www.udemy.com/course/miller-analogies-test-mat-top-practical-questions/?couponCode=82372DF76088757F84AE
+https://www.udemy.com/course/make-money-online-blogging/?couponCode=8148F9C8EC67A5AEF0DF
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFNOV2
+https://www.udemy.com/course/professional-job-interview-questions-and-answers/?couponCode=FDE6525EB0E164412A7A
+https://www.udemy.com/course/australian-citizenship-test-certificate-the-immigration-dream/?couponCode=C3B6AAACAA88A7C53D48
+https://www.udemy.com/course/certified-in-production-and-inventory-managementapics/?couponCode=BB06F1A7609D634CDCB4
+https://www.udemy.com/course/prince2-foundation-practice-exams-6th-edition-l-qa-by-area/?couponCode=PRINCE2FREEEE
+https://www.udemy.com/course/tubebuddy/?couponCode=176829749830957C3441
+https://www.udemy.com/course/project-management-essential-training-1/?couponCode=PRE-BLACKFRIDAY
 
