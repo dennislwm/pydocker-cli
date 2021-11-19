@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/11/2021
+# Daily Free Udemy Courses - 19/11/2021
 
-https://www.udemy.com/course/python-programming-tutorial-for-the-absolute-beginner-code-included/?couponCode=PRE-BLACKFRIDAY
-https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=E7094F8BF30CDD9A5C43
-https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=PRE-BLACKFRIDAY
-https://www.udemy.com/course/miller-analogies-test-mat-top-practical-questions/?couponCode=82372DF76088757F84AE
-https://www.udemy.com/course/make-money-online-blogging/?couponCode=8148F9C8EC67A5AEF0DF
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFNOV2
-https://www.udemy.com/course/professional-job-interview-questions-and-answers/?couponCode=FDE6525EB0E164412A7A
-https://www.udemy.com/course/australian-citizenship-test-certificate-the-immigration-dream/?couponCode=C3B6AAACAA88A7C53D48
-https://www.udemy.com/course/certified-in-production-and-inventory-managementapics/?couponCode=BB06F1A7609D634CDCB4
-https://www.udemy.com/course/prince2-foundation-practice-exams-6th-edition-l-qa-by-area/?couponCode=PRINCE2FREEEE
-https://www.udemy.com/course/tubebuddy/?couponCode=176829749830957C3441
-https://www.udemy.com/course/project-management-essential-training-1/?couponCode=PRE-BLACKFRIDAY
+https://www.udemy.com/course/tiktok-marketing-2021-go-viral-with-authentic-videos/?couponCode=FREEBIESGLOBAL3
+https://www.udemy.com/course/microsoft-az-700-exam-practice-test-2021/?couponCode=1D030554117BA34D3F72
+https://www.udemy.com/course/how-to-print-on-demand/?couponCode=4B267A04E4BB3DCB36D4
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING1811
+https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1811
+https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9NOV2021
+https://www.udemy.com/course/how-to-start-your-own-business-7-hard-questions-to-ask/?couponCode=FEE8B3F500B905FC403B
+https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=NOV2021FREE01
+https://www.udemy.com/course/arabic-writing-course-for-beginners/?couponCode=HASSAN.ACADEMY
+https://www.udemy.com/course/modern-zooming-powerpoint-presentations-within-minutes/?couponCode=THEFREEZOOMCOUPON21
+https://www.udemy.com/course/aws-certified-advanced-networking-specialty-certification/?couponCode=8CB9285700913BA15ECE
+https://www.udemy.com/course/comptia-a-practice-test-certification-2021/?couponCode=F8D1177BC0201997B736
 
