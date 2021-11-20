@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/11/2021
+# Daily Free Udemy Courses - 20/11/2021
 
-https://www.udemy.com/course/tiktok-marketing-2021-go-viral-with-authentic-videos/?couponCode=FREEBIESGLOBAL3
-https://www.udemy.com/course/microsoft-az-700-exam-practice-test-2021/?couponCode=1D030554117BA34D3F72
-https://www.udemy.com/course/how-to-print-on-demand/?couponCode=4B267A04E4BB3DCB36D4
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING1811
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1811
-https://www.udemy.com/course/complete-photography-course/?couponCode=PHOTO9NOV2021
-https://www.udemy.com/course/how-to-start-your-own-business-7-hard-questions-to-ask/?couponCode=FEE8B3F500B905FC403B
-https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=NOV2021FREE01
-https://www.udemy.com/course/arabic-writing-course-for-beginners/?couponCode=HASSAN.ACADEMY
-https://www.udemy.com/course/modern-zooming-powerpoint-presentations-within-minutes/?couponCode=THEFREEZOOMCOUPON21
-https://www.udemy.com/course/aws-certified-advanced-networking-specialty-certification/?couponCode=8CB9285700913BA15ECE
-https://www.udemy.com/course/comptia-a-practice-test-certification-2021/?couponCode=F8D1177BC0201997B736
+https://www.udemy.com/course/bts-dance-workouts/?couponCode=8018748BE10F22620F0B
+https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=DA6BB6EF19C4FA5232F4
+https://www.udemy.com/course/goal-setting-productivity/?couponCode=ACHIEVEGOALS
+https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=CABB593D50D740F18938
+https://www.udemy.com/course/aso-how-i-got-5m-downloads-in-6-months-from-app-store/?couponCode=MAPPNOV2021
+https://www.udemy.com/course/entrepreneurship-empire-entrepreneurs-wealth-creation/?couponCode=37A02F4C3BDECC164C69
+https://www.udemy.com/course/learn-microsoft-publisher-2016-complete-course-for-beginners/?couponCode=442B28FFD0F9024B90E9
+https://www.udemy.com/course/best-business-productivity-training-course/?couponCode=457760BC9C6298308CE2
+https://www.udemy.com/course/best-leadership-management-training-course/?couponCode=6775D23CA09ADED3F552
+https://www.udemy.com/course/stretching-flexibility-inflexible-beginner-stretching/?couponCode=3C5F9EEBAFC13A5CA6AD
+https://www.udemy.com/course/hpe-sales-aruba-products-and-solutions-certification-2021/?couponCode=3BC8651C830D879095DA
+https://bit.ly/30EDeGN
 
