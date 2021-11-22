@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/11/2021
+# Daily Free Udemy Courses - 22/11/2021
 
-https://www.udemy.com/course/tailwind/?couponCode=2D165B27D83C6F1B0FBB
-https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=78DC553F804070649154
-https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=4D280B33973B1984A0E0
-https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=ADVNOV20
-https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=PAYNOV20
-https://www.udemy.com/course/melting-math-year-1-and-2-math-practice-tests/?couponCode=FREEMATH
-https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=SEL_C_FREE_NOV_2
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_FREE_NOV_2
-https://www.udemy.com/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/?couponCode=F12146AC2C272079BE16
-https://www.udemy.com/course/learn-basics-of-adobe-photoshop-cc-for-beginners/?couponCode=E9044F87594CEFD0E805
-https://www.udemy.com/course/color-correction-grading-with-adobe-premiere-pro/?couponCode=C895D618FE8DC17B4028
-https://www.udemy.com/course/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/?couponCode=TRICKYMAN10
+https://www.udemy.com/course/sc-900-microsoft-security-compliance-fundamentalsnov-2021/?couponCode=SECURITY
+https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=890041FA23C519F8AD2C
+https://www.udemy.com/course/persian-language-course/?couponCode=1DF4CB8A046A7E573C11
+https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=77733F9C8A90D82D25F2
+https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=22A3FD7FD2301893BDDE
+https://www.udemy.com/course/real-estate-investment-finance/?couponCode=80D4AAEECEF042424DE0
+https://www.udemy.com/course/personal-finance-i/?couponCode=4C3EB90D9EFF8453BEE6
+https://www.udemy.com/course/corporate-finance/?couponCode=D3E5E2E175F2F29048D9
+https://www.udemy.com/course/advanced-financial-accounting/?couponCode=C09D7ACF2199ED710BB2
+https://www.udemy.com/course/xero-accounting-software-2020/?couponCode=7B35B06460278422B52F
+https://www.udemy.com/course/partnership-income-tax-form-1065/?couponCode=8D41D57D0FC54A6DB1B2
+https://www.udemy.com/course/quickbooks-desktop-not-for-profit-organizations/?couponCode=FC19EF36A08A4EECC3AE
 
