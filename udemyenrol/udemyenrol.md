@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/11/2021
+# Daily Free Udemy Courses - 23/11/2021
 
-https://www.udemy.com/course/sc-900-microsoft-security-compliance-fundamentalsnov-2021/?couponCode=SECURITY
-https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=890041FA23C519F8AD2C
-https://www.udemy.com/course/persian-language-course/?couponCode=1DF4CB8A046A7E573C11
-https://www.udemy.com/course/quickbooks-pro-2018-start-to-finish/?couponCode=77733F9C8A90D82D25F2
-https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=22A3FD7FD2301893BDDE
-https://www.udemy.com/course/real-estate-investment-finance/?couponCode=80D4AAEECEF042424DE0
-https://www.udemy.com/course/personal-finance-i/?couponCode=4C3EB90D9EFF8453BEE6
-https://www.udemy.com/course/corporate-finance/?couponCode=D3E5E2E175F2F29048D9
-https://www.udemy.com/course/advanced-financial-accounting/?couponCode=C09D7ACF2199ED710BB2
-https://www.udemy.com/course/xero-accounting-software-2020/?couponCode=7B35B06460278422B52F
-https://www.udemy.com/course/partnership-income-tax-form-1065/?couponCode=8D41D57D0FC54A6DB1B2
-https://www.udemy.com/course/quickbooks-desktop-not-for-profit-organizations/?couponCode=FC19EF36A08A4EECC3AE
+https://www.udemy.com/course/create-your-online-freelance-outsourcing-business/?couponCode=FLNOV2021
+https://www.udemy.com/course/mulesoft-certified-platform-architect-level-1-mock-exams/?couponCode=2E56E715E09187127E4E
+https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE27
+https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=NOVFWP7NF08KQE42021
+https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=D31C0E9BA826CBE46995
+https://www.udemy.com/course/design-thinking-for-long-term-business-success/?couponCode=NOV2021FREE001
+https://www.udemy.com/course/bootstrap-5-with-5-projects-in-hindi-urdu/?couponCode=0B3A8520CC87C26A90B3
+https://www.udemy.com/course/how-to-get-seed-funding-for-your-business-idea/?couponCode=0471C2F7A483A6AEAF28
+https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=6C9933104D127F5
+https://www.udemy.com/course/learn-guitar-the-complete-beginners-guide/?couponCode=A67B465DC54AF6A309A9
+https://www.udemy.com/course/make-easy-money-from-home/?couponCode=92BD1EDAEF7F7C03ECA8
+https://www.udemy.com/course/mastering-the-interview-b/?couponCode=NOV-21
 
