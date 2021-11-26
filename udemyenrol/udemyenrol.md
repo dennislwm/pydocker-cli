@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/11/2021
+# Daily Free Udemy Courses - 26/11/2021
 
-https://www.udemy.com/course/systeme_course/?couponCode=025ED163020E1AEF6A13
-https://www.udemy.com/course/rank-and-rent-local-lead-generation/?couponCode=BLACKFRIDAY2021
-https://www.udemy.com/course/pointfigure/?couponCode=1NOV21
-https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=C7C857A3F8FDF2BB6E52
-https://www.udemy.com/course/arabic-language-learn-to-read-arabic-through-short-stories/?couponCode=FREE-ARABIC
-https://www.udemy.com/course/data-analytics-projects-python/?couponCode=BLACK_FRIDAY_SALES.
-https://www.udemy.com/course/sap-s4-hana/?couponCode=E27E857F16198F6FDB15
-https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=8588190C2FD838BFBF6F
-https://www.udemy.com/course/the-complete-intro-to-machine-learning-with-python/?couponCode=SMLCCOURSE113
-https://www.udemy.com/course/vidiq-course/?couponCode=4257A884233E8CA04FB0
-https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=3D961BBEB60F50971D3F
-https://www.udemy.com/course/become-a-corporate-winner/?couponCode=NOV2021FREE001
+https://www.udemy.com/course/ultimate-beginner-guide-for-streamlabs-obs/?couponCode=52ED37B5016C4584BA42
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFNOVEND
+https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMNOVM
+https://www.udemy.com/course/make-money-online-training/?couponCode=1E48A796ECBE59733F01
+https://www.udemy.com/course/trading-stock-options-ii-simplified-strategies-for-success/?couponCode=SODTCEXPNOV292021
+https://www.udemy.com/course/easy-way-to-learn-arabic-basics/?couponCode=ARABIC11COURSE
+https://www.udemy.com/course/create-drop-servicing-website-with-wordpress/?couponCode=XYZ1XYZ22C1
+https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVACFORNOV
+https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=NOV.2021
+https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=33DFE1AA353A70CE7A1F
+https://www.udemy.com/course/ibm-big-data-engineer-practice-tests-certification-2021/?couponCode=5213507955E9C410BA38
+https://www.udemy.com/course/prince2-practitioner-practice-tests/?couponCode=MAISSAE
 
