@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 01/12/2021
+# Daily Free Udemy Courses - 02/12/2021
 
 https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=MONTH_LAST
 https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=MONTH_LAST
