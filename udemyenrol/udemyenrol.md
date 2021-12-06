@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/12/2021
+# Daily Free Udemy Courses - 06/12/2021
 
-https://www.udemy.com/course/vidiq-course/?couponCode=2BAC8AC8857ACA860123
-https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=BA8DB3
-https://www.udemy.com/course/statistics-and-probability-using-excel-statistics-a-to-z/?couponCode=C3DBF8C
-https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=F0F9735
-https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=MASTERCOURSE
-https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=MBACOURSE5
-https://www.udemy.com/course/the-lean-startup-best-course-on-entrepreneurship/?couponCode=STARTUP
-https://www.udemy.com/course/startup-pitch-deck-course/?couponCode=AWESOMEPITCHDECK
-https://www.udemy.com/course/start-business-model-course/?couponCode=31BUSINESSMODEL1
-https://www.udemy.com/course/saas-marketing-metrics/?couponCode=SAASCOURSE4
-https://www.udemy.com/course/lean-six-sigma-yellow-belt-lssyb-tests-certification-2021/?couponCode=5667CD5FC242F94DD75D
-https://www.udemy.com/course/itilfnd-v4-itil-4-foundation-practice-exams-2022/?couponCode=ITILV4
+https://www.udemy.com/course/personal-branding-master-course/?couponCode=DEC2021FREE1
+https://www.udemy.com/course/utreon-course/?couponCode=1274BF32536AB03F5E6B
+https://www.udemy.com/course/certified-information-security-manager-practice-test-new-2021/?couponCode=C3A7481DF8129E7F696D
+https://www.udemy.com/course/learn-shopify-now/?couponCode=DECEMBER
+https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=CONTRACTSFORDEC
+https://www.udemy.com/course/itil-4-foundation-exam-genuine-practice-tests-/?couponCode=PASSEXAM
+https://www.udemy.com/course/hashicorp-certified-terraform-associate-practice-examss/?couponCode=PASSEXAM
+https://www.udemy.com/course/data-engineering-on-microsoft-azure-concepts-for-2022/?couponCode=PASSEXAM
+https://www.udemy.com/course/ecommerce-pricing-strategies-how-to-use-it-to-grow-business-training/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/how-to-buy-nft-on-opensea-without-paying-gas-fees/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/computer-fundamentals-u/?couponCode=9496EC121852CC4F848D
+https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/?couponCode=WEB7DEC2021
 
