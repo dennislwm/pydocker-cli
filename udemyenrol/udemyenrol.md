@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/12/2021
+# Daily Free Udemy Courses - 08/12/2021
 
-https://www.udemy.com/course/tubebuddy/?couponCode=BFD4908977DD6060D413
-https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/?couponCode=F46B2936EE9B2C65B6EB
-https://www.udemy.com/course/couples-counseling-learn-to-live-happy-with-life-partner/?couponCode=HAPPYCOUPLE
-https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLEANALYTICS0612
-https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY0612
-https://www.udemy.com/course/heal-your-broken-heart-with-eft/?couponCode=A8CA923E63B60D69E954
-https://www.udemy.com/course/kanban-board/?couponCode=061221_FREE
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONDEC1
-https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLTDEC1
-https://www.udemy.com/course/scrum-genman/?couponCode=SCRUDEC1
-https://www.udemy.com/course/etsy-printables-business-success-step-by-step-guide/?couponCode=6A24E7388C8B6DC8C0E8
-https://www.udemy.com/course/tiktok-growth/?couponCode=AEDD8E4AB9B02A1BDD67
+https://www.udemy.com/course/how-to-print-on-demand/?couponCode=58B9D24E140599C14C7C
+https://www.udemy.com/course/yoga-sutras/?couponCode=YSPAYEXPDEC112021
+https://www.udemy.com/course/arabic-writing-course-for-beginners/?couponCode=ARABIC-WRITING
+https://www.udemy.com/course/chronic-illness-fatigue/?couponCode=YGTHHEXPDEC112021
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING0712
+https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY0712
+https://www.udemy.com/course/living-your-dreams-with-unstoppable-passion/?couponCode=LYDWUEXPDEC112021
+https://www.udemy.com/course/business-success/?couponCode=OBCBSEXPDEC112021
+https://www.udemy.com/course/raise-your-vibrations-1/?couponCode=2AEC2D04FB103FBBC119
+https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL36474
+https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL36474
+https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/?couponCode=YOUACCEL36474
 
