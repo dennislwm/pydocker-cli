@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/12/2021
+# Daily Free Udemy Courses - 12/12/2021
 
-https://www.udemy.com/course/the-pursuit-of-happiness-how-to-be-happier-in-life-101/?couponCode=2DA869A8EF9AF13471E6
-https://www.udemy.com/course/beginners-cartoon-masterclass-baby-viking-20/?couponCode=FA184F38DF0F7C8DDAFE
-https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=82DA663722D3702C7162
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATEDEC
-https://www.udemy.com/course/the-photography-masterclass/?couponCode=PHOTO4DEC2021
-https://www.udemy.com/course/the-pinterest-marketing-guide-for-creatives/?couponCode=PINTERESTDEAL
-https://www.udemy.com/course/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/?couponCode=2022TSHIRTCOURSEFREE
-https://www.udemy.com/course/docker-certified-associate-dca-practice-tests-x/?couponCode=DCA-10-12
-https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=GDS_DEC1
-https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?couponCode=SPOTFIRE_DEV_DEC1
-https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=MSCLARITY_DEC1
-https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=SPOTFIRE_INT_DEC1
+https://www.udemy.com/course/pinheroes/?couponCode=CF7ADDF9B957411A56F8
+https://www.udemy.com/course/arabic-language-learn-to-read-arabic-through-short-stories/?couponCode=FREE-COURSE
+https://www.udemy.com/course/electronics-diode-part-3-the-question-answer-session/?couponCode=82EB4EB23AC975270359
+https://www.udemy.com/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/?couponCode=106BC3C32AF3F45A476B
+https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=5FBB3B7DDC44A8D0EA92
+https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=7966EA7822345B646FCC
+https://www.udemy.com/course/color-correction-grading-with-adobe-premiere-pro/?couponCode=F28FBAAC26DF5AB2C131
+https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=67DD61E8EFA179CDA57E
+https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=8D65E9A1D1FE6968CC5C
+https://www.udemy.com/course/bootstrap-5-with-5-projects-in-hindi-urdu/?couponCode=24A2F8097CFDE4ED5354
+https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=GOF_FREE_DEC
+https://www.udemy.com/course/multithreading-learnit/?couponCode=MULT_FREE_DEC
 
