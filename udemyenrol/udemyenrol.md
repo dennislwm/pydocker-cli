@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/12/2021
+# Daily Free Udemy Courses - 22/12/2021
 
-https://www.udemy.com/course/arabic-alphabet-for-beginners/?couponCode=BEGINNERS
-https://www.udemy.com/course/book-of-ezra-how-to-enjoy-the-prophetic-word-spoken-on-you/?couponCode=B10A93DA87A745D456B2
-https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=1BDC8D63F93CB8802701
-https://www.udemy.com/course/project-finance-fundamentals/?couponCode=99D88829447FFC733856
-https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=6F7CC8E8C186F9D6045F
-https://www.udemy.com/course/make-money-freelancing/?couponCode=B64CA49AA6A6FF1B831B
-https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=DEC_SALE
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=DEC_SALE
-https://www.udemy.com/course/secrets-of-memory-3-ways-of-memorising-like-a-spy/?couponCode=2A861AF50481C0FE8342
-https://www.udemy.com/course/building-sales-relationships-networking/?couponCode=DEC-21
-https://www.udemy.com/course/70-websites-to-get-unlimited-high-quality-royalty-freeimages/?couponCode=BBF57D03D7687D9AB7D5
-https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=HOLIDAYS21FREEE
+https://www.udemy.com/course/top-5-secrets-for-improving-screenwriting-skills/?couponCode=363BCAC74363B5DB47ED
+https://www.udemy.com/course/screenwriting-writing-a-selling-story-with-your-bare-hands/?couponCode=2A237B83929B6A9CA584
+https://www.udemy.com/course/become-a-corporate-winner/?couponCode=DEC2021FREE01
+https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=BD3892FF730230508175
+https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=50E71DE86A88E157A21D
+https://www.udemy.com/course/meditationforbeginners/?couponCode=D2A7F47177E7CFC4DE32
+https://www.udemy.com/course/meditation-masterclass/?couponCode=6389C7AF4FE082270A74
+https://www.udemy.com/course/meditation-for-adhd/?couponCode=366280CE9BFE1D4843CA
+https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food/?couponCode=DEC2021FREE01
+https://www.udemy.com/course/copywriting-3-crucial-points-for-your-text-to-sell-itself/?couponCode=050C7E4CF8D78C28FCBF
+https://www.udemy.com/course/neuroplasticity-teach-your-brain-to-work-3-times-faster/?couponCode=8F32029FBC22FA2C98D4
+https://www.udemy.com/course/how-to-become-a-facilitator-7-effective-skills/?couponCode=EAA7C15D3C28497FED80
 
