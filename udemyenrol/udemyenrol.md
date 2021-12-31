@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/12/2021
+# Daily Free Udemy Courses - 31/12/2021
 
-https://www.udemy.com/course/bts-dance-package/?couponCode=BTSHITS
-https://www.udemy.com/course/tubeheroes/?couponCode=CBFDC9392366819EFFCC
-https://www.udemy.com/course/how-to-create-cartoon-comic-series-start-to-finish-2021/?couponCode=AC377FE53D0621168790
-https://www.udemy.com/course/sap-s4-hana/?couponCode=6C11FA4A8A56DB3A2B33
-https://www.udemy.com/course/habitually-better-building-habits-to-be-your-best-self/?couponCode=BBC23A736824671858BA
-https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=2CD62BDE8FC4E265B767
-https://www.udemy.com/course/the-holistic-entrepreneur-mindset/?couponCode=9804B4F84DAC6E83220E
-https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=GOLDDDDD
-https://www.udemy.com/course/roboauthor-content-writing-automation-2019-part-1/?couponCode=THEWRITE
-https://www.udemy.com/course/artificial-intelligence-website-creation-2018-no-coding/?couponCode=DESIGNTHEBIG
-https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=EDITIONNOW
-https://www.udemy.com/course/secrets-of-memory-3-ways-of-memorising-like-a-spy/?couponCode=8E7682F6ED69A6768635
+https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=SEL_C_DISC_DEC_3
+https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=WEB_TEST_FREE_DEC_3
+https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=ASPNET_FREE_DEC_3
+https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=JCF_FREE_DEC_3
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=DECEMBERGIFT2
+https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food/?couponCode=DEC2021FREE001
+https://www.udemy.com/course/5-step-marketing-plan/?couponCode=0CCC95E93D223A0AB51C
+https://www.udemy.com/course/startup-finance-small-business-loans-and-grants/?couponCode=9BD8F328643FD5524142
+https://www.udemy.com/course/startup-template-for-successful-working-relationships/?couponCode=79E7F879EFB8849599CA
+https://www.udemy.com/course/startup-how-to-go-from-an-idea-to-a-thriving-business/?couponCode=AA9BE37EBF8020E24C9B
+https://www.udemy.com/course/goal-setting-start-creating-the-future-you-want-today/?couponCode=0965C57E98649FF186BF
+https://www.udemy.com/course/being-more-assertive/?couponCode=C22A52D8526572FD8F74
 
