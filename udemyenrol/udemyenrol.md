@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/01/2022
+# Daily Free Udemy Courses - 06/01/2022
 
-https://www.udemy.com/course/master-your-social-skills/?couponCode=JAN2022FREE1
-https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=JAN2022FREE1
-https://www.udemy.com/course/freight-broker-training-a-beginners-guide-to-get-license/?couponCode=252EA6305DF4F33AD8FB
-https://www.udemy.com/course/couples-counseling-learn-to-live-happy-with-life-partner/?couponCode=JAN22MANIA
-https://www.udemy.com/course/prince2-foundation-latest-practice-exams-2022/?couponCode=F2F6EFA1DE61961CB61A
-https://www.udemy.com/course/prince2-foundation-practice-certification-exams-6th-edition-g/?couponCode=ANEWYEAR2022
-https://www.udemy.com/course/ultimate-ccna-200-301-practice-exams-learn-practice-2022/?couponCode=CCNA200301
-https://www.udemy.com/course/improve-your-buisness-productivity-with-google-suite-apps/?couponCode=9DF36BE25FE6E28FFGAP
-https://www.udemy.com/course/time-management-and-productivity/?couponCode=A664995A195E1B3CC9D2
-https://www.udemy.com/course/microsoft-access-training-master-the-ms-access/?couponCode=WELCOME2022
-https://www.udemy.com/course/complete-import-procedure-and-documentation/?couponCode=7B799B13F19909E8166D
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-be/?couponCode=D3E51970647BE538380B
+https://www.udemy.com/course/ultimate-salesforce-developer-1-practice-testsexplanations/?couponCode=ANEWYEAR2022
+https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-practice-exams-h/?couponCode=ANEWYEAR2022
+https://www.udemy.com/course/top-business-analyst-certification-pmi-pba-practice-tests/?couponCode=ANEWYEAR2022
+https://www.udemy.com/course/systeme_course/?couponCode=36A1EC290AFAA8B73523
+https://www.udemy.com/course/exclusive-itilfnd-v4-itil-4-foundation-practice-exams-2022/?couponCode=6BF770C66EE4C4E19092
+https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=JAN-2022
+https://www.udemy.com/course/assertveness-training/?couponCode=9BF8AB64ED16A2BCEB5B
+https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=JAN2022FREE1
+https://www.udemy.com/course/the-complete-fitness-health-masterclass/?couponCode=D4B6BE578A7FBFDFC498
+https://www.udemy.com/course/niche-website-elementor-wordpress-website-blog-tutorials/?couponCode=21D27F91EFD0D620B529
+https://www.udemy.com/course/scrum-genman/?couponCode=A8529B
+https://bit.ly/3sZOKZz
 
