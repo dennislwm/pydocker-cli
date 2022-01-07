@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/01/2022
+# Daily Free Udemy Courses - 07/01/2022
 
-https://www.udemy.com/course/ultimate-salesforce-developer-1-practice-testsexplanations/?couponCode=ANEWYEAR2022
-https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-practice-exams-h/?couponCode=ANEWYEAR2022
-https://www.udemy.com/course/top-business-analyst-certification-pmi-pba-practice-tests/?couponCode=ANEWYEAR2022
-https://www.udemy.com/course/systeme_course/?couponCode=36A1EC290AFAA8B73523
-https://www.udemy.com/course/exclusive-itilfnd-v4-itil-4-foundation-practice-exams-2022/?couponCode=6BF770C66EE4C4E19092
-https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=JAN-2022
-https://www.udemy.com/course/assertveness-training/?couponCode=9BF8AB64ED16A2BCEB5B
-https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=JAN2022FREE1
-https://www.udemy.com/course/the-complete-fitness-health-masterclass/?couponCode=D4B6BE578A7FBFDFC498
-https://www.udemy.com/course/niche-website-elementor-wordpress-website-blog-tutorials/?couponCode=21D27F91EFD0D620B529
-https://www.udemy.com/course/scrum-genman/?couponCode=A8529B
-https://bit.ly/3sZOKZz
+https://www.udemy.com/course/salesforce-certified-platform-app-builder-practice-tests/?couponCode=0B0345380E2E64C3E5BD
+https://www.udemy.com/course/black-friday-economics/?couponCode=JANUARYSALES
+https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING2022
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLEANALYTICS2022
+https://www.udemy.com/course/salesforce-advanced-administrator-latest-practice-tests-/?couponCode=C6C0679D66103278884B
+https://www.udemy.com/course/intro-to-iso-140012015/?couponCode=FREEEEE
+https://www.udemy.com/course/iso-9001-2015-risk-management/?couponCode=FREEEEE
+https://www.udemy.com/course/storytelling-with-imagery-for-persuasion/?couponCode=2099543BB4795377D393
+https://www.udemy.com/course/first-steps-into-selling-smarter-t/?couponCode=JAN-2022
+https://www.udemy.com/course/quantity-surveyors-guide-for-pre-contracts-management/?couponCode=QSPRECONTRACTS2022
+https://www.udemy.com/course/sleep-better-core-principles-for-overcoming-insomnia-aman-varma/?couponCode=B06DAD9F3EDF7A5B0F58
+https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=JAN2022FREE1
 
