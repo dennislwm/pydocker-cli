@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/01/2022
+# Daily Free Udemy Courses - 09/01/2022
 
-https://www.udemy.com/course/microsoft-azure-security-az-500-practice-tests/?couponCode=23D8E1ABD4B50369184D
-https://www.udemy.com/course/prince2-foundation-practice-exam/?couponCode=13ADD4268C47A99F7ADA
-https://www.udemy.com/course/servicenow-certified-system-administrator-practice-exam-2021-n/?couponCode=B670E5F2CBD56E673B97
-https://www.udemy.com/course/md-101-managing-modern-desktops-practice-exams-2022/?couponCode=JAN2022
-https://www.udemy.com/course/renewable-energy-technology-green-sustainable-development/?couponCode=C9DD96FC1F42AC07DAE7
-https://www.udemy.com/course/project-finance-fundamentals/?couponCode=PROMO22LIMITED
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep/?couponCode=1EABD59FB63EC8579FF7
-https://www.udemy.com/course/cisco-ccna-200-301-practice-exams-jan-2022/?couponCode=ANEWYEAR2022
-https://www.udemy.com/course/docker-certified-associate-f/?couponCode=BF354D9D22D54ABC17D6
-https://www.udemy.com/course/aws-certified-security-speciality/?couponCode=5CD85A5C8844F20DDBF3
-https://www.udemy.com/course/quit-your-smartphone-addiction-within-30-days-challenges/?couponCode=JAN2022
-https://www.udemy.com/course/python-and-flask-only-demonstration-course/?couponCode=BE6D46F2E10003D1EB03
+https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=SEL_C_DISC_JAN
+https://www.udemy.com/course/multithreading-learnit/?couponCode=MULT_FREE_JAN
+https://www.udemy.com/course/webservices-testing-restassured-postman-complete-guide-learnit/?couponCode=POSTMAN_FREE_JAN
+https://www.udemy.com/course/improving-software-development-productivity/?couponCode=PROD_FREE_JAN
+https://www.udemy.com/course/database-testing-sqllit-mysql-and-postgresql-practical-tests/?couponCode=2E0852596AC12B6DB15D
+https://www.udemy.com/course/top-g1-drivers-license-practice-tests-ontario-canada/?couponCode=397D82D169C29999DFF1
+https://www.udemy.com/course/trucks-cars-tesla-commercial-drivers-license-practice-tests/?couponCode=8EC275B4F55C7565E4E8
+https://www.udemy.com/course/pmi-scheduling-professional-pmi-sp-be-pro-planner/?couponCode=22A800B3171E0E6C0FB9
+https://www.udemy.com/course/az-500-microsoft-azure-security-practice-exams-jan-2022/?couponCode=ANEWYEAR2022
+https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=JCF_FREE_JAN
+https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=UP_FREE_JAN
+https://www.udemy.com/course/how-to-get-upwork-clients-2020-and-beyond/?couponCode=UPGET_FREE_JAN
 
