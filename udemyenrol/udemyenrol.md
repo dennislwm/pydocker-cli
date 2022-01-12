@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/01/2022
+# Daily Free Udemy Courses - 12/01/2022
 
-https://www.udemy.com/course/excel-quick-start-guide-from-beginner-to-expert/?couponCode=F59B61
-https://www.udemy.com/course/vibrational-journaling-for-quantum-leaping/?couponCode=58D584AFC6B0675BEC40
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1001
-https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=AC4AA92D171D01F8F290
-https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=214B2441C171F328B651
-https://www.udemy.com/course/hiring-process-talent-management/?couponCode=JAN-2022
-https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=JANSWY9AVH3I12022
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATE2022
-https://www.udemy.com/course/hvac-chilled-water-system-chiller-ahu-fcu/?couponCode=68C4ED4FD65D4F17380B
-https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=STARTUPP
-https://www.udemy.com/course/introduction-to-bonds/?couponCode=2022OFFER
-https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=2EA45624F73E290650E0
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLEANALYTICS1101
+https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING1101
+https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY1101
+https://www.udemy.com/course/itil-v4-foundation-the-newest-practice-exams-updated-test/?couponCode=1CB036B3A458EB4918D7
+https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=JAN2022FREE01
+https://www.udemy.com/course/executive-coaching-cto-for-business-development-executive/?couponCode=6E5722E739ED9FE8DDEA
+https://www.udemy.com/course/networking-for-real-estate-investors/?couponCode=NYFREE
+https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JAN2022
+https://www.udemy.com/course/nft-tyrant-how-to-make-a-passive-income-trading-nfts/?couponCode=NEWYEARNEWNFT
+https://www.udemy.com/course/master-your-social-skills/?couponCode=JAN2022FREE01
+https://www.udemy.com/course/main-character-creation-a-by-example-guide/?couponCode=FREE1000
+https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=2277AD0C03129F10EC1B
 
