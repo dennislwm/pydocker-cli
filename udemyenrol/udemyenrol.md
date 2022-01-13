@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/01/2022
+# Daily Free Udemy Courses - 13/01/2022
 
-https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLEANALYTICS1101
-https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING1101
-https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY1101
-https://www.udemy.com/course/itil-v4-foundation-the-newest-practice-exams-updated-test/?couponCode=1CB036B3A458EB4918D7
-https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=JAN2022FREE01
-https://www.udemy.com/course/executive-coaching-cto-for-business-development-executive/?couponCode=6E5722E739ED9FE8DDEA
-https://www.udemy.com/course/networking-for-real-estate-investors/?couponCode=NYFREE
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JAN2022
-https://www.udemy.com/course/nft-tyrant-how-to-make-a-passive-income-trading-nfts/?couponCode=NEWYEARNEWNFT
-https://www.udemy.com/course/master-your-social-skills/?couponCode=JAN2022FREE01
-https://www.udemy.com/course/main-character-creation-a-by-example-guide/?couponCode=FREE1000
-https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=2277AD0C03129F10EC1B
+https://www.udemy.com/course/salesforce-platform-developer-practice-exams-updated-2022/?couponCode=9B28B863C4884DD216B1
+https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=E874A65F80CE6309C13C
+https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=57B143A7CB53DB2A80B0
+https://www.udemy.com/course/az-300-303-azure-architect-technologies-practice-tests/?couponCode=756375DC958D75708095
+https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=VIDEO_JAN2
+https://www.udemy.com/course/personal-branding-master-course/?couponCode=JAN2022FREE01
+https://www.udemy.com/course/microsoft-excel-course-excel-for-beginners/?couponCode=47820F7422D44C133592
+https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVM2022
+https://www.udemy.com/course/introduction-to-maps-in-r-shiny-and-leaflet/?couponCode=SHINY22B
+https://www.udemy.com/course/sleep-deeply-hypnosis/?couponCode=8B11743ABB26081B9EB2
+https://www.udemy.com/course/complete-cryptocurrency-trading-course-2021/?couponCode=CDFA3969F6A8701C5647
+https://www.udemy.com/course/method-acting-and-monologue-mastery-for-male-actors/?couponCode=CD8E607A24028EE83FD6
 
