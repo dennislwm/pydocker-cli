@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/01/2022
+# Daily Free Udemy Courses - 14/01/2022
 
-https://www.udemy.com/course/salesforce-platform-developer-practice-exams-updated-2022/?couponCode=9B28B863C4884DD216B1
-https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=E874A65F80CE6309C13C
-https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=57B143A7CB53DB2A80B0
-https://www.udemy.com/course/az-300-303-azure-architect-technologies-practice-tests/?couponCode=756375DC958D75708095
-https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=VIDEO_JAN2
-https://www.udemy.com/course/personal-branding-master-course/?couponCode=JAN2022FREE01
-https://www.udemy.com/course/microsoft-excel-course-excel-for-beginners/?couponCode=47820F7422D44C133592
-https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVM2022
-https://www.udemy.com/course/introduction-to-maps-in-r-shiny-and-leaflet/?couponCode=SHINY22B
-https://www.udemy.com/course/sleep-deeply-hypnosis/?couponCode=8B11743ABB26081B9EB2
-https://www.udemy.com/course/complete-cryptocurrency-trading-course-2021/?couponCode=CDFA3969F6A8701C5647
-https://www.udemy.com/course/method-acting-and-monologue-mastery-for-male-actors/?couponCode=CD8E607A24028EE83FD6
+https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=J42A536
+https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/?couponCode=JB016C8
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=J5B90C
+https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=OCSALYCOUPON
+https://www.udemy.com/course/car-repair-auto-mechanic-training-masterclass-crtc-2021/?couponCode=OCSALYCOUPON
+https://www.udemy.com/course/the-art-of-winning-friends/?couponCode=JAN2022
+https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=286A0C1658DF4C0A43CD
+https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=6C97BCA33FF2211A00D2
+https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=JAN2022FREE01
+https://www.udemy.com/course/check-point-certified-security-administrator-practice-tests-r/?couponCode=D6D8C92DDC11E271582F
+https://www.udemy.com/course/entrepreneurship-personality/?couponCode=1406BED5AD14CAD6EC11
+https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=B912C6250E99079D86DD
 
