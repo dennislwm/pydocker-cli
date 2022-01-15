@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/01/2022
+# Daily Free Udemy Courses - 15/01/2022
 
-https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=J42A536
-https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/?couponCode=JB016C8
-https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=J5B90C
-https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=OCSALYCOUPON
-https://www.udemy.com/course/car-repair-auto-mechanic-training-masterclass-crtc-2021/?couponCode=OCSALYCOUPON
-https://www.udemy.com/course/the-art-of-winning-friends/?couponCode=JAN2022
-https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=286A0C1658DF4C0A43CD
-https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=6C97BCA33FF2211A00D2
-https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=JAN2022FREE01
-https://www.udemy.com/course/check-point-certified-security-administrator-practice-tests-r/?couponCode=D6D8C92DDC11E271582F
-https://www.udemy.com/course/entrepreneurship-personality/?couponCode=1406BED5AD14CAD6EC11
-https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=B912C6250E99079D86DD
+https://www.udemy.com/course/beginners-cartoon-masterclass-baby-viking-20/?couponCode=FC3EA548E785FF0CA453
+https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?couponCode=JAN2022FREE01
+https://www.udemy.com/course/acp-100-jira-server-administrator-exam-practice-tests-quizes/?couponCode=JAN2022
+https://www.udemy.com/course/java-ee-application-developer-exam-practice-tests/?couponCode=JAN2022
+https://www.udemy.com/course/az-303-microsoft-azure-architect-technologies-practice-tests/?couponCode=JAN2022
+https://www.udemy.com/course/dp-900-azure-data-fundamntals-exam-mock-test-practice-questions/?couponCode=JAN2022
+https://www.udemy.com/course/project-scheduling-professional-pmi-sp-practice-tests-2022/?couponCode=869F96F38116F27BE097
+https://www.udemy.com/course/new-java-se8-programmer-certification-ocpjp-1z0-809-exam-practice-test/?couponCode=JAN2022
+https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-exams-y/?couponCode=DISCUDEMY.COM
+https://www.udemy.com/course/how-to-fall-asleep-easily-in-2-minutes/?couponCode=5EC4E2DE20F85033593A
+https://www.udemy.com/course/agile-scrum-in-depth-guide-simulation-and-best-practices/?couponCode=HAPPY2022
+https://www.udemy.com/course/project-finance-fundamentals/?couponCode=2022FINANCE
 
