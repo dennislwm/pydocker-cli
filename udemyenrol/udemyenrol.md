@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/01/2022
+# Daily Free Udemy Courses - 16/01/2022
 
-https://www.udemy.com/course/beginners-cartoon-masterclass-baby-viking-20/?couponCode=FC3EA548E785FF0CA453
-https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?couponCode=JAN2022FREE01
-https://www.udemy.com/course/acp-100-jira-server-administrator-exam-practice-tests-quizes/?couponCode=JAN2022
-https://www.udemy.com/course/java-ee-application-developer-exam-practice-tests/?couponCode=JAN2022
-https://www.udemy.com/course/az-303-microsoft-azure-architect-technologies-practice-tests/?couponCode=JAN2022
-https://www.udemy.com/course/dp-900-azure-data-fundamntals-exam-mock-test-practice-questions/?couponCode=JAN2022
-https://www.udemy.com/course/project-scheduling-professional-pmi-sp-practice-tests-2022/?couponCode=869F96F38116F27BE097
-https://www.udemy.com/course/new-java-se8-programmer-certification-ocpjp-1z0-809-exam-practice-test/?couponCode=JAN2022
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-exams-y/?couponCode=DISCUDEMY.COM
-https://www.udemy.com/course/how-to-fall-asleep-easily-in-2-minutes/?couponCode=5EC4E2DE20F85033593A
-https://www.udemy.com/course/agile-scrum-in-depth-guide-simulation-and-best-practices/?couponCode=HAPPY2022
-https://www.udemy.com/course/project-finance-fundamentals/?couponCode=2022FINANCE
+https://www.udemy.com/course/6-new-versions-of-the-new-pmp-exams-2021-6th-edition/?couponCode=48CD39701E8F5D50CCBA
+https://www.udemy.com/course/sas-certified-associate-sas-programming-fundamentals/?couponCode=90D907A678AB36557BE0
+https://www.udemy.com/course/google-analytics-individual-qualification-test/?couponCode=85C26A58166203929181
+https://www.udemy.com/course/registered-medical-assistant-rma-practice-tests/?couponCode=3227A5E1E638B4EA6E45
+https://www.udemy.com/course/heal-from-the-narcissist-with-hooponopono/?couponCode=39A6BEA3367532AD7BF1
+https://www.udemy.com/course/apics-certified-supply-chain-professional-practice-tests/?couponCode=0A44B8A9FC8110582114
+https://www.udemy.com/course/computer-fundamentals-u/?couponCode=2215633422C13E57C375
+https://www.udemy.com/course/quickbooks-desktop-vs-qbo-multiple-currencies/?couponCode=EAFECC513A7E657FC8FF
+https://www.udemy.com/course/xero-accounting-software-2020/?couponCode=04AAF17A3255A41EA47D
+https://www.udemy.com/course/managerial-accounting-cost-accounting/?couponCode=ED7EFA99E01533FA9815
+https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=MOHANTY2022
+https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=MOHANTY2022
 
