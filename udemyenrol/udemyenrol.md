@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/01/2022
+# Daily Free Udemy Courses - 21/01/2022
 
-https://www.udemy.com/course/artificial-intelligence-in-digital-marketing/?couponCode=DFC63E56843A6CC04898
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=55D7491FFD76F071BB01
-https://www.udemy.com/course/power-engineering-project-estimation-using-compatible-units/?couponCode=E2A60C9D7DAF25837B03
-https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?couponCode=JAN2022_2
-https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=EF366DF61D33B4B1B491
-https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=ABAE500F280715C0A53D
-https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=JAN2022FREE001
-https://www.udemy.com/course/improving-software-development-productivity/?couponCode=F9A88C6C7629A75C7E8A
-https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=FF3488B0EB03AAD2301E
-https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=4FDFA67082C84FDBB172
-https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=B3B4D13B9B0F70F3E559
-https://www.udemy.com/course/how-to-print-on-demand/?couponCode=7E2AD2EDF6E26BDEB324
+https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL93929
+https://www.udemy.com/course/learn-carnatic-flute-shyama-shastri-krithis-vol-1/?couponCode=SHYAMASHASTRIVOL1
+https://www.udemy.com/course/psm1tm-practice-tests-professional-scrum-master-certification/?couponCode=61F57DC4DE7041DFFB32
+https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=7D7FDDCE97B8D4A0203C
+https://www.udemy.com/course/java-se-11-certification-exam-1z0-819-practice-tests/?couponCode=JAN21WINNERS
+https://www.udemy.com/course/nonfiction-books-that-sell-themselves/?couponCode=180122
+https://www.udemy.com/course/course-creation-in-simple-steps/?couponCode=180122
+https://www.udemy.com/course/format-professional-kindle-books/?couponCode=180122
+https://www.udemy.com/course/t-shirt-design-masterclass-in-photoshop-sell-your-t-shirt/?couponCode=FREETSHIRTDESHIGN
+https://www.udemy.com/course/kanban-flow-metrics/?couponCode=KANMET567
+https://www.udemy.com/course/the-ultimate-mysql-crash-course-2021/?couponCode=MYSQLCOURSE33
+https://www.udemy.com/course/freight-broker-training-a-beginners-guide-to-get-license/?couponCode=DA1097757B295E6A2121
 
