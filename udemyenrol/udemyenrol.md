@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/01/2022
+# Daily Free Udemy Courses - 25/01/2022
 
-https://www.udemy.com/course/introduction-to-bonds/?couponCode=OK5B2C97CE9F9F7
-https://www.udemy.com/course/inculcating-positive-thinking-for-happiness-just-in-5-days/?couponCode=JUNAID12
-https://www.udemy.com/course/agile-scrum-in-depth-guide-simulation-and-best-practices/?couponCode=2631D509945C0D760356
-https://www.udemy.com/course/ultimate-vmware-vcp-dtm-desktop-and-mobility-practice-tests/?couponCode=EB0752B30CCA7348C171
-https://www.udemy.com/course/meditationforbeginners/?couponCode=325938FB4B51548884C1
-https://www.udemy.com/course/meditation-masterclass/?couponCode=968B82BA9B00A4CB1B72
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-tests-v/?couponCode=9AA54F420571F9E6964F
-https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=JAN2022FREE001
-https://www.udemy.com/course/complete-inventory-management-in-microsoft-excel-tally-erp9/?couponCode=INVJAN24
-https://www.udemy.com/course/pmi-agile-certified-practitioner-exam-tests-2021-pmi-acp/?couponCode=80F51AA1A4231A192CAE
-https://www.udemy.com/course/exam-c_sm100_7208-sap-certified-solution-manager-72-sps8/?couponCode=3B0CC3A05AA2A87A469E
-https://www.udemy.com/course/learn-copywriting/?couponCode=E65985DBFACB6EE8F165
+https://www.udemy.com/course/build-shopify-ecommerce-website-30-min-zero-experience-2020-2021-2022/?couponCode=220122
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=JDAE5C
+https://www.udemy.com/course/statistics-for-business-analytics-using-ms-excel/?couponCode=JE307911
+https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=34E714E47BB09CAAF0C0
+https://www.udemy.com/course/facebook-marketing-for-events-advertising-hacks-strategy/?couponCode=220122
+https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=DED85FC9B1B94390E783
+https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=D9F0AC071F5E1F5C6924
+https://www.udemy.com/course/mastery-on-facebook-marketing-facebook-advertising-ads-digital/?couponCode=220122
+https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=JAN_INFO3
+https://www.udemy.com/course/online-marketing-with-google-my-business-digital-marketing/?couponCode=220122
+https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=MSCLARITY_2022
+https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=SPOTFIRE_INT_2022
 
