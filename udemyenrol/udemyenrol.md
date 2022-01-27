@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/01/2022
+# Daily Free Udemy Courses - 27/01/2022
 
-https://www.udemy.com/course/cisco-ccna-cyber-ops-200-201-cbrops-practice-tests-new/?couponCode=C34B4E820B6402F9C4D3
-https://www.udemy.com/course/increase-your-sales-how-to-sell-more-products-one-simple-strategy/?couponCode=DE5FC589A1AB452EBDC2
-https://www.udemy.com/course/how-to-get-seed-funding-for-your-business-idea/?couponCode=E0F3F1E3999CD1C9451B
-https://www.udemy.com/course/book-of-nehemiah-how-to-develop-the-leader-in-you/?couponCode=39000AE2302B085C8FC5
-https://www.udemy.com/course/book-of-ezra-how-to-enjoy-the-prophetic-word-spoken-on-you/?couponCode=96D0E8966ADB81C32B95
-https://www.udemy.com/course/1-corinthians-16-life-changing-lessons/?couponCode=39E06A8B7F1E85BC9456
-https://www.udemy.com/course/first-steps-into-selling-smarter-t/?couponCode=JAN.2022
-https://www.udemy.com/course/make-money-on-tiktok/?couponCode=329A33075276BFD291A3
-https://www.udemy.com/course/udemy-instructor/?couponCode=CDD2464B485A449087E3
-https://www.udemy.com/course/principles-ppt-design/?couponCode=JAN_PRINCIPLES3
-https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=JAN2022
-https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/?couponCode=YOUACCEL83715
+https://www.udemy.com/course/itil-v4-foundation-practice-exams-updated-tests/?couponCode=A705DFBE56364BC4FC48
+https://www.udemy.com/course/make-money-with-cryptocurrencies-in-2018-a-solid-strategy/?couponCode=8E3DCC75A6C6A62A11FF
+https://www.udemy.com/course/arabic-language-learn-to-read-arabic-through-short-stories/?couponCode=ARABIC-COUPON
+https://www.udemy.com/course/systeme_course/?couponCode=10DC855AA83BECACAEEA
+https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVACJAN2022
+https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=B7BB1E27EA89BFCE6633
+https://www.udemy.com/course/no-oil-cooking-recipes-no-cholesterol-fat-free-food/?couponCode=JAN2022FREE001
+https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=37D3C34DCAD671665F76
+https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=E7685B11A36D2BB84B6A
+https://www.udemy.com/course/questions-easily-write-nonfiction-books/?couponCode=220122
+https://www.udemy.com/course/seo-training-2021/?couponCode=HAPPYJANUARY3
+https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=JAN.2022
 
