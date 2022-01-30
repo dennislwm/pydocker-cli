@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/01/2022
+# Daily Free Udemy Courses - 30/01/2022
 
-https://www.udemy.com/course/vidiq-course/?couponCode=6DCC9333F788BCDC9E65
-https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMHHJ
-https://www.udemy.com/course/tax-adjusting-entry-year-end-accounting-excel-worksheet/?couponCode=D39D5320771D43D0CFC2
-https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=AA0C15257B6A083B4754
-https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food/?couponCode=JAN2022FREE001
-https://www.udemy.com/course/learn-salesforce-adm-201-administration-essentials/?couponCode=1AEF892797419A5AD061
-https://www.udemy.com/course/drupal-masterclass/?couponCode=1CC9351A988D5F587EC1
-https://www.udemy.com/course/it-support-troubleshooting-tips-for-clinical-environments/?couponCode=JAN2022
-https://www.udemy.com/course/ultrasonic-testing-level-1-training/?couponCode=FREE-2022
-https://www.udemy.com/course/human-rights-a-basic-course/?couponCode=HRFREE_0122
-https://www.udemy.com/course/blogging-affiliate-mastery-in-hindi/?couponCode=D3FEEEF09C449D50209C
-https://www.udemy.com/course/building-sales-relationships-networking/?couponCode=DEC-21
+https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLJAN56
+https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=1C6DE6EF80A38D3369A4
+https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=4C84498CDD578787033A
+https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=6522AC880D4B3BF77C95
+https://www.udemy.com/course/ultra-speed-3d-animation-film-making-with-plotagon/?couponCode=0629295389F3F4667D9A
+https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=AB1C27947F802C3B8706
+https://www.udemy.com/course/increase-your-sales-how-to-sell-more-products-one-simple-strategy/?couponCode=E465D200CA12B29EACF6
+https://www.udemy.com/course/nlp-course-for-beginner/?couponCode=B0ED2AA6B1AF4F4CEB19
+https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-certification/?couponCode=49937E4638517C137E5E
+https://www.udemy.com/course/learn-professional-management-pmi-pgmp-certification/?couponCode=D5A9B36D4E35C4205647
+https://www.udemy.com/course/micro-mba-course-sales-and-management-strategy/?couponCode=7A060EDD30F994EF66B2
+https://www.udemy.com/course/hz-storytelling-marketing-mini-course/?couponCode=94E9B34AD49B1970CDA3
 
