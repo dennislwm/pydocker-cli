@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/01/2022
+# Daily Free Udemy Courses - 31/01/2022
 
-https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLJAN56
-https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=1C6DE6EF80A38D3369A4
-https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=4C84498CDD578787033A
-https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=6522AC880D4B3BF77C95
-https://www.udemy.com/course/ultra-speed-3d-animation-film-making-with-plotagon/?couponCode=0629295389F3F4667D9A
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=AB1C27947F802C3B8706
-https://www.udemy.com/course/increase-your-sales-how-to-sell-more-products-one-simple-strategy/?couponCode=E465D200CA12B29EACF6
-https://www.udemy.com/course/nlp-course-for-beginner/?couponCode=B0ED2AA6B1AF4F4CEB19
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-certification/?couponCode=49937E4638517C137E5E
-https://www.udemy.com/course/learn-professional-management-pmi-pgmp-certification/?couponCode=D5A9B36D4E35C4205647
-https://www.udemy.com/course/micro-mba-course-sales-and-management-strategy/?couponCode=7A060EDD30F994EF66B2
-https://www.udemy.com/course/hz-storytelling-marketing-mini-course/?couponCode=94E9B34AD49B1970CDA3
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=687E663EA4C3C16E1EEB
+https://www.udemy.com/course/meditation-for-adhd/?couponCode=CFBD86B6A1A8BB430492
+https://www.udemy.com/course/cartoon-drawing-course-angry-mom-driving-in-traffic/?couponCode=BD99D592B7DE5606848E
+https://www.udemy.com/course/meditation-masterclass/?couponCode=9AE667F02DE28947ED60
+https://www.udemy.com/course/meditationforbeginners/?couponCode=E4EC89BC10B2AAA4531A
+https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=JAN_LAST
+https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=JAN_LAST
+https://www.udemy.com/course/tubebuddy/?couponCode=BFCFB1453DA8431F0B4B
+https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=8B253E23F2B351F1FECA
+https://www.udemy.com/course/cams-certification-a-beginners-guide-anti-money-laundering/?couponCode=4AF0F3A0F0AC0CA08F52
+https://www.udemy.com/course/blogging-affiliate-mastery-in-hindi/?couponCode=DA5489433D12ED7D374C
+https://www.udemy.com/course/learn-css-for-beginners/?couponCode=YOUACCEL38250
 
