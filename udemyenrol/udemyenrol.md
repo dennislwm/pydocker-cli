@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 31/01/2022
+# Daily Free Udemy Courses - 01/02/2022
 
 https://www.udemy.com/course/introduction-to-bonds/?couponCode=687E663EA4C3C16E1EEB
 https://www.udemy.com/course/meditation-for-adhd/?couponCode=CFBD86B6A1A8BB430492
