@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/02/2022
+# Daily Free Udemy Courses - 02/02/2022
 
-https://www.udemy.com/course/introduction-to-bonds/?couponCode=687E663EA4C3C16E1EEB
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=CFBD86B6A1A8BB430492
-https://www.udemy.com/course/cartoon-drawing-course-angry-mom-driving-in-traffic/?couponCode=BD99D592B7DE5606848E
-https://www.udemy.com/course/meditation-masterclass/?couponCode=9AE667F02DE28947ED60
-https://www.udemy.com/course/meditationforbeginners/?couponCode=E4EC89BC10B2AAA4531A
-https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=JAN_LAST
-https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=JAN_LAST
-https://www.udemy.com/course/tubebuddy/?couponCode=BFCFB1453DA8431F0B4B
-https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=8B253E23F2B351F1FECA
-https://www.udemy.com/course/cams-certification-a-beginners-guide-anti-money-laundering/?couponCode=4AF0F3A0F0AC0CA08F52
-https://www.udemy.com/course/blogging-affiliate-mastery-in-hindi/?couponCode=DA5489433D12ED7D374C
-https://www.udemy.com/course/learn-css-for-beginners/?couponCode=YOUACCEL38250
+https://www.udemy.com/course/windows-deployment-services-wds-windows-server-2019/?couponCode=JAN2022X
+https://www.udemy.com/course/migrating-it-infrastructure-from-windows-7-to-windows-10/?couponCode=JAN2022X
+https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=JAN2022
+https://www.udemy.com/course/professional-scrum-with-kanban-psk-i-certification-prep/?couponCode=KANBANMETRIC45
+https://www.udemy.com/course/arabic-language-learn-to-read-arabic-through-short-stories/?couponCode=COUPONS
+https://www.udemy.com/course/facebook-ads-marketing-targeting-strategy-2021-2020/?couponCode=310122
+https://www.udemy.com/course/facebook-ads-for-dropshipping-ecommerce-sales-dropshipping-strategy/?couponCode=310122
+https://www.udemy.com/course/ecommerce-business-pakistan-uae-usa-uk-yasirahmedmba/?couponCode=310122
+https://www.udemy.com/course/facebook-ads-pixel-shopify-apple-ios14-ecommerce-wordpress/?couponCode=310122
+https://www.udemy.com/course/shopify-dropshipping-facebook-ads-ecommerce-masterclass-2020-2021-2022/?couponCode=310122
+https://www.udemy.com/course/start-your-social-media-agency-yasir-ahmed-mba/?couponCode=310122
+https://www.udemy.com/course/facebook-marketing-social-media-marketing-advertising-strategy-ads/?couponCode=310122
 
