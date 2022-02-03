@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/02/2022
+# Daily Free Udemy Courses - 03/02/2022
 
-https://www.udemy.com/course/windows-deployment-services-wds-windows-server-2019/?couponCode=JAN2022X
-https://www.udemy.com/course/migrating-it-infrastructure-from-windows-7-to-windows-10/?couponCode=JAN2022X
-https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=JAN2022
-https://www.udemy.com/course/professional-scrum-with-kanban-psk-i-certification-prep/?couponCode=KANBANMETRIC45
-https://www.udemy.com/course/arabic-language-learn-to-read-arabic-through-short-stories/?couponCode=COUPONS
-https://www.udemy.com/course/facebook-ads-marketing-targeting-strategy-2021-2020/?couponCode=310122
-https://www.udemy.com/course/facebook-ads-for-dropshipping-ecommerce-sales-dropshipping-strategy/?couponCode=310122
-https://www.udemy.com/course/ecommerce-business-pakistan-uae-usa-uk-yasirahmedmba/?couponCode=310122
-https://www.udemy.com/course/facebook-ads-pixel-shopify-apple-ios14-ecommerce-wordpress/?couponCode=310122
-https://www.udemy.com/course/shopify-dropshipping-facebook-ads-ecommerce-masterclass-2020-2021-2022/?couponCode=310122
-https://www.udemy.com/course/start-your-social-media-agency-yasir-ahmed-mba/?couponCode=310122
-https://www.udemy.com/course/facebook-marketing-social-media-marketing-advertising-strategy-ads/?couponCode=310122
+https://www.udemy.com/course/dsci-certified-privacy-principle-dcpp/?couponCode=5768B5F2ACF26ECA92E7
+https://www.udemy.com/course/managerial-accounting-cost-accounting/?couponCode=271E357E175F24DEB646
+https://www.udemy.com/course/personal-finance-i/?couponCode=EE50F3242239E32FC094
+https://www.udemy.com/course/advanced-financial-accounting/?couponCode=6C0AF9CFD7F727541FE4
+https://www.udemy.com/course/online-business-work-from-home/?couponCode=305C85899B4D136EBFDD
+https://www.udemy.com/course/not-for-profit-accounting-charities-colleges-health-care/?couponCode=21C5DD08FEDF8D46625E
+https://www.udemy.com/course/audit-financial-statement/?couponCode=DF657927E28F76AB5EF4
+https://www.udemy.com/course/governmental-accounting-200-capital-projects-debt-service/?couponCode=F4A2AF81848739236A9B
+https://www.udemy.com/course/aplos-not-for-profit-accounting-software/?couponCode=6A585AAC655F45B87109
+https://www.udemy.com/course/wave-accounting-2020/?couponCode=AD62A2D16B18CD8A9D90
+https://www.udemy.com/course/tax-adjusting-entry-year-end-accounting-excel-worksheet/?couponCode=F6A5967363BC9AB02103
+https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-certification/?couponCode=F0ADA4A3EC857F5D308E
 
