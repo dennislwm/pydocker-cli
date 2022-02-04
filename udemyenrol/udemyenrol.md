@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/02/2022
+# Daily Free Udemy Courses - 04/02/2022
 
-https://www.udemy.com/course/dsci-certified-privacy-principle-dcpp/?couponCode=5768B5F2ACF26ECA92E7
-https://www.udemy.com/course/managerial-accounting-cost-accounting/?couponCode=271E357E175F24DEB646
-https://www.udemy.com/course/personal-finance-i/?couponCode=EE50F3242239E32FC094
-https://www.udemy.com/course/advanced-financial-accounting/?couponCode=6C0AF9CFD7F727541FE4
-https://www.udemy.com/course/online-business-work-from-home/?couponCode=305C85899B4D136EBFDD
-https://www.udemy.com/course/not-for-profit-accounting-charities-colleges-health-care/?couponCode=21C5DD08FEDF8D46625E
-https://www.udemy.com/course/audit-financial-statement/?couponCode=DF657927E28F76AB5EF4
-https://www.udemy.com/course/governmental-accounting-200-capital-projects-debt-service/?couponCode=F4A2AF81848739236A9B
-https://www.udemy.com/course/aplos-not-for-profit-accounting-software/?couponCode=6A585AAC655F45B87109
-https://www.udemy.com/course/wave-accounting-2020/?couponCode=AD62A2D16B18CD8A9D90
-https://www.udemy.com/course/tax-adjusting-entry-year-end-accounting-excel-worksheet/?couponCode=F6A5967363BC9AB02103
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-certification/?couponCode=F0ADA4A3EC857F5D308E
+https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY0302
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING0302
+https://www.udemy.com/course/1-day-offer-creation/?couponCode=FEB2-2022
+https://www.udemy.com/course/quit-your-smartphone-addiction-within-30-days-challenges/?couponCode=FEBRUARY
+https://www.udemy.com/course/earn-from-photography-complete-guideline/?couponCode=EPFEB2022
+https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=D4F2876E568FDF770306
+https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/?couponCode=FREEBIESGLOBAL-1-2
+https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=FREEBIESGLOBAL.COM
+https://www.udemy.com/course/learn-piping-pipe-stress-analysis-using-bentley-autopipe/?couponCode=08E0BA71EE18E7A348C6
+https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/?couponCode=783F2B3200911D9404BD
+https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=60A06E8205721C6CBD2D
+https://www.udemy.com/course/blogging-affiliate-mastery-in-hindi/?couponCode=CDA7049EED724103801D
 
