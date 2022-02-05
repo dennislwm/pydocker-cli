@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/02/2022
+# Daily Free Udemy Courses - 05/02/2022
 
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY0302
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING0302
-https://www.udemy.com/course/1-day-offer-creation/?couponCode=FEB2-2022
-https://www.udemy.com/course/quit-your-smartphone-addiction-within-30-days-challenges/?couponCode=FEBRUARY
-https://www.udemy.com/course/earn-from-photography-complete-guideline/?couponCode=EPFEB2022
-https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=D4F2876E568FDF770306
-https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/?couponCode=FREEBIESGLOBAL-1-2
-https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=FREEBIESGLOBAL.COM
-https://www.udemy.com/course/learn-piping-pipe-stress-analysis-using-bentley-autopipe/?couponCode=08E0BA71EE18E7A348C6
-https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/?couponCode=783F2B3200911D9404BD
-https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=60A06E8205721C6CBD2D
-https://www.udemy.com/course/blogging-affiliate-mastery-in-hindi/?couponCode=CDA7049EED724103801D
+https://www.udemy.com/course/write-heartfelt-soulful-poetry-creative-writing/?couponCode=63C0820A3011D399FB05
+https://www.udemy.com/course/systeme_course/?couponCode=A9F9E275D6BB0D8EA559
+https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=FEB.2022
+https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=FUNDING101
+https://www.udemy.com/course/pmi-agile-certified-practitioner-pmi-acp-practice-exams-m/?couponCode=TAFREEFEB
+https://www.udemy.com/course/startup-pitch-deck-course/?couponCode=STARTUP101
+https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=MBA101
+https://www.udemy.com/course/word-stress-of-american-english/?couponCode=FREEONLINEFEB
+https://www.udemy.com/course/seo-2022/?couponCode=BLESSEDFEBRUARY
+https://www.udemy.com/course/saas-marketing-metrics/?couponCode=SAAS101
+https://www.udemy.com/course/mba-retail-management-merchandising-and-e-commerce/?couponCode=MBACOURSE5
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=SUPERHOTFEB22
 
