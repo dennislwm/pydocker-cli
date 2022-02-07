@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/02/2022
+# Daily Free Udemy Courses - 07/02/2022
 
-https://www.udemy.com/course/comptia-it-fundamental-certification-fc0-u61-practice-exam/?couponCode=FATOMA
-https://www.udemy.com/course/mini-mba-in-branding/?couponCode=512AB0E26CFB8ED001CE
-https://www.udemy.com/course/first-steps-into-selling-smarter-t/?couponCode=FEB.2022
-https://www.udemy.com/course/az-204-mock-test/?couponCode=55234FC0D5AC6E50706F
-https://www.udemy.com/course/tiktok-organic-marketing-and-ads/?couponCode=A06AF8A3A9B025EF5FBE
-https://www.udemy.com/course/computer-fundamentals-u/?couponCode=FBF7B248B900E8C4C5F8
-https://www.udemy.com/course/online-seo-training/?couponCode=BLESSEDFEBRUARY
-https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=MSCLARITY_FEB1
-https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=GOOGLE_DS_FEB1
-https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/?couponCode=DS_NONTECH_FEB1
-https://www.udemy.com/course/most-effective-tips-to-get-your-dream-data-science-job/?couponCode=DATASCIENTIST_FEB1
-https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=FEB2022FREE1
+https://www.udemy.com/course/risk-management-professional-pmi-rmp-questions/?couponCode=28FCC962E2B7127CEDA4
+https://www.udemy.com/course/canadian-nationality-canadian-citizenship-test-your-immigration-dream/?couponCode=AF3BFF831C444FE3651F
+https://www.udemy.com/course/database-testing-sqllit-mysql-and-postgresql-practical-tests/?couponCode=FF3762ACA3814BB8B506
+https://www.udemy.com/course/certified-lean-six-sigma-green-belt-practice-tests/?couponCode=B8493438503DDAA15483
+https://www.udemy.com/course/american-petroleum-institute-api-practice-questions/?couponCode=9CEC8C36855CB89D7933
+https://www.udemy.com/course/army-careers-armed-services-vocational-aptitude-battery-asvab-tests/?couponCode=E099F5159191EF701238
+https://www.udemy.com/course/sas-certified-associate-sas-programming-fundamentals/?couponCode=C935AC27F184DD449C6A
+https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMFEBAJK
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFLFEBKK
+https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLFEBJSO
+https://www.udemy.com/course/agile-kanban/?couponCode=KANFEB44HJR
+https://www.udemy.com/course/facebook-ads-for-real-estate-business/?couponCode=BLESSEDFEBRUARY
 
