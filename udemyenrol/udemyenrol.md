@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/02/2022
+# Daily Free Udemy Courses - 08/02/2022
 
-https://www.udemy.com/course/risk-management-professional-pmi-rmp-questions/?couponCode=28FCC962E2B7127CEDA4
-https://www.udemy.com/course/canadian-nationality-canadian-citizenship-test-your-immigration-dream/?couponCode=AF3BFF831C444FE3651F
-https://www.udemy.com/course/database-testing-sqllit-mysql-and-postgresql-practical-tests/?couponCode=FF3762ACA3814BB8B506
-https://www.udemy.com/course/certified-lean-six-sigma-green-belt-practice-tests/?couponCode=B8493438503DDAA15483
-https://www.udemy.com/course/american-petroleum-institute-api-practice-questions/?couponCode=9CEC8C36855CB89D7933
-https://www.udemy.com/course/army-careers-armed-services-vocational-aptitude-battery-asvab-tests/?couponCode=E099F5159191EF701238
-https://www.udemy.com/course/sas-certified-associate-sas-programming-fundamentals/?couponCode=C935AC27F184DD449C6A
-https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMFEBAJK
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFLFEBKK
-https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLFEBJSO
-https://www.udemy.com/course/agile-kanban/?couponCode=KANFEB44HJR
-https://www.udemy.com/course/facebook-ads-for-real-estate-business/?couponCode=BLESSEDFEBRUARY
+https://www.udemy.com/course/pmp-practice-test-project-management-professional-2021/?couponCode=D5352476370CAB19DA14
+https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY0702
+https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENTMARKETING0702
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLEANALYTICS0702
+https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/?couponCode=90B6918112CC2E044AC6
+https://www.udemy.com/course/aws-solutions-architect-associate-saa-c02-practice-exams-h/?couponCode=1755318EE8B0B3FBAFF9
+https://www.udemy.com/course/be-the-next-salesforce-developer-with-my-practice-exams-pd1/?couponCode=B30BE431EDEB81A55113
+https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-practice-exams-hm/?couponCode=334F104B0F38F9EDEFE5
+https://www.udemy.com/course/mulesoft-certified-integration-architect-mcia-practice-exams/?couponCode=2758131FE1DBE5011FDC
+https://www.udemy.com/course/certified-kubernetes-security-specialist-practice-new/?couponCode=1158F6A1FE95A124AE9F
+https://www.udemy.com/course/excel-accounting-2worksheet-opening-balances-subledger/?couponCode=F569A1AAB28C37700554
+https://www.udemy.com/course/excel-accounting-4enter-data-track-current-month-ytd/?couponCode=7C4D27AE88CC1A5E3555
 
