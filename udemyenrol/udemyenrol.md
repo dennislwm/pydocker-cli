@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/02/2022
+# Daily Free Udemy Courses - 11/02/2022
 
-https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=BLESSEDFEBRUARY3
-https://www.udemy.com/course/aws-ans-c00-certified-advanced-networking-practice-tests-k/?couponCode=AB8B99A0772D8669DDA2
-https://www.udemy.com/course/practice-exams-for-the-ccna-200-301-tests-2022/?couponCode=4B4587B7829FCC5E8319
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATEFEB2022
-https://www.udemy.com/course/complete-turkish-course-learn-turkish-for-beginners/?couponCode=78006109C8CE241BC1D7
-https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=A6D264CD83105681EE41
-https://www.udemy.com/course/rhcsa-ex200-red-hat-certified-system-admin-practice-exams-h/?couponCode=5571C90F261F23139655
-https://www.udemy.com/course/learn-copywriting/?couponCode=5A2B0DB94AF6E0BEA652
-https://www.udemy.com/course/facebook-conversion-ads/?couponCode=FEBRUARY1
-https://www.udemy.com/course/how-to-make-passive-income-with-bitcoin-lending/?couponCode=FEBFRWKN7D31PD2022
-https://www.udemy.com/course/niche-website-elementor-wordpress-website-blog-tutorials/?couponCode=C940B68DD6C916B119FC
-https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=460EB0B79F28B82DCC27
+https://www.udemy.com/course/dsci-certified-privacy-principle-dcpp/?couponCode=56DA6169D11EE715008A
+https://www.udemy.com/course/learn-professional-management-pmi-pgmp-certification/?couponCode=4E9C233B1729588722AA
+https://www.udemy.com/course/neuroplasticity-discover-how-to-rewire-your-anxiety/?couponCode=B8A86EB3C826D18AA297
+https://www.udemy.com/course/exam-c_sm100_7208-sap-certified-solution-manager-72-sps8/?couponCode=47827B362E544F4D0F2F
+https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=PAYFEB09
+https://www.udemy.com/course/learn-how-to-do-woocommerce-wordpress-on-page-seo-to-increase-sales/?couponCode=DISCUDEMYFREE
+https://www.udemy.com/course/1-day-offer-creation/?couponCode=10FEB2022
+https://www.udemy.com/course/cryptocurrencies-complet-practical-course-on-crypto-trading/?couponCode=1B976BF63016303347E7
+https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=51D55F989CC55F6A06A8
+https://www.udemy.com/course/seo-2022/?couponCode=BLESSEDFEBRUARY2
+https://www.udemy.com/course/docker-certified-associate-dca-exam-practice-test-2021/?couponCode=43D5A3DD85A79290F02D
+https://www.udemy.com/course/the-service-business-accelerator/?couponCode=10FEB2022
 
