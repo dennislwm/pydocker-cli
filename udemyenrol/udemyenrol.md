@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/02/2022
+# Daily Free Udemy Courses - 12/02/2022
 
-https://www.udemy.com/course/dsci-certified-privacy-principle-dcpp/?couponCode=56DA6169D11EE715008A
-https://www.udemy.com/course/learn-professional-management-pmi-pgmp-certification/?couponCode=4E9C233B1729588722AA
-https://www.udemy.com/course/neuroplasticity-discover-how-to-rewire-your-anxiety/?couponCode=B8A86EB3C826D18AA297
-https://www.udemy.com/course/exam-c_sm100_7208-sap-certified-solution-manager-72-sps8/?couponCode=47827B362E544F4D0F2F
-https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=PAYFEB09
-https://www.udemy.com/course/learn-how-to-do-woocommerce-wordpress-on-page-seo-to-increase-sales/?couponCode=DISCUDEMYFREE
-https://www.udemy.com/course/1-day-offer-creation/?couponCode=10FEB2022
-https://www.udemy.com/course/cryptocurrencies-complet-practical-course-on-crypto-trading/?couponCode=1B976BF63016303347E7
-https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=51D55F989CC55F6A06A8
-https://www.udemy.com/course/seo-2022/?couponCode=BLESSEDFEBRUARY2
-https://www.udemy.com/course/docker-certified-associate-dca-exam-practice-test-2021/?couponCode=43D5A3DD85A79290F02D
-https://www.udemy.com/course/the-service-business-accelerator/?couponCode=10FEB2022
+https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=FEB0902
+https://www.udemy.com/course/python-and-django-for-beginners/?couponCode=FREEBIESGLOBAL-2-11
+https://www.udemy.com/course/how-to-structure-the-first-four-adhd-coach-sessions/?couponCode=39803681D66183999EA9
+https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=430302E3BB4C36A1DF17
+https://www.udemy.com/course/personal-capital-free-financial-planner-application/?couponCode=757E93EB97F59AEADC46
+https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=BC01A647306D9D896979
+https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVMFEB2022
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=FGAEE20E
+https://www.udemy.com/course/the-complete-introduction-to-online-course-creation/?couponCode=A7B31A3D32ED465D57F8
+https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL40148
+https://www.udemy.com/course/local-seo-2022/?couponCode=FEBRUARY1
+https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?couponCode=FEB2022FREE1
 
