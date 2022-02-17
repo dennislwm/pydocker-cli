@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/02/2022
+# Daily Free Udemy Courses - 17/02/2022
 
-https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY1502
-https://www.udemy.com/course/beginners-cartoon-masterclass-baby-viking-20/?couponCode=D3E81840A57577AB7F5C
-https://www.udemy.com/course/excel-accounting-3-enter-first-month-of-transactions/?couponCode=8FC564E753036B3F3FB9
-https://www.udemy.com/course/excel-accounting-2worksheet-opening-balances-subledger/?couponCode=BC23CFEAC4093D1A4A3F
-https://www.udemy.com/course/tax-adjusting-entry-year-end-accounting-excel-worksheet/?couponCode=B77C7159949541840100
-https://www.udemy.com/course/nft-for-beginners/?couponCode=50D7D09808CCCDA02C23
-https://www.udemy.com/course/master-data-science-in-python/?couponCode=25286AAC0465D12AF9E9
-https://www.udemy.com/course/linux-operating-system-with-shell-from-scratch-for-beginners/?couponCode=FEB_22_FREE
-https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=FEB_INFO2
-https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=F016712AB4DD3243773B
-https://www.udemy.com/course/professional-scrum-with-kanban-psk-i-certification-prep/?couponCode=PSKDHJJ
-https://www.udemy.com/course/scrum-genman/?couponCode=SCRUMAJKA
+https://www.udemy.com/course/angels-demons-what-the-bible-really-says-about-it/?couponCode=B40530A741336C93ADD9
+https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/how-the-internet-works-the-web-development-process/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/user-story-mapping-workshop-scrum-product-owner/?couponCode=FEB2022VALENTINES
+https://www.udemy.com/course/design-thinking-for-long-term-business-success/?couponCode=FEB2022FREE01
+https://www.udemy.com/course/learn-copywriting/?couponCode=DE61303C8365853BE531
+https://www.udemy.com/course/how-to-fall-asleep-easily-in-2-minutes/?couponCode=F6275CCD6FB180F1AB35
+https://www.udemy.com/course/viral-marketing-masterclass-2019-epic-tricks-to-go-viral/?couponCode=A43CA4C1A15D3306B6CB
 
