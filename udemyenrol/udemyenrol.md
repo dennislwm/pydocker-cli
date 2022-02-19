@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/02/2022
+# Daily Free Udemy Courses - 19/02/2022
 
-https://www.udemy.com/course/hypnosis-astral-travel-hypnotic-adventure/?couponCode=FA0F9EFC2286C763DFBF
-https://www.udemy.com/course/program-to-lose-7kg-in-only-1-week/?couponCode=7FE89D5561F9DDA41D6D
-https://www.udemy.com/course/meditation-masterclass/?couponCode=1F0BD5FF43ABFBC2194D
-https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=6F82A1B1A6ABD1C085FF
-https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=FE7C5422FF979452E794
-https://www.udemy.com/course/school-physics-class-11-practical-tests-and-answers/?couponCode=1A39DCD500A3FCB368DB
-https://www.udemy.com/course/the-dibs-system-for-consultants-coaches-trainers-speakers/?couponCode=FEB2022DIBS
-https://www.udemy.com/course/molecular-dynamic-simulation-on-gromacs-software/?couponCode=B190F28111C74F301889
-https://www.udemy.com/course/nft-for-beginners/?couponCode=3C19D81FDE96B5D524EE
-https://www.udemy.com/course/angels-demons-what-the-bible-really-says-about-it/?couponCode=B40530A741336C93ADD9
-https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL84724
-https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL84724
+https://www.udemy.com/course/facebook-lead-ads-course/?couponCode=BLESSEDFEBRUARY
+https://www.udemy.com/course/productivity-time-managemen-plan/?couponCode=FREEFEB22B
+https://www.udemy.com/course/psd-scrum-developer-certification-practice-test/?couponCode=FEBFREE2022FEB
+https://www.udemy.com/course/grants-for-nonprofit-organizations/?couponCode=0F8BCA8F7B696BCB5320
+https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=527F8E23EFC7FD70B045
+https://www.udemy.com/course/meditation-for-adhd/?couponCode=46ADCE2AE82E3FD7415A
+https://www.udemy.com/course/facebook-ads-2022/?couponCode=FEBRUARY2
+https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=FUNDING103
+https://www.udemy.com/course/start-business-model-course/?couponCode=BUSINESSMODEL103
+https://www.udemy.com/course/mba-retail-management-merchandising-and-e-commerce/?couponCode=RETAIL103
+https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL62905
+https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=MBA103
 
