@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/02/2022
+# Daily Free Udemy Courses - 20/02/2022
 
-https://www.udemy.com/course/facebook-lead-ads-course/?couponCode=BLESSEDFEBRUARY
-https://www.udemy.com/course/productivity-time-managemen-plan/?couponCode=FREEFEB22B
-https://www.udemy.com/course/psd-scrum-developer-certification-practice-test/?couponCode=FEBFREE2022FEB
-https://www.udemy.com/course/grants-for-nonprofit-organizations/?couponCode=0F8BCA8F7B696BCB5320
-https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=527F8E23EFC7FD70B045
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=46ADCE2AE82E3FD7415A
-https://www.udemy.com/course/facebook-ads-2022/?couponCode=FEBRUARY2
-https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=FUNDING103
-https://www.udemy.com/course/start-business-model-course/?couponCode=BUSINESSMODEL103
-https://www.udemy.com/course/mba-retail-management-merchandising-and-e-commerce/?couponCode=RETAIL103
-https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL62905
-https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=MBA103
+https://www.udemy.com/course/sc-400-microsoft-information-protection-administrator-exp/?couponCode=47DC5B2258B47DB1B346
+https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=FEBRURARY1
+https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=FCF9A65BE580D2769609
+https://www.udemy.com/course/3d-printing-design-skills-for-people-with-autism-dyslexia/?couponCode=5F3CA4ED5043D0387FD7
+https://www.udemy.com/course/facebook-conversion-ads/?couponCode=FEBRUARY2
+https://www.udemy.com/course/mastering-digital-music-daw-for-autistic-dyslexic-people/?couponCode=F424C1A4A4889B4903E3
+https://www.udemy.com/course/jade-lizard-twisted-sister-options/?couponCode=1FEB22
+https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=7BAB27ACEB14BF66C855
+https://www.udemy.com/course/aso-how-i-got-5m-downloads-in-6-months-from-app-store/?couponCode=MAPPFEB2022
+https://www.udemy.com/course/drupal-masterclass/?couponCode=F79015F817D08D3E553C
+https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=5AB66F0B1101D37D999D
+https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=B6A75FEADE137AF95CAF
 
