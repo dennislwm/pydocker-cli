@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/03/2022
+# Daily Free Udemy Courses - 02/03/2022
 
-https://www.udemy.com/course/book-of-ezra-how-to-enjoy-the-prophetic-word-spoken-on-you/?couponCode=C1D4BA8277A069863E51
-https://www.udemy.com/course/complete-chakra-healing-and-balancing-certificate-course/?couponCode=DD8ED3FF4942B427A760
-https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=EFEB2022X
-https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/?couponCode=EFEB2022X
-https://www.udemy.com/course/eiq2-coaching-for-improved-performance/?couponCode=FREEFEB
-https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATEFEB4U
-https://www.udemy.com/course/school-physics-class-11-practical-tests-and-answers/?couponCode=8690FCE3F9D143659DA4
-https://www.udemy.com/course/pmi-scheduling-professional-pmi-sp-be-pro-planner/?couponCode=AF9635672F2FE28BCE4F
-https://www.udemy.com/course/mathematics-math-class-8-practical-tests-and-answers/?couponCode=6D46CD164946754F97B0
-https://www.udemy.com/course/school-physics-class-12-practical-tests-and-answers/?couponCode=AE6CAE4D582D5367257B
-https://www.udemy.com/course/top-g1-drivers-license-practice-tests-ontario-canada/?couponCode=FF6FD75A315C0C1BF8A8
-https://www.udemy.com/course/scrum-master-i-product-owner-i-psm-i-pspoi-psmi-pspo-i-tests-questions/?couponCode=FEB22FINAL
+https://www.udemy.com/course/make-money-on-tiktok/?couponCode=8A19F4896E528DB13D43
+https://www.udemy.com/course/etsyfornewbies/?couponCode=E53E9BAD3CE4060860B2
+https://www.udemy.com/course/earn-from-photography-complete-guideline/?couponCode=EPMAR2022
+https://www.udemy.com/course/eiq2-mindfulness/?couponCode=FREEFEB
+https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=015A2BBCC50DF0941A95
+https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=2949D1D890D5D1CDB9BA
+https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=61E3F7F4A6E3B286CEA6
+https://www.udemy.com/course/how-to-get-upwork-clients-2020-and-beyond/?couponCode=CDE5C82BE5C9B214D620
+https://www.udemy.com/course/how-to-create-cartoon-comic-series-start-to-finish-2021/?couponCode=DC5FEF19A8716514664F
+https://www.udemy.com/course/become-a-certified-node-js-javascript-developer/?couponCode=NODEFEB202203
+https://www.udemy.com/course/social-engineering-attacks/?couponCode=SEHACKING12
+https://www.udemy.com/course/batch-script-programming/?couponCode=CC92BE6B78A4A5AFD9EE
 
