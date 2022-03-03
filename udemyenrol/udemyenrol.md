@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/03/2022
+# Daily Free Udemy Courses - 03/03/2022
 
-https://www.udemy.com/course/make-money-on-tiktok/?couponCode=8A19F4896E528DB13D43
-https://www.udemy.com/course/etsyfornewbies/?couponCode=E53E9BAD3CE4060860B2
-https://www.udemy.com/course/earn-from-photography-complete-guideline/?couponCode=EPMAR2022
-https://www.udemy.com/course/eiq2-mindfulness/?couponCode=FREEFEB
-https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=015A2BBCC50DF0941A95
-https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=2949D1D890D5D1CDB9BA
-https://www.udemy.com/course/make-money-with-affiliate-marketing-online/?couponCode=61E3F7F4A6E3B286CEA6
-https://www.udemy.com/course/how-to-get-upwork-clients-2020-and-beyond/?couponCode=CDE5C82BE5C9B214D620
-https://www.udemy.com/course/how-to-create-cartoon-comic-series-start-to-finish-2021/?couponCode=DC5FEF19A8716514664F
-https://www.udemy.com/course/become-a-certified-node-js-javascript-developer/?couponCode=NODEFEB202203
-https://www.udemy.com/course/social-engineering-attacks/?couponCode=SEHACKING12
-https://www.udemy.com/course/batch-script-programming/?couponCode=CC92BE6B78A4A5AFD9EE
+https://www.udemy.com/course/first-steps-into-recruitment-and-selection/?couponCode=MARCH-22
+https://www.udemy.com/course/master-the-english-irregular-verbs-once-and-for-all/?couponCode=559893566DFC7179F98A
+https://www.udemy.com/course/find-your-lifes-purpose-and-legacy-certification/?couponCode=LIFE123
+https://www.udemy.com/course/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/?couponCode=YOUACCEL56344
+https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=DA42EABE97C32AFDDBF2
+https://www.udemy.com/course/eliminate-your-insomnia-now-build-strong-sleep-habits/?couponCode=332CF8C9DDD8DAF8B4EC
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=3B9ADE04FD90DEA7A15F
+https://www.udemy.com/course/project-finance-fundamentals/?couponCode=A2E46921C9BE88CFFF7D
+https://www.udemy.com/course/nft-for-beginners/?couponCode=FLASHDEALFEB22
+https://www.udemy.com/course/become-a-corporate-winner/?couponCode=FEB2022FREE0001
+https://www.udemy.com/course/become-a-next-generation-leader/?couponCode=MAR2022FREE1
+https://www.udemy.com/course/learn-airtable/?couponCode=TRY1000FREE32201
 
