@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/03/2022
+# Daily Free Udemy Courses - 06/03/2022
 
-https://www.udemy.com/course/sports-nutrition-for-athletes-and-fitness-enthusiasts/?couponCode=7330CB0DE4F31D9F8F4D
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=MAR2022
-https://www.udemy.com/course/icybiassc-certified-lean-six-sigma-yellow-belt-practice-exam/?couponCode=2BA8D2347AA0EC6105C0
-https://www.udemy.com/course/facebook-conversion-ads/?couponCode=WATERTIGER
-https://www.udemy.com/course/pharmaceutical-regulatory-affairs-course/?couponCode=GIVEGOODRATING
-https://www.udemy.com/course/facebook-marketing-for-events-advertising-hacks-strategy/?couponCode=BB280222
-https://www.udemy.com/course/python-for-beginners-learn/?couponCode=A700FD05C8F8CDA23363
-https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=29540F6ACC6A788AAE16
-https://www.udemy.com/course/make-money-with-cryptocurrencies-in-2018-a-solid-strategy/?couponCode=2F6DC322036D18070761
-https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYMAR2022
-https://www.udemy.com/course/leadership-skills-to-coach-and-lead-the-zen-generation/?couponCode=GOODLEADER2022
-https://www.udemy.com/course/resiliance-emotional-intelligence/?couponCode=FREEMARCH
+https://www.udemy.com/course/couples-counseling-learn-to-live-happy-with-life-partner/?couponCode=27A675CA0707E79C2614
+https://www.udemy.com/course/saas-marketing-metrics/?couponCode=SAAS104
+https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=5F188BB7C5CEFF35F17C
+https://www.udemy.com/course/excel-accounting-4enter-data-track-current-month-ytd/?couponCode=E3C842551DF34046D67C
+https://www.udemy.com/course/excel-accounting-3-enter-first-month-of-transactions/?couponCode=9D36B9B24602DBC39B2E
+https://www.udemy.com/course/excel-accounting-2worksheet-opening-balances-subledger/?couponCode=395B596CA99D61C3C210
+https://www.udemy.com/course/real-estate-investment-finance/?couponCode=33501313F3733C567910
+https://www.udemy.com/course/facebook-ads-strategy/?couponCode=MARCH1
+https://www.udemy.com/course/local-seo-2022/?couponCode=MARCH1
+https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=40C86AE33BA2A6366264
+https://www.udemy.com/course/book-of-nehemiah-how-to-develop-the-leader-in-you/?couponCode=61030A83293CB9AB934C
+https://www.udemy.com/course/60-day-startup/?couponCode=UNICORNFRAMEWORK101
 
