@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/03/2022
+# Daily Free Udemy Courses - 09/03/2022
 
-https://www.udemy.com/course/pre-employment-iqaptitude-practice-tests/?couponCode=1000REDFREE
-https://www.udemy.com/course/financial-awareness-for-students-and-professionals/?couponCode=12E308BD7DA07BB34E39
-https://www.udemy.com/course/exam-c_sm100_7208-sap-certified-solution-manager-72-sps8/?couponCode=231EEB90C779651EB691
-https://www.udemy.com/course/arabic-language-learn-to-read-arabic-through-short-stories/?couponCode=FREE_ARABIC
-https://www.udemy.com/course/project-finance-fundamentals/?couponCode=87D52EF4A7A83374953C
-https://www.udemy.com/course/quantity-surveyors-guide-for-pre-contracts-management/?couponCode=PRECONTRACTSMAR2022
-https://www.udemy.com/course/70-websites-to-get-unlimited-high-quality-royalty-freeimages/?couponCode=83C60176D98597262101
-https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=DEE4C9D8813F999763AE
-https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=DF053248A6510D8053A6
-https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=3459718FA251BAB3271B
-https://www.udemy.com/course/product-owner-certification/?couponCode=070322_FREE
-https://www.udemy.com/course/fundamentals-of-network-security-b/?couponCode=C9DBCD279DEC2CDF96A4
+https://www.udemy.com/course/udemy-instructor/?couponCode=C541CC4A1EB01E1BECEC
+https://www.udemy.com/course/book-of-ezra-how-to-enjoy-the-prophetic-word-spoken-on-you/?couponCode=7190E5A58B9B7FBC6C88
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exam-exp/?couponCode=768D5D04C055BCA34859
+https://www.udemy.com/course/oracle-db-11g-program-with-plsql-1z0-144-practice-exam/?couponCode=6E46358A4A52F5D93D66
+https://www.udemy.com/course/heal-your-broken-heart-with-eft/?couponCode=E57F566082F34CF1A149
+https://www.udemy.com/course/reiki-masters-training-course-for-beginners/?couponCode=FIV-OFFER
+https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=72FF4EBF7A9711C9F8CA
+https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=EMAILMARKETING0803
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLEANALYTICS0803
+https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=FBMARKETING0803
+https://www.udemy.com/course/iso-140012015-awareness-on-environment-management-ems/?couponCode=SPECIALOFFER
+https://www.udemy.com/course/iso-134852016-awareness-on-medical-devices-development/?couponCode=SPECIALOFFER
 
