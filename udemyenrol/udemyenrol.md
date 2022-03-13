@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 12/03/2022
+# Daily Free Udemy Courses - 13/03/2022
 
 https://www.udemy.com/course/meditationforbeginners/?couponCode=E1A0615B61B570B91CAD
 https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=M091E08
