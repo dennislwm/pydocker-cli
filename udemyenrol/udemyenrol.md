@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/03/2022
+# Daily Free Udemy Courses - 14/03/2022
 
-https://www.udemy.com/course/meditationforbeginners/?couponCode=E1A0615B61B570B91CAD
-https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=M091E08
-https://www.udemy.com/course/drupal-masterclass/?couponCode=11C56777895FF0505DD5
-https://www.udemy.com/course/rca-root-cause-analysis/?couponCode=1485F502866291E34D25
-https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?couponCode=MAR2022FREE1
-https://www.udemy.com/course/fundamental-question-on-transformer/?couponCode=90F0A1320BFA3FBE4E5C
-https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=0BA3E1396EBB31DB76B4
-https://www.udemy.com/course/the-150-most-important-irregular-verbs-in-english-volume-1/?couponCode=8F42D57A5F3ECBA44B8D
-https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=0AA0B010A722E91D91B0
-https://www.udemy.com/course/scrum-certification/?couponCode=100322_FREE
-https://www.udemy.com/course/excel-accounting-problem/?couponCode=C5AC6D36B945536795E1
-https://www.udemy.com/course/digital-marketing-b2b/?couponCode=44636982D66365321D5B
+https://www.udemy.com/course/personal-branding-master-course/?couponCode=MAR2022FREE01
+https://www.udemy.com/course/systeme_course/?couponCode=EADE3F30E1AFAA536F6D
+https://www.udemy.com/course/car-repair-auto-mechanic-training-masterclass-crtc-2021/?couponCode=MECHANIC100OFF
+https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/how-the-internet-works-the-web-development-process/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/create-a-members-only-blog-using-php-mysql-ajax/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/computer-fundamentals-u/?couponCode=7CC0B4EAC75F1015DFB0
+https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/?couponCode=YOUACCEL82987
+https://www.udemy.com/course/dog-cat-pet-custody-disputescreate-a-pet-custody-contract/?couponCode=953A1A886807DA676386
 
