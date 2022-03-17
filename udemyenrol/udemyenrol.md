@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/03/2022
+# Daily Free Udemy Courses - 17/03/2022
 
-https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=7133D923A21E16674004
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALMARKETING1403
-https://www.udemy.com/course/how-to-be-happy-everyday-strategies/?couponCode=SPECIALWELCOME
-https://www.udemy.com/course/the-melody-of-english/?couponCode=FREEMARCH
-https://www.udemy.com/course/local-digital-marketing/?couponCode=WATERTIGER
-https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=F8C446719388A2946891
-https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=AAFC6EF8833A4D48031A
-https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=EMAILMARKETING1403
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1403
-https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=2B84B98DD66459722ECC
-https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=NEWYEARGIFT20
-https://www.udemy.com/course/learn-copywriting/?couponCode=2951D3F7B9E1467F8926
+https://www.udemy.com/course/emotional-intelligence-for-software-engineers-and-developers/?couponCode=MARCH-2022
+https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=MARCH-2022
+https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass/?couponCode=MARCH-2022
+https://www.udemy.com/course/comptia-security-sy0-501-k/?couponCode=CEAD19B00E3253F8B8BA
+https://www.udemy.com/course/food-styling-tips-and-techniques-for-beginners/?couponCode=3647A4B088BD379238DF
+https://www.udemy.com/course/photography-masterclass-for-you/?couponCode=38FFAA00057ED0A0B275
+https://www.udemy.com/course/google-ads-2022/?couponCode=WATERTIGER2
+https://www.udemy.com/course/seo-training-2021/?couponCode=WATERTIGER
+https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=C79A6B16C465CE1D3CA6
+https://www.udemy.com/course/containerize-springboot-node-express-apps-deploy-on-azure/?couponCode=416A58EB3178488EC979
+https://www.udemy.com/course/diy-product-photography/?couponCode=C3A58EC31590DC899998
+https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=MARCH_2022
 
