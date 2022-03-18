@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/03/2022
+# Daily Free Udemy Courses - 18/03/2022
 
+https://www.udemy.com/course/pinheroes/?couponCode=4500FD7EBD10502B0212
+https://www.udemy.com/course/webinar-crusher-by-howard-lynch-sell-high-ticket-products/?couponCode=19E0EBF6E1558A4C799A
+https://www.udemy.com/course/quantity-surveyors-guide-for-pre-contracts-management/?couponCode=PRECONTRACTSMAR22
+https://www.udemy.com/course/mlops-certification-pipeline-basics-to-mlops-toolbox/?couponCode=JZ1212
+https://www.udemy.com/course/master-html5-css3-bootstrap5-by-building-responsive-website/?couponCode=31173B7D8FF22F92DE84
+https://www.udemy.com/course/earn-from-photography-complete-guideline/?couponCode=EP2MAR2022
+https://www.udemy.com/course/corporate-esg-fundamental/?couponCode=3E729F4F40E76EDE716A
+https://www.udemy.com/course/first-steps-into-recruitment-and-selection/?couponCode=MARCH.2022
+https://www.udemy.com/course/online-business-work-from-home/?couponCode=DA65F94799DCD9530B3E
 https://www.udemy.com/course/emotional-intelligence-for-software-engineers-and-developers/?couponCode=MARCH-2022
 https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=MARCH-2022
 https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass/?couponCode=MARCH-2022
-https://www.udemy.com/course/comptia-security-sy0-501-k/?couponCode=CEAD19B00E3253F8B8BA
-https://www.udemy.com/course/food-styling-tips-and-techniques-for-beginners/?couponCode=3647A4B088BD379238DF
-https://www.udemy.com/course/photography-masterclass-for-you/?couponCode=38FFAA00057ED0A0B275
-https://www.udemy.com/course/google-ads-2022/?couponCode=WATERTIGER2
-https://www.udemy.com/course/seo-training-2021/?couponCode=WATERTIGER
-https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=C79A6B16C465CE1D3CA6
-https://www.udemy.com/course/containerize-springboot-node-express-apps-deploy-on-azure/?couponCode=416A58EB3178488EC979
-https://www.udemy.com/course/diy-product-photography/?couponCode=C3A58EC31590DC899998
-https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=MARCH_2022
 
