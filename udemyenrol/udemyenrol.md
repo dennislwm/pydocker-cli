@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/03/2022
+# Daily Free Udemy Courses - 26/03/2022
 
-https://www.udemy.com/course/quickbooks-enterprise-2020-two-businesses-personal-in-one/?couponCode=0ABB4DB86757E9A280B1
-https://www.udemy.com/course/premarital-couples-counseling-relationship-psychotherapy/?couponCode=E578701501BE122DB880
-https://www.udemy.com/course/accelerated-certification-techniques/?couponCode=81802229760FE501E37A
-https://www.udemy.com/course/startup-pitch-deck-course/?couponCode=PITHDECK106
-https://www.udemy.com/course/certification-in-fundamentals-of-metal-forming-processes/?couponCode=A1EB1E2BC4F8DB7B3906
-https://www.udemy.com/course/rhcsa-certified-system-administrator-red-hat-tests-2022/?couponCode=58A4E4A208E4430EC0B3
-https://www.udemy.com/course/overcome-social-anxiety/?couponCode=4182CBE14891508C3C49
-https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=FUNDING106
-https://www.udemy.com/course/start-business-model-course/?couponCode=BUSINESSMODEL106
-https://www.udemy.com/course/complete-course-on-blockchain-and-crypto-currency/?couponCode=BLOCK106
-https://www.udemy.com/course/saas-marketing-metrics/?couponCode=SAAS106
-https://www.udemy.com/course/kanban-board/?couponCode=240322_FREE
+https://www.udemy.com/course/henry-zhang-fiverr-business-mini-course/?couponCode=12C6FA77950697D1CD7A
+https://www.udemy.com/course/henry-zhang-bitcoin-mini-course/?couponCode=1078FF84C6C3B38024DC
+https://www.udemy.com/course/henry-zhang-referral-marketing-mini-course/?couponCode=224FA22510F49A191277
+https://www.udemy.com/course/solar-specialist-certification-practice-tests-2022/?couponCode=F7CE68169B7C5817927E
+https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=755F31E3A73804D3EBBD
+https://www.udemy.com/course/tubebuddy/?couponCode=5D2A27BA9CE0283CE51B
+https://www.udemy.com/course/inkscape-deep-dive/?couponCode=ECA4C0DE579916AC49A2
+https://www.udemy.com/course/create-and-sell-your-first-digital-product-a-complete-guide/?couponCode=5724B4A4F5BB2270842B
+https://www.udemy.com/course/practice-tests-agile-scrum-and-using-kanban-with-scrum/?couponCode=LETSSPRINT220322
+https://www.udemy.com/course/henry-zhang-freelancing-mini-course/?couponCode=2BD7604CB083EE8CDD19
+https://www.udemy.com/course/salesforce-adm-201-administration-essentials-tests-2022/?couponCode=7A442DB20AB05877B4F2
+https://www.udemy.com/course/salesforce-adm-201-administration-essentials-practice-exams-p/?couponCode=6CFF31364DBE648581AF
 
