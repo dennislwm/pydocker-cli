@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/03/2022
+# Daily Free Udemy Courses - 27/03/2022
 
-https://www.udemy.com/course/henry-zhang-fiverr-business-mini-course/?couponCode=12C6FA77950697D1CD7A
-https://www.udemy.com/course/henry-zhang-bitcoin-mini-course/?couponCode=1078FF84C6C3B38024DC
-https://www.udemy.com/course/henry-zhang-referral-marketing-mini-course/?couponCode=224FA22510F49A191277
-https://www.udemy.com/course/solar-specialist-certification-practice-tests-2022/?couponCode=F7CE68169B7C5817927E
-https://www.udemy.com/course/youtube-thumbnails-masterclass/?couponCode=755F31E3A73804D3EBBD
-https://www.udemy.com/course/tubebuddy/?couponCode=5D2A27BA9CE0283CE51B
-https://www.udemy.com/course/inkscape-deep-dive/?couponCode=ECA4C0DE579916AC49A2
-https://www.udemy.com/course/create-and-sell-your-first-digital-product-a-complete-guide/?couponCode=5724B4A4F5BB2270842B
-https://www.udemy.com/course/practice-tests-agile-scrum-and-using-kanban-with-scrum/?couponCode=LETSSPRINT220322
-https://www.udemy.com/course/henry-zhang-freelancing-mini-course/?couponCode=2BD7604CB083EE8CDD19
-https://www.udemy.com/course/salesforce-adm-201-administration-essentials-tests-2022/?couponCode=7A442DB20AB05877B4F2
-https://www.udemy.com/course/salesforce-adm-201-administration-essentials-practice-exams-p/?couponCode=6CFF31364DBE648581AF
+https://www.udemy.com/course/affiliate-marketing-bootcamp-for-beginners/?couponCode=E4D95D7C361A4EA7A1A8
+https://www.udemy.com/course/consonants-for-advanced-chinese-learners-of-american-english/?couponCode=FREECONS123
+https://www.udemy.com/course/vowels-for-advanced-chinese-learners-of-american-english/?couponCode=022F23924AB9E15077E4
+https://www.udemy.com/course/servicenow-certified-system-administrator-practice-exams-j/?couponCode=3903175A4AEBF48FA0CF
+https://www.udemy.com/course/psychology-of-relationship-building-psychotherapy-couplecounseling/?couponCode=19C34CFA0A69C441B783
+https://www.udemy.com/course/unlocking-your-authentic-self-for-ultimate-life-happiness/?couponCode=16F62FF293BF900BB587
+https://www.udemy.com/course/latest-mb-910-microsoft-dynamics-365-fundamentals-tests/?couponCode=MB910FREE
+https://www.udemy.com/course/learn-amharic-language-complete-amharic-course-beginners/?couponCode=753476F9144BC5A11E68
+https://www.udemy.com/course/google-analytics-individual-qualification-test/?couponCode=6DEB362BAFB335E5251D
+https://www.udemy.com/course/pmi-sp-pmi-scheduling-professional-practice-tests/?couponCode=AFF96C2E2FEE9E84BD1D
+https://www.udemy.com/course/scrum-master-level-ii-certification-preparation-tests/?couponCode=60EB4E3E2E201105417E
+https://www.udemy.com/course/pmi-acp-pmi-agile-certified-practitioner-practice-tests/?couponCode=9AC43C01A8CA1D7F5A5C
 
