@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/03/2022
+# Daily Free Udemy Courses - 29/03/2022
 
-https://www.udemy.com/course/aws-certified-sysops-administrator-associate-practice-exams-w/?source=coursemetry.com&couponCode=AC69F3E99FBFE133F0B1
-https://www.udemy.com/course/check-point-certified-security-administrator-practice-exams-o/?source=coursemetry.com&couponCode=187689A5132C3FCD4777
-https://www.udemy.com/course/tilfnd-v4-itil-4-foundation-practice-tests-2022-a/?source=coursemetry.com&couponCode=1BBB8187405D9F03A3DF
-https://www.udemy.com/course/business-analyst-certification-pmi-pba-practice-tests-o/?source=coursemetry.com&couponCode=E56950BECC779E8F72AC
-https://www.udemy.com/course/salesforce-admin-certification-practice-exams-j/?source=coursemetry.com&couponCode=E1500BE21AC0E438F23A
-https://www.udemy.com/course/aws-certified-advanced-networking-ans-c00-practice-exams/?source=coursemetry.com&couponCode=0919751B648472A20B75
-https://www.udemy.com/course/salesforce-developer-1-practice-tests-explns/?source=coursemetry.com&couponCode=C2E9B80E4DB4E6116891
-https://www.udemy.com/course/az-900microsoft-azure-fundamentals-practice-testmarch-2022/?source=coursemetry.com&couponCode=MARCHEND2022
-https://www.udemy.com/course/how-to-conquer-fear-stress-and-worry-when-it-feels-hard/?source=coursemetry.com&couponCode=FEARFREE2022
-https://www.udemy.com/course/web-design-for-beginners-build-websites-in-html-css-2021/?source=coursemetry.com&couponCode=HTMLCSSCOURSE35
-https://www.udemy.com/course/quickbooks-online-2018-start-to-finish/?couponCode=867C477089CED6920CBB
-https://www.udemy.com/course/car-repair-auto-mechanic-training-masterclass-crtc-2021/?couponCode=AUTOMECHANIC100
+https://www.udemy.com/course/oracle-architect-professional-certification-1z0-997-practice-test/?couponCode=B835C4199A4E602D16A5
+https://www.udemy.com/course/facebook-ads-marketing-lead-generation-business-digital-marketing/?source=coursemetry.com&couponCode=FREEE1
+https://www.udemy.com/course/ultimate-google-adwords-ads-training-for-ppc-seo-2019/?source=coursemetry.com&couponCode=FREEE1
+https://www.udemy.com/course/start-vlogging-youtube-channel-marketing-videos-editing-phone/?source=coursemetry.com&couponCode=FREEE1
+https://www.udemy.com/course/digital-marketing-google-ads-adwords-search-seo-ppc/?source=coursemetry.com&couponCode=FREEE1
+https://www.udemy.com/course/facebook-marketing-for-events-advertising-hacks-strategy/?source=coursemetry.com&couponCode=FREEE1
+https://www.udemy.com/course/ckad-labs-2022/?source=coursemetry.com&couponCode=F6BC6226C28259E376F7
+https://www.udemy.com/course/unofficial-udemy-instructors-succeed-on-udemy-fast/?source=coursemetry.com&couponCode=8E101F8E87539B7C6DA8
+https://www.udemy.com/course/exam-prep-oracle-database-sql-1z0-071-practice-exam-exp/?source=coursemetry.com&couponCode=287BF18CBFBE1AE73007
+https://www.udemy.com/course/exam-prep-aws-certified-data-analytics-specialty-das-c01/?source=coursemetry.com&couponCode=6035080BB0B6166A7598
+https://www.udemy.com/course/tubeheroes/?source=coursemetry.com&couponCode=40B3507DA0AC20CE04F0
+https://www.udemy.com/course/freelancing-for-everyone-work-from-home-online-work-online/?source=coursemetry.com&couponCode=3593D7A71523ADE8BF6F
 
