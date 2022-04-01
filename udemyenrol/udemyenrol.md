@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/03/2022
+# Daily Free Udemy Courses - 01/04/2022
 
-https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=8626BAA660017FD38FC1
-https://www.udemy.com/course/complete-fl-studio-megacourse-beginner-to-expert/?couponCode=1E75462F15C0B8EC6C99
-https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=9305805ECA7984BC3618
-https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/?couponCode=1884E5776D62D87C35C9
-https://www.udemy.com/course/csharp-test-automation-engineer-from-zero-to-hero/?couponCode=9C1DD0B4C33077203063
-https://www.udemy.com/course/master-time-management-and-productivity/?couponCode=TMP-FREECOURSE
-https://www.udemy.com/course/aws-certified-security-specialty-practice-prep-exam/?couponCode=EBEC0CC964F6B3C8806C
-https://www.udemy.com/course/movavivideoeditor/?couponCode=8795FB17859280FE6013
-https://www.udemy.com/course/udemy-instructor/?couponCode=1F45D0446784F314981D
-https://www.udemy.com/course/take-the-fear-out-of-interviewing/?couponCode=11D25044C6965253C836
-https://www.topclassstudy.com/courses/2022-become-a-certified-javascript-developer-practice-tests/
-https://www.udemy.com/course/certified-react-redux-javascript-developer-practice-tests/?couponCode=FREE_MOHNAS
+https://www.udemy.com/course/ultra-speed-3d-game-development-using-gameguru/?couponCode=0024FD23AF8E1CE05A7A
+https://www.udemy.com/course/autocad-2020-and-artificial-intelligence-tools-part-2/?couponCode=25FD00F12D30ADF5058F
+https://www.udemy.com/course/pmp-test-papers/?couponCode=5D1BF5E43AAE3B21E76C
+https://www.udemy.com/course/3d-painting-using-flowscape-paint-dream-worlds-in-3d/?couponCode=F96BB8F4EB5F830ED889
+https://www.udemy.com/course/cost-accounting-and-artificial-intelligence-tools-part-1/?couponCode=07FB200ED50ABA8CC85F
+https://www.udemy.com/course/capm-test-papers/?couponCode=CAA5703B2A355CA3CA17
+https://www.udemy.com/course/learn-microsoft-access-from-scratch-for-beginners/?couponCode=2B717B3509AE28800612
+https://www.udemy.com/course/how-to-print-on-demand/?couponCode=E53EDE717D6EE3DD1D5A
+https://www.udemy.com/course/complete-course-for-beginners-for-solar-energy/?couponCode=13A0AAB537925485CD8F
+https://www.udemy.com/course/pmp-preparation-questions-practice-test-simulated-exam/?couponCode=FREE1000
+https://www.udemy.com/course/basic-corset-pattern-design/?couponCode=582E61136D5C66725598
+https://www.udemy.com/course/the-complete-revit-guide/?couponCode=E6CCACEA63CE76095A50
 
