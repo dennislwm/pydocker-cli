@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/04/2022
+# Daily Free Udemy Courses - 02/04/2022
 
-https://www.udemy.com/course/ultra-speed-3d-game-development-using-gameguru/?couponCode=0024FD23AF8E1CE05A7A
-https://www.udemy.com/course/autocad-2020-and-artificial-intelligence-tools-part-2/?couponCode=25FD00F12D30ADF5058F
-https://www.udemy.com/course/pmp-test-papers/?couponCode=5D1BF5E43AAE3B21E76C
-https://www.udemy.com/course/3d-painting-using-flowscape-paint-dream-worlds-in-3d/?couponCode=F96BB8F4EB5F830ED889
-https://www.udemy.com/course/cost-accounting-and-artificial-intelligence-tools-part-1/?couponCode=07FB200ED50ABA8CC85F
-https://www.udemy.com/course/capm-test-papers/?couponCode=CAA5703B2A355CA3CA17
-https://www.udemy.com/course/learn-microsoft-access-from-scratch-for-beginners/?couponCode=2B717B3509AE28800612
-https://www.udemy.com/course/how-to-print-on-demand/?couponCode=E53EDE717D6EE3DD1D5A
-https://www.udemy.com/course/complete-course-for-beginners-for-solar-energy/?couponCode=13A0AAB537925485CD8F
-https://www.udemy.com/course/pmp-preparation-questions-practice-test-simulated-exam/?couponCode=FREE1000
-https://www.udemy.com/course/basic-corset-pattern-design/?couponCode=582E61136D5C66725598
-https://www.udemy.com/course/the-complete-revit-guide/?couponCode=E6CCACEA63CE76095A50
+https://www.udemy.com/course/complete-pixel-art-megacourse-beginner-to-expert/?couponCode=AAB8F13202189B7FA965
+https://www.udemy.com/course/sap-hana-20-certification-technology-associate-exam-sps05/?couponCode=PRATYUSH
+https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=A78816349F41EAD25EB2
+https://www.udemy.com/course/chinese-traditional-style-illustrations-course/?couponCode=745765CB5940A4B2A63C
+https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=3E254D40E5BAE13BF720
+https://www.udemy.com/course/nft-for-beginners/?couponCode=EDCBA181715A29127DB3
+https://www.udemy.com/course/independent-film-screenwriting/?couponCode=EFE2E14F018BC32F9910
+https://www.udemy.com/course/c-and-php-programming-complete-course/?couponCode=B50F8CDE6E26D958B8DE
+https://www.udemy.com/course/power-of-confidence-full-course2022/?couponCode=077F32E90D971A521DC5
+https://www.udemy.com/course/how-to-edit-a-feature-film-by-yourself/?couponCode=BE4FB5FC5CA36B107CF0
+https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=3F5984B4592F2E6927B7
+https://www.udemy.com/course/learn-visual-studio-code-v/?couponCode=TRY1000FREE3312201
 
