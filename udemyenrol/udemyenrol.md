@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/04/2022
+# Daily Free Udemy Courses - 03/04/2022
 
-https://www.udemy.com/course/complete-pixel-art-megacourse-beginner-to-expert/?couponCode=AAB8F13202189B7FA965
-https://www.udemy.com/course/sap-hana-20-certification-technology-associate-exam-sps05/?couponCode=PRATYUSH
-https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=A78816349F41EAD25EB2
-https://www.udemy.com/course/chinese-traditional-style-illustrations-course/?couponCode=745765CB5940A4B2A63C
-https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=3E254D40E5BAE13BF720
-https://www.udemy.com/course/nft-for-beginners/?couponCode=EDCBA181715A29127DB3
-https://www.udemy.com/course/independent-film-screenwriting/?couponCode=EFE2E14F018BC32F9910
-https://www.udemy.com/course/c-and-php-programming-complete-course/?couponCode=B50F8CDE6E26D958B8DE
-https://www.udemy.com/course/power-of-confidence-full-course2022/?couponCode=077F32E90D971A521DC5
-https://www.udemy.com/course/how-to-edit-a-feature-film-by-yourself/?couponCode=BE4FB5FC5CA36B107CF0
-https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=3F5984B4592F2E6927B7
-https://www.udemy.com/course/learn-visual-studio-code-v/?couponCode=TRY1000FREE3312201
+https://www.udemy.com/course/complete-ansible-for-network-engineers-ios-junos-arista/?couponCode=BFFD1DD288D3E3593F45
+https://www.udemy.com/course/professional-scrum-master-i-psm-i-practice-exams/?couponCode=ACF680BC27FCB7BDE217
+https://www.udemy.com/course/aws-certified-security-speciality-practice-tests-scs-c01-s/?couponCode=C7F09145A51FD03A22E1
+https://www.udemy.com/course/pmi-sp-scheduling-professional-practice-exams-2022/?couponCode=FB8B406971BA0A50DF0C
+https://www.udemy.com/course/blockchain-cryptocurrency-fundamentals-for-beginners/?couponCode=0F45F804C3F59DA1346E
+https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-exams-m/?couponCode=435095FE7F1ADA6C3D99
+https://www.udemy.com/course/design-augmented-reality-applications-without-coding-in-2022/?couponCode=PRELAUNCHONLY
+https://www.udemy.com/course/learn-integration-testing-with-spring-boot/?couponCode=FREEAPR22
+https://www.udemy.com/course/building-sales-relationships-networking/?couponCode=APR-2022
+https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=YOUACCEL50797
+https://www.udemy.com/course/complete-recruiting-course-human-resources-recruitment/?couponCode=E60BE011820BFE6A40BA
+https://www.udemy.com/course/the-complete-personal-networking-course-networking-mastery/?couponCode=16D950D5903F7C0C1E60
 
