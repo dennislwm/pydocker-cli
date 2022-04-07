@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/04/2022
+# Daily Free Udemy Courses - 07/04/2022
 
-https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=3C26ABBEA95EA3DDB2D2
-https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=1C7E1009E22E5200EAFB
-https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=D0D4CAD5F8384F69A091
-https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=C3B6E06FBF895F30301A
-https://www.udemy.com/course/10x-your-productivity-with-time-management/?couponCode=52E119AA5B3750E6B293
-https://www.udemy.com/course/learn-python-for-beginners-in-hindi/?couponCode=A388F2C41
-https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=88C0AF1F9F38E55A92E1
-https://www.udemy.com/course/google-looker-lookml/?couponCode=AB911CC
-https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=B89CA5C7081B96AECC65
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=A4768AD
-https://www.udemy.com/course/master-the-power-of-your-mind-to-be-more-successful/?couponCode=APR2022FREE1
-https://www.udemy.com/course/google-data-studio-by-starttech/?couponCode=A9D4D1B
+https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=2EA45624F73E290650E0
+https://www.udemy.com/course/learn-airtable/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=840512F8F796CC6955FD
+https://www.udemy.com/course/minibootcamp/?couponCode=833A3A7075B1391EE945
+https://www.udemy.com/course/learn-photo-editing-with-photoshop-2020/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/build-file-sharing-website/?couponCode=F44CF05BE2EACC8878CC
+https://www.udemy.com/course/adobe-after-effects-projects/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/excel-accounting-problem/?couponCode=AC77096BB376A444E38D
+https://www.udemy.com/course/adobe-creative-cloud-master-course/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/learn-basic-photoshop/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/adobe-premiere-pro-projects/?couponCode=TRY1000FREE42201
 
