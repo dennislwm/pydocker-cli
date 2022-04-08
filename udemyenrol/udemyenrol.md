@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/04/2022
+# Daily Free Udemy Courses - 08/04/2022
 
-https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=2EA45624F73E290650E0
-https://www.udemy.com/course/learn-airtable/?couponCode=TRY1000FREE42201
-https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/?couponCode=840512F8F796CC6955FD
-https://www.udemy.com/course/minibootcamp/?couponCode=833A3A7075B1391EE945
-https://www.udemy.com/course/learn-photo-editing-with-photoshop-2020/?couponCode=TRY1000FREE42201
-https://www.udemy.com/course/build-file-sharing-website/?couponCode=F44CF05BE2EACC8878CC
-https://www.udemy.com/course/adobe-after-effects-projects/?couponCode=TRY1000FREE42201
-https://www.udemy.com/course/adobe-creative-cloud-2020-master-course/?couponCode=TRY1000FREE42201
-https://www.udemy.com/course/excel-accounting-problem/?couponCode=AC77096BB376A444E38D
-https://www.udemy.com/course/adobe-creative-cloud-master-course/?couponCode=TRY1000FREE42201
-https://www.udemy.com/course/learn-basic-photoshop/?couponCode=TRY1000FREE42201
-https://www.udemy.com/course/adobe-premiere-pro-projects/?couponCode=TRY1000FREE42201
+https://www.udemy.com/course/facebook-ads-pixel-shopify-apple-ios14-ecommerce-wordpress/?couponCode=060222
+https://www.udemy.com/course/grow-fan-page-facebook-marketing-page-likes-ad-offers-messages-pixel/?couponCode=AAAAA1
+https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYAPR2022
+https://www.udemy.com/course/depression-counseling-made-simpler-and-effective-major-despressive/?couponCode=26EEA916552FA0DC1BD9
+https://www.udemy.com/course/book-of-nehemiah-how-to-develop-the-leader-in-you/?couponCode=718A11F3005BD8472380
+https://www.udemy.com/course/iia-cgap-practic-tests-prep-exam/?couponCode=37BC8768CE216918F141
+https://www.udemy.com/course/iia-cfsa-practice-tests-prep-exam/?couponCode=E912ED09908EB355E60A
+https://www.udemy.com/course/cgeit_prep_test/?couponCode=PASSMYCGEIT
+https://www.udemy.com/course/improve-english-by-movies/?couponCode=4970F1BCF18227CB5C1A
+https://www.udemy.com/course/iso-14001-2015-environmental-management-system/?couponCode=BB008E6C08EE103D1EF5
+https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=32FBC0391B62270C83
+https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/?couponCode=ADDCD8
 
