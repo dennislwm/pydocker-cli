@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/04/2022
+# Daily Free Udemy Courses - 10/04/2022
 
-https://www.udemy.com/course/prokon-civil-engineering-structural-design-rcc-element/?couponCode=10F9073082AC6D70F19A
-https://www.udemy.com/course/tekla-structures-shop-drawing-rcc-building/?couponCode=DFFE3ED50082B691D8A7
-https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEAPR221
-https://www.udemy.com/course/mba-retail-management-merchandising-and-e-commerce/?couponCode=RETAIL107
-https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=5D238581B6A9F538D449
-https://www.udemy.com/course/startup-pitch-deck-course/?couponCode=STARTUP107
-https://www.udemy.com/course/kivymd-develop-apps-using-kivymd-in-python/?couponCode=CODINGVIPIN
-https://www.udemy.com/course/mba-course-marketing-strategy/?couponCode=MBA107
-https://www.udemy.com/course/startup-fundraising-master-course/?couponCode=FUNDRAISING107
-https://www.udemy.com/course/complete-course-on-blockchain-and-crypto-currency/?couponCode=BLOCKCHAIN107
-https://www.udemy.com/course/hz-consulting-business-mini-course/?couponCode=AE7872EFD2E4DF3F8C37
-https://www.udemy.com/course/artificial-intelligence-video-creation-amazing-video-tools/?couponCode=A7AD69F8DEE6D6BAB616
+https://www.udemy.com/course/fundamentals-of-deep-learning/?couponCode=750C84C226FB8D9E5D17
+https://www.udemy.com/course/fundamentals-of-data-analysis/?couponCode=F9756ABDACA6142CC878
+https://www.udemy.com/course/fundamentals-of-machine-learning-n/?couponCode=FA87B20827F096A0927A
+https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/?couponCode=APR2022
+https://www.udemy.com/course/multi-site-it-deployments-business-technical-planning/?couponCode=APR2022
+https://www.udemy.com/course/windows-10-administration-basic-troubleshooting/?couponCode=APR2022
+https://www.udemy.com/course/gdpr-and-data-protection-compliance-for-beginners/?couponCode=APR2022
+https://www.udemy.com/course/installing-configuring-dns-services-on-windows-server-2016/?couponCode=MAR2021
+https://www.udemy.com/course/disaster-recovery-101-business-continuity-planning-bcp/?couponCode=APR2022
+https://www.udemy.com/course/it-desktop-computer-support-real-world-troubleshooting/?couponCode=APR2022
+https://www.udemy.com/course/malware-analysis-incident-response-for-it-technicians/?couponCode=APR2022
+https://www.udemy.com/course/migrating-it-infrastructure-from-windows-7-to-windows-10/?couponCode=APR2022
 
