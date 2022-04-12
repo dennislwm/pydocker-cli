@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/04/2022
+# Daily Free Udemy Courses - 12/04/2022
 
-https://www.udemy.com/course/life-coach-the-complete-life-coach-certification-course/?couponCode=5D9D179FE5B9D4FD3A17
-https://www.udemy.com/course/drupal-masterclass/?couponCode=1115EDC1E16A2DC6C93B
-https://www.udemy.com/course/reinvent-your-life-master-life-transformation-techniques/?couponCode=235779711E46F0C0270F
-https://www.udemy.com/course/the-complete-wordpress-developer-course-w/?couponCode=4D14F464E39138C77A0C
-https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=APRIL.2022
-https://www.udemy.com/course/excel-accounting-6adjusting-entries-financial-statements/?couponCode=C34382D293349021171C
-https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?couponCode=APR2022FREE1
-https://www.udemy.com/course/kanban-flow-metrics/?couponCode=A5FD7967
-https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/?couponCode=6CF99D424319EFBC3F4E
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=0EC2F7126E212F17E9E8
-https://www.udemy.com/course/java-test-automation-engineer-from-zero-to-hero/?couponCode=3BD647B11864077DC13A
-https://www.udemy.com/course/cbt-and-nutrition-ultimate-certification-diploma-course/?couponCode=AC659D9A3E8F6C9E6426
+https://www.udemy.com/course/webservices-testing-restassured-postman-complete-guide-learnit/?couponCode=ADDBC4C151B0186CC5A2
+https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/?couponCode=PCEP_2022_4_1
+https://www.udemy.com/course/corp-finance-17-merger-acquisition-foreign-currency/?couponCode=4D08487A86EED92B360F
+https://www.udemy.com/course/excel-accounting-5bank-reconciliations-month-1-2/?couponCode=5F6FA163AABD0F4D76AA
+https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=JSE_2022_4_1
+https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=APRIL1
+https://www.udemy.com/course/scrum-certification-course-based-on-scrum-guide-latest-version/?couponCode=APRIL1
+https://www.udemy.com/course/solidity-interview-questions-and-practice-tests-for-blockchain-devs/?couponCode=APRIL1
+https://www.udemy.com/course/developer-relations-fundamentals-devrel-masterclass/?couponCode=APRIL1
+https://www.udemy.com/course/git-github-practice-tests-and-interview-questions-basic-advanced/?couponCode=APRIL1
+https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?couponCode=APRIL1
+https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/?couponCode=APRIL1
 
