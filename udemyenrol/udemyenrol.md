@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/04/2022
+# Daily Free Udemy Courses - 18/04/2022
 
-https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exams-ku/?source=coursemetry.com&couponCode=CA91F55334D2F43B2F0B
-https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_APR2
-https://www.udemy.com/course/comptia-network-n10-007-practice-exam-o/?couponCode=FREEAPR2022
-https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEAPR233
-https://www.udemy.com/course/excel-lessons-zero-to-pro-for-teachers-and-office-workers/?couponCode=WEAREFRIENDS
-https://www.udemy.com/course/the-complete-web-development-course/?couponCode=WEB22APR2022
-https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=DE37002E6B2ED9330900
-https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=CF8F91BFA64CA3C40887
-https://www.udemy.com/course/responsive-web-development/?couponCode=WEB4APR2022
-https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-a/?couponCode=FREEAPR2022
-https://www.udemy.com/course/az-220-microsoft-azure-iot-developer-practice-questions/?couponCode=FREEAZ220MICROSOFT
-https://www.udemy.com/course/az104-microsoft-azure-administrator-practice-exams/?couponCode=2510D5F830E26AA5B12C
+https://www.udemy.com/course/servicenow-system-administrator-csa-practice-exams-2022-n/?couponCode=FREE1000
+https://www.udemy.com/course/cams-certified-anti-money-laundering-specialist-exams/?couponCode=CC4B827BE06723C6F4AF
+https://www.udemy.com/course/learn-to-edit-in-davinci-resolve-17-for-beginners-in-30-min/?couponCode=EB13DC3BD9A18E4CA7D6
+https://www.udemy.com/course/learn-python-programming-from-scratch-e/?couponCode=151456229D58F3F67
+https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=DCD98C8D54D59F2
+https://www.udemy.com/course/henry-zhang-nft-mini-course/?couponCode=005D99EB7691F4E34705
+https://www.udemy.com/course/henry-zhang-crypto-mini-course/?couponCode=07769E956F442EA4E2E6
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=B12EF54B8D1694881357
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=0D9EF0358DBF496B6825
+https://www.udemy.com/course/learn-how-to-use-zapier-to-automate-your-business/?couponCode=897CF95C4D933A83FC2D
+https://www.udemy.com/course/human-rights-a-basic-course/?couponCode=FREE_HR_0422
+https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=4EF41CF70D1E424A0F09
 
