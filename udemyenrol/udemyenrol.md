@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/04/2022
+# Daily Free Udemy Courses - 19/04/2022
 
-https://www.udemy.com/course/servicenow-system-administrator-csa-practice-exams-2022-n/?couponCode=FREE1000
-https://www.udemy.com/course/cams-certified-anti-money-laundering-specialist-exams/?couponCode=CC4B827BE06723C6F4AF
-https://www.udemy.com/course/learn-to-edit-in-davinci-resolve-17-for-beginners-in-30-min/?couponCode=EB13DC3BD9A18E4CA7D6
-https://www.udemy.com/course/learn-python-programming-from-scratch-e/?couponCode=151456229D58F3F67
-https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=DCD98C8D54D59F2
-https://www.udemy.com/course/henry-zhang-nft-mini-course/?couponCode=005D99EB7691F4E34705
-https://www.udemy.com/course/henry-zhang-crypto-mini-course/?couponCode=07769E956F442EA4E2E6
-https://www.udemy.com/course/introduction-to-bonds/?couponCode=B12EF54B8D1694881357
-https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=0D9EF0358DBF496B6825
-https://www.udemy.com/course/learn-how-to-use-zapier-to-automate-your-business/?couponCode=897CF95C4D933A83FC2D
-https://www.udemy.com/course/human-rights-a-basic-course/?couponCode=FREE_HR_0422
-https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=4EF41CF70D1E424A0F09
+https://www.udemy.com/course/open-broadcaster/?couponCode=TRY1000FREE42203
+https://www.udemy.com/course/wordpress-elementor-course-develop-site-without-coding/?couponCode=ELEMENTORFREE
+https://www.udemy.com/course/fundamental-sales-skills-to-boost-your-growth-and-success/?couponCode=ENJOYAPRIL2022
+https://www.udemy.com/course/genetics-e/?couponCode=6FD48D9CADB1D776521D
+https://www.udemy.com/course/stablecoin-fundamentals-by-sam-ghosh/?couponCode=STABLECOIN5DAY3
+https://www.udemy.com/course/microsoft-azure-ai-102-exam-practice-test/?couponCode=FREEAI102
+https://www.udemy.com/course/acfe-cfe-certified-fraud-examiner-practice-exams/?couponCode=3E8E05489BDC6CB915C6
+https://www.udemy.com/course/aci-dealing-certificate-3i0-012-practice-exams/?couponCode=8D0DAFCAB30AD49E3D5D
+https://www.udemy.com/course/spirituality-for-emotional-freedom-core-teachings/?couponCode=46602FDD5E3DC8FC5F77
+https://www.udemy.com/course/7-tantric-guided-meditations-kundalini-third-eye-breath-awareness/?couponCode=424A6A26F4AFC28F2A1B
+https://www.udemy.com/course/software-career-planning-bootcamp/?couponCode=D9C7DF4DA8B7E5836706
+https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=1DF777FD7D3538695BC9
 
