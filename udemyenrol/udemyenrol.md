@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/04/2022
+# Daily Free Udemy Courses - 21/04/2022
 
-https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=46FF02649D4E17EEA081
-https://www.udemy.com/course/the-complete-proofreading-course-editing-and-proofreading/?couponCode=5A3102F853D291467F7D
-https://www.udemy.com/course/facebook-conversion-ads/?couponCode=WATERTIGER5
-https://www.udemy.com/course/60-day-startup/?couponCode=BUSINESSLESSONS
-https://www.udemy.com/course/the-complete-happiness-course-become-happier-now/?couponCode=A24E3844E8D61FEB468F
-https://www.udemy.com/course/learn-copywriting/?couponCode=5060AEDFC0F1E9B7AC37
-https://www.udemy.com/course/python-for-computer-vision/?couponCode=SUMMERLEARNING
-https://www.udemy.com/course/nlp-course-for-beginner/?couponCode=SUMMERLEARNING
-https://www.udemy.com/course/machine-learning-course/?couponCode=SUMMERLEARNING
-https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEAPR234
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEAPR236
-https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEAPR235
+https://www.udemy.com/course/rktowards-excellence-the-25-steps-to-success/?couponCode=02A19E8E0F63A0BD9791
+https://www.udemy.com/course/geographic-information-system-in-qgis-basic-of-gis-analysis/?couponCode=FIEVER20PRIL
+https://www.udemy.com/course/microsoft-excel-basic-excel-formulas-and-functions/?couponCode=A3A3432
+https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=MODEL3D
+https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/?couponCode=BREAKCIRCUIT
+https://www.udemy.com/course/basic-structure-of-computers-rakshithkalmadi/?couponCode=EBF1375443C3AB6429BB
+https://www.udemy.com/course/rk-all-about-kali-linux-os-hacking-for-everybody/?couponCode=04440C29D631ECE29A1B
+https://www.udemy.com/course/rkeverything-about-blogger-from-scratch/?couponCode=13FB617A83B0DF50F6C6
+https://www.udemy.com/course/rkbest-introduction-to-information-security/?couponCode=40C0CFADDFC05AA3452E
+https://www.udemy.com/course/introduction-to-cybersecurity-vtowardstechno/?couponCode=9C38101EC70228A48490
+https://www.udemy.com/course/machine-learning-adv-support-vector-machines-svm-python/?couponCode=A0B930A
+https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=12755CCBC403BA97FC87
 
