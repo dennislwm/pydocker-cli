@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/04/2022
+# Daily Free Udemy Courses - 22/04/2022
 
-https://www.udemy.com/course/rktowards-excellence-the-25-steps-to-success/?couponCode=02A19E8E0F63A0BD9791
-https://www.udemy.com/course/geographic-information-system-in-qgis-basic-of-gis-analysis/?couponCode=FIEVER20PRIL
-https://www.udemy.com/course/microsoft-excel-basic-excel-formulas-and-functions/?couponCode=A3A3432
-https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=MODEL3D
-https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/?couponCode=BREAKCIRCUIT
-https://www.udemy.com/course/basic-structure-of-computers-rakshithkalmadi/?couponCode=EBF1375443C3AB6429BB
-https://www.udemy.com/course/rk-all-about-kali-linux-os-hacking-for-everybody/?couponCode=04440C29D631ECE29A1B
-https://www.udemy.com/course/rkeverything-about-blogger-from-scratch/?couponCode=13FB617A83B0DF50F6C6
-https://www.udemy.com/course/rkbest-introduction-to-information-security/?couponCode=40C0CFADDFC05AA3452E
-https://www.udemy.com/course/introduction-to-cybersecurity-vtowardstechno/?couponCode=9C38101EC70228A48490
-https://www.udemy.com/course/machine-learning-adv-support-vector-machines-svm-python/?couponCode=A0B930A
-https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=12755CCBC403BA97FC87
+https://www.udemy.com/course/cna-practice-tests-certified-nursing-assistant/?couponCode=2252A49C44756CBB8014
+https://www.udemy.com/course/australian-citizenship-test-certificate-the-immigration-dream/?couponCode=475AD1F590250C9EAA79
+https://www.udemy.com/course/home-health-aide-competency-hha-practice-tests/?couponCode=D769165E23128808586E
+https://www.udemy.com/course/graduate-record-examinations-gre-ets-questions-and-answers/?couponCode=342E4076FE2D6B6EDCD9
+https://www.udemy.com/course/certified-nursing-assistant-cna-practice-tests-part-3/?couponCode=8AED082E035D837D5365
+https://www.udemy.com/course/program-management-professional-pmi-pgmp/?couponCode=A291A7D59EF4327CD5A1
+https://www.udemy.com/course/canada-citizenship-nationality-practice-tests-by-state-and-region/?couponCode=B91F058BABE0E5F45F33
+https://www.udemy.com/course/health-sports-acsm-certified-personal-trainer-exam-practice-questions/?couponCode=41C28AFCF7C625EE3905
+https://www.udemy.com/course/us-citizenship-tests-become-naturalized-us-citizen/?couponCode=019CB644E2BF53D7BC53
+https://www.udemy.com/course/professional-job-interview-questions-and-answers/?couponCode=C2D9128A8DF4A2F4119E
+https://www.udemy.com/course/scholastic-aptitude-test-sat-exam-practical-questions/?couponCode=A4E1631304EEF70753BD
+https://www.udemy.com/course/intelligence-quotient-iq-test-questions-and-answers/?couponCode=A71DC133A1A7BBD74CF7
 
