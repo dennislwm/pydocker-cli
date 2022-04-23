@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/04/2022
+# Daily Free Udemy Courses - 23/04/2022
 
-https://www.udemy.com/course/cna-practice-tests-certified-nursing-assistant/?couponCode=2252A49C44756CBB8014
-https://www.udemy.com/course/australian-citizenship-test-certificate-the-immigration-dream/?couponCode=475AD1F590250C9EAA79
-https://www.udemy.com/course/home-health-aide-competency-hha-practice-tests/?couponCode=D769165E23128808586E
-https://www.udemy.com/course/graduate-record-examinations-gre-ets-questions-and-answers/?couponCode=342E4076FE2D6B6EDCD9
-https://www.udemy.com/course/certified-nursing-assistant-cna-practice-tests-part-3/?couponCode=8AED082E035D837D5365
-https://www.udemy.com/course/program-management-professional-pmi-pgmp/?couponCode=A291A7D59EF4327CD5A1
-https://www.udemy.com/course/canada-citizenship-nationality-practice-tests-by-state-and-region/?couponCode=B91F058BABE0E5F45F33
-https://www.udemy.com/course/health-sports-acsm-certified-personal-trainer-exam-practice-questions/?couponCode=41C28AFCF7C625EE3905
-https://www.udemy.com/course/us-citizenship-tests-become-naturalized-us-citizen/?couponCode=019CB644E2BF53D7BC53
-https://www.udemy.com/course/professional-job-interview-questions-and-answers/?couponCode=C2D9128A8DF4A2F4119E
-https://www.udemy.com/course/scholastic-aptitude-test-sat-exam-practical-questions/?couponCode=A4E1631304EEF70753BD
-https://www.udemy.com/course/intelligence-quotient-iq-test-questions-and-answers/?couponCode=A71DC133A1A7BBD74CF7
+https://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=FAST22
+https://www.udemy.com/course/the-ultimate-microsoft-excel-pivot-table-masterclass/?couponCode=SUMMEREXCEL2022
+https://www.udemy.com/course/cisco-ccna-cyberops-secfnd-210-250-practice-questions-j/?couponCode=FREECCCS2022
+https://www.udemy.com/course/certified-ethical-hacker-ceh-v10-practice-questions/?couponCode=FREECEHV10JOINNOW
+https://www.udemy.com/course/passive-income-business/?couponCode=F888C8B1E7EDEA333C0D
+https://www.udemy.com/course/introduction-to-swedish-body-massage/?couponCode=SPICYGROUP
+https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=1785E3D6F3C8AABE9C3B
+https://www.udemy.com/course/christmas-blues/?couponCode=SPRING2022SALE
+https://www.udemy.com/course/hz-futures-trading-mini-course/?couponCode=D3FE22741F69AF468E17
+https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-questions-w/?couponCode=FREEAPR2022
+https://www.udemy.com/course/latest-mb-910-microsoft-dynamics-365-fundamentals-tests/?couponCode=MB910FREE3
+https://www.udemy.com/course/aws-certified-cloud-practitioner-latest-practice-exams/?couponCode=AWSDROP2
 
