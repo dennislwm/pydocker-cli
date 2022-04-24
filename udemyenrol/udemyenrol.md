@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 23/04/2022
+# Daily Free Udemy Courses - 24/04/2022
 
 https://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=FAST22
 https://www.udemy.com/course/the-ultimate-microsoft-excel-pivot-table-masterclass/?couponCode=SUMMEREXCEL2022
