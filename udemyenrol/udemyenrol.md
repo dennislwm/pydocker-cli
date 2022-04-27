@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/04/2022
+# Daily Free Udemy Courses - 27/04/2022
 
-https://www.udemy.com/course/improve-english-by-movies/?couponCode=18C292B28BBF13E5D316
-https://www.udemy.com/course/learn-google-my-maps/?couponCode=TRY1000FREE42205
-https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=9C32A75D1F92A53A0466
-https://www.udemy.com/course/aws-certified-solutions-architect-professional-practice-exam-q/?couponCode=FREEAPR2022
-https://www.udemy.com/course/improve-english-by-listening-movies-1c/?couponCode=14D95AE4B21120399A81
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-latest-practice-exam-g/?couponCode=FREEAZ900
-https://www.udemy.com/course/lumion-landscape-design-rendering-essentials/?couponCode=THECIVILARCH
-https://www.udemy.com/course/aws-certified-developer-associate-practice-exam-v/?couponCode=FREEAWSCDA2022
-https://www.udemy.com/course/az-304-microsoft-azure-architect-design-practice-questions/?couponCode=FREEAPR2022
-https://www.udemy.com/course/python-for-beginners-learn/?couponCode=3C3C21B098E6CD7BBF0E
-https://www.udemy.com/course/google-certified-professional-cloud-architect-practice-exam-v/?couponCode=FREEAPR2022
-https://www.udemy.com/course/az-400-designing-and-implementing-microsoft-devops-solution-c/?couponCode=FREEAPR2022
+https://www.udemy.com/course/google-professional-cloud-security-engineer-practice-exam/?couponCode=FREEGPCSE2022
+https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/?couponCode=50B7ECA9B9749DA1A885
+https://www.udemy.com/course/comptia-cybersecurity-analyst-cysa-practice-test/?couponCode=FREECYSAPLUS
+https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-questions-t/?couponCode=FD8570FFE
+https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=7431337CB6FD9190AA52
+https://www.udemy.com/course/the-python-programming-v39-comprehensive-bootcamp/?couponCode=5F6A2167FDA82C6937E6
+https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/?couponCode=DF649BA2A71DEF39E5D8
+https://www.udemy.com/course/machine-learning-basics-classification-models-in-r/?couponCode=ULGFGV
+https://www.udemy.com/course/microsoft-excel-basic-excel-formulas-and-functions/?couponCode=HBJPMZ
+https://www.udemy.com/course/predictive-regression-modelling-in-microsoft-excel/?couponCode=SFVXNJ
+https://www.udemy.com/course/podcasting-mini-course/?couponCode=A6D5AC326A14E92522E0
+https://www.udemy.com/course/agile-crash-course-agile-teams/?couponCode=APR0322
 
