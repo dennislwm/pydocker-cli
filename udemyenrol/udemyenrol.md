@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/04/2022
+# Daily Free Udemy Courses - 01/05/2022
 
-https://www.udemy.com/course/entrepreneurship-personality/?couponCode=B64F93524AFC0CAA53C8
-https://www.udemy.com/course/matt-barnet-nlp-coaching-re-new-you-personnal-development-hypnosis/?couponCode=5AB39A1B2CBA9B3C930F
-https://www.udemy.com/course/neuro-negotiation-system-become-number-one-negotiator-and-make-or-save-money/?couponCode=APR2022FREE001
-https://www.udemy.com/course/english-placement-test/?couponCode=HAPPY-EID
-https://www.udemy.com/course/time-management-for-personal-professional-productivity-sikshaa/?couponCode=COUPON28
-https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-test-e/?couponCode=151F4EA24AF202CB56AE
-https://www.udemy.com/course/python-programming-tutorial-for-the-absolute-beginner-code-included/?couponCode=APRIL-LAST-CALL
-https://www.udemy.com/course/project-management-essential-training-1/?couponCode=APRIL-LAST-CALL
-https://www.udemy.com/course/ultrasonic-testing-level-1-training/?couponCode=APRIL-LAST-CALL
-https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=APRIL-LAST-CALL
-https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice/?couponCode=822D1752576F1DC03122
-https://www.udemy.com/course/the-zen-methodology-secrets-to-habit-formation/?couponCode=COUPON28
+https://www.udemy.com/course/online-marketing-with-google-my-business-digital-marketing/?couponCode=A30422
+https://www.udemy.com/course/digital-marketing-with-google-my-business-seo-website-local-listing/?couponCode=A30422
+https://www.udemy.com/course/mastery-on-facebook-marketing-facebook-advertising-ads-digital/?couponCode=A30422
+https://www.udemy.com/course/social-media-marketing-digital-marketing-masterclass-for-beginners/?couponCode=A30422
+https://www.udemy.com/course/ultimate-google-adwords-ads-training-for-ppc-seo-2019/?couponCode=A30422
+https://www.udemy.com/course/digital-marketing-google-adwords-express-seo-ppc-advertising-2018/?couponCode=A30422
+https://www.udemy.com/course/secure-your-linux-vps/?couponCode=JAZZDAY
+https://www.udemy.com/course/facebook-marketing-social-media-marketing-advertising-strategy-ads/?couponCode=A30422
+https://www.udemy.com/course/speech-therapy-eliminate-verbal-tics-uh-um-er-ya-know/?couponCode=6080B1C468268EB43AFE
+https://www.udemy.com/course/nft-for-beginners/?couponCode=92C6D9F01F4C145E2D94
+https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=WATERTIGER5
+https://www.udemy.com/course/public-speaking-for-beginners-al/?couponCode=2C60BE7F801110CB3B5F
 
