@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/05/2022
+# Daily Free Udemy Courses - 02/05/2022
 
-https://www.udemy.com/course/online-marketing-with-google-my-business-digital-marketing/?couponCode=A30422
-https://www.udemy.com/course/digital-marketing-with-google-my-business-seo-website-local-listing/?couponCode=A30422
-https://www.udemy.com/course/mastery-on-facebook-marketing-facebook-advertising-ads-digital/?couponCode=A30422
-https://www.udemy.com/course/social-media-marketing-digital-marketing-masterclass-for-beginners/?couponCode=A30422
-https://www.udemy.com/course/ultimate-google-adwords-ads-training-for-ppc-seo-2019/?couponCode=A30422
-https://www.udemy.com/course/digital-marketing-google-adwords-express-seo-ppc-advertising-2018/?couponCode=A30422
-https://www.udemy.com/course/secure-your-linux-vps/?couponCode=JAZZDAY
-https://www.udemy.com/course/facebook-marketing-social-media-marketing-advertising-strategy-ads/?couponCode=A30422
-https://www.udemy.com/course/speech-therapy-eliminate-verbal-tics-uh-um-er-ya-know/?couponCode=6080B1C468268EB43AFE
-https://www.udemy.com/course/nft-for-beginners/?couponCode=92C6D9F01F4C145E2D94
-https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=WATERTIGER5
-https://www.udemy.com/course/public-speaking-for-beginners-al/?couponCode=2C60BE7F801110CB3B5F
+https://www.udemy.com/course/10x-your-productivity-with-time-management/?couponCode=3DA496C644EE0412EAC9
+https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=3D56FDF670AAA975BF86
+https://www.udemy.com/course/wordpress-for-absolute-beginners-course/?couponCode=WPMAY2022
+https://www.udemy.com/course/mulesoft-certified-integration-architect-practice-exams-b/?couponCode=MAY2022
+https://www.udemy.com/course/microsoft-azure-solutions-az-204/?couponCode=9B532FC1FA4327937B10
+https://www.udemy.com/course/cams-certified-anti-money-laundering-specialist-exams/?couponCode=0B107E70A526F0D539D9
+https://www.udemy.com/course/certified-ethical-hacker-v11-crash-course-practice-test/?couponCode=E51CFA58C80D21DCFEAA
+https://www.udemy.com/course/master-gmat-math-data-sufficiencyproblem-solving-2020/?couponCode=MASTER
+https://www.udemy.com/course/vedic-maths-mental-maths/?couponCode=FREE2022
+https://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=FREENOW
+https://www.udemy.com/course/best-leadership-presentationskills-teamwork-timemanagement/?couponCode=REVIEWPLEASE
+https://www.udemy.com/course/the-best-course-for-learning-leadership/?couponCode=PLEASEREVIEW
 
