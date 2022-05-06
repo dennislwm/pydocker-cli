@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/05/2022
+# Daily Free Udemy Courses - 06/05/2022
 
-https://www.udemy.com/course/stock-trading-macd-bb-cci-technical-analysis/?couponCode=1MAY22
-https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEMAY225
-https://www.udemy.com/course/the-art-of-persuasion-x/?couponCode=33F19C5CA399A2F9AB86
-https://www.udemy.com/course/udemy-online-course-creation-for-passive-income/?couponCode=62210C26056663729929
-https://www.udemy.com/course/microsoft-sql-for-beginners-/?couponCode=DC53CEB09D391284CCF0
-https://www.udemy.com/course/english-vocabulary-complete-course-for-begginers-to-2022/?couponCode=FREE3U
-https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=5344717D702D8CCC2588
-https://www.udemy.com/course/getting-started-with-blockchain-solidity-and-smart-contracts/?couponCode=8E079DA8F47F048DA206
-https://www.udemy.com/course/master-html5-css3-bootstrap5-by-building-responsive-website/?couponCode=8B07CE3245B5AE1279CF
-https://www.udemy.com/course/meditation-masterclass/?couponCode=F35CD5BFB0F0BE714EDA
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=F7B7139F659F6FF57F27
-https://www.udemy.com/course/meditationforbeginners/?couponCode=35B1179CD9603CDEE915
+https://www.udemy.com/course/java-games-development/?couponCode=YANEV_FREE2
+https://www.udemy.com/course/zero-to-six-figures-amazon/?couponCode=D491722FD5144B1D7169
+https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/?couponCode=MAY001
+https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=MAY001
+https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=MAY001
+https://www.udemy.com/course/english-grammar-course-tenses-structures/?couponCode=MAY1ST
+https://www.udemy.com/course/programming-typescript-from-beginners-to-experts-2022/?couponCode=30A49A0805E50632C444
+https://www.udemy.com/course/gsap-course/?couponCode=YANEV_FREE2
+https://www.udemy.com/course/python-game-development/?couponCode=YANEV_FREE2
+https://www.udemy.com/course/guitar-for-beginners-become-a-confident-guitar-player/?couponCode=FREEGUITARCOURSE
+https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?couponCode=MAY001
+https://www.udemy.com/course/python-practice-tests-and-interview-questions-basic-advanced/?couponCode=MAY001
 
