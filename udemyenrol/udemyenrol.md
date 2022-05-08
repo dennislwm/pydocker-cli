@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/05/2022
+# Daily Free Udemy Courses - 08/05/2022
 
-https://www.udemy.com/course/az-304az-305-microsoft-azure-architect-design-exams-2022/?couponCode=LIMITED
-https://www.udemy.com/course/md-100-windows-10-practice-exams-may-2022/?couponCode=SECOND
-https://www.udemy.com/course/lpi-linux-essentials-010-160-practice-exams-may-2022/?couponCode=SECOND
-https://www.udemy.com/course/ai-900-microsoft-azure-ai-fundamentals-practice-questions/?couponCode=FREEAI900MAAF
-https://www.udemy.com/course/acp-100-jira-administrator-practice-exams-y/?couponCode=58B8792BC408AD47B41D
-https://www.udemy.com/course/aws-certified-solutions-architect-professional-latest-exam-y/?couponCode=FREEMAY2022
-https://www.udemy.com/course/art-therapy-and-dementia/?couponCode=DEMENTIA
-https://www.udemy.com/course/urban-transportation-planning-supply-chain-management/?couponCode=FREECOURSE
-https://www.udemy.com/course/powershell-functions-master-class/?couponCode=LOYALAUDIENCES18
-https://www.udemy.com/course/aws-ansc00-certified-advanced-networking-practice-exams-2022/?couponCode=SECOND
-https://www.udemy.com/course/lean-six-sigma-white-belt1/?couponCode=71329EA923B91E891D43
-https://www.udemy.com/course/microsoft-power-bi-pl-300-exam-advanced-practice-exams-2022/?couponCode=SECOND
+https://www.udemy.com/course/local-business-2022/?couponCode=WATERTIGER5
+https://www.udemy.com/course/the-complete-motivation-course-motivation-for-your-success/?couponCode=A55ECC7073BBB6FA3FCC
+https://www.udemy.com/course/the-comprehensive-sql-course/?couponCode=06EBE05D23B32E8C3E2E
+https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=PREMIEREPROVIBES2022
+https://www.udemy.com/course/nft-for-beginners/?couponCode=6DAE34167C467AE3D24A
+https://www.udemy.com/course/complete-tiktok-marketing-course-for-business-tiktok-habits/?couponCode=C39A95302A5267DC40DB
+https://www.udemy.com/course/complete-management-coaching-course-executive-coaching/?couponCode=42A33F11FB0D041361B0
+https://www.udemy.com/course/bug-bounty-hunting-with-burp-suite/?couponCode=HELLONEWHUNTRS
+https://www.udemy.com/course/human-rights-a-basic-course/?couponCode=HR_FREE_0522
+https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=82A0AA09A50D5461C596
+https://www.udemy.com/course/bitcoin-university/?couponCode=6401EEACAA524E8F95A6
+https://www.udemy.com/course/socio-political-philosophy-an-introduction/?couponCode=SOC_POL_FREE0522
 
