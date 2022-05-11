@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/05/2022
+# Daily Free Udemy Courses - 11/05/2022
 
-https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exam-a/?couponCode=FREEMAY2022
-https://www.udemy.com/course/complete-pixel-art-megacourse-beginner-to-expert/?couponCode=8473470432848A2FF188
-https://www.udemy.com/course/iassc-cssc-lean-six-sigma-yellow-belt-certifications-exams-s/?couponCode=FF59CBA382A09CDF9646
-https://www.udemy.com/course/iassc-cssc-lean-six-sigma-green-belt-certification-exams-y/?couponCode=582B44F77A487BB32B16
-https://www.udemy.com/course/pmi-sp-pmi-scheduling-professional-practice-tests/?couponCode=3914B777CA26FFC57053
-https://www.udemy.com/course/pmi-acp-pmi-agile-certified-practitioner-practice-tests/?couponCode=7FF9185F863A27715D44
-https://www.udemy.com/course/reactjs-race-beginners-lap/?couponCode=6C3FB9E8B5E45EE09522
-https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-practice-exam/?couponCode=FREEMAY2022
-https://www.udemy.com/course/comptia-security-sy0-501-k/?couponCode=B98CB1FFB56511EDE564
-https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?couponCode=PHPCOURSE55
-https://www.udemy.com/course/wordpress-for-beginners-best-wordpress-and-marketing-course/?couponCode=DF3CEA1CE9D9EFA0BAED
-https://www.udemy.com/course/linear-regression-and-logistic-regression-in-python-starttech/?couponCode=UFWUDY
+https://www.udemy.com/course/complete-japanese-course-learn-japanese-for-beginners-lvl-1/?couponCode=2AE673259383BD252DFA
+https://www.udemy.com/course/adobe-illustrator-cc-2020-master-course/?couponCode=TRY100052201
+https://www.udemy.com/course/next-generation-firewall-jam-session-2021/?couponCode=FREE-NGFW-INTRO
+https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=CB44F7AAC090BA68F58C
+https://www.udemy.com/course/complete-whatsapp-marketing-course-2021/?couponCode=CF1738C50B0D71E51927
+https://www.udemy.com/course/web-developer-101-use-web-servers-to-build-sites-on-your-pc/?couponCode=WEBDEVMAY2022
+https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATEMAY2022
+https://www.udemy.com/course/print-on-demand-with-etsy-printful/?couponCode=DB266806546C2A16A5C5
+https://www.udemy.com/course/master-data-science-in-python/?couponCode=ILOVEDATASCIENCE
+https://www.udemy.com/course/learn-basic-jquery/?couponCode=TRY100052201
+https://www.udemy.com/course/learn-microsoft-power-bi-course/?couponCode=TRY100052201
+https://www.udemy.com/course/learn-microsoft-outlook/?couponCode=TRY100052201
 
