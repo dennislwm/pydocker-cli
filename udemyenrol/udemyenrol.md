@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/05/2022
+# Daily Free Udemy Courses - 19/05/2022
 
-https://www.udemy.com/course/learn-g-suite/?couponCode=TRY100052202
-https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEMAY237
-https://www.udemy.com/course/the-complete-css-course/?couponCode=TRY100052202
-https://www.udemy.com/course/excel-quick-start-guide-from-beginner-to-expert/?couponCode=IFSDRW
-https://www.udemy.com/course/ethical-hacking-metasploit/?couponCode=CHERRY
-https://www.udemy.com/course/learn-microsoft-publisher/?couponCode=TRY100052202
-https://www.udemy.com/course/gmail-productivity/?couponCode=TRY100052202
-https://www.udemy.com/course/microsoft-excel-basic-excel-formulas-and-functions/?couponCode=WSGKTW
-https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEMAY240
-https://www.udemy.com/course/learn-microsoft-word/?couponCode=TRY100052202
-https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEMAY236
-https://www.udemy.com/course/jdbc-course/?couponCode=TRY100052202
+https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=MAY0002
+https://www.udemy.com/course/python-pandas-data-crash-course/?couponCode=F05EA32BEAEB286EA3A0
+https://www.udemy.com/course/apics-certified-supply-chain-professional-cscp-mock-tests/?couponCode=VIPPROMO
+https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-2022-w/?couponCode=VIPPROMO
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-may-2022/?couponCode=VIPPROMO
+https://www.udemy.com/course/servicenow-certified-system-administrator-csa-may-2022/?couponCode=VIPPROMO
+https://www.udemy.com/course/microsoft-power-bi-pl-300-exam-advanced-practice-exams-2022/?couponCode=VIPPROMO
+https://www.udemy.com/course/assertveness-training/?couponCode=6ECE1DE3B4B437F57FDA
+https://www.udemy.com/course/latest-ai-900-azure-ai-fundamental-practice-tests-may-2022/?couponCode=VIPPROMO
+https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-python/?couponCode=BJSPHY
+https://www.udemy.com/course/aws-solutions-architect-associate-saa-c02-practice-exams-i/?couponCode=VIPPROMO
+https://www.udemy.com/course/350-701-scor-cisco-security-core-technologies-practice-exams/?couponCode=VIPPROMO
 
