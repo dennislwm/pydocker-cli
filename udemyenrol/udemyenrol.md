@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/05/2022
+# Daily Free Udemy Courses - 22/05/2022
 
-https://www.udemy.com/course/pythonforabsolutebeginners/?couponCode=YASWANTHSAIPALAGHAT
-https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=YASWANTHSAIPALAGHAT
-https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=YASWANTHSAIPALAGHAT
-https://www.udemy.com/course/no-code-machine-learning-using-amazon-aws-sagemaker-canvas/?couponCode=MAY002
-https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/?couponCode=MAY002
-https://www.udemy.com/course/ace-the-wordpress-interview-50-most-asked-wordpress-qa/?couponCode=WORDPRESS-QUESTIONS
-https://www.udemy.com/course/learn-easy-italian/?couponCode=430548DC531F9E16E63E
-https://www.udemy.com/course/az-400-microsoft-azure-devops-solutions-practice-2022/?couponCode=6643244C4015FA8DB194
-https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=6ED6BB528656B572227F
-https://www.udemy.com/course/bitcoin-university/?couponCode=6935CA634946FD1AEBA1
-https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=64577B939655DC320243
-https://www.udemy.com/course/the-sounds-of-english/?couponCode=3D5D5817D3D9C9D699D8
+https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/?couponCode=MAY002
+https://www.udemy.com/course/html-certification-practice-test-for-exams-interviews-z/?couponCode=BFA81695EEE318A2E129
+https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=MAY002
+https://www.udemy.com/course/accounting-interview-questions-go-from-zero-to-hero/?couponCode=FREEACCOUNTING
+https://www.udemy.com/course/excel-accounting-4enter-data-track-current-month-ytd/?couponCode=44DB9313FE6C5FC27D65
+https://www.udemy.com/course/learn-to-make-podcasts-into-kindle-books/?couponCode=RFPIBSKBEXPMAY242022
+https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=E2890826B5A91FE557B2
+https://www.udemy.com/course/learn-podcast-pacing/?couponCode=PPFAEEXPMAY242022
+https://www.udemy.com/course/complete-whatsapp-marketing-course-2021/?couponCode=37788647D8404141E960
+https://www.udemy.com/course/learn-to-podcast-with-passion/?couponCode=PWPAIEXPMAY252022
+https://www.udemy.com/course/excel-accounting-2worksheet-opening-balances-subledger/?couponCode=0899899943D0D83D72C7
+https://www.udemy.com/course/become-a-certified-python-programmer-python-practice-tests/?couponCode=F657BA7F238FE1CC99D7
 
