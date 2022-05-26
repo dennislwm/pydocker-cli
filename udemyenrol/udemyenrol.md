@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/05/2022
+# Daily Free Udemy Courses - 26/05/2022
 
-https://www.udemy.com/course/indroduction-to-token-engineering-for-web3-platforms-sam-ghosh/?couponCode=TOKENENGINEERIN5DAY1
-https://www.udemy.com/course/hiring-process-talent-management/?couponCode=MAY-2022
-https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=A12FDFD31B4A7343468E
-https://www.udemy.com/course/method-333-emotional-intelligence/?couponCode=E62C4E49C2B62235C36B
-https://www.udemy.com/course/learn-microsoft-access-from-scratch-for-beginners/?couponCode=7CF9FC17A9DEDAC48DAA
-https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=556DE36A2224E474FE39
-https://www.udemy.com/course/customer-valuation-for-entrepreneur-and-marketers/?couponCode=JFSPNR
-https://www.udemy.com/course/learn-basics-of-adobe-after-effects-cc-for-beginners-learn/?couponCode=9979ACC7C6F23EFEC90B
-https://www.udemy.com/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/?couponCode=EEFBA1F56D964AFB3B21
-https://www.udemy.com/course/learn-basics-of-adobe-photoshop-cc-for-beginners/?couponCode=E147544324CD982765E6
-https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=BF7E8AB3B6FF86AAA4B3
-https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=ADC347D64AFB7382BC30
+https://www.udemy.com/course/nft-for-beginners/?couponCode=AD229D2BD07BE2B08DC0
+https://www.udemy.com/course/matematicas-financieras-h/?couponCode=JOSECODETECHMAYO
+https://www.udemy.com/course/certificate-en-microsoft-azure-dp-203-data-engineering-2022/?couponCode=E0E875C27C1A8BF0228D
+https://www.udemy.com/course/java-practice-exams/?couponCode=E4063108A6CCE3A62680
+https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=77986AD14EBFEE99A929
+https://www.udemy.com/course/podcasting-nlp-communication-influence/?couponCode=PWNLPHAGEXPMAY272022
+https://www.udemy.com/course/python-programming-tutorial-for-the-absolute-beginner-code-included/?couponCode=MAY-REVIEWS
+https://www.udemy.com/course/project-management-essential-training-1/?couponCode=MAY-REVIEWS
+https://www.udemy.com/course/ultrasonic-testing-level-1-training/?couponCode=MAY-REVIEWS
+https://www.udemy.com/course/certificate-aws-certified-cloud-practitioner-practice-2022/?couponCode=6D7332C9CE78BF9B6D41
+https://www.udemy.com/course/learn-easy-italian/?couponCode=B489D9AE62F6FBEDA986
+https://www.udemy.com/course/create-and-sell-your-nft-collection-on-opensea/?couponCode=FREEMAY2
 
