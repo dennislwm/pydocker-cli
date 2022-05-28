@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/05/2022
+# Daily Free Udemy Courses - 28/05/2022
 
-https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=875AC0CAC01D9375D242
-https://www.udemy.com/course/python-game-development/?couponCode=YANEV_FREE5
-https://www.udemy.com/course/create-and-sell-your-nft-collection-on-opensea/?couponCode=FREELAST
-https://www.udemy.com/course/pygame-python/?couponCode=YANEV_FREE5
-https://www.udemy.com/course/gsap-course/?couponCode=YANEV_FREE5
-https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=84228B6945FDDE9BEEC9
-https://www.udemy.com/course/python-networking/?couponCode=YANEV_FREE5
-https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=77D4ADF8E59E05F7A45C
-https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=1EC3D81D9033982BE950
-https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=9641F7A0A8CC628925BB
-https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/?couponCode=EB65703619891B67EC70
-https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=A9382833C8435ED26132
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALSTRATEGY22
+https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-r/?couponCode=ZEUIFC
+https://www.udemy.com/course/wave-accounting-2020/?couponCode=73D7671DED9EFC38BAF4
+https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=832B85AB1BE2755C5621
+https://www.udemy.com/course/henry-zhang-audiobook-mini-course/?couponCode=C9A43C447F58F331FE93
+https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=8C91F7504C8D0C306068
+https://www.udemy.com/course/conversion-optimization-mini-course/?couponCode=04EB07B2A335BF367BAC
+https://www.udemy.com/course/henry-zhang-dropshipping-mini-course/?couponCode=EF667096818AE45A59D7
+https://www.udemy.com/course/henry-zhang-leadership-strategies-mini-course/?couponCode=6EDC4068AC4109B3186B
+https://www.udemy.com/course/hz-passive-income-mini-course/?couponCode=9AC0C8206D1EC938CA49
+https://www.udemy.com/course/hz-consulting-business-mini-course/?couponCode=26F3C2BE1943E6A94FB4
+https://www.udemy.com/course/outsourcing-mini-course/?couponCode=C7DF44994386779F1F55
 
