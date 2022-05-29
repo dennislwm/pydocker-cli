@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/05/2022
+# Daily Free Udemy Courses - 29/05/2022
 
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALSTRATEGY22
-https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-r/?couponCode=ZEUIFC
-https://www.udemy.com/course/wave-accounting-2020/?couponCode=73D7671DED9EFC38BAF4
-https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=832B85AB1BE2755C5621
-https://www.udemy.com/course/henry-zhang-audiobook-mini-course/?couponCode=C9A43C447F58F331FE93
-https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=8C91F7504C8D0C306068
-https://www.udemy.com/course/conversion-optimization-mini-course/?couponCode=04EB07B2A335BF367BAC
-https://www.udemy.com/course/henry-zhang-dropshipping-mini-course/?couponCode=EF667096818AE45A59D7
-https://www.udemy.com/course/henry-zhang-leadership-strategies-mini-course/?couponCode=6EDC4068AC4109B3186B
-https://www.udemy.com/course/hz-passive-income-mini-course/?couponCode=9AC0C8206D1EC938CA49
-https://www.udemy.com/course/hz-consulting-business-mini-course/?couponCode=26F3C2BE1943E6A94FB4
-https://www.udemy.com/course/outsourcing-mini-course/?couponCode=C7DF44994386779F1F55
+https://www.udemy.com/course/improve-english-by-listening-movies-1c/?couponCode=39D9107D24F12E76383E
+https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=LEARNINGLIKEMACHINES
+https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEMAY253
+https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?couponCode=MAY2022FREE001
+https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEMAY254
+https://www.udemy.com/course/learn-mindreading-and-mentalism-in-3-days/?couponCode=CDFB4CC4112A1A064FD0
+https://www.udemy.com/course/memory-personality-free-online-test/?couponCode=FREE-MEMORY-COURS
+https://www.udemy.com/course/improve-english-by-movies/?couponCode=8CC1D174B1606933D95D
+https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=5B8FB157EC916647D85E
+https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=25075E117AF24E21026C
+https://www.udemy.com/course/use-would-in-english/?couponCode=B2EA36FB4B8F6DCE818E
+https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=E5D75D8B0612DACE1447
 
