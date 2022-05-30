@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/05/2022
+# Daily Free Udemy Courses - 30/05/2022
 
-https://www.udemy.com/course/improve-english-by-listening-movies-1c/?couponCode=39D9107D24F12E76383E
-https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=LEARNINGLIKEMACHINES
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEMAY253
-https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?couponCode=MAY2022FREE001
-https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEMAY254
-https://www.udemy.com/course/learn-mindreading-and-mentalism-in-3-days/?couponCode=CDFB4CC4112A1A064FD0
-https://www.udemy.com/course/memory-personality-free-online-test/?couponCode=FREE-MEMORY-COURS
-https://www.udemy.com/course/improve-english-by-movies/?couponCode=8CC1D174B1606933D95D
-https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=5B8FB157EC916647D85E
-https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=25075E117AF24E21026C
-https://www.udemy.com/course/use-would-in-english/?couponCode=B2EA36FB4B8F6DCE818E
-https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=E5D75D8B0612DACE1447
+https://www.udemy.com/course/complete-video-marketing-course/?couponCode=WATERTIGER7
+https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=A45DABCE3BDA0804CBC2
+https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=67CFE6E1BBB7A1646CDE
+https://www.udemy.com/course/color-correction-grading-with-adobe-premiere-pro/?couponCode=99FE142BF2E73295761D
+https://www.udemy.com/course/video-editing-with-adobe-premiere-pro-cc-for-beginners/?couponCode=1997AEF4E0AE81366435
+https://www.udemy.com/course/a-complete-guide-to-posh-prevention-of-sexual-harassment/?couponCode=ANIKET1.9-0_0
+https://www.udemy.com/course/project-finance-fundamentals/?couponCode=76E8B82A313AAA763C93
+https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=AB5B5E0B8635FDEA68B6
+https://www.udemy.com/course/learn-to-think-creatively-like-walt-disney/?couponCode=MAY-113
+https://www.udemy.com/course/build-your-own-powerful-super-computer-on-cloud/?couponCode=MAY-098
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=C5686F4BC112D5352BCF
+https://www.udemy.com/course/design-thinking-product-development/?couponCode=1MAY22
 
