@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/05/2022
+# Daily Free Udemy Courses - 01/06/2022
 
-https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=8BB0A50DFE807E2551DC
-https://www.udemy.com/course/autocad-2021-commands-ultimate-quiz-x/?couponCode=EF8521686A08660F9515
-https://www.udemy.com/course/sap-erp-project/?couponCode=1AC17417CFF26F64F3D7
-https://www.udemy.com/course/aws-certified-security-specialty-latest-exam/?couponCode=FREEAWSCSS
-https://www.udemy.com/course/php-with-pdo-2021-the-ultimate-pdo-crash-course/?couponCode=PDOCOURSE41
-https://www.udemy.com/course/social-psychology-understanding-group-behavior/?couponCode=4461E53D0E14CB3B901D
-https://www.udemy.com/course/tensorflownets/?couponCode=MAYOFAI
-https://www.udemy.com/course/customer-valuation-for-entrepreneur-and-marketers/?couponCode=STQEYUJ
-https://www.udemy.com/course/nlp-course-for-beginner/?couponCode=0128F0FB46D442D53F97
-https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=4D67AAD497CF59508A38
-https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=7F348EA788448ECE2156
-https://www.udemy.com/course/estimation-and-quantity-surveying-certification/?couponCode=BEB90603FE257D195650
+https://www.udemy.com/course/it-security-101-protecting-and-securing-computer-networks/?couponCode=9E5969E5F8B0D342E872
+https://www.udemy.com/course/multi-site-it-deployments-business-technical-planning/?couponCode=05463879D3BDFAE61561
+https://www.udemy.com/course/installing-configuring-dns-services-on-windows-server-2016/?couponCode=403CE27BADF003FECB3D
+https://www.udemy.com/course/advanced-it-troubleshooting-for-helpdesk-support-technicians/?couponCode=D01C347734179C349139
+https://www.udemy.com/course/insiders-guide-to-helpdesk-desktop-server-support/?couponCode=E2A870A786F59A9075F8
+https://www.udemy.com/course/complete-whatsapp-marketing-course-2021/?couponCode=A335EE61475334F5C2D6
+https://www.udemy.com/course/windows-command-line-cmd-batch-script-management/?couponCode=F259F1D14F1D6CBF8E1F
+https://www.udemy.com/course/cloud-computing-vs-on-premise-infrastructure-solutions/?couponCode=BA75BCD86EF7B3746C9B
+https://www.udemy.com/course/disaster-recovery-101-business-continuity-planning-bcp/?couponCode=F5B05840627737DDBD16
+https://www.udemy.com/course/gdpr-and-data-protection-compliance-for-beginners/?couponCode=5587886A772D02AFAFE8
+https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/?couponCode=3438BE6B925775CEC66D
+https://www.udemy.com/course/windows-10-administration-basic-troubleshooting/?couponCode=9591F8B36AF1A6B9D37D
 
