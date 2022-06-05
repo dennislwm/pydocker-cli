@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/06/2022
+# Daily Free Udemy Courses - 05/06/2022
 
-https://www.udemy.com/course/make-the-change/?couponCode=8A7BBBE9B6B933EB9CA9
-https://www.udemy.com/course/how-to-deliver-an-ipo-roadshow-presentation/?couponCode=E9C7830FB24533EED5D0
-https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=526EA517280F6CBF898E
-https://www.udemy.com/course/how-to-give-a-sales-presentation/?couponCode=9997749DD8E4A7AA0705
-https://www.udemy.com/course/advanced-financial-accounting/?couponCode=1A9B9BD12E6AA75F8519
-https://www.udemy.com/course/master-data-science-in-python/?couponCode=390548423086C6DCBAF5
-https://www.udemy.com/course/learn-easy-italian/?couponCode=755AEC8EB4D6BDC14632
-https://www.udemy.com/course/tax-adjusting-entry-year-end-accounting-excel-worksheet/?couponCode=5EA4850B71090EE7A34B
-https://www.udemy.com/course/real-estate-investment-finance/?couponCode=2A4F86A4C6483936711F
-https://www.udemy.com/course/microsoft-excel-course-excel-for-beginners/?couponCode=22B44D2AD0B9C3E72259
-https://www.udemy.com/course/adaptive-sourcing-agile-procurement-in-practice/?couponCode=COURSECOUPONCLUB
-https://www.udemy.com/course/facebook-marketing-for-lead-generation-2020/?couponCode=B31522
+https://www.udemy.com/course/storytelling-with-imagery-for-persuasion/?couponCode=51F5761FA6D44644F424
+https://www.udemy.com/course/google-sheets-training-course/?couponCode=13787EDA240E3769A730
+https://www.udemy.com/course/startups-with-data-and-kpi/?couponCode=A78A4A5BDDD632AF91F1
+https://www.udemy.com/course/how-to-promote-your-event-on-facebook/?couponCode=JUNE01
+https://www.udemy.com/course/success-tips-for-busy-entrepreneurs-live-your-best-life-now/?couponCode=HELLOJUNE
+https://www.udemy.com/course/dp-900-microsoft-azure-data-fundamentals-practice-questions/?couponCode=FREEJUNE2022
+https://www.udemy.com/course/youtube-podcast-marketing-for-natural-health-practitioners/?couponCode=YTPMFNHPEXPJUN082022
+https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=349A144E170DFFD23DE5
+https://www.udemy.com/course/personal-branding-master-course/?couponCode=JUN2022FREE1
+https://www.udemy.com/course/meditationforbeginners/?couponCode=BE48372039F4A57BB2AD
+https://www.udemy.com/course/how-to-dominate-excel-formatting-charting/?couponCode=JUNE01
+https://www.udemy.com/course/how-to-create-high-quality-blog-content-that-gets-shared/?couponCode=JUNE01
 
