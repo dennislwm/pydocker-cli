@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/06/2022
+# Daily Free Udemy Courses - 08/06/2022
 
-https://www.udemy.com/course/creo-parametric-training/?couponCode=29609FF30CC2AB5F825D
-https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=JUNEGIFT
-https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=FACEBOOK0606
-https://www.udemy.com/course/seo-strategy/?couponCode=SEOSTRATEGY0606
-https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=E8901A01067B54FDE8E1
-https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=16F45364D18670B6FFE3
-https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=3060DE22568E39DDB441
-https://www.udemy.com/course/ai-102-microsoft-azure-ai-solutions-exam-practice-questions/?couponCode=FREEJUNE2022
-https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=917690B530862902D0AB
-https://www.udemy.com/course/hz-time-management-mini-course/?couponCode=C548EBF847C6D5E2889B
-https://www.udemy.com/course/henry-zhang-nft-mini-course/?couponCode=9160A75FB26D5614A08F
-https://www.udemy.com/course/startups-mini-course/?couponCode=E4EFF78F61B3F2AB40E6
+https://www.udemy.com/course/autodesk-autocad-beginner-to-an-advanced-level/?couponCode=89C58CCAF413B4BB3A23
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-test-with-bonus/?couponCode=4B1039CC771B2E52F47D
+https://www.udemy.com/course/listening-skills-the-ultimate-workplace-soft-skills/?couponCode=6ABDA7C065352B757D67
+https://www.udemy.com/course/tj-walkers-1-hour-public-speaking-presentation-skills-class/?couponCode=BE2541EF819ADEF83ACA
+https://www.udemy.com/course/the-complete-growth-mindset-course-the-mindset-for-success/?couponCode=FDD16BF5AB38E1F95D8A
+https://www.udemy.com/course/blue-prism-certified-technical-architect-practice-exams/?couponCode=C5F1E566D52306B77AB8
+https://www.udemy.com/course/excel-accounting-4enter-data-track-current-month-ytd/?couponCode=E0D2F8AB61A991F93A67
+https://www.udemy.com/course/excel-accounting-6adjusting-entries-financial-statements/?couponCode=5DA59E49D9278064F60E
+https://www.udemy.com/course/excel-accounting-2worksheet-opening-balances-subledger/?couponCode=27D8EBACEA1DB9522CEF
+https://www.udemy.com/course/excel-accounting-1transactions-for-common-data-input-forms/?couponCode=87E067C8E9FDFF60FBFB
+https://www.udemy.com/course/adaptive-sourcing-agile-procurement-in-practice/?couponCode=JUNEPROMO
+https://www.udemy.com/course/make-money-with-cryptocurrencies-in-2018-a-solid-strategy/?couponCode=50C07EEB13BCA7D77CA2
 
