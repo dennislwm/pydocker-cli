@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/06/2022
+# Daily Free Udemy Courses - 10/06/2022
 
-https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=D1FAE252DACC3A2DADB5
-https://www.udemy.com/course/career-how-to-position-yourself-for-a-better-paying-job/?couponCode=8E314D6CAA51C806DFDA
-https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=JUNE0001
-https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=1D5D58AB323EFD7BEC3E
-https://www.udemy.com/course/entrepreneurship-for-noobees/?couponCode=34BFB128A45F7F48C7F4
-https://www.udemy.com/course/2-corinthians-13-life-changing-lessons/?couponCode=064B947382346C54783B
-https://www.udemy.com/course/1z0-1085-21-ocl-foundations-associate-practice-exam/?couponCode=FREEOCIFA2022
-https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=182EA4AEE1BE54096F82
-https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=EE2EDEA7DCF788CD6DDA
-https://www.udemy.com/course/1z0-1072-21-oci-architect-associate-practice-exam/?couponCode=FREEOCIAA
-https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=D1BD32FEE46CC0665A86
-https://www.udemy.com/course/learn-big-data-basics/?couponCode=87FA0EF778191A03433A
+https://www.udemy.com/course/brocade-certified-network-engineer-150-130-practice-exams/?couponCode=00B2DB6DD3424F3ACEFD
+https://www.udemy.com/course/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/?couponCode=D08B6B3709F19216DF6D
+https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=1E65B0A66DB95421E094
+https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=F01A5DB9B7DA32DCE2F7
+https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/?couponCode=C8E604CE225BC0F18CB6
+https://www.udemy.com/course/master-your-content-for-busy-entrepreneurs/?couponCode=LAUNCHPARTY4
+https://www.udemy.com/course/libgdx-game-development/?couponCode=YANEV_FREE6
+https://www.udemy.com/course/mindset-makeover-from-distraction-to-action/?couponCode=LQUNCHPARTY3
+https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=7227C62885F7B9F1BC71
+https://www.udemy.com/course/oracle-certification-java-11-learnit/?couponCode=8A5ABAE9664B9A4ED4B5
+https://www.udemy.com/course/unshakable-self-confidence-for-busy-entrepreneurs/?couponCode=LAUNCHPARTY5
+https://www.udemy.com/course/python-game-development/?couponCode=YANEV_FREE6
 
