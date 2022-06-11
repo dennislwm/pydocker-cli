@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/06/2022
+# Daily Free Udemy Courses - 11/06/2022
 
-https://www.udemy.com/course/brocade-certified-network-engineer-150-130-practice-exams/?couponCode=00B2DB6DD3424F3ACEFD
-https://www.udemy.com/course/prepare-clf-c01-aws-certified-cloud-practitioner-2022-jun/?couponCode=D08B6B3709F19216DF6D
-https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?couponCode=1E65B0A66DB95421E094
-https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=F01A5DB9B7DA32DCE2F7
-https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/?couponCode=C8E604CE225BC0F18CB6
-https://www.udemy.com/course/master-your-content-for-busy-entrepreneurs/?couponCode=LAUNCHPARTY4
-https://www.udemy.com/course/libgdx-game-development/?couponCode=YANEV_FREE6
-https://www.udemy.com/course/mindset-makeover-from-distraction-to-action/?couponCode=LQUNCHPARTY3
-https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=7227C62885F7B9F1BC71
-https://www.udemy.com/course/oracle-certification-java-11-learnit/?couponCode=8A5ABAE9664B9A4ED4B5
-https://www.udemy.com/course/unshakable-self-confidence-for-busy-entrepreneurs/?couponCode=LAUNCHPARTY5
-https://www.udemy.com/course/python-game-development/?couponCode=YANEV_FREE6
+https://www.udemy.com/course/ethical-hacking-vulnerability-research/?couponCode=BLACKCOW
+https://www.udemy.com/course/ethical-hacking-linux-privilege-escalation/?couponCode=BLACKCOW
+https://www.udemy.com/course/ethical-hacking-windows-exploitation-basics/?couponCode=BLACKCOW
+https://www.udemy.com/course/neuro-negotiation-system-become-number-one-negotiator-and-make-or-save-money/?couponCode=JUN2022FREE1
+https://www.udemy.com/course/complete-whatsapp-marketing-course-2021/?couponCode=6A166773BA7F94FC9F80
+https://www.udemy.com/course/improving-software-development-productivity/?couponCode=229E8E627360C8BF4BDF
+https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=D79505C14C8AB2C04B6F
+https://www.udemy.com/course/content-marketing-strategy-course/?couponCode=CONTENT1006
+https://www.udemy.com/course/a-complete-masterclass-of-virtualization-from-scratch/?couponCode=JUNE22_1
+https://www.udemy.com/course/digital-product-owner/?couponCode=59B4D658F727514FFCAA
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLE1006
+https://www.udemy.com/course/cisco-ccna-cyberops-secfnd-210-250-practice-questions/?couponCode=FREECYBEROPS2022
 
