@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/06/2022
+# Daily Free Udemy Courses - 13/06/2022
 
-https://www.udemy.com/course/income-tax-schedule-c-small-business-sole-proprietor-2018/?couponCode=0F40FA3A6BA8EE7A39BE
-https://www.udemy.com/course/tax-credits-2018-2019-family-dependent-tax-credits/?couponCode=656082CB68F62F63A1C8
-https://www.udemy.com/course/quickbooks-online-vs-quickbooks-desktop/?couponCode=49BD4B3F2C7F5446B687
-https://www.udemy.com/course/metaverse-fundamentals-vr-stack-development-virtual-land/?couponCode=C9722867DEAB081568D2
-https://www.udemy.com/course/income-tax-business-use-of-home-deduction-2018-2019/?couponCode=9D991D2BB4D44207AFE7
-https://www.udemy.com/course/quickbooks-desktop-2018-vs-excel/?couponCode=85BE373AA1897A4C7AD9
-https://www.udemy.com/course/corporate-finance-9-valuation-bond-common-preferred-stock/?couponCode=572E8C0A00713FE74D22
-https://www.udemy.com/course/local-digital-marketing/?couponCode=WATERTIGER10
-https://www.udemy.com/course/corporate-finance-7-short-term-financing/?couponCode=5484597C3EA26DB72122
-https://www.udemy.com/course/linux-desktop-automation/?couponCode=ROSEDAY
-https://www.udemy.com/course/learn-microsoft-publisher-complete-microsoft-publisher/?couponCode=PUBJUN22
-https://www.udemy.com/course/microsoft-onenote-training-master-the-microsoft-onenote/?couponCode=ONENOTEJUN22
+https://www.udemy.com/course/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/?couponCode=TALLYJUNE12
+https://www.udemy.com/course/learn-how-to-make-trading-card-game-menus-with-unity-3d/?couponCode=JUNE03
+https://www.udemy.com/course/comptia-pentest-plus-pt0-001-practice-certification-exams/?couponCode=715888B1E7B1AD67A067
+https://www.udemy.com/course/create-awesome-videos-from-text-using-pictory/?couponCode=502DF98AB5A704758C26
+https://www.udemy.com/course/killer-ways-to-create-and-promote-youtube-videos/?couponCode=7FB85D73BE20C0FC5996
+https://www.udemy.com/course/learn-audo-studio-ai-powered-noise-cancellation-tool/?couponCode=3E86BFB7AC2CEDE232E6
+https://www.udemy.com/course/viralnomics-creating-youtube-video-ideas-that-go-viral/?couponCode=E0EDAD50980E9A49E2AE
+https://www.udemy.com/course/unlimited-free-traffic-generation-course/?couponCode=CA77536F44C0C2A129F5
+https://www.udemy.com/course/the-ultimate-youtube-advertising-course-for-beginners/?couponCode=11F7F6E0B141170559F6
+https://www.udemy.com/course/anyone-can-design-create-awesome-graphics-for-social-media/?couponCode=1BD014519A1FBE5EDEB1
+https://www.udemy.com/course/scrum-ceremonies-simplified/?couponCode=FREE-GIFT-JUN22
+https://www.udemy.com/course/google-ads-2022/?couponCode=WATERTIGER8
 
