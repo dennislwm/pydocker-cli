@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/06/2022
+# Daily Free Udemy Courses - 17/06/2022
 
-https://www.udemy.com/course/personal-finance-3financial-services-bank-reconciliation/?couponCode=5040F09D17955BE84239
-https://www.udemy.com/course/personal-finance-2financial-statements-budgeting/?couponCode=D852CEE6F38F164B80E4
-https://www.udemy.com/course/armed-services-vocational-aptitude-battery-asvab-tests/?couponCode=4DCD281840464D6E56E4
-https://www.udemy.com/course/personal-finance-1-goals-planning-time-value-of-money/?couponCode=9D2A04C8F34F205985BE
-https://www.udemy.com/course/pmi-scheduling-professional-pmi-sp-pro-tests-simulator/?couponCode=448F6C6E3442FCCBD6A4
-https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=497829177B4FC9DDAE44
-https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=9344DF2A46FCBE7F974B
-https://www.udemy.com/course/the-comprehensive-sql-course/?couponCode=F4342B51BAFFCB2F4AE7
-https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=DF31208A0C1061CC1D20
-https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=PMJUNE22
-https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=EMAILMARKETING1506
-https://www.udemy.com/course/how-to-create-a-website-with-wordpress-2022-fast/?couponCode=ENROLLNOW
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=VKVVDNO
+https://www.udemy.com/course/postpandemic-love-the-undoing-effect/?couponCode=9F6F4B95F768ADBE8A62
+https://www.udemy.com/course/aws-fundamentals-quizz-prepare-your-certification/?couponCode=9B460A058765EFE3DAF5
+https://www.udemy.com/course/machine-learning-basics-classification-models-in-r/?couponCode=JBTQDQV
+https://www.udemy.com/course/the-complete-hypnotherapy-course-hypnosis-certification/?couponCode=BD9AAB9D63ACFC9542E3
+https://www.udemy.com/course/understanding-hipaa-compliance/?couponCode=280F16ABC2918B92D78A
+https://www.udemy.com/course/the-youtube-academy-speed-growth-plan-proven-results-2022/?couponCode=E6D916D8841D8ABF2D38
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=438A00B1CC569DD7D514
+https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=169E02510068EF591CB9
+https://www.udemy.com/course/machine-learning-adv-support-vector-machines-svm-python/?couponCode=ZYQYYSW
+https://www.udemy.com/course/how-to-be-a-tv-pundit/?couponCode=0D90766920484220450F
+https://www.udemy.com/course/leadership-skills-to-coach-and-lead-the-zen-generation/?couponCode=A5F53793BE8C240B365F
 
