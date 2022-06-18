@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/06/2022
+# Daily Free Udemy Courses - 18/06/2022
 
-https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=VKVVDNO
-https://www.udemy.com/course/postpandemic-love-the-undoing-effect/?couponCode=9F6F4B95F768ADBE8A62
-https://www.udemy.com/course/aws-fundamentals-quizz-prepare-your-certification/?couponCode=9B460A058765EFE3DAF5
-https://www.udemy.com/course/machine-learning-basics-classification-models-in-r/?couponCode=JBTQDQV
-https://www.udemy.com/course/the-complete-hypnotherapy-course-hypnosis-certification/?couponCode=BD9AAB9D63ACFC9542E3
-https://www.udemy.com/course/understanding-hipaa-compliance/?couponCode=280F16ABC2918B92D78A
-https://www.udemy.com/course/the-youtube-academy-speed-growth-plan-proven-results-2022/?couponCode=E6D916D8841D8ABF2D38
-https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=438A00B1CC569DD7D514
-https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=169E02510068EF591CB9
-https://www.udemy.com/course/machine-learning-adv-support-vector-machines-svm-python/?couponCode=ZYQYYSW
-https://www.udemy.com/course/how-to-be-a-tv-pundit/?couponCode=0D90766920484220450F
-https://www.udemy.com/course/leadership-skills-to-coach-and-lead-the-zen-generation/?couponCode=A5F53793BE8C240B365F
+https://www.udemy.com/course/learn-javascript-programming-in-7-days/?couponCode=B34C0AA7923133AFB0A8
+https://www.udemy.com/course/practice-test-aws-certified-security-specialty-2022/?couponCode=EC93286D49E59D547FF6
+https://www.udemy.com/course/practice-exam-aws-certified-data-analytics/?couponCode=57211FA492D96CC7FD25
+https://www.udemy.com/course/filmmakershortcut/?couponCode=ACCFC741AA191020E429
+https://www.udemy.com/course/basic-arabic-grammar/?couponCode=JUNE22FREE
+https://www.udemy.com/course/learn-mindreading-and-mentalism-in-3-days/?couponCode=CB1912A8898F29E6773B
+https://www.udemy.com/course/python-for-complete-beginners-1/?couponCode=ALGOSTEMFREE
+https://www.udemy.com/course/soundwave-healing/?couponCode=PURESOUND
+https://www.udemy.com/course/henry-zhang-tiktok-marketing-mini-course/?couponCode=69780F5E38098381ED8F
+https://www.udemy.com/course/digitisation/?couponCode=A17190D1B7CF89D35202
+https://www.udemy.com/course/learn-python-programming-with-jafricode-tutorials/?couponCode=61EC857D694E17B47E2B
+https://www.udemy.com/course/quantity-surveying-with-rate-analysis-and-take-off-beginners/?couponCode=QSBEGINJUNE22
 
