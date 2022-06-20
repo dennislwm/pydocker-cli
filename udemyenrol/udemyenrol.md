@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/06/2022
+# Daily Free Udemy Courses - 20/06/2022
 
-https://www.udemy.com/course/basic-portrait-sketching-techniques-for-beginners/?couponCode=FREEBASIC22JUN
-https://www.udemy.com/course/english-grammar-tenses-made-easy/?couponCode=96363CB649A21BE29B08
-https://www.udemy.com/course/pgmp-program-management-professional-exam-prep-tests/?couponCode=FB950DBC25194419D409
-https://www.udemy.com/course/esg-reporting-for-businesses/?couponCode=85D7639E42A5991BA7EB
-https://www.udemy.com/course/my-clarity-compass-finding-and-following-my-unique-purpose/?couponCode=JUNELOVE
-https://www.udemy.com/course/master-transaction-management-with-springboot-and-jpa/?couponCode=7DBCA3CC05C9E9296B9F
-https://www.udemy.com/course/corporate-finance/?couponCode=536971559A02915E9BE0
-https://www.udemy.com/course/meditation-for-adhd/?couponCode=7970EBF87652B0252AEE
-https://www.udemy.com/course/personal-finance-i/?couponCode=9EF2D5943312CE283B38
-https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=JUNE-2022
-https://www.udemy.com/course/introduction-to-for-natural-language-processing/?couponCode=784E47E20BB8BCB89596
-https://www.udemy.com/course/roboauthor-content-writing-automation-2019-part-1/?couponCode=C628A5E047E827D16500
+https://www.udemy.com/course/az-204-microsoft-azure-developer-practice-exams-apr-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/microsoft-azure-fundamentals-az-900-practice-exams-apr-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-practice-exams-n/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-exams-s/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/docker-certified-associate-dca-practice-exams-apr-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/itil-4-foundation-practice-exams-april-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/top-business-analyst-certification-pmi-pba-practice-exams-e/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/check-point-ccsa-156-21580-practice-exams-apr-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-apr-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/prince2-foundation-practice-certification-exams-updated-2022/?couponCode=KEEPLEARNINGJUNE
+https://www.udemy.com/course/improving-software-development-productivity/?couponCode=A6B91989AB9EBF6A9F9D
+https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=JUNE_2022
 
