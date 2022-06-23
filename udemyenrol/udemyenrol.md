@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/06/2022
+# Daily Free Udemy Courses - 23/06/2022
 
-https://www.udemy.com/course/urban-transportation-planning-supply-chain-management/?couponCode=LOGISTICS202206
-https://www.udemy.com/course/power-start-in-project-management/?couponCode=2C22C56B8795EC2AE788
-https://www.udemy.com/course/70-websites-to-get-unlimited-high-quality-royalty-freeimages/?couponCode=CBBA27D0EBC2E7B2F444
-https://www.udemy.com/course/qr-code-generator-using-javascript/?couponCode=BD2E4CA59A7C3608F50C
-https://www.udemy.com/course/political-sociology-an-introduction/?couponCode=POLSOL_FREE_0622
-https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/?couponCode=JUNE02
-https://www.udemy.com/course/web3-blockchain-smartcontracts-crypto-practice-tests/?couponCode=JUNE02
-https://www.udemy.com/course/podcast-mastery/?couponCode=PMHMMMPEXPJUN252022
-https://www.udemy.com/course/modern-affiliate-marketing-earn-money-in-2018-complete-guide/?couponCode=D0A10680180C05AAF381
-https://www.udemy.com/course/pmi-acp-exam-2-complete-practice-tests-updated-july-2022/?couponCode=0856C74E805D72910D05
-https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=B17794B72BE8A1A3A50E
-https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-r/?couponCode=YLQWAWE
+https://www.udemy.com/course/practice-exam-aws-certified-data-analytics/?couponCode=31BB6BCC52D736F8FC4F
+https://www.udemy.com/course/practice-exam-amazon-aws-certified-developer-associate/?couponCode=33569160BC674A31AB07
+https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=DA9DA39A94CB107C73DC
+https://www.udemy.com/course/a-simple-forex-swing-trading-strategies-that-work-vip-only/?couponCode=38D04F3B7D2FA8ADB034
+https://www.udemy.com/course/henry-zhang-defi-mini-course/?couponCode=B674DAB481CF72308B73
+https://www.udemy.com/course/linear-regression-with-case-study-in-python-2020/?couponCode=0BA08A0C9D34788627AC
+https://www.udemy.com/course/scrum-genman/?couponCode=LALUHDN
+https://www.udemy.com/course/image-processing-using-opencv-from-zero-to-hero/?couponCode=1ADF9B33F1A1EE397212
+https://www.udemy.com/course/accelerated-certification-techniques/?couponCode=36E4D1073EF201F4084F
+https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?couponCode=JUN2022FREE01
+https://www.udemy.com/course/how-to-avoid-a-stroke-at-xmas/?couponCode=LIFESAVER2022
+https://www.udemy.com/course/full-microsoft-word-tutorial-basic-to-advance/?couponCode=EPIC22
 
