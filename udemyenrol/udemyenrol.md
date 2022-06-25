@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/06/2022
+# Daily Free Udemy Courses - 25/06/2022
 
-https://www.udemy.com/course/power-bi-master-course/?couponCode=4CD4F36ACC0D03C267D6
-https://www.udemy.com/course/big-data-on-amazon-web-services-aws-cloud-2018/?couponCode=54ACD9674EEBE554CA32
-https://www.udemy.com/course/10x-your-productivity-with-time-management/?couponCode=E6A85E88538DC1737219
-https://www.udemy.com/course/javascript-fundamentals-a-course-for-absolute-beginners/?couponCode=BC3C481F04873FA1EDAA
-https://www.udemy.com/course/data-analytics-with-excel-pivottables-2016/?couponCode=494E35EE51A8A4B80601
-https://www.udemy.com/course/understanding-hipaa-compliance/?couponCode=BB395BED07511A01050B
-https://www.udemy.com/course/microsoft-power-bi-dax-foundation-from-scratch/?couponCode=D1B70537E7C97009AECF
-https://www.udemy.com/course/complete-wifi-hacking-course/?couponCode=WIFIHACKING89
-https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=WATERTIGER7
-https://www.udemy.com/course/agile-project-management-certification/?couponCode=230622_FREE
-https://www.udemy.com/course/transonic-aerodynamics/?couponCode=YANEV_FREE7
-https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/?couponCode=JUNEDROP
+https://www.udemy.com/course/interior-design-from-3ds-max-to-twinmotion-y/?couponCode=09C62FD593756FBEA3DF
+https://www.udemy.com/course/master-your-social-skills/?couponCode=JUN2022FREE001
+https://www.udemy.com/course/hollywood-script-reader-screenwriting/?couponCode=851FEC855EDB88EB4D5C
+https://www.udemy.com/course/prince2-foundation-practice-exams/?couponCode=FIRSTPROMO
+https://www.udemy.com/course/engineering-economics-take-decision-between-alternatives/?couponCode=DE4F28F043478F56B826
+https://www.udemy.com/course/sc-400-information-protection-administrator-practice-exams-d/?couponCode=FIRSTPROMO
+https://www.udemy.com/course/servicenow-system-administrator-csa-practice-exams/?couponCode=FIRSTPROMO
+https://www.udemy.com/course/check-point-certified-security-administrator-practice-exams-d/?couponCode=FIRSTPROMO
+https://www.udemy.com/course/practice-test-aws-certified-developer-associate-2022/?couponCode=87D382EA47F025BF2B09
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=ZMQMPKE
+https://www.udemy.com/course/startups-with-data-and-kpi/?couponCode=EAC4F515B808FD191797
+https://www.udemy.com/course/practical-bacteriology-from-scratch/?couponCode=F1F00FBA1CFC51635D23
 
