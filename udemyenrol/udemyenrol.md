@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/06/2022
+# Daily Free Udemy Courses - 27/06/2022
 
-https://www.udemy.com/course/interior-design-from-3ds-max-to-twinmotion-y/?couponCode=09C62FD593756FBEA3DF
-https://www.udemy.com/course/master-your-social-skills/?couponCode=JUN2022FREE001
-https://www.udemy.com/course/hollywood-script-reader-screenwriting/?couponCode=851FEC855EDB88EB4D5C
-https://www.udemy.com/course/prince2-foundation-practice-exams/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/engineering-economics-take-decision-between-alternatives/?couponCode=DE4F28F043478F56B826
-https://www.udemy.com/course/sc-400-information-protection-administrator-practice-exams-d/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/servicenow-system-administrator-csa-practice-exams/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/check-point-certified-security-administrator-practice-exams-d/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/practice-test-aws-certified-developer-associate-2022/?couponCode=87D382EA47F025BF2B09
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=ZMQMPKE
-https://www.udemy.com/course/startups-with-data-and-kpi/?couponCode=EAC4F515B808FD191797
-https://www.udemy.com/course/practical-bacteriology-from-scratch/?couponCode=F1F00FBA1CFC51635D23
+https://www.udemy.com/course/basic-business-fundamentals-operations-management/?couponCode=BUSINESSCOURSEFREE
+https://www.udemy.com/course/entrepreneurial-business-and-economics/?couponCode=ENTREPRENEURIALECON
+https://www.udemy.com/course/jpmorgan-real-time-actual-scrum-master-interview-experience/?couponCode=1489767031B5B3754344
+https://www.udemy.com/course/microsoft-excel-course-excel-for-beginners/?couponCode=B9CED0B8FBC6652D38B8
+https://www.udemy.com/course/python-for-algorithmic-trading-technical-indicators/?couponCode=B62C2E2A54FA92A41E2C
+https://www.udemy.com/course/automotive-electrician-and-mechanic-training-aemt-2022/?couponCode=OCSALYJUNEFREE
+https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALYJUNEFREE
+https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=OCSALYJUNEFREE
+https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=OCSALYJUNEFREE
+https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=JUNE0003
+https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=OCSALYJUNEFREE
+https://www.udemy.com/course/online-seo-training/?couponCode=WATERTIGER12
 
