@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/06/2022
+# Daily Free Udemy Courses - 29/06/2022
 
-https://www.udemy.com/course/learn-easy-italian/?couponCode=24DB3A0995D043F9783C
-https://www.udemy.com/course/reverse-engineering-visual-basic/?couponCode=JUN27FREE
-https://www.udemy.com/course/itil-4-foundation-practice-certification-for-2022/?couponCode=F159394A2D515702E21F
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY2706
-https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=GOOGLEADS2706
-https://www.udemy.com/course/10x-your-productivity-with-time-management/?couponCode=5D1B2A94DF9091EB2447
-https://www.udemy.com/course/google-professional-data-engineer-practice-exams/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/creating-a-website-in-1-hour-wordpress-elementor-ux/?couponCode=0A4AE63F035178715AB7
-https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=9208F68FD371F7945214
-https://www.udemy.com/course/how-to-use-google-drive-onedrive-dropbox-and-mega/?couponCode=EPIC27
-https://www.udemy.com/course/canva-mastery-become-freelance-graphic-designer-in-1-hour/?couponCode=ALLAHUAKBAR
-https://www.udemy.com/course/beginner-to-expert-learn-elementor-wordpress/?couponCode=7A5DCEE26B295E136173
+https://www.udemy.com/course/branding-for-success/?couponCode=FF2171AEA844A90A4D20
+https://www.udemy.com/course/self-supervised-learning/?couponCode=JUNF22
+https://www.udemy.com/course/qr-code-generator-using-javascript/?couponCode=30DBD133884A9C9F609C
+https://www.udemy.com/course/videoscribe-whiteboard-animations-masterclass-with-project/?couponCode=ADC1CAE81DCDBEC2004A
+https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEJUNE302
+https://www.udemy.com/course/sql-practice-exams-for-the-professional-interview-100-ques/?couponCode=FREESQLMCQS
+https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEJUNE305
+https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEJUNE303
+https://www.udemy.com/course/accounting-interview-questions-go-from-zero-to-hero/?couponCode=397BD65DEFCF1CA78172
+https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEJUNE304
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEJUNE301
+https://www.udemy.com/course/ace-the-linux-administrator-interview-most-asked-qa/?couponCode=FREELINUXADMIN
 
