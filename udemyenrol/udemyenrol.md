@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/06/2022
+# Daily Free Udemy Courses - 30/06/2022
 
-https://www.udemy.com/course/branding-for-success/?couponCode=FF2171AEA844A90A4D20
-https://www.udemy.com/course/self-supervised-learning/?couponCode=JUNF22
-https://www.udemy.com/course/qr-code-generator-using-javascript/?couponCode=30DBD133884A9C9F609C
-https://www.udemy.com/course/videoscribe-whiteboard-animations-masterclass-with-project/?couponCode=ADC1CAE81DCDBEC2004A
-https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEJUNE302
-https://www.udemy.com/course/sql-practice-exams-for-the-professional-interview-100-ques/?couponCode=FREESQLMCQS
-https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEJUNE305
-https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEJUNE303
-https://www.udemy.com/course/accounting-interview-questions-go-from-zero-to-hero/?couponCode=397BD65DEFCF1CA78172
-https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEJUNE304
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEJUNE301
-https://www.udemy.com/course/ace-the-linux-administrator-interview-most-asked-qa/?couponCode=FREELINUXADMIN
+https://www.udemy.com/course/docker-certified-associate-practice-exams-dca/?couponCode=SCNDPROMO
+https://www.udemy.com/course/c_taw12_750-sap-abap-with-sap-netweaver-750-practice-exam/?couponCode=PROMO1
+https://www.udemy.com/course/website-starter-kit/?couponCode=3FA1E943A7C7EE3F3F2C
+https://www.udemy.com/course/servicenow-system-administrator-csa-practice-exams/?couponCode=SCNDPROMO
+https://www.udemy.com/course/ethical-hacker-v10-practice-exam-p/?couponCode=FREEEHTICALHACHERV10
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-questions-q/?couponCode=FREEAZ900ENROLLNOW
+https://www.udemy.com/course/learn-carnatic-flute-srithyagaraja-krithis-vol-1/?couponCode=95F861962AA51935066D
+https://www.udemy.com/course/sc-400-information-protection-administrator-practice-exams-d/?couponCode=SCNDPROMO
+https://www.udemy.com/course/practice-exams-to-prepare-for-rhcsa-ex200-exam/?couponCode=SCNDPROMO
+https://www.udemy.com/course/md-101-managing-modern-desktops-practice-exams-p/?couponCode=SCNDPROMO
+https://www.udemy.com/course/mcia-mulesoft-certified-integration-architect-practice-exams/?couponCode=SCNDPROMO
+https://www.udemy.com/course/build-your-own-portfolio-website-without-coding-wordpress/?couponCode=BISMILLAH
 
