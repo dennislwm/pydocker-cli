@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/06/2022
+# Daily Free Udemy Courses - 01/07/2022
 
-https://www.udemy.com/course/docker-certified-associate-practice-exams-dca/?couponCode=SCNDPROMO
-https://www.udemy.com/course/c_taw12_750-sap-abap-with-sap-netweaver-750-practice-exam/?couponCode=PROMO1
-https://www.udemy.com/course/website-starter-kit/?couponCode=3FA1E943A7C7EE3F3F2C
-https://www.udemy.com/course/servicenow-system-administrator-csa-practice-exams/?couponCode=SCNDPROMO
-https://www.udemy.com/course/ethical-hacker-v10-practice-exam-p/?couponCode=FREEEHTICALHACHERV10
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-questions-q/?couponCode=FREEAZ900ENROLLNOW
-https://www.udemy.com/course/learn-carnatic-flute-srithyagaraja-krithis-vol-1/?couponCode=95F861962AA51935066D
-https://www.udemy.com/course/sc-400-information-protection-administrator-practice-exams-d/?couponCode=SCNDPROMO
-https://www.udemy.com/course/practice-exams-to-prepare-for-rhcsa-ex200-exam/?couponCode=SCNDPROMO
-https://www.udemy.com/course/md-101-managing-modern-desktops-practice-exams-p/?couponCode=SCNDPROMO
-https://www.udemy.com/course/mcia-mulesoft-certified-integration-architect-practice-exams/?couponCode=SCNDPROMO
-https://www.udemy.com/course/build-your-own-portfolio-website-without-coding-wordpress/?couponCode=BISMILLAH
+https://www.udemy.com/course/a-complete-masterclass-of-virtualization-from-scratch/?couponCode=30_JUN_22
+https://www.udemy.com/course/the-complete-do-it-yourself-epic-seo-content-marketing/?couponCode=EDA31D904ACB12FDD384
+https://www.udemy.com/course/create-and-sell-your-nft-collection-on-opensea/?couponCode=LASTFREEJUNE
+https://www.udemy.com/course/linux-operating-system-with-shell-from-scratch-for-beginners/?couponCode=30_JUN_22
+https://www.udemy.com/course/operating-system-understanding-the-core/?couponCode=30_JUN_22
+https://www.udemy.com/course/residential-rental-property-tax-preparation-2021-2022/?couponCode=27E5C30976C133D09569
+https://www.udemy.com/course/comptia-pentest-plus-pt0-001-practice-certification-exams/?couponCode=BFBECA9CB36DD209D9EA
+https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-practice-tests-2023/?couponCode=157420EAA03C3EA06AD0
+https://www.udemy.com/course/nft-for-beginners/?couponCode=9CACA193FB364543FFFF
+https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=B0242B9C25AB29316A82
+https://www.udemy.com/course/bootstrap5-website/?couponCode=3D4B88C2423628E02D14
+https://www.udemy.com/course/branding-bootcamp/?couponCode=KINDNESS
 
