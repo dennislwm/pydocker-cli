@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/07/2022
+# Daily Free Udemy Courses - 02/07/2022
 
-https://www.udemy.com/course/a-complete-masterclass-of-virtualization-from-scratch/?couponCode=30_JUN_22
-https://www.udemy.com/course/the-complete-do-it-yourself-epic-seo-content-marketing/?couponCode=EDA31D904ACB12FDD384
-https://www.udemy.com/course/create-and-sell-your-nft-collection-on-opensea/?couponCode=LASTFREEJUNE
-https://www.udemy.com/course/linux-operating-system-with-shell-from-scratch-for-beginners/?couponCode=30_JUN_22
-https://www.udemy.com/course/operating-system-understanding-the-core/?couponCode=30_JUN_22
-https://www.udemy.com/course/residential-rental-property-tax-preparation-2021-2022/?couponCode=27E5C30976C133D09569
-https://www.udemy.com/course/comptia-pentest-plus-pt0-001-practice-certification-exams/?couponCode=BFBECA9CB36DD209D9EA
-https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-practice-tests-2023/?couponCode=157420EAA03C3EA06AD0
-https://www.udemy.com/course/nft-for-beginners/?couponCode=9CACA193FB364543FFFF
-https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=B0242B9C25AB29316A82
-https://www.udemy.com/course/bootstrap5-website/?couponCode=3D4B88C2423628E02D14
-https://www.udemy.com/course/branding-bootcamp/?couponCode=KINDNESS
+https://www.udemy.com/course/learn-visual-studio-code-v/?couponCode=TRY100062204
+https://www.udemy.com/course/learn-basic-trello/?couponCode=TRY100062205
+https://www.udemy.com/course/learn-microsoft-teams/?couponCode=TRY100062203
+https://www.udemy.com/course/master-data-science-in-python/?couponCode=AA4D6A10C75203DB78C1
+https://www.udemy.com/course/bootstrap5-website/?couponCode=2D0FA4BE1E838A85AEA6
+https://www.udemy.com/course/power-start-in-project-management/?couponCode=9DCC8F03094F11CF9CC0
+https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=01062743920FE3512E09
+https://www.udemy.com/course/linear-regression-and-logistic-regression-r-studio-starttech/?couponCode=XPYAIHC
+https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=F32B8F5581F950E731A3
+https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=F79D4D4F56F748E26400
+https://www.udemy.com/course/fun-and-effective-learning/?couponCode=01E8267898ECBC8E570B
+https://www.udemy.com/course/business-development-course/?couponCode=DA0DE0AC47F71D0D6605
 
