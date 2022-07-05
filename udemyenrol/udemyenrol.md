@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/07/2022
+# Daily Free Udemy Courses - 05/07/2022
 
-https://www.udemy.com/course/cryptocurrency-bitcoin-for-beginners-in-plain-english/?couponCode=D7E20A802CFD1D64213E
-https://www.udemy.com/course/pgmp-practice-exams-training-2022/?couponCode=75075E1EA3252677DC23
-https://www.udemy.com/course/pmi-scheduling-professional-pmi-sp-pro-tests-simulator/?couponCode=0AA7927F1BE4A57B62D7
-https://www.udemy.com/course/pmi-rmp-exam-2021-3new-exams/?couponCode=DA33CFAEEEAD34C93623
-https://www.udemy.com/course/pmi-agile-certified-practitioner-exam-tests-2021-pmi-acp/?couponCode=F1B4580E3C53A36EA6BE
-https://www.udemy.com/course/sas-base-programming-practical-test/?couponCode=598D479B3F3F7A4D6FC3
-https://www.udemy.com/course/200-questions-answers-pmp-exam-2021-new-6th-edition-v/?couponCode=96AD7E841D102E936AD4
-https://www.udemy.com/course/local-digital-marketing/?couponCode=WATERTIGER12
-https://www.udemy.com/course/earn-from-photography-complete-guideline/?couponCode=EPJULY2022
-https://www.udemy.com/course/blockchain-cryptocurrency-fundamentals-for-beginners/?couponCode=3DAAC82CAC9A34557026
-https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=FB3ABE6F2257BD18B9D7
-https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=4028628E80301F5DC0F6
+https://www.udemy.com/course/complete-sourdough-bread-baking-levels-1-2-3-and-4/?couponCode=776466B41954106B253E
+https://www.udemy.com/course/deploy-mean-stack-app-on-azure-cloud-with-cicd-pipeline/?couponCode=8252511BC40C98315253
+https://www.udemy.com/course/facebook-ads-for-real-estate-business/?couponCode=WATERTIGER11
+https://www.udemy.com/course/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/?couponCode=TRICKYMAN05
+https://www.udemy.com/course/complete-inventory-management-in-microsoft-excel-tally-erp9/?couponCode=A76DD9EDB983381DFE7C
+https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-practice-tests-2023/?couponCode=3042AA3D38BCD2FB606B
+https://www.udemy.com/course/practical-html5-mastery-course/?couponCode=0E803DFB3B30A9131EBA
+https://www.udemy.com/course/designing-scalable-frontend-systems/?couponCode=MSKJULYFREE
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=BAFEF70BB7FAE17DE5FE
+https://www.udemy.com/course/learn-easy-italian/?couponCode=755165DE1E7D0BCC5BCE
+https://www.udemy.com/course/zero-to-hero-bootstrap5-mastery-course/?couponCode=E9CD8299F04AC30FE048
+https://www.udemy.com/course/frontend-development-with-reactjs-and-bootstrap/?couponCode=F1C722627C225C5080B6
 
