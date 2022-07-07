@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/07/2022
+# Daily Free Udemy Courses - 07/07/2022
 
-https://www.udemy.com/course/data_science_a_to_z/?couponCode=KGAXBQR
-https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-r/?couponCode=WCJCSAL
-https://www.udemy.com/course/batch-script-programming/?couponCode=A17B86096C8EC0C17B35
-https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/?couponCode=1950D113D8C88F2ADBE6
-https://www.udemy.com/course/master-time-management-and-productivity/?couponCode=TMP-FREECOURSE7
-https://www.udemy.com/course/learn-mindreading-and-mentalism-in-3-days/?couponCode=3A9CBE122E088A5FB2EE
-https://www.udemy.com/course/getting-started-with-blockchain-solidity-and-smart-contracts/?couponCode=C78ADB5C3C42E0A9B102
-https://www.udemy.com/course/procurement-lab/?couponCode=COURSECOUPONCLUB
-https://www.udemy.com/course/online-seo-training/?couponCode=WATERTIGER13
-https://www.udemy.com/course/complete-metaverse-course-everything-about-ar-vr-and-nfts/?couponCode=METAVERSE113
-https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/?couponCode=NNUHGSJ
-https://www.udemy.com/course/machine-learning-basics-building-regression-model-in-python/?couponCode=YXIWVTM
+https://www.udemy.com/course/canva-mastery-become-freelance-graphic-designer-in-1-hour/?couponCode=BISMILLAH1
+https://www.udemy.com/course/fundamental-sales-skills-to-boost-your-growth-and-success/?couponCode=E578C2F7C025365017F5
+https://www.udemy.com/course/computer-fundamentals-u/?couponCode=1BDEA717D44C5816C312
+https://www.udemy.com/course/google-data-studio-by-starttech/?couponCode=BCICPVA
+https://www.udemy.com/course/cnn-for-computer-vision-with-keras-and-tensorflow-in-r/?couponCode=KWRNTIF
+https://www.udemy.com/course/chatbot-marketing-course/?couponCode=CHATBOTFREE
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GOOGLE0607
+https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=DIGITALGIFT22
+https://www.udemy.com/course/facebook-marketing-course-for-beginners/?couponCode=FACEBOOK0607
+https://www.udemy.com/course/facebook-page-2022/?couponCode=WATERTIGER6
+https://www.udemy.com/course/pl-900-practice-tests-microsoft-power-platform-fundamentals/?couponCode=97ED92ABDE485B625ABA
+https://www.udemy.com/course/sc-900-practice-tests-security-compliance-identity/?couponCode=370D94A6D34FE1AA1882
 
