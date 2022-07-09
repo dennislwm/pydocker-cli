@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 08/07/2022
+# Daily Free Udemy Courses - 09/07/2022
 
 https://www.udemy.com/course/c_ts450_2021-sap-sourcing-and-procurement-practice-test/?couponCode=JULY-FREE
 https://www.udemy.com/course/google-workspace-applications-explained-g-suite-new/?couponCode=EPIC77
