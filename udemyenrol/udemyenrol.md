@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/07/2022
+# Daily Free Udemy Courses - 14/07/2022
 
-https://www.udemy.com/course/excel-accounting-problem/?couponCode=302A3045B3D5E84C6909
-https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=77F44FCC4C89F0B6F7DC
-https://www.udemy.com/course/master-persuasion-influence-hypnotic-communication-skills/?couponCode=JULY_22_FREE_NOW
-https://www.udemy.com/course/goal-setting-for-success-seekers-set-the-right-goals/?couponCode=SUMMERPARTY
-https://www.udemy.com/course/residential-rental-property-tax-preparation-2021-2022/?couponCode=232B1878795B6F76D0F6
-https://www.udemy.com/course/facebook-page-2022/?couponCode=WATERTIGER7
-https://www.udemy.com/course/journal-your-way-to-your-dream-life/?couponCode=SUMMERPARTY
-https://www.udemy.com/course/research-methods-publishing/?couponCode=0A18730666A0B8BA04A2
-https://www.udemy.com/course/mindset-makeover-from-distraction-to-action/?couponCode=SUMMERPARTY
-https://www.udemy.com/course/personal-finance-i/?couponCode=F8279F6416CD9EFE349A
-https://www.udemy.com/course/learn-big-data-basics/?couponCode=C5074947DBB71ABF3633
-https://www.udemy.com/course/the-youtube-academy-speed-growth-plan-proven-results-2022/?couponCode=AED10E5F7129635AAD94
+https://www.udemy.com/course/the-complete-and-special-bitcoin-trading-course-in-the-world/?couponCode=E5EEB03803DD39CD90BD
+https://www.udemy.com/course/conversion-optimization-course/?couponCode=CRO1307
+https://www.udemy.com/course/conversion-optimization-course/?couponCode=CRO1307
+https://www.udemy.com/course/mern-stack-with-blog-project/?couponCode=JULY2022
+https://www.udemy.com/course/learn-copywriting/?couponCode=47016CB9993EFD091E2F
+https://www.udemy.com/course/1z0-1072-21-oci-architect-associate-practice-exam/?couponCode=FREEOCIAA2022
+https://www.udemy.com/course/google-professional-cloud-architect-gcp-pca-exams/?couponCode=JULDROP2
+https://www.udemy.com/course/web-analytics-with-similarweb-from-basic-to-pro/?couponCode=WEBANALYTICS1107
+https://www.udemy.com/course/learn-java-programming-classes-and-objects/?couponCode=3BA0B48438FA7FF85515
+https://www.udemy.com/course/maximize-customer-value-to-make-more-money-online/?couponCode=FREE-VALUE-2022
+https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVMJULY22
+https://www.udemy.com/course/python-nifty-tools-functions-basic-coding-beginner-guide/?couponCode=6DE8A945F5CA45A183E4
 
