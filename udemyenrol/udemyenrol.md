@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/07/2022
+# Daily Free Udemy Courses - 15/07/2022
 
-https://www.udemy.com/course/the-complete-and-special-bitcoin-trading-course-in-the-world/?couponCode=E5EEB03803DD39CD90BD
-https://www.udemy.com/course/conversion-optimization-course/?couponCode=CRO1307
-https://www.udemy.com/course/conversion-optimization-course/?couponCode=CRO1307
-https://www.udemy.com/course/mern-stack-with-blog-project/?couponCode=JULY2022
-https://www.udemy.com/course/learn-copywriting/?couponCode=47016CB9993EFD091E2F
-https://www.udemy.com/course/1z0-1072-21-oci-architect-associate-practice-exam/?couponCode=FREEOCIAA2022
-https://www.udemy.com/course/google-professional-cloud-architect-gcp-pca-exams/?couponCode=JULDROP2
-https://www.udemy.com/course/web-analytics-with-similarweb-from-basic-to-pro/?couponCode=WEBANALYTICS1107
-https://www.udemy.com/course/learn-java-programming-classes-and-objects/?couponCode=3BA0B48438FA7FF85515
-https://www.udemy.com/course/maximize-customer-value-to-make-more-money-online/?couponCode=FREE-VALUE-2022
-https://www.udemy.com/course/earned-value-management-technique-with-examples/?couponCode=EVMJULY22
-https://www.udemy.com/course/python-nifty-tools-functions-basic-coding-beginner-guide/?couponCode=6DE8A945F5CA45A183E4
+https://www.udemy.com/course/master-data-science-in-python/?couponCode=F28B1F36196E3535DE69
+https://www.udemy.com/course/video-production-inexpensive-talking-head-video-business/?couponCode=48CDD9B141B41D3CF611
+https://www.udemy.com/course/the-ultimate-90-minute-on-camera-media-training-course/?couponCode=C89D2261C3654505B622
+https://www.udemy.com/course/accounting-basics-k/?couponCode=JULYFOUR
+https://www.udemy.com/course/facebook-ppc/?couponCode=WATERTIGER7
+https://www.udemy.com/course/local-business-2022/?couponCode=WATERTIGER11
+https://www.udemy.com/course/persuasion-in-business-communications/?couponCode=CE3FBA4E57531726C209
+https://www.udemy.com/course/make-your-excel-look-like-a-standalone-program/?couponCode=B4A3139ED7E36C1BCC11
+https://www.udemy.com/course/the-ultimate-voice-to-3d-animation-course/?couponCode=0C586D57D223CAC77F52
+https://www.udemy.com/course/personal-branding-master-course/?couponCode=JUL2022FREE01
+https://www.udemy.com/course/google-professional-cloud-architect-data-engineer/?couponCode=JULDROP2
+https://www.udemy.com/course/10x-your-productivity-with-time-management/?couponCode=5AE23D9C334FA3F85151
 
