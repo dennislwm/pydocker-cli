@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/07/2022
+# Daily Free Udemy Courses - 17/07/2022
 
-https://www.udemy.com/course/digitisation/?couponCode=4F368B2D5C409A3A4830
-https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=D1E50478B546ACC89A7C
-https://www.udemy.com/course/wordpress-and-hosting-for-beginners/?couponCode=WEBHOSTINGER1507
-https://www.udemy.com/course/learn-microsoft-outlook-complete-microsoft-outlook-guide/?couponCode=OUTLOOKJUL2022
-https://www.udemy.com/course/create-an-effective-business-case/?couponCode=8983FE188B3D4E28CBB0
-https://www.udemy.com/course/python-for-beginners-to-advance-d/?couponCode=A88083B8BBEAF7CE481F
-https://www.udemy.com/course/autocad-2d-3d-autocad-civil-architectural/?couponCode=CADJUL22
-https://www.udemy.com/course/cinematic-videographer-masterclass/?couponCode=CINEMA100
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JULY2022
-https://www.udemy.com/course/complete-adobe-premiere-pro-megacourse-beginner-to-expert/?couponCode=ED63F763C530D9DE2B6C
-https://www.udemy.com/course/first-steps-into-recruitment-and-selection/?couponCode=JULY-2022
-https://www.udemy.com/course/podcast-sponsorships/?couponCode=PSSGPSEXPJUN202022
+https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=65C371CB66192912FD4F
+https://www.udemy.com/course/learn-easy-italian/?couponCode=FE486CEA7B5D5E459C3F
+https://www.udemy.com/course/how-to-teach-an-online-course2/?couponCode=0BDAB6B07658DCA7406D
+https://www.udemy.com/course/how-to-speak-without-notes/?couponCode=7E45D334DB8D7AF7ABC6
+https://www.udemy.com/course/facebook-ads-strategy/?couponCode=WATERTIGER9
+https://www.udemy.com/course/certified-lean-six-sigma-yellow-belt-exam-prep/?couponCode=EDUCBA3
+https://www.udemy.com/course/how-to-produce-a-low-budget-independent-feature-film/?couponCode=4140D7D9142594BA05C7
+https://www.udemy.com/course/master-budgets-managerial-accountingcost-accounting/?couponCode=6E0751915FE8AA2EFD4A
+https://www.udemy.com/course/java-swing-for-gui-development/?couponCode=EDUCBA3
+https://www.udemy.com/course/quickbooks-online-multiple-currencies/?couponCode=62EAC2BCD8DE9976F6BF
+https://www.udemy.com/course/ionic-tutorials-build-android-web-apps-with-ionic/?couponCode=EDUCBA3
+https://www.udemy.com/course/ibm-watson-beginners-training-for-ai/?couponCode=EDUCBA3
 
