@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/07/2022
+# Daily Free Udemy Courses - 18/07/2022
 
-https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=65C371CB66192912FD4F
-https://www.udemy.com/course/learn-easy-italian/?couponCode=FE486CEA7B5D5E459C3F
-https://www.udemy.com/course/how-to-teach-an-online-course2/?couponCode=0BDAB6B07658DCA7406D
-https://www.udemy.com/course/how-to-speak-without-notes/?couponCode=7E45D334DB8D7AF7ABC6
-https://www.udemy.com/course/facebook-ads-strategy/?couponCode=WATERTIGER9
-https://www.udemy.com/course/certified-lean-six-sigma-yellow-belt-exam-prep/?couponCode=EDUCBA3
-https://www.udemy.com/course/how-to-produce-a-low-budget-independent-feature-film/?couponCode=4140D7D9142594BA05C7
-https://www.udemy.com/course/master-budgets-managerial-accountingcost-accounting/?couponCode=6E0751915FE8AA2EFD4A
-https://www.udemy.com/course/java-swing-for-gui-development/?couponCode=EDUCBA3
-https://www.udemy.com/course/quickbooks-online-multiple-currencies/?couponCode=62EAC2BCD8DE9976F6BF
-https://www.udemy.com/course/ionic-tutorials-build-android-web-apps-with-ionic/?couponCode=EDUCBA3
-https://www.udemy.com/course/ibm-watson-beginners-training-for-ai/?couponCode=EDUCBA3
+https://www.udemy.com/course/build-action-on-google/?couponCode=AF493404636C772EBD6F
+https://www.udemy.com/course/automotive-electrician-and-mechanic-training-aemt-2022/
+https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=OCSALYCOMFREE
+https://www.udemy.com/course/complete-guide-to-toefl-ibt/?couponCode=JULYPROMO3
+https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-2022-x/?couponCode=FREE1000
+https://www.udemy.com/course/criminology-and-criminal-psychology-certified-csi-course-ocsaly/?couponCode=OCSALYCOMFREE
+https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-practice-exams-july/?couponCode=FREE1000
+https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-exams-july-2022/?couponCode=FREE1000
+https://www.udemy.com/course/cams-anti-money-laundering-specialist-practice-exams-july/?couponCode=FREE1000
+https://www.udemy.com/course/oracle-database-sql-1z0-071-practice-exams-july-2022/?couponCode=FREE1000
+https://www.udemy.com/course/rhcsa-ex200-practice-exams-july-2022-update/?couponCode=FREE1000
+https://www.udemy.com/course/certified-media-buying-professional/?couponCode=WATERTIGER2
 
