@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 18/07/2022
+# Daily Free Udemy Courses - 19/07/2022
 
 https://www.udemy.com/course/build-action-on-google/?couponCode=AF493404636C772EBD6F
 https://www.udemy.com/course/automotive-electrician-and-mechanic-training-aemt-2022/
