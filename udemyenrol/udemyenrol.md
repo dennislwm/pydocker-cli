@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/07/2022
+# Daily Free Udemy Courses - 20/07/2022
 
-https://www.udemy.com/course/build-action-on-google/?couponCode=AF493404636C772EBD6F
-https://www.udemy.com/course/automotive-electrician-and-mechanic-training-aemt-2022/
-https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=OCSALYCOMFREE
-https://www.udemy.com/course/complete-guide-to-toefl-ibt/?couponCode=JULYPROMO3
-https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-2022-x/?couponCode=FREE1000
-https://www.udemy.com/course/criminology-and-criminal-psychology-certified-csi-course-ocsaly/?couponCode=OCSALYCOMFREE
-https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-practice-exams-july/?couponCode=FREE1000
-https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-exams-july-2022/?couponCode=FREE1000
-https://www.udemy.com/course/cams-anti-money-laundering-specialist-practice-exams-july/?couponCode=FREE1000
-https://www.udemy.com/course/oracle-database-sql-1z0-071-practice-exams-july-2022/?couponCode=FREE1000
-https://www.udemy.com/course/rhcsa-ex200-practice-exams-july-2022-update/?couponCode=FREE1000
-https://www.udemy.com/course/certified-media-buying-professional/?couponCode=WATERTIGER2
+https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEJULY326
+https://www.udemy.com/course/crisis-communications-how-to-survive-a-crisis-in-the-media/?couponCode=C02448C479C31D049B22
+https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=EACC3CB9C90A7ACFC533
+https://www.udemy.com/course/the-complete-law-of-attraction-course-updated-for-the-2020s/?couponCode=561A3C60EAB6B0901653
+https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=53AA3EAF0B747DDA37FA
+https://www.udemy.com/course/1z0-1093-21-oracle-cloud-database-services-specialist/?couponCode=E447236884A0C4AB8CFC
+https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEJULY328
+https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-2022-june/?couponCode=66BF3A9B6195A97BB1C5
+https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEJULY329
+https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEJULY330
+https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEJULY327
+https://www.udemy.com/course/1z0-1067-21-oracle-oci-2021-cloud-operations-associate-d/?couponCode=54F636390B5D55160B4B
 
