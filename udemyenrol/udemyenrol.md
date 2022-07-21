@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/07/2022
+# Daily Free Udemy Courses - 21/07/2022
 
-https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEJULY326
-https://www.udemy.com/course/crisis-communications-how-to-survive-a-crisis-in-the-media/?couponCode=C02448C479C31D049B22
-https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=EACC3CB9C90A7ACFC533
-https://www.udemy.com/course/the-complete-law-of-attraction-course-updated-for-the-2020s/?couponCode=561A3C60EAB6B0901653
-https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=53AA3EAF0B747DDA37FA
-https://www.udemy.com/course/1z0-1093-21-oracle-cloud-database-services-specialist/?couponCode=E447236884A0C4AB8CFC
-https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEJULY328
-https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-2022-june/?couponCode=66BF3A9B6195A97BB1C5
-https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEJULY329
-https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEJULY330
-https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEJULY327
-https://www.udemy.com/course/1z0-1067-21-oracle-oci-2021-cloud-operations-associate-d/?couponCode=54F636390B5D55160B4B
+https://www.udemy.com/course/aromatherapy-complete-beginner-course-for-essential-oils/?couponCode=3495654DCBEDD986990C
+https://www.udemy.com/course/essential-oils-ultimate-certification-course/?couponCode=DDB6432B17CAD2381A3D
+https://www.udemy.com/course/excellence-in-oral-communication/?couponCode=09AAE8F9E8F5425D1E2F
+https://www.udemy.com/course/system-debugging-essentials-beyond-debuggers/?couponCode=F1EBD06E22B5BA594423
+https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=PERSUASION-2-22
+https://www.udemy.com/course/poultry-farming-bacterial-diseases-hindering-satisfying-prod/?couponCode=18B4851730D767FFFBDC
+https://www.udemy.com/course/poultry-farming-viral-diseases-threaten-poultry-industry/?couponCode=5DE4DD64E0CFE6610396
+https://www.udemy.com/course/the-rise-of-artificial-intelligence-at-work-in-2019-beyond/?couponCode=4410181CBC7DFB61CC87
+https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/?couponCode=41B796D9DB6530208301
+https://www.udemy.com/course/the-150-most-important-irregular-verbs-in-english-volume-1/?couponCode=C75C8ED37AFF66C50217
+https://www.udemy.com/course/viral-marketing-masterclass-2019-epic-tricks-to-go-viral/?couponCode=BC38D1D3B21FEDB049C8
+https://www.udemy.com/course/ultra-speed-3d-game-development-using-gameguru/?couponCode=D317195BAA0D1A19B1CF
 
