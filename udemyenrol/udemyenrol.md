@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/07/2022
+# Daily Free Udemy Courses - 23/07/2022
 
-https://www.udemy.com/course/uiux-design-with-figma-5-real-world-projects2022/?couponCode=4A283090F92804414078
-https://www.udemy.com/course/videoscribe-whiteboard-animations-masterclass-with-project/?couponCode=3143834B7D5E2EF31454
-https://www.udemy.com/course/data-analysis-and-visualisations-using-r/?couponCode=394E7A6C0982DD87C062
-https://www.udemy.com/course/filmora9-complete-video-editing-tutorial-for-beginners-2020/?couponCode=D26F9734AB7D4B0E0B0C
-https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-for-beginners/?couponCode=D8265DFA3EF9333C8480
-https://www.udemy.com/course/adobe-photoshop-cc-from-a-z-beginner-to-master/?couponCode=ABE665E696F0E250E259
-https://www.udemy.com/course/programming-language-selection-almanac/?couponCode=F788A8F0AB1FEE394AD4
-https://www.udemy.com/course/ethical-hacking-file-inclusion/?couponCode=JUNKFOOD
-https://www.udemy.com/course/first-steps-into-recruitment-and-selection/?couponCode=JULY-22
-https://www.udemy.com/course/google-professional-data-engineer-cloud-developer/?couponCode=JULDROP3
-https://www.udemy.com/course/transonic-aerodynamics/?couponCode=YANEV_FREE10
-https://www.udemy.com/course/aircraft-design/?couponCode=YANEV_FREE10
+https://www.udemy.com/course/prince2-foundation-practice-tests-a/?couponCode=IMZILEN
+https://www.udemy.com/course/cisco-ccnp-collaboration-350-801-clcor-practice-tests/?couponCode=IMZILEN
+https://www.udemy.com/course/podcast-mastery/?couponCode=PMHMMMPEXPJUL262022
+https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=8AB3BF731D2003DEF929
+https://www.udemy.com/course/az-104-azure-administrator-practice-tests/?couponCode=IMZILEN
+https://www.udemy.com/course/comptia-a-core-2-220-1002-practice-exams/?couponCode=FIRSTPROMO
+https://www.udemy.com/course/chinese-level-1/?couponCode=FD1334862CBA5CD969B9
+https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=80B6CAD2512995ECCAF8
+https://www.udemy.com/course/introduction-to-bonds/?couponCode=311A5BE6E468FD0F9D1D
+https://www.udemy.com/course/how-to-deliver-technology-presentations/?couponCode=C3B85FBFCA9C9B477576
+https://www.udemy.com/course/master-data-science-in-python/?couponCode=F68EB5FB77BBF5A76C42
+https://www.udemy.com/course/agile-project-management-genman/?couponCode=EGHXQJY
 
