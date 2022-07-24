@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/07/2022
+# Daily Free Udemy Courses - 24/07/2022
 
-https://www.udemy.com/course/prince2-foundation-practice-tests-a/?couponCode=IMZILEN
-https://www.udemy.com/course/cisco-ccnp-collaboration-350-801-clcor-practice-tests/?couponCode=IMZILEN
-https://www.udemy.com/course/podcast-mastery/?couponCode=PMHMMMPEXPJUL262022
-https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=8AB3BF731D2003DEF929
-https://www.udemy.com/course/az-104-azure-administrator-practice-tests/?couponCode=IMZILEN
-https://www.udemy.com/course/comptia-a-core-2-220-1002-practice-exams/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/chinese-level-1/?couponCode=FD1334862CBA5CD969B9
-https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=80B6CAD2512995ECCAF8
-https://www.udemy.com/course/introduction-to-bonds/?couponCode=311A5BE6E468FD0F9D1D
-https://www.udemy.com/course/how-to-deliver-technology-presentations/?couponCode=C3B85FBFCA9C9B477576
-https://www.udemy.com/course/master-data-science-in-python/?couponCode=F68EB5FB77BBF5A76C42
-https://www.udemy.com/course/agile-project-management-genman/?couponCode=EGHXQJY
+https://www.udemy.com/course/segments-of-triangle-triangle-centers/?couponCode=UDEMY100
+https://www.udemy.com/course/azure-fundamentals-az-900-latest-practise-questions/?couponCode=JULY2022
+https://www.udemy.com/course/hz-traffic-driving-mini-course/?couponCode=55A8D91930531EA3AC9E
+https://www.udemy.com/course/henry-zhang-facebook-marketing-mini-course/?couponCode=8CCEAE12623D1C547578
+https://www.udemy.com/course/the-most-important-french-words-and-expressions/?couponCode=5A3F24566CA03E5256FB
+https://www.udemy.com/course/personal-finance-1-goals-planning-time-value-of-money/?couponCode=1BDACEF23D2E8E204D9A
+https://www.udemy.com/course/google-professional-cloud-devops-engineer-practice-exams-t/?couponCode=FIRSTPROMO
+https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=2BBB0FB6EE05C616E479
+https://www.udemy.com/course/google-professional-cloud-developer-practice-exams-b/?couponCode=SECONDPROMO
+https://www.udemy.com/course/henry-zhang-entrepreneurial-ideas-mini-course/?couponCode=660D7863896F63075BD4
+https://www.udemy.com/course/digishock-10-basics-create-operating-system-without-code/?couponCode=4C7D16503F97D9CB4A09
+https://www.udemy.com/course/outsourcing-mini-course/?couponCode=EDD2390F120DFA4CCF38
 
