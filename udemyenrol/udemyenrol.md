@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/07/2022
+# Daily Free Udemy Courses - 26/07/2022
 
-https://www.udemy.com/course/itil-4-foundation-practice-exams-april-2022/?couponCode=FREE1000JULY
-https://www.udemy.com/course/check-point-ccsa-156-21580-practice-exams-apr-2022/?couponCode=FREE1000JULY
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-exams-s/?couponCode=FREE1000JULY
-https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-practice-exams-n/?couponCode=FREE1000JULY
-https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=8E73C31CD61D64F00E43
-https://www.udemy.com/course/adobe-illustrator-cc-2020-master-course/?couponCode=TRY100072201
-https://www.udemy.com/course/facebook-dynamic-ads/?couponCode=WATERTIGER11
-https://www.udemy.com/course/beginner-to-expert-learn-elementor-wordpress/?couponCode=959B8B46F8086224DAD4
-https://www.udemy.com/course/local-digital-marketing/?couponCode=WATERTIGER14
-https://www.udemy.com/course/fundamental-sales-skills-to-boost-your-growth-and-success/?couponCode=ACD7A135C2EEECDEA202
-https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=4C2D61D640375DB68584
-https://www.udemy.com/course/write-like-a-boss-business-writing-skills-for-professionals/?couponCode=07C41854F35652B65C81
+https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-test-2022/?couponCode=8E3FF360C39C4A9EF2FD
+https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/?couponCode=6FB3E9EAF1BB65FF1E24
+https://www.udemy.com/course/vmware-certified-professional-6-network-virtualization-iw/?couponCode=F3AE894FF8D3A1E7A7D1
+https://www.udemy.com/course/google-cloud-professional-data-engineer-gcp-exams/?couponCode=JULDROP
+https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=EB6A21F379CB6B300811
+https://www.udemy.com/course/pmp-practice-test-project-management-professional-2021/?couponCode=6F802BCC09ABD11DC5FF
+https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=C2FF8DD7AE875974AAFB
+https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/?couponCode=B4C931D540E6E742BFD3
+https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=JULYGIFT
+https://www.udemy.com/course/seo-strategy/?couponCode=JULYGIFT
+https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=FZGHIIO
+https://www.udemy.com/course/beginners-guide-to-improvisation-hollywood-film-directing/?couponCode=E2C35316F5CB080E2703
 
