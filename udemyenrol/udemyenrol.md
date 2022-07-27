@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/07/2022
+# Daily Free Udemy Courses - 27/07/2022
 
-https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-test-2022/?couponCode=8E3FF360C39C4A9EF2FD
-https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/?couponCode=6FB3E9EAF1BB65FF1E24
-https://www.udemy.com/course/vmware-certified-professional-6-network-virtualization-iw/?couponCode=F3AE894FF8D3A1E7A7D1
-https://www.udemy.com/course/google-cloud-professional-data-engineer-gcp-exams/?couponCode=JULDROP
-https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=EB6A21F379CB6B300811
-https://www.udemy.com/course/pmp-practice-test-project-management-professional-2021/?couponCode=6F802BCC09ABD11DC5FF
-https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=C2FF8DD7AE875974AAFB
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/?couponCode=B4C931D540E6E742BFD3
-https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=JULYGIFT
-https://www.udemy.com/course/seo-strategy/?couponCode=JULYGIFT
-https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=FZGHIIO
-https://www.udemy.com/course/beginners-guide-to-improvisation-hollywood-film-directing/?couponCode=E2C35316F5CB080E2703
+https://www.udemy.com/course/linear-regression-and-logistic-regression-r-studio-starttech/?couponCode=4B3EBB
+https://www.udemy.com/course/essential-tools-for-working-remotely-google-apps/?couponCode=60C2D15
+https://www.udemy.com/course/acing-time-management/?couponCode=FREEJULY2022
+https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_JULY3
+https://www.udemy.com/course/adobe-dreamweaver-cc-2020-master-course/?couponCode=TRY100072201
+https://www.udemy.com/course/applied-marcus-aurelius-meditations-course-stoicism-philosophy/?couponCode=F0D134EB73E92DA28173
+https://www.udemy.com/course/diversity-at-workplace-t/?couponCode=JULY-22
+https://www.udemy.com/course/accounting-basics-the-ultimate-course/?couponCode=JULYTHIRTEEN
+https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=JULY0003
+https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=577E2AA67B8B5F24D4C2
+https://www.udemy.com/course/lookml-google-looker-for-developers/?couponCode=0EBC92
+https://www.udemy.com/course/shopify-dropshipping-khalidgraphy/?couponCode=SHOPIFYFREE1
 
