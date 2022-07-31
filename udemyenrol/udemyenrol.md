@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/07/2022
+# Daily Free Udemy Courses - 31/07/2022
 
-https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-for-beginners/?couponCode=85A6FD130CD48FF5C13C
-https://www.udemy.com/course/all-you-need-for-pmi-acp-exam/?couponCode=FREE1000
-https://www.udemy.com/course/google-certified-professional-data-engineer-practice-test/?couponCode=DD014EC1407AB41028D7
-https://www.udemy.com/course/comptia-advanced-security-practitioner-casp-practice-exams-c/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/comptia-security-sy0-601-practice-test-exam-2021-new/?couponCode=056A50056912380898C2
-https://www.udemy.com/course/time-management-m/?couponCode=2372C4A90972C8AA23E8
-https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=CF41A15D43381925DB27
-https://www.udemy.com/course/the-abcs-of-asset-backed-securities-and-securitization/?couponCode=ICMI_LEARNING
-https://www.udemy.com/course/videoscribe-whiteboard-animations-masterclass-with-project/?couponCode=864069B620DA06C37D0B
-https://www.udemy.com/course/filmora9-complete-video-editing-tutorial-for-beginners-2020/?couponCode=C04BF683DE6D7858EC83
-https://www.udemy.com/course/hiring-process-talent-management/?couponCode=JULY-22
-https://www.udemy.com/course/data-analysis-and-visualisations-using-r/?couponCode=2266BE814F1B7CE359F0
+https://bit.ly/3Sg2klG
+https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=5E92BAB75820AB360C14
+https://www.udemy.com/course/java-complete-course-for-beginners/?couponCode=JULYEND
+https://www.udemy.com/course/python-for-beginners-learn/?couponCode=03B53D027C0CC771CB5E
+https://www.udemy.com/course/python-fundamentals-techy/?couponCode=JULYEND
+https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=JULY_2022
+https://www.udemy.com/course/multi-family-investing-for-beginners/?couponCode=E59F4C47BAE2F2795CE8
+https://www.udemy.com/course/operational-amplifiers-linear-integrated-circuits/?couponCode=C4E744EC66945F36E4A8
+https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=5064D4CDB0AD7D90D3E8
+https://www.udemy.com/course/movavivideoeditor/?couponCode=837A5BFA078CD67B4A15
+https://www.udemy.com/course/digital-marketing-2022/?couponCode=WATERTIGER8
+https://www.udemy.com/course/comptia-advanced-security-practitioner-casp-practice-exams-c/?couponCode=SECONDPROMO
 
