@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/08/2022
+# Daily Free Udemy Courses - 02/08/2022
 
-https://www.udemy.com/course/microsoft-az-900-azure-fundementals-practice-exams/?couponCode=5FBFAD8A7D902CF0BA92
-https://www.udemy.com/course/azure-104-practice-exam/?couponCode=0508768A03B0ACB4779B
-https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=6D57348681CEE8757241
-https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=BCFA9EEF3647FE7330C1
-https://www.udemy.com/course/general-mycology-a-brief-review/?couponCode=8FB805F461E09D0CE0D9
-https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/?couponCode=JUL003
-https://www.udemy.com/course/how-to-build-a-sales-funnel-for-your-subscription-business/?couponCode=E720D6B28372B18A0C30
-https://www.udemy.com/course/make-up-to-55-dollars-an-hour-as-a-mortgage-underwriter/?couponCode=584D7AE916B790BD1848
-https://www.udemy.com/course/ai-900-azure-ai-fundamentals-exam-practice-test-new/?couponCode=FREEJULY22
-https://www.udemy.com/course/java-ee-application-developer-exam-practice-tests/?couponCode=FREEJULY22
-https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=A82EFEBF6536CDCB9B5E
-https://www.udemy.com/course/java-foundations-exam-1z0-811-practice-tests-new/?couponCode=FREEJULY22
+https://www.udemy.com/course/learn-photoshop-presets/?couponCode=1BC0F709DEA20D9B7007
+https://www.udemy.com/course/concept-of-wellbeing-dealing-with-anxiety/?couponCode=FREE_WELBN_0722
+https://www.udemy.com/course/the-no-comfort-zone-challenge-live-life-to-the-fullest/?couponCode=SUCCESSAUGUST
+https://www.udemy.com/course/learn-icon-design-with-photoshop-2020/?couponCode=FC4B5C04BF23A84A1FBE
+https://www.udemy.com/course/network-monitoring/?couponCode=2D0471C363764EC148E7
+https://www.udemy.com/course/io-psychology-industrial-organizational-psychology-career-course-udemy/?couponCode=PIVOT2
+https://www.udemy.com/course/learn-g-suite/?couponCode=8189BB47D5AF5217F50D
+https://www.udemy.com/course/google-cloud-professional-data-engineer-gcp-exams/?couponCode=AUGDROP
+https://www.udemy.com/course/learn-photoshop-menu-keyboard-shortcuts/?couponCode=55C9496CF3BAA793D4CA
+https://www.udemy.com/course/learn-graphic-design-with-photoshop-2020/?couponCode=5E52577BDB3A329C3AA4
+https://www.udemy.com/course/plastic-pollution/?couponCode=CB0921497420751F08AC
+https://www.udemy.com/course/learn-microsoft-word/?couponCode=5344A98B4D2B04C29DB0
 
