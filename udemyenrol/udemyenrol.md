@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/08/2022
+# Daily Free Udemy Courses - 08/08/2022
 
-https://www.udemy.com/course/bitcoin-university/?couponCode=6E761117B04F2DD62A1E
-https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=LEARNERSGIFT32
-https://www.udemy.com/course/careermom-maternity-leave-countdown/?couponCode=FFDED10CA627EF0762F0
-https://www.udemy.com/course/wave-accounting-2020/?couponCode=B7A6FBB9EC240C57D78F
-https://www.udemy.com/course/financial-statement-analysis-ratio-analysis/?couponCode=76F28DDD32DB9518F29A
-https://www.udemy.com/course/time-value-of-money-capital-budgeting-present-value/?couponCode=020DBB4BCB0545B7F175
-https://www.udemy.com/course/istqb-foundation-ctfl-practice-exams-o/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/lpi-010-160-linux-essentials-practice-exams-h/?couponCode=FIRSTPROMO
-https://www.udemy.com/course/facebook-ads-facebook-marketing-strategy-advertising-for-traffic/?couponCode=050522
-https://www.udemy.com/course/digital-marketing-google-adwords-express-seo-ppc-advertising-2018/?couponCode=050522
-https://www.udemy.com/course/facebook-marketing-for-events-advertising-hacks-strategy/?couponCode=050522
-https://www.udemy.com/course/digital-marketing-with-google-my-business-seo-website-local-listing/?couponCode=050522
+https://www.udemy.com/course/build-shopify-ecommerce-website-30-min-zero-experience-2020-2021-2022/?couponCode=050522
+https://www.udemy.com/course/leadership-in-kata-style/?couponCode=D92B8D752141F5877B93
+https://www.udemy.com/course/soc-analyst-now/?couponCode=46D07A5CF35C6A9F627E
+https://www.udemy.com/course/learn-in-69-mins-how-to-make-right-career-choices/?couponCode=97A01C3F43DC75387F8E
+https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=FREE-2022
+https://www.udemy.com/course/watercolor-painting-course-for-beginner/?couponCode=B0938C19E6FB76E9F4BF
+https://www.udemy.com/course/complete-financial-trading-technical-analysis-2022/?couponCode=COURSEVANIA
+https://www.udemy.com/course/nft-for-beginners/?couponCode=E58AB985B579E12D9034
+https://www.udemy.com/course/fundamental-of-embedded-operating-systems/?couponCode=7931860EFABD3D9050B5
+https://www.udemy.com/course/interactive-photography-basics/?couponCode=PHOTO21AUG2022
+https://www.udemy.com/course/autocad-2d-3d-autocad-civil-architectural/?couponCode=CADAUG22
+https://www.udemy.com/course/powershell-functions-master-class/?couponCode=LEARNERSGIFT34
 
