@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 09/08/2022
+# Daily Free Udemy Courses - 10/08/2022
 
 https://www.udemy.com/course/hardening-ubuntu-server/?couponCode=FIESTASANSALVADOR
 https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=INTERNATIONALCATDAY
