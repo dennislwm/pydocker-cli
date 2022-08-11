@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/08/2022
+# Daily Free Udemy Courses - 11/08/2022
 
-https://www.udemy.com/course/hardening-ubuntu-server/?couponCode=FIESTASANSALVADOR
-https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=INTERNATIONALCATDAY
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-certification-2022/?couponCode=2BDEBBC346B6E8E61A63
-https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-exams-2022/?couponCode=4D5BCBC742731DD4406B
-https://www.udemy.com/course/cambridge-english-c1-cae-speaking-the-ultimate-guide/?couponCode=FREEFACEBOOK
-https://www.udemy.com/course/introduction-to-quantum-computing-a-z-package-for-students/?couponCode=778543D9DFB3D43CD44D
-https://www.udemy.com/course/inculcating-positive-thinking-for-happiness-just-in-5-days/?couponCode=9F321F2BDE5DF96D0ED5
-https://www.udemy.com/course/blockchain-cryptocurrency-fundamentals-for-beginners/?couponCode=08B71120731BBA206054
-https://www.udemy.com/course/unity2d-memory-matching-game/?couponCode=6CFEE4F347DCA4067A1F
-https://www.udemy.com/course/english-grammar-course-tenses-structures/?couponCode=AUGUSTSIX
-https://www.udemy.com/course/fundamental-of-embedded-systems/?couponCode=FBE778C200B986860C50
-https://www.udemy.com/course/ethical-hacking-windows-exploitation-basics/?couponCode=INTERNATIONALCATDAY
+https://www.udemy.com/course/tallygst/?couponCode=FREEAUG22
+https://www.udemy.com/course/sap-s4hana-sales-process-with-fiori-for-usersconsultants/?couponCode=4ACBD279D4753CCB0B1F
+https://www.udemy.com/course/containerize-springboot-node-express-apps-deploy-on-azure/?couponCode=46D8AA52BBB1CC934CFC
+https://www.udemy.com/course/practical-git-github-bootcamp-for-developers/?couponCode=53A94A5B9CB57078F1ED
+https://www.udemy.com/course/linux-security-best-practices/?couponCode=LAZYDAY
+https://www.udemy.com/course/complete-english-course-master-native-english-for-beginners/?couponCode=4CC54F4D7051CD282D0C
+https://www.udemy.com/course/complete-adobe-premiere-pro-megacourse-beginner-to-expert/?couponCode=3DA04A97F44F2FA32A8C
+https://www.udemy.com/course/az-400-microsoft-azure-devops-engineer-exam-certification/?couponCode=6F3673560AF3007D87E7
+https://www.udemy.com/course/develop-and-deploy-mean-stack-project-on-azure-cloud/?couponCode=C7C71A7C0E8CE7331E5D
+https://www.udemy.com/course/become-an-instagram-manager/?couponCode=INAMEDIA008
+https://www.udemy.com/course/instagram-lead-generation/?couponCode=INAMEDIA005
+https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=3683DE04D2DC8853A03E
 
