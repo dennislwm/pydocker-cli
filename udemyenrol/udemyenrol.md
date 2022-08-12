@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/08/2022
+# Daily Free Udemy Courses - 12/08/2022
 
-https://www.udemy.com/course/tallygst/?couponCode=FREEAUG22
-https://www.udemy.com/course/sap-s4hana-sales-process-with-fiori-for-usersconsultants/?couponCode=4ACBD279D4753CCB0B1F
-https://www.udemy.com/course/containerize-springboot-node-express-apps-deploy-on-azure/?couponCode=46D8AA52BBB1CC934CFC
-https://www.udemy.com/course/practical-git-github-bootcamp-for-developers/?couponCode=53A94A5B9CB57078F1ED
-https://www.udemy.com/course/linux-security-best-practices/?couponCode=LAZYDAY
-https://www.udemy.com/course/complete-english-course-master-native-english-for-beginners/?couponCode=4CC54F4D7051CD282D0C
-https://www.udemy.com/course/complete-adobe-premiere-pro-megacourse-beginner-to-expert/?couponCode=3DA04A97F44F2FA32A8C
-https://www.udemy.com/course/az-400-microsoft-azure-devops-engineer-exam-certification/?couponCode=6F3673560AF3007D87E7
-https://www.udemy.com/course/develop-and-deploy-mean-stack-project-on-azure-cloud/?couponCode=C7C71A7C0E8CE7331E5D
-https://www.udemy.com/course/become-an-instagram-manager/?couponCode=INAMEDIA008
-https://www.udemy.com/course/instagram-lead-generation/?couponCode=INAMEDIA005
-https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=3683DE04D2DC8853A03E
+https://www.udemy.com/course/excellence-in-product-management/?couponCode=DF66E01346812FF3E1F9
+https://www.udemy.com/course/hardening-ubuntu-server/?couponCode=MOUNTAINDAY
+https://www.udemy.com/course/python-bootcamp-for-data-science-2021-numpy-pandas-seaborn/?couponCode=AUGUST1-2022
+https://www.udemy.com/course/ethical-hacking-file-inclusion/?couponCode=MOUNTAINDAY
+https://www.udemy.com/course/3-john-summary-life-lessons-for-todays-living/?couponCode=2530F2C860B3F5C9197B
+https://www.udemy.com/course/the-book-of-james-keys-to-a-living-faith-life-application/?couponCode=6CA51235C68DD323A479
+https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=9DB7D33338B6CB6B7FF9
+https://www.udemy.com/course/essentials-of-organizational-behaviour/?couponCode=EAAAC4FF5DC8F689ADE6
+https://www.udemy.com/course/generate-income-streams-build-resilience-sustainability/?couponCode=6E6BAC4585EA85F494F3
+https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=F67CB3B501D46F35C1E7
+https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=47588EE909EC3746A43D
+https://www.udemy.com/course/the-complete-css-course/?couponCode=TRY1000FREE82202
 
