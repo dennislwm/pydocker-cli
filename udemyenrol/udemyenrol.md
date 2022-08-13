@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/08/2022
+# Daily Free Udemy Courses - 13/08/2022
 
-https://www.udemy.com/course/excellence-in-product-management/?couponCode=DF66E01346812FF3E1F9
-https://www.udemy.com/course/hardening-ubuntu-server/?couponCode=MOUNTAINDAY
-https://www.udemy.com/course/python-bootcamp-for-data-science-2021-numpy-pandas-seaborn/?couponCode=AUGUST1-2022
-https://www.udemy.com/course/ethical-hacking-file-inclusion/?couponCode=MOUNTAINDAY
-https://www.udemy.com/course/3-john-summary-life-lessons-for-todays-living/?couponCode=2530F2C860B3F5C9197B
-https://www.udemy.com/course/the-book-of-james-keys-to-a-living-faith-life-application/?couponCode=6CA51235C68DD323A479
-https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=9DB7D33338B6CB6B7FF9
-https://www.udemy.com/course/essentials-of-organizational-behaviour/?couponCode=EAAAC4FF5DC8F689ADE6
-https://www.udemy.com/course/generate-income-streams-build-resilience-sustainability/?couponCode=6E6BAC4585EA85F494F3
-https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=F67CB3B501D46F35C1E7
-https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=47588EE909EC3746A43D
-https://www.udemy.com/course/the-complete-css-course/?couponCode=TRY1000FREE82202
+https://www.udemy.com/course/bitcoin-university/?couponCode=71BEF2A78B41AE1D0271
+https://www.udemy.com/course/how-to-pitch-your-filmmaking-screenwriting-projects-to-investors/?couponCode=B0E888704B73B65BC5B0
+https://www.udemy.com/course/mastering-adobe-lightroom/?couponCode=LRAUG2022
+https://www.udemy.com/course/complete-sql-bootcamp-with-mysql-php-python/?couponCode=SQLAUG2022
+https://www.udemy.com/course/sap-basis-erp/?couponCode=76B8805247B08DC3C0FF
+https://www.udemy.com/course/management-consulting-presentation-mckinsey/?couponCode=16C7D0121B555DB91BE0
+https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=INFOGR_AUG2
+https://www.udemy.com/course/songwriting-melodies/?couponCode=57E75ACF6797453B9741
+https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/?couponCode=1EBF64360B28923E49BB
+https://www.udemy.com/course/microsoft-word-new-microsoft-word-2021-for-windows-users/?couponCode=B71CA87C000540941338
+https://www.udemy.com/course/management-consulting-business-strategy/?couponCode=24D3C5F5E5CD839895C1
+https://www.udemy.com/course/psychological-mind-experiments/?couponCode=43EE4D22B6B686FE79D7
 
