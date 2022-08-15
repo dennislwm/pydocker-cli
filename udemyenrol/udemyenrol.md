@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/08/2022
+# Daily Free Udemy Courses - 15/08/2022
 
-https://www.udemy.com/course/facebook-ads-2021/?couponCode=WATERTIGER15
-https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=4A9561267DB7F9C0D2A8
-https://www.udemy.com/course/google-professional-cloud-architect-developer/?couponCode=AUGDROP3
-https://www.udemy.com/course/certified-mongodb-developer-database-administrator/?couponCode=AUGDROP3
-https://www.udemy.com/course/google-professional-cloud-architect-data-engineer/?couponCode=AUGDROP3
-https://www.udemy.com/course/kanban-flow-metrics/?couponCode=PUFUDVJ
-https://www.udemy.com/course/python-for-beginners-to-advance-d/?couponCode=B1AEE0AA2F044DAFDA34
-https://www.udemy.com/course/google-professional-data-engineer-cloud-developer/?couponCode=AUGDROP2
-https://www.udemy.com/course/crisc-exclusive-exam-preparation-newest-version-isaca/?couponCode=FREECRISC22
-https://www.udemy.com/course/certified-entry-level-python-programmer-pcep-exams/?couponCode=AUGDROP2
-https://www.udemy.com/course/improve-english-by-listening-movies-1c/?couponCode=4DE79610220048733C1A
-https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=3EB703B97EACBAAD2088
+https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=PERSUASION-22-2022
+https://www.udemy.com/course/instagram-lead-generation/?couponCode=INAMEDIA006
+https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY1000FREE82202
+https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-prep-new/?couponCode=FREEPL90022
+https://www.udemy.com/course/adobe-animate-cc-2020-master-course/?couponCode=TRY1000FREE82201
+https://www.udemy.com/course/creating-delighted-devoted-customers/?couponCode=AFAAB1D1E1C46BDADDC5
+https://www.udemy.com/course/part-1-business-innovation-for-brand-growth/?couponCode=2030FA7E6E90F7FB0640
+https://www.udemy.com/course/virtual-communication-masterclass/?couponCode=E2235B3BDC0AA3BB1A83
+https://www.udemy.com/course/the-6-things-that-customers-want/?couponCode=F8125FE56D466E5DE797
+https://www.udemy.com/course/making-the-perfect-cup-of-coffee/?couponCode=8A5962595D0A2BEC8F22
+https://www.udemy.com/course/maximising-sales-in-an-economic-decline/?couponCode=CD5E6EA045C318DE837E
+https://www.udemy.com/course/managing-emotions-for-higher-performance/?couponCode=FCE870B9C43EF84177FC
 
