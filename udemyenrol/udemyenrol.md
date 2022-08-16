@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/08/2022
+# Daily Free Udemy Courses - 16/08/2022
 
-https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=PERSUASION-22-2022
-https://www.udemy.com/course/instagram-lead-generation/?couponCode=INAMEDIA006
-https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=TRY1000FREE82202
-https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-prep-new/?couponCode=FREEPL90022
-https://www.udemy.com/course/adobe-animate-cc-2020-master-course/?couponCode=TRY1000FREE82201
-https://www.udemy.com/course/creating-delighted-devoted-customers/?couponCode=AFAAB1D1E1C46BDADDC5
-https://www.udemy.com/course/part-1-business-innovation-for-brand-growth/?couponCode=2030FA7E6E90F7FB0640
-https://www.udemy.com/course/virtual-communication-masterclass/?couponCode=E2235B3BDC0AA3BB1A83
-https://www.udemy.com/course/the-6-things-that-customers-want/?couponCode=F8125FE56D466E5DE797
-https://www.udemy.com/course/making-the-perfect-cup-of-coffee/?couponCode=8A5962595D0A2BEC8F22
-https://www.udemy.com/course/maximising-sales-in-an-economic-decline/?couponCode=CD5E6EA045C318DE837E
-https://www.udemy.com/course/managing-emotions-for-higher-performance/?couponCode=FCE870B9C43EF84177FC
+https://www.udemy.com/course/fundamental-question-on-rpa-robotic-process-automation/?couponCode=3E4DD3ADB272CF5922B9
+https://www.udemy.com/course/hiring-process-talent-management/?couponCode=AUG.2022
+https://www.udemy.com/course/beginner-to-expert-learn-elementor-wordpress/?couponCode=9D518D6BF91D3DE28EB9
+https://www.udemy.com/course/graph-ai-using-neural-networks-internet-of-behaviors-iob/?couponCode=58CC404F5CE725C25B25
+https://www.udemy.com/course/the-complete-happiness-course-become-happier-now/?couponCode=2B8B3EF5C35DF04C130E
+https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=F7FFB09C22A6FF76BC4E
+https://www.udemy.com/course/fundamental-question-on-robotics/?couponCode=FFFF06B476833D91BF81
+https://www.udemy.com/course/fundamental-question-on-ethical-hacking/?couponCode=B7FAE2343777362B4AB9
+https://www.udemy.com/course/start-streaming-with-obs-studio-in-2022/?couponCode=THEVIDEONERD
+https://www.udemy.com/course/fundamental-question-for-ethical-hackeing/?couponCode=F4B091E6B826C7E977CD
+https://www.udemy.com/course/python-bootcamp-for-data-science-2021-numpy-pandas-seaborn/?couponCode=AUGUST2-2022
+https://www.udemy.com/course/copywriting-2023/?couponCode=WATERTIGER8
 
