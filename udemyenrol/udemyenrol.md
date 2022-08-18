@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/08/2022
+# Daily Free Udemy Courses - 18/08/2022
 
-https://www.udemy.com/course/fundamental-question-on-rpa-robotic-process-automation/?couponCode=3E4DD3ADB272CF5922B9
-https://www.udemy.com/course/hiring-process-talent-management/?couponCode=AUG.2022
-https://www.udemy.com/course/beginner-to-expert-learn-elementor-wordpress/?couponCode=9D518D6BF91D3DE28EB9
-https://www.udemy.com/course/graph-ai-using-neural-networks-internet-of-behaviors-iob/?couponCode=58CC404F5CE725C25B25
-https://www.udemy.com/course/the-complete-happiness-course-become-happier-now/?couponCode=2B8B3EF5C35DF04C130E
-https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=F7FFB09C22A6FF76BC4E
-https://www.udemy.com/course/fundamental-question-on-robotics/?couponCode=FFFF06B476833D91BF81
-https://www.udemy.com/course/fundamental-question-on-ethical-hacking/?couponCode=B7FAE2343777362B4AB9
-https://www.udemy.com/course/start-streaming-with-obs-studio-in-2022/?couponCode=THEVIDEONERD
-https://www.udemy.com/course/fundamental-question-for-ethical-hackeing/?couponCode=F4B091E6B826C7E977CD
-https://www.udemy.com/course/python-bootcamp-for-data-science-2021-numpy-pandas-seaborn/?couponCode=AUGUST2-2022
-https://www.udemy.com/course/copywriting-2023/?couponCode=WATERTIGER8
+https://www.udemy.com/course/google-ads-for-beginners-how-to-drive-sales-with-ppc/?couponCode=GOOGLEADS1608
+https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=EMAIL1608
+https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1608
+https://www.udemy.com/course/link-building-course/?couponCode=300KSPECIALISTS
+https://www.udemy.com/course/online-course-creation-complete-course-of-blunders-to-avoid/?couponCode=FDC6C73E5DCC11349490
+https://www.udemy.com/course/video-production-inexpensive-talking-head-video-business/?couponCode=655BD91CD6181DA1AD0F
+https://www.udemy.com/course/project-managers/?couponCode=1C4A01A9979F76C11734
+https://www.udemy.com/course/digital-product-owner/?couponCode=8ABA88B8FBA079771763
+https://www.udemy.com/course/digitisation/?couponCode=0243EA525DA91339052F
+https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=4FB9E0EAC27E48DDEE5C
+https://www.udemy.com/course/viral-content-buzz-boost-your-blog-traffic-by-500/?couponCode=LEGENDZROCKING
+https://www.udemy.com/course/artificial-intelligence-video-creation-amazing-video-tools/?couponCode=ROCKINGLEGEND
 
