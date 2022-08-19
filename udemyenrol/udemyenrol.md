@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/08/2022
+# Daily Free Udemy Courses - 19/08/2022
 
-https://www.udemy.com/course/google-ads-for-beginners-how-to-drive-sales-with-ppc/?couponCode=GOOGLEADS1608
-https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=EMAIL1608
-https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMMSTRATEGY1608
-https://www.udemy.com/course/link-building-course/?couponCode=300KSPECIALISTS
-https://www.udemy.com/course/online-course-creation-complete-course-of-blunders-to-avoid/?couponCode=FDC6C73E5DCC11349490
-https://www.udemy.com/course/video-production-inexpensive-talking-head-video-business/?couponCode=655BD91CD6181DA1AD0F
-https://www.udemy.com/course/project-managers/?couponCode=1C4A01A9979F76C11734
-https://www.udemy.com/course/digital-product-owner/?couponCode=8ABA88B8FBA079771763
-https://www.udemy.com/course/digitisation/?couponCode=0243EA525DA91339052F
-https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=4FB9E0EAC27E48DDEE5C
-https://www.udemy.com/course/viral-content-buzz-boost-your-blog-traffic-by-500/?couponCode=LEGENDZROCKING
-https://www.udemy.com/course/artificial-intelligence-video-creation-amazing-video-tools/?couponCode=ROCKINGLEGEND
+https://www.udemy.com/course/how-to-write-a-business-proposal/?couponCode=FREE081
+https://www.udemy.com/course/generate-income-streams-build-resilience-sustainability/?couponCode=FREE081
+https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=FREE081
+https://www.udemy.com/course/counselling-and-negotiation-skills-for-management/?couponCode=CONG_FREE_0822
+https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=FREE081
+https://www.udemy.com/course/increase-your-sales-how-to-sell-more-products-one-simple-strategy/?couponCode=FREE081
+https://www.udemy.com/course/ultimate-tallyprime-with-gst-step-by-step-guide-2021/?couponCode=SAVEAUG
+https://www.udemy.com/course/wave-accounting-2020/?couponCode=9A489C98180B651510F6
+https://www.udemy.com/course/learn-wordpress-gutenberg-block-editor-2022-version/?couponCode=GUTENBERG-22
+https://www.udemy.com/course/complete-goal-setting-course-become-your-own-life-coach/?couponCode=0AFD6249848BF337CFA7
+https://www.udemy.com/course/make-up-to-55-dollars-an-hour-as-a-mortgage-underwriter/?couponCode=687F979371844EDB86B3
+https://www.udemy.com/course/electronic-music-production-with-ableton-live-10-level-1/?couponCode=B8940DD4192E71FE2827
 
