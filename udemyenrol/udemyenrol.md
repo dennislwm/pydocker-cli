@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/08/2022
+# Daily Free Udemy Courses - 20/08/2022
 
-https://www.udemy.com/course/how-to-write-a-business-proposal/?couponCode=FREE081
-https://www.udemy.com/course/generate-income-streams-build-resilience-sustainability/?couponCode=FREE081
-https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=FREE081
-https://www.udemy.com/course/counselling-and-negotiation-skills-for-management/?couponCode=CONG_FREE_0822
-https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=FREE081
-https://www.udemy.com/course/increase-your-sales-how-to-sell-more-products-one-simple-strategy/?couponCode=FREE081
-https://www.udemy.com/course/ultimate-tallyprime-with-gst-step-by-step-guide-2021/?couponCode=SAVEAUG
-https://www.udemy.com/course/wave-accounting-2020/?couponCode=9A489C98180B651510F6
-https://www.udemy.com/course/learn-wordpress-gutenberg-block-editor-2022-version/?couponCode=GUTENBERG-22
-https://www.udemy.com/course/complete-goal-setting-course-become-your-own-life-coach/?couponCode=0AFD6249848BF337CFA7
-https://www.udemy.com/course/make-up-to-55-dollars-an-hour-as-a-mortgage-underwriter/?couponCode=687F979371844EDB86B3
-https://www.udemy.com/course/electronic-music-production-with-ableton-live-10-level-1/?couponCode=B8940DD4192E71FE2827
+https://www.udemy.com/course/improving-software-development-productivity/?couponCode=97BA6B003CFD652B0BD0
+https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=DF35BC1888EEF34E8417
+https://www.udemy.com/course/advanced-php-web-development-w-mysql-github-bootstrap-4/?couponCode=9019FD0BBA981DCC3623
+https://www.udemy.com/course/mysql-database-development-mastery/?couponCode=D1694154707A903FF826
+https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-adonet/?couponCode=AC456199757082BC689B
+https://www.udemy.com/course/introduction-to-website-development-technologies/?couponCode=FC75C9397DB3BEC9A84F
+https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/?couponCode=5292F737D62B950CAC9B
+https://www.udemy.com/course/mongodb-express-react-node-angular-mean-mern-stack-5-in-1-course/?couponCode=AUG002
+https://www.udemy.com/course/microsoft-power-bi-practice-tests-and-interview-questions/?couponCode=AUG002
+https://www.udemy.com/course/agile-scrum-kanban-practice-tests-and-interview-questions/?couponCode=AUG002
+https://www.udemy.com/course/complete-cyber-security-practice-tests-interview-questions/?couponCode=AUG002
+https://www.udemy.com/course/data-mesh-a-modern-decentralized-data-management-concept/?couponCode=AUG002
 
