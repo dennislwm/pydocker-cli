@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/08/2022
+# Daily Free Udemy Courses - 22/08/2022
 
-https://www.udemy.com/course/mevn-stack-build-an-pwa-machine-learning-e-commerce-app/?couponCode=4D018DA2071BD5EE63C0
-https://www.udemy.com/course/the-complete-react-redux-node-express-mysql-developer-course/?couponCode=66AF69D75944FB6030BD
-https://www.udemy.com/course/the-complete-gogolang-bootcamp/?couponCode=47B86E0E06EC0CC2E851
-https://www.udemy.com/course/master-the-art-of-writing-fascinating-copy-for-persuasion/?couponCode=SALES-COPY-2022
-https://www.udemy.com/course/make-money-with-cryptocurrencies-in-2018-a-solid-strategy/?couponCode=A6C3290256E8992FA8F6
-https://www.udemy.com/course/sap-sd-sap-order-to-cash-by-mfab/?couponCode=C0C608D906DBC50B394E
-https://www.udemy.com/course/angular-recommender-system/?couponCode=D2F127EAB47949AC2046
-https://www.udemy.com/course/master-data-science-in-python/?couponCode=85261A61E3DAB36547C1
-https://www.udemy.com/course/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/?couponCode=FIVERR-22-3
-https://www.udemy.com/course/learn-web-application-security-for-beginners-owasp-top-10/?couponCode=6BB88E897F461502734C
-https://www.udemy.com/course/full-web-bundle-2022-build-2-websites-learn-dart-for-flutter/?couponCode=AF168CB12D023D3E1CE6
-https://www.udemy.com/course/google-cloud-professional-data-engineer-gcp-exams/?couponCode=AUGDROP3
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-s/?couponCode=45ABAC24EAA2BE9A56A4
+https://www.udemy.com/course/mulesoft-certified-integration-architect-mcia-practice-test-v/?couponCode=C9E5EA96E39BCDF25ACF
+https://www.udemy.com/course/md-100-windows-client-practice-test-2022/?couponCode=3D38A3456677B1190660
+https://www.udemy.com/course/comptia-a-220-1001-core-1-2-practice-test-2022/?couponCode=CB562D0043F0015B5C8F
+https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-exam/?couponCode=A3FB4F1812675A526448
+https://www.udemy.com/course/iiba-cbap-certified-business-analysis-professional-exam/?couponCode=642033E238A4C49C3D28
+https://www.udemy.com/course/servicenow-system-administrator-csa-practice-test-l/?couponCode=C81337C4EB505991B2C6
+https://www.udemy.com/course/ms-700-managing-microsoft-teams-exam-prep/?couponCode=5B96E2A5B6856C306BE5
+https://www.udemy.com/course/snowflake-snowpro-core-certification-exam-practice-2022/?couponCode=B8864FBEB55407F8399C
+https://www.udemy.com/course/exam-md-101-managing-modern-desktops-2022/?couponCode=74395B5AF6BA806067BE
+https://www.udemy.com/course/aws-certified-advanced-networking-specialty-exam-2022-i/?couponCode=C356E7A3F3C484663586
+https://www.udemy.com/course/pl-300-microsoft-power-bi-data-analyst-practice-exam-2022/?couponCode=4E54964BEF39FA62C385
 
