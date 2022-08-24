@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/08/2022
+# Daily Free Udemy Courses - 24/08/2022
 
-https://www.udemy.com/course/cpu-cache-and-the-memory-hierarchy/?couponCode=100OFF
-https://www.udemy.com/course/learn-nosql-databases-complete-mongodb-bootcamp-2019/?couponCode=8587615580E632E85573
-https://www.udemy.com/course/pricing-strategies-mini-course/?couponCode=1FB72A12C51635A8EFF8
-https://www.udemy.com/course/learn-scada-design-program-projects-interface/?couponCode=2372ED52DDF10C2982F2
-https://www.udemy.com/course/henry-zhang-tiktok-marketing-mini-course/?couponCode=4B416F0A32D45F131FBE
-https://www.udemy.com/course/t-shirt-business-mini-course/?couponCode=A325A13B78BE5B11A68A
-https://www.udemy.com/course/hz-futures-trading-mini-course/?couponCode=CBF7CA2325AE291B2D95
-https://www.udemy.com/course/henry-zhang-metaverse-mastery/?couponCode=107AB10A56D593D0F54E
-https://www.udemy.com/course/basic-python-course-for-beginner/?couponCode=B9B6C08813ACA083E6F5
-https://www.udemy.com/course/first-steps-into-public-speaking-u/?couponCode=AUG-22
-https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=E704AD61D9A36BE98C7A
-https://www.udemy.com/course/5-real-time-use-cases-using-machine-learning/?couponCode=E6F5A6770794DA790C95
+https://www.udemy.com/course/facebook-chat-bot-in-python/?couponCode=CEF00AB5716E4894DA6F
+https://www.udemy.com/course/digital-nomad-2022/?couponCode=WATERTIGER14
+https://www.udemy.com/course/digital-marketing-2022/?couponCode=WATERTIGER10
+https://www.udemy.com/course/facebook-page-2022/?couponCode=WATERTIGER10
+https://www.udemy.com/course/profitable-app-development-blueprint-for-startups/?couponCode=SAASAPPS105
+https://www.udemy.com/course/public-speaking-for-financial-advisers/?couponCode=DAA1F2413FE4A590A19B
+https://www.udemy.com/course/60-day-startup/?couponCode=ENTREPRENEUR105
+https://www.udemy.com/course/media-training-for-financial-service-professionals/?couponCode=38A7F5EAD89FC7DF8C41
+https://www.udemy.com/course/the-complete-nonverbal-communication-course-body-language/?couponCode=9969FB299D4C64063B91
+https://www.udemy.com/course/public-speaking-for-college-students/?couponCode=C5D6F46488E4A6EE385E
+https://www.udemy.com/course/the-ultimate-90-minute-on-camera-media-training-course/?couponCode=5ECC828CFFCE6AB6C9BD
+https://www.udemy.com/course/the-complete-google-drive-course-mastering-google-drive/?couponCode=97C990E650B9BBC759DA
 
