@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/08/2022
+# Daily Free Udemy Courses - 26/08/2022
 
-https://www.udemy.com/course/stress-management-in-3d/?couponCode=4C3216207200BF389819
-https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=INFOGR_AUG3
-https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=DDBBB8A2C06147BBD02E
-https://www.udemy.com/course/c_thr94_2205-sap-successfactors-time-management-1h20-exam/?couponCode=AUG-FREE
-https://www.udemy.com/course/c_thr92_2205-sap-successfactors-people-analytics-exam/?couponCode=AUG-FREE
-https://www.udemy.com/course/c_thr96_2205-sap-successfactors-workforce-analytics-exam/?couponCode=AUG-FREE
-https://www.udemy.com/course/c_thr97_2205-sap-successfactors-onboarding-1h2022-exam/?couponCode=AUG-FREE
-https://www.udemy.com/course/c_thr95_2205-sap-successfactors-career-development-exam/?couponCode=AUG-FREE
-https://www.udemy.com/course/build-an-a-z-retail-dashboard-with-r-shiny/?couponCode=6DF0EDE631BF5A321B61
-https://www.udemy.com/course/procurement-supply-planning-tools-and-techniques/?couponCode=10E048C36865FB1ABFB9
-https://www.udemy.com/course/aws-devops-engineer-professional-pratice-test-2022/?couponCode=1D776F15AEC4B839787E
-https://www.udemy.com/course/google-professional-cloud-devops-engineer-exam-2022/?couponCode=B2927506CCE5A3650104
+https://www.udemy.com/course/recommender-system-with-machine-learning-and-statistics/?couponCode=F3380AD8D9C4442153C3
+https://www.udemy.com/course/python-programming-language-basics/?couponCode=PYTHONFREE
+https://www.udemy.com/course/git-and-github-a-practical-course-beginner-to-advanced/?couponCode=ABC01A0950438D10BAA9
+https://www.udemy.com/course/fundamentals-of-network-security-b/?couponCode=B30546E0BD2E545EB598
+https://www.udemy.com/course/fundamentals-of-iot-internet-of-things/?couponCode=D24643C42515E0C5308A
+https://www.udemy.com/course/fundamentals-of-electrical-and-electronics-engineering/?couponCode=8480929B4AA4AE029E1B
+https://www.udemy.com/course/complete-guitar-megacourse-beginner-to-expert/?couponCode=B7C4CEA1CFCFE96788E5
+https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-practice-exam-h/?couponCode=FREEDP203
+https://www.udemy.com/course/principles-ppt-design/?couponCode=PRINCIPLES_AUG3
+https://www.udemy.com/course/become-a-next-generation-leader/?couponCode=AUG2022FREE001
+https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=AUG2022FREE001
+https://www.udemy.com/course/master-your-social-skills/?couponCode=AUG2022FREE001
 
