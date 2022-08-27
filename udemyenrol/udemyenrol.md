@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/08/2022
+# Daily Free Udemy Courses - 27/08/2022
 
-https://www.udemy.com/course/recommender-system-with-machine-learning-and-statistics/?couponCode=F3380AD8D9C4442153C3
-https://www.udemy.com/course/python-programming-language-basics/?couponCode=PYTHONFREE
-https://www.udemy.com/course/git-and-github-a-practical-course-beginner-to-advanced/?couponCode=ABC01A0950438D10BAA9
-https://www.udemy.com/course/fundamentals-of-network-security-b/?couponCode=B30546E0BD2E545EB598
-https://www.udemy.com/course/fundamentals-of-iot-internet-of-things/?couponCode=D24643C42515E0C5308A
-https://www.udemy.com/course/fundamentals-of-electrical-and-electronics-engineering/?couponCode=8480929B4AA4AE029E1B
-https://www.udemy.com/course/complete-guitar-megacourse-beginner-to-expert/?couponCode=B7C4CEA1CFCFE96788E5
-https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-practice-exam-h/?couponCode=FREEDP203
-https://www.udemy.com/course/principles-ppt-design/?couponCode=PRINCIPLES_AUG3
-https://www.udemy.com/course/become-a-next-generation-leader/?couponCode=AUG2022FREE001
-https://www.udemy.com/course/master-your-brain-to-achieve-your-desired-success/?couponCode=AUG2022FREE001
-https://www.udemy.com/course/master-your-social-skills/?couponCode=AUG2022FREE001
+https://www.udemy.com/course/political-sociology-an-introduction/?couponCode=POLSOL_FREE_0822
+https://www.udemy.com/course/exemplary-leader-master-outstanding-leadership-qualities/?couponCode=LEADERSHIP_GIFT
+https://www.udemy.com/course/computer-organization-and-architecture-course-masterclass/?couponCode=COMPUTERARCHITECTURE
+https://www.udemy.com/course/conversion-optimization-course/?couponCode=CRO2608
+https://www.udemy.com/course/online-seo-training/?couponCode=WATERTIGER17
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEAUG120
+https://www.udemy.com/course/complete-voice-acting-megacourse-beginner-to-expert/?couponCode=957F40A636863324489C
+https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEAUG123
+https://www.udemy.com/course/introduction-to-burp-suite/?couponCode=496BE0DD250590C8BA1D
+https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEAUG124
+https://www.udemy.com/course/make-easy-money-from-home/?couponCode=684B5235A15EF2FF849F
+https://www.udemy.com/course/ultrasonic-testing-level-1-training/?couponCode=AUG-R3
 
