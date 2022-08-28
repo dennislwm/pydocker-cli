@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/08/2022
+# Daily Free Udemy Courses - 28/08/2022
 
-https://www.udemy.com/course/political-sociology-an-introduction/?couponCode=POLSOL_FREE_0822
-https://www.udemy.com/course/exemplary-leader-master-outstanding-leadership-qualities/?couponCode=LEADERSHIP_GIFT
-https://www.udemy.com/course/computer-organization-and-architecture-course-masterclass/?couponCode=COMPUTERARCHITECTURE
-https://www.udemy.com/course/conversion-optimization-course/?couponCode=CRO2608
-https://www.udemy.com/course/online-seo-training/?couponCode=WATERTIGER17
-https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEAUG120
-https://www.udemy.com/course/complete-voice-acting-megacourse-beginner-to-expert/?couponCode=957F40A636863324489C
-https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEAUG123
-https://www.udemy.com/course/introduction-to-burp-suite/?couponCode=496BE0DD250590C8BA1D
-https://www.udemy.com/course/html-basic-to-advanced/?couponCode=FREEAUG124
-https://www.udemy.com/course/make-easy-money-from-home/?couponCode=684B5235A15EF2FF849F
-https://www.udemy.com/course/ultrasonic-testing-level-1-training/?couponCode=AUG-R3
+https://www.udemy.com/course/learn-game-development-with-javascript/?couponCode=JAVASCRIPT_GAMES
+https://www.udemy.com/course/tiktok-monetization/?couponCode=KINDKARMA
+https://www.udemy.com/course/a-complete-masterclass-of-virtualization-from-scratch/?couponCode=FREE_AUG_22_2
+https://www.udemy.com/course/complete-and-easy-tutorial-on-how-to-knit-a-sarafan-dress/?couponCode=FREEKNITTING2
+https://www.udemy.com/course/facebook-ads-for-real-estate-business/?couponCode=WATERTIGER14
+https://www.udemy.com/course/digital-marketing-2024/?couponCode=WATERTIGER3
+https://www.udemy.com/course/burp-suite-in-depth-survival-guide/?couponCode=937F8339667DEDFAD333
+https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?couponCode=4FF5D2E49BE684D3E975
+https://www.udemy.com/course/learn-python-scripting-scripting-masterclass-2019/?couponCode=DA2B56151E2FC830347A
+https://www.udemy.com/course/python-financial-analysis-investment-data-fundamentals/?couponCode=92177E3E6F02D8BB78B6
+https://www.udemy.com/course/canva-training/?couponCode=FREEAUG2203ALL
+https://www.udemy.com/course/curso-de-wp-rocket-como-mejorar-la-velocidad-de-una-web-de-wordpress/?couponCode=WP-GR3
 
