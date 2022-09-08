@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/09/2022
+# Daily Free Udemy Courses - 08/09/2022
 
-https://www.udemy.com/course/microsoft-playwright/?couponCode=MYFREE15
-https://www.udemy.com/course/notary-business/?couponCode=MYFREE15
-https://www.udemy.com/course/iso22301/?couponCode=MYFREE15
-https://www.udemy.com/course/cybersecurity-framework/?couponCode=MYFREE15
-https://www.udemy.com/course/iso13485/?couponCode=MYFREE15
-https://www.udemy.com/course/nist-csf/?couponCode=MYFREE15
-https://www.udemy.com/course/pep8-python/?couponCode=MYFREE15
-https://www.udemy.com/course/pycharm-python/?couponCode=MYFREE15
-https://www.udemy.com/course/six-sigma-yellow-belt-certification-course/?couponCode=MYFREE15
-https://www.udemy.com/course/practice-test-exams-certified-scrum-master-psm-1-certification/?couponCode=AE35BB4BC508EA704AE5
-https://www.udemy.com/course/python-game-development/?couponCode=MYFREE15
-https://www.udemy.com/course/restful-api/?couponCode=MYFREE15
+https://www.udemy.com/course/sales-masterclass-by-dave-kennett-sales-training-sell-and-close-deals/?couponCode=FREE_COURSE
+https://www.udemy.com/course/individual-retirement-accounts-iras-taxes-2018/?couponCode=23C82CD68C4CBBBB5937
+https://www.udemy.com/course/certified-media-buying-professional/?couponCode=WATERTIGER6
+https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=C22CB9B516FABC10EB21
+https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=D131F5276463421FF293
+https://www.udemy.com/course/how-to-edit-a-feature-film-by-yourself/?couponCode=44221D351A6E1968D1B2
+https://www.udemy.com/course/independent-film-screenwriting/?couponCode=C9206EB9AD2F1A9DE7CC
+https://www.udemy.com/course/how-to-produce-a-low-budget-independent-feature-film/?couponCode=F81196A067CFD0F603ED
+https://www.udemy.com/course/being-independent-movie-director/?couponCode=133485C9DB1385415EF5
+https://www.udemy.com/course/complete-character-design-megacourse-beginner-to-expert/?couponCode=85EFBD4EED62592CA429
+https://www.udemy.com/course/complete-filipino-course-learn-tagalog-for-beginners/?couponCode=9A25B3C2414D21D6B2CD
+https://www.udemy.com/course/angel-reiki-master1-2-3-tum-seviyeler/?couponCode=253BB718E012AA8577E9
 
