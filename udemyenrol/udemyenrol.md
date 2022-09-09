@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/09/2022
+# Daily Free Udemy Courses - 09/09/2022
 
-https://www.udemy.com/course/sales-masterclass-by-dave-kennett-sales-training-sell-and-close-deals/?couponCode=FREE_COURSE
-https://www.udemy.com/course/individual-retirement-accounts-iras-taxes-2018/?couponCode=23C82CD68C4CBBBB5937
-https://www.udemy.com/course/certified-media-buying-professional/?couponCode=WATERTIGER6
-https://www.udemy.com/course/indie-film-the-future-filmmakers-how-to-make-a-film/?couponCode=C22CB9B516FABC10EB21
-https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=D131F5276463421FF293
-https://www.udemy.com/course/how-to-edit-a-feature-film-by-yourself/?couponCode=44221D351A6E1968D1B2
-https://www.udemy.com/course/independent-film-screenwriting/?couponCode=C9206EB9AD2F1A9DE7CC
-https://www.udemy.com/course/how-to-produce-a-low-budget-independent-feature-film/?couponCode=F81196A067CFD0F603ED
-https://www.udemy.com/course/being-independent-movie-director/?couponCode=133485C9DB1385415EF5
-https://www.udemy.com/course/complete-character-design-megacourse-beginner-to-expert/?couponCode=85EFBD4EED62592CA429
-https://www.udemy.com/course/complete-filipino-course-learn-tagalog-for-beginners/?couponCode=9A25B3C2414D21D6B2CD
-https://www.udemy.com/course/angel-reiki-master1-2-3-tum-seviyeler/?couponCode=253BB718E012AA8577E9
+https://www.udemy.com/course/tips-technics-customer-service-skills-next-level-2022/?couponCode=7B474F1E2855E8C9F6E7
+https://www.udemy.com/course/how-to-become-a-travel-writer/?couponCode=5DB0FBC2764D672235C8
+https://www.udemy.com/course/ms-500-microsoft-365-identity-and-services-exam-prep/?couponCode=B69C28F03C396EBDCBA0
+https://www.udemy.com/course/dp-300-azure-relational-database-administrator-exam-prep/?couponCode=C9FDB75C3766E9F6FDEA
+https://www.udemy.com/course/apprendre-autocad-2d-maitrisez-les-bases-rapidement/?couponCode=A00CC487881D8636B82C
+https://www.udemy.com/course/la-masterclass-cryptomonnaies/?couponCode=1F208F06481DA65DC9E1
+https://www.udemy.com/course/project-management-for-beginners-a-comprehensive-guide/?couponCode=FREEAGAIN
+https://www.udemy.com/course/become-a-six-figure-seo-freelancer-start-getting-clients/?couponCode=ALHAMDULILLAH922
+https://www.udemy.com/course/how-to-deliver-an-elevator-pitch/?couponCode=A110F82E12A58F54470F
+https://www.udemy.com/course/how-to-draw-basics-for-kids/?couponCode=MARKETINGTEST
+https://www.udemy.com/course/tantra-reiki-certification/?couponCode=TOTALLY-FREE
+https://www.udemy.com/course/complete-voice-acting-megacourse-beginner-to-expert/?couponCode=929CAAEEF19E1525F932
 
