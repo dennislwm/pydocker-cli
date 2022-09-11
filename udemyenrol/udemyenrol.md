@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/09/2022
+# Daily Free Udemy Courses - 11/09/2022
 
-https://www.udemy.com/course/build-a-real-world-blog-with-laravel-9/?couponCode=EB436F901D1782A1BEE2
-https://www.udemy.com/course/complete-drawing-megacourse-beginner-to-expert/?couponCode=7359FE9BFD997F378887
-https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=SEPT22
-https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=SEPT22
-https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=SEPT22
-https://www.udemy.com/course/accredited-professional-lenormand-card-reading-diploma-certificate/?couponCode=TOTALLY-FREE
-https://www.udemy.com/course/accredited-veterinary-animal-reiki-practitioner-diploma-certificate/?couponCode=TOTAL-OFF
-https://www.udemy.com/course/accredited-certificate-emotional-intelligence-eq-practitioner/?couponCode=TOTAL-OFF
-https://www.udemy.com/course/the-complete-dart-learning-from-beginner-to-advanced-in-arabic/?couponCode=302B482B08EFF1C67182
-https://www.udemy.com/course/the-webrtc-bootcamp-2021/?couponCode=SEPT-GIFT
-https://www.udemy.com/course/accredited-certificate-diploma-adhd-special-child-education/?couponCode=FREE-GIFT
-https://www.udemy.com/course/python-for-beginners-full-course-in-hindi/?couponCode=5B0B8C3842454734522D
+https://www.udemy.com/course/complete-canva-megacourse-beginner-to-expert/?couponCode=55DEC970ED31743888D4
+https://www.udemy.com/course/learn-python-programming-from-scratch-e/?couponCode=FB78AFBF43C09986D962
+https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=0006FAE938A3DE64EFAE
+https://www.udemy.com/course/digitales-marketing-online-marketing/?couponCode=60C9311B474392F9D518
+https://www.udemy.com/course/trello-projektmanagement/?couponCode=2A7A28C9E2E0B6CEC760
+https://www.udemy.com/course/javascript-crash-course-bootcamp-projects/?couponCode=3FEC7964AB62A03D1497
+https://www.udemy.com/course/microsoft-excel-rookie-to-confident/?couponCode=9BBBBD4C020271164ACA
+https://www.udemy.com/course/the-complete-introduction-to-online-course-creation/?couponCode=83610BBE52AE54721C92
+https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=D370772DFDF94AED13DD
+https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/?couponCode=FF464096401CD6BB7521
+https://www.udemy.com/course/python-data-analysis-visualization-course/?couponCode=9D5A2666AED965EFC937
+https://www.udemy.com/course/sql-course/?couponCode=5D1CFFA0972DAC6D9D48
 
