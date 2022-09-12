@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/09/2022
+# Daily Free Udemy Courses - 12/09/2022
 
-https://www.udemy.com/course/complete-canva-megacourse-beginner-to-expert/?couponCode=55DEC970ED31743888D4
-https://www.udemy.com/course/learn-python-programming-from-scratch-e/?couponCode=FB78AFBF43C09986D962
-https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=0006FAE938A3DE64EFAE
-https://www.udemy.com/course/digitales-marketing-online-marketing/?couponCode=60C9311B474392F9D518
-https://www.udemy.com/course/trello-projektmanagement/?couponCode=2A7A28C9E2E0B6CEC760
-https://www.udemy.com/course/javascript-crash-course-bootcamp-projects/?couponCode=3FEC7964AB62A03D1497
-https://www.udemy.com/course/microsoft-excel-rookie-to-confident/?couponCode=9BBBBD4C020271164ACA
-https://www.udemy.com/course/the-complete-introduction-to-online-course-creation/?couponCode=83610BBE52AE54721C92
-https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=D370772DFDF94AED13DD
-https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/?couponCode=FF464096401CD6BB7521
-https://www.udemy.com/course/python-data-analysis-visualization-course/?couponCode=9D5A2666AED965EFC937
-https://www.udemy.com/course/sql-course/?couponCode=5D1CFFA0972DAC6D9D48
+https://www.udemy.com/course/instagram-replica/?couponCode=INSTA-DOUBLE-2022
+https://www.udemy.com/course/earn-money-copywriting-make-money-writing-copy-from-home/?couponCode=ONLINE-MONEY-2022
+https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=C82B6CFE67847732AF59
+https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=15361FF9875FC4CC40D9
+https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=SALES-COPY-2022
+https://www.udemy.com/course/ethical-hacking-exam-practice-test-2022-q/?couponCode=C08B15EDE43C2611597C
+https://www.udemy.com/course/all-about-polycystic-ovary-syndrome/?couponCode=983F4D3B2A79B49EAABB
+https://www.udemy.com/course/aba-crcm-certified-regulatory-compliance-manager-exam-prep/?couponCode=B50AA5508F73289CC69A
+https://www.udemy.com/course/curso-wordpress-como-crear-un-blog-gratis-paso-a-paso/?couponCode=WORDPRESS-GR33
+https://www.udemy.com/course/seo-copywriting-course/?couponCode=WATERTIGER13
+https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=WATERTIGER16
+https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=8F3D2CA22CB260B9E278
 
