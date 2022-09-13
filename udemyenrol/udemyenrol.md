@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/09/2022
+# Daily Free Udemy Courses - 13/09/2022
 
-https://www.udemy.com/course/instagram-replica/?couponCode=INSTA-DOUBLE-2022
-https://www.udemy.com/course/earn-money-copywriting-make-money-writing-copy-from-home/?couponCode=ONLINE-MONEY-2022
-https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=C82B6CFE67847732AF59
-https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=15361FF9875FC4CC40D9
-https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=SALES-COPY-2022
-https://www.udemy.com/course/ethical-hacking-exam-practice-test-2022-q/?couponCode=C08B15EDE43C2611597C
-https://www.udemy.com/course/all-about-polycystic-ovary-syndrome/?couponCode=983F4D3B2A79B49EAABB
-https://www.udemy.com/course/aba-crcm-certified-regulatory-compliance-manager-exam-prep/?couponCode=B50AA5508F73289CC69A
-https://www.udemy.com/course/curso-wordpress-como-crear-un-blog-gratis-paso-a-paso/?couponCode=WORDPRESS-GR33
-https://www.udemy.com/course/seo-copywriting-course/?couponCode=WATERTIGER13
-https://www.udemy.com/course/facebook-instagram-messenger-ads-course/?couponCode=WATERTIGER16
-https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=8F3D2CA22CB260B9E278
+https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=7C0045459DCAAA106224
+https://www.udemy.com/course/git-for-begineers/?couponCode=3F2B8B11D6D3D9114B65
+https://www.udemy.com/course/ppc-advertising-2023/?couponCode=WATERTIGER6
+https://www.udemy.com/course/api-course/?couponCode=9502478DAA126E905C16
+https://www.udemy.com/course/corporate-finance-5-financing-decisions/?couponCode=AE2EECEE8922FAFF7758
+https://www.udemy.com/course/corporate-finance-6-management-of-current-assets/?couponCode=8E345BADC01B8073A8A6
+https://www.udemy.com/course/accredited-pet-training-certificate-dog-puppy-cat-rabbit-care-aid/?couponCode=WE-R-PET-LOVERS
+https://www.udemy.com/course/gcp-google-cloud-professional-data-engineer-apr-2022/?couponCode=07D34D8E1529DB223607
+https://www.udemy.com/course/gcp-google-professional-cloud-architect-exam-apr-2022/?couponCode=F501C9242D22CEAE8A4D
+https://www.udemy.com/course/gcp-google-cloud-professional-security-engineer-exams-2022/?couponCode=370447187D4D4EE2D6E1
+https://www.udemy.com/course/gcp-google-cloud-professional-security-engineer-exams-2022/?couponCode=370447187D4D4EE2D6E1
+https://www.udemy.com/course/the-book-of-jonah-insightful-overview-life-applications/?couponCode=SEPT-FREE
 
