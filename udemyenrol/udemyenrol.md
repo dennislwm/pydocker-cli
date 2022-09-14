@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/09/2022
+# Daily Free Udemy Courses - 14/09/2022
 
-https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=7C0045459DCAAA106224
-https://www.udemy.com/course/git-for-begineers/?couponCode=3F2B8B11D6D3D9114B65
-https://www.udemy.com/course/ppc-advertising-2023/?couponCode=WATERTIGER6
-https://www.udemy.com/course/api-course/?couponCode=9502478DAA126E905C16
-https://www.udemy.com/course/corporate-finance-5-financing-decisions/?couponCode=AE2EECEE8922FAFF7758
-https://www.udemy.com/course/corporate-finance-6-management-of-current-assets/?couponCode=8E345BADC01B8073A8A6
-https://www.udemy.com/course/accredited-pet-training-certificate-dog-puppy-cat-rabbit-care-aid/?couponCode=WE-R-PET-LOVERS
-https://www.udemy.com/course/gcp-google-cloud-professional-data-engineer-apr-2022/?couponCode=07D34D8E1529DB223607
-https://www.udemy.com/course/gcp-google-professional-cloud-architect-exam-apr-2022/?couponCode=F501C9242D22CEAE8A4D
-https://www.udemy.com/course/gcp-google-cloud-professional-security-engineer-exams-2022/?couponCode=370447187D4D4EE2D6E1
-https://www.udemy.com/course/gcp-google-cloud-professional-security-engineer-exams-2022/?couponCode=370447187D4D4EE2D6E1
-https://www.udemy.com/course/the-book-of-jonah-insightful-overview-life-applications/?couponCode=SEPT-FREE
+https://www.udemy.com/course/introduction-to-reverse-osmosis-desalination/?couponCode=78ECAC2A0C3B2F0FBEF6
+https://www.udemy.com/course/fundamental-question-on-ethical-hacking/?couponCode=D5B6693D4D9903A79A3F
+https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-practice-tests-2023/?couponCode=C81D954A931D679FA8BD
+https://www.udemy.com/course/italian-to-survive/?couponCode=ITALIANSETTEMBRE22
+https://www.udemy.com/course/complete-powerpoint-megacourse-beginner-to-expert/?couponCode=D0FC70DDAF7B3F71773F
+https://www.udemy.com/course/seo-link-building-2023/?couponCode=WATERTIGER16
+https://www.udemy.com/course/mastering-azure-virtual-desktop-avd-advanced-training/?couponCode=AVD-SEP22-GIFT
+https://www.udemy.com/course/basics-of-pricing-arabic-ehab/?couponCode=SEP22B1OMAR
+https://www.udemy.com/course/python-data-mining-and-machine-learning/?couponCode=88C5E6D7E8A7C4111976
+https://www.udemy.com/course/complete-java-web-service-bootcamp-from-beginner-to-pro/?couponCode=313F88DB067E986F1258
+https://www.udemy.com/course/copywriting-for-ecommerce/?couponCode=WATERTIGER4
+https://www.udemy.com/course/ethical-hacking-linux-backdoor/?couponCode=EUROPE
 
