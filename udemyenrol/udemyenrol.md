@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/09/2022
+# Daily Free Udemy Courses - 18/09/2022
 
-https://www.udemy.com/course/python-3-course/?couponCode=PYTHON3
-https://www.udemy.com/course/complete-filmora-megacourse-beginner-to-expert/?couponCode=BEA35D4002F5FA5A53FE
-https://www.udemy.com/course/business-process-design-beginners/?couponCode=1DFBB1E1766405F9A223
-https://www.udemy.com/course/aprende-matlab-de-cero-a-experto/?couponCode=EB4C51CCD5AFF5D01572
-https://www.udemy.com/course/fundamentos-do-lean-six-sigma-1-curso-extra-kit-completo/?couponCode=SET2022
-https://www.udemy.com/course/ibgo-implementacao-de-metodologia-5s-na-pratica-kit-completo/?couponCode=SET2022
-https://www.udemy.com/course/sifirdan-ileri-seviyeye-python-programlama/?couponCode=16092022FREE
-https://www.udemy.com/course/sifirdan-komple-uygulamali-nesneye-yonelik-programlama/?couponCode=16092022FREE
-https://www.udemy.com/course/digital-marketing-2024/?couponCode=WATERTIGER4
-https://www.udemy.com/course/aprende-a-desarrollar-etl-usando-pentaho-desde-cero/?couponCode=68ED508CA676397DEF82
-https://www.udemy.com/course/leadlovers/?couponCode=967B876AC7AA6FDE5572
-https://www.udemy.com/course/automotive-electrician-and-mechanic-training-aemt-2022/?couponCode=OCSALY.COM_SEPTEMBER
+https://www.udemy.com/course/master-the-art-of-writing-fascinating-copy-for-persuasion/?couponCode=FASCINATIONS-2022
+https://www.udemy.com/course/learn-wordpress-gutenberg-block-editor-2022-version/?couponCode=GUTEN-PRESS-2022
+https://www.udemy.com/course/net5-ile-kendi-nuget-kutuphanemizi-yazalim/?couponCode=F239DA96DE6D2EA06FA1
+https://www.udemy.com/course/16-saate-hzlandrlms-sfrdan-c-kodlama-egitimi/?couponCode=YAZILIMGELISIM
+https://www.udemy.com/course/sfrdan-hzlandrlms-c-egitim-paketi/?couponCode=YAZILIMGELISIMM
+https://www.udemy.com/course/django-ve-react-js-ile-e-ticaret-sitesi-yapalm/?couponCode=0043365281517F8EE9E0
+https://www.udemy.com/course/complete-pixel-art-megacourse-beginner-to-expert/?couponCode=7DF51E48C3E64B70EEFC
+https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=VIDEO_SEP3
+https://www.udemy.com/course/internet-entrepreneur/?couponCode=35DC6A2D38A89414DB61
+https://www.udemy.com/course/couchpotatoesworkout/?couponCode=COUCHPOTATOEWORKOUT8
+https://www.udemy.com/course/digistore-24-mehr-umsatz-cross-device-affiliate-tracking/?couponCode=7AFD6E08B3C0144FCAC2
+https://www.udemy.com/course/business-english-write-professional-emails-in-english/?couponCode=2A75C4B10C4B7997A480
 
