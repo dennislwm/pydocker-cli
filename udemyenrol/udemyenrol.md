@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/09/2022
+# Daily Free Udemy Courses - 27/09/2022
 
-https://www.udemy.com/course/nfifedvr/?couponCode=SE3-2022
-https://www.udemy.com/course/kotlin-programming-for-beginner/?couponCode=SE3-2022
-https://www.udemy.com/course/jczsnxta/?couponCode=SE3-2022
-https://www.udemy.com/course/wcsjwvoc/?couponCode=SE3-2022
-https://www.udemy.com/course/vcojcteq/?couponCode=SE3-2022
-https://www.udemy.com/course/mwurstui/?couponCode=SE3-2022
-https://www.udemy.com/course/php-8-guide-2021-edition/?couponCode=SE3-2022
-https://www.udemy.com/course/amdbdfbs/?couponCode=SE3-2022
-https://www.udemy.com/course/python-science/?couponCode=SE3-2022
-https://www.udemy.com/course/dart-learning-guide/?couponCode=SE3-2022
-https://www.udemy.com/course/fluttercourse/?couponCode=SE3-2022
-https://www.udemy.com/course/google-professional-cloud-devops-engineer-exam-2022/?couponCode=854384F77B721DAEA66E
+https://www.udemy.com/course/the-complete-google-drive-course-mastering-google-drive/?couponCode=36B24CA9B3603E1582FA
+https://www.udemy.com/course/eliminate-your-insomnia-now-build-strong-sleep-habits/?couponCode=75EB0800C1C606684D7A
+https://www.udemy.com/course/complete-google-classroom-course-teaching-google-classroom/?couponCode=82A54EDECDE5FACC1B40
+https://www.udemy.com/course/complete-goal-setting-course-become-your-own-life-coach/?couponCode=E0F513EC623989BFD645
+https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=796720F16D9E74824BB3
+https://www.udemy.com/course/the-python-3-bootcamp-j/?couponCode=TAYYTQ1
+https://www.udemy.com/course/tableau-10-desde-cero/?couponCode=2022SEP-BESTPRICE
+https://www.udemy.com/course/python-3-plus-python-desde-cero-data-analysis-y-matplot/?couponCode=2022SEP-BESTPRICE
+https://www.udemy.com/course/aprende-sql-nivel-avanzado-curso-con-mas-de-50-ejercicios/?couponCode=2022SEP-BESTPRICE
+https://www.udemy.com/course/sql-creacion-de-bd/?couponCode=2022SEP-BESTPRICE
+https://www.udemy.com/course/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/?couponCode=2022SEP-BESTPRICE
+https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/?couponCode=2022SEP-BESTPRICE
 
