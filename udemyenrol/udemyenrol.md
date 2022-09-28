@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/09/2022
+# Daily Free Udemy Courses - 28/09/2022
 
-https://www.udemy.com/course/the-complete-google-drive-course-mastering-google-drive/?couponCode=36B24CA9B3603E1582FA
-https://www.udemy.com/course/eliminate-your-insomnia-now-build-strong-sleep-habits/?couponCode=75EB0800C1C606684D7A
-https://www.udemy.com/course/complete-google-classroom-course-teaching-google-classroom/?couponCode=82A54EDECDE5FACC1B40
-https://www.udemy.com/course/complete-goal-setting-course-become-your-own-life-coach/?couponCode=E0F513EC623989BFD645
-https://www.udemy.com/course/business-fundamentals-questions-to-answer-before-launching/?couponCode=796720F16D9E74824BB3
-https://www.udemy.com/course/the-python-3-bootcamp-j/?couponCode=TAYYTQ1
-https://www.udemy.com/course/tableau-10-desde-cero/?couponCode=2022SEP-BESTPRICE
-https://www.udemy.com/course/python-3-plus-python-desde-cero-data-analysis-y-matplot/?couponCode=2022SEP-BESTPRICE
-https://www.udemy.com/course/aprende-sql-nivel-avanzado-curso-con-mas-de-50-ejercicios/?couponCode=2022SEP-BESTPRICE
-https://www.udemy.com/course/sql-creacion-de-bd/?couponCode=2022SEP-BESTPRICE
-https://www.udemy.com/course/microsoft-excel-analisis-de-datos-con-tablas-dinamicas/?couponCode=2022SEP-BESTPRICE
-https://www.udemy.com/course/python-3-curso-completo-de-cero-a-experto/?couponCode=2022SEP-BESTPRICE
+https://www.udemy.com/course/learn-certified-ethical-hackingceh-from-scratch/?couponCode=SOCIAL-55
+https://www.udemy.com/course/ethical-hacking-kali-linux-course/?couponCode=KALI-GUIDE
+https://www.udemy.com/course/c-programming-for-everyone/?couponCode=OCSALYACADEMY
+https://www.udemy.com/course/how-to-create-azure-pipelines-agent-fully-automated/?couponCode=89F5BBF51313F40A9047
+https://www.udemy.com/course/3-3-boyutlu-hayvan-figuru-cizimi-3d-animal-figure-drawing/?couponCode=2FC2D7FD7CFF9C2D8BA2
+https://www.udemy.com/course/fundamentals-software-programmer-career-engineering/?couponCode=0591574EFF09D9638112
+https://www.udemy.com/course/after-effects-complete-starter-course/?couponCode=ASTROPHA2022ASTROPHA
+https://www.udemy.com/course/analisis-de-datos-con-r-programming/?couponCode=0B5F7B505955D6AD39EC
+https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-questions-i/?couponCode=FREEGCACE
+https://www.udemy.com/course/sketchup-the-arabic-workflow/?couponCode=SKETCHPWORKFLOW
+https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-questions-i/?couponCode=FREEGCACE
+https://www.udemy.com/course/google-cloud-professional-cloud-developer-practice-questions/?couponCode=FREEGCPCD
 
