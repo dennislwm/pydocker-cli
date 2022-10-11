@@ -254,6 +254,25 @@ Commands:
 - (Arav2020) Aravind, accessed 26-Nov-2020, [Let's Build a Web Scraper with Python &
 BeautifulSoup4](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4)
 ---
+## Local Workstation
+
+### Requirements
+* `git`
+* `pipenv`
+
+### Making code changes locally
+
+1. Clone the repository to your local workstation with `git clone`.
+
+2. Change directory to the cloned repo and project, e.g. `cd pydocker-cli/udemyenrol`.
+
+3. Create a Python virtual environment with `pipenv shell`.
+
+4. Install the Python dependencies with `pipenv install`.
+
+5. Start coding!
+
+---
 ## Common
 
 ### Issue #4

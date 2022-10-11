@@ -81,7 +81,9 @@ def getUdemyLink(url):
     linkForUdemy = soup.find("span",
                              class_="rh_button_wrapper").find("a").get("href")
 
-    return linkForUdemy
+    titleForUdemy = soup.find("h1").get_text()
+
+    return "[" + str(titleForUdemy) + "](" + linkForUdemy + ")"
 
 
 def gatherUdemyCourseLinks(courses):
