@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/10/2022
+# Daily Free Udemy Courses - 12/10/2022
 
-https://www.udemy.com/course/mastering-aws-elastic-map-reduce-for-data-engineers/?couponCode=ITV20221001FREE
-https://www.udemy.com/course/cca-131-cloudera-certified-hadoop-and-spark-administrator/?couponCode=ITV20221001FREE
-https://www.udemy.com/course/linux-fundamentals-for-it-professionals/?couponCode=ITV20221001FREE
-https://www.udemy.com/course/cca-159-data-analyst-using-sqoop-hive-and-impala/?couponCode=ITV20221001FREE
-https://www.udemy.com/course/setup-big-data-development-environment/?couponCode=ITV20221001FREE
-https://www.udemy.com/course/mastering-sql-using-postgresql/?couponCode=ITV20221001FREE
-https://www.udemy.com/course/facebook-ads-for-real-estate-business/?couponCode=WATERTIGER19
-https://www.udemy.com/course/seo-link-building-2023/?couponCode=WATERTIGER18
-https://www.udemy.com/course/local-business-2022/?couponCode=WATERTIGER18
-https://www.udemy.com/course/proceso-crud-c-sharp-y-mysql/?couponCode=1EFCB0895ADB606F9359
-https://www.udemy.com/course/proceso-crud-c-sharp-y-microsoft-access/?couponCode=ADECB1063872308FE23E
-https://www.udemy.com/course/javascript-pour-les-debutants-cours-complet-pour-debutants/?couponCode=76B73F7FAEFE49FFA732
+[Mastering American Culture and Business for Newcomers](https://www.udemy.com/course/bridgeswest/?couponCode=BWFREE)
+[Instagram Marketing 2022 | Grow from 0 to 30k in 5 months](https://www.udemy.com/course/instagram-marketing-2020-grow-from-0-to-30k-in-5-months/?couponCode=7B77D37C10947C47BCDB)
+[Salesforce Certified Platform Developer 1 Exam 2022](https://www.udemy.com/course/salesforce-certified-platform-developer-i-exam-2022/?couponCode=B26DFE4854F84CC69A03)
+[Intellij IDE Productivity and Debugging Techniques with Java](https://www.udemy.com/course/intellij-java/?couponCode=MYFREE17)
+[Android ethical hacking basics | Arabic](https://www.udemy.com/course/hackandroid607/?couponCode=60870A758C3FAEB81E28)
+[Apprendre AutoCAD 2023 en 1h: Maîtrisez les Bases Rapidement](https://www.udemy.com/course/apprendre-autocad-2d-maitrisez-les-bases-rapidement/?couponCode=37DE12954F45D55CFEAC)
+[ISO 13485: Medical Devices QMS Certification Masterclass](https://www.udemy.com/course/iso13485/?couponCode=MYFREE17)
+[ISO 22301: Business Continuity Management Certification](https://www.udemy.com/course/iso22301/?couponCode=MYFREE17)
+[The Complete Mobile Notary Business Course](https://www.udemy.com/course/notary-business/?couponCode=MYFREE17)
+[The Complete Six Sigma Yellow Belt Certification Course](https://www.udemy.com/course/six-sigma-yellow-belt-certification-course/?couponCode=MYFREE17)
+[The Complete Microsoft Playwright Course with Python](https://www.udemy.com/course/microsoft-playwright/?couponCode=MYFREE17)
+[NIST Cybersecurity A-Z: NIST Cybersecurity Framework (CSF)](https://www.udemy.com/course/nist-csf/?couponCode=MYFREE17)
 
