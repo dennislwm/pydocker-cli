@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/10/2022
+# Daily Free Udemy Courses - 13/10/2022
 
-[Mastering American Culture and Business for Newcomers](https://www.udemy.com/course/bridgeswest/?couponCode=BWFREE)
-[Instagram Marketing 2022 | Grow from 0 to 30k in 5 months](https://www.udemy.com/course/instagram-marketing-2020-grow-from-0-to-30k-in-5-months/?couponCode=7B77D37C10947C47BCDB)
-[Salesforce Certified Platform Developer 1 Exam 2022](https://www.udemy.com/course/salesforce-certified-platform-developer-i-exam-2022/?couponCode=B26DFE4854F84CC69A03)
-[Intellij IDE Productivity and Debugging Techniques with Java](https://www.udemy.com/course/intellij-java/?couponCode=MYFREE17)
-[Android ethical hacking basics | Arabic](https://www.udemy.com/course/hackandroid607/?couponCode=60870A758C3FAEB81E28)
-[Apprendre AutoCAD 2023 en 1h: Maîtrisez les Bases Rapidement](https://www.udemy.com/course/apprendre-autocad-2d-maitrisez-les-bases-rapidement/?couponCode=37DE12954F45D55CFEAC)
-[ISO 13485: Medical Devices QMS Certification Masterclass](https://www.udemy.com/course/iso13485/?couponCode=MYFREE17)
-[ISO 22301: Business Continuity Management Certification](https://www.udemy.com/course/iso22301/?couponCode=MYFREE17)
-[The Complete Mobile Notary Business Course](https://www.udemy.com/course/notary-business/?couponCode=MYFREE17)
-[The Complete Six Sigma Yellow Belt Certification Course](https://www.udemy.com/course/six-sigma-yellow-belt-certification-course/?couponCode=MYFREE17)
-[The Complete Microsoft Playwright Course with Python](https://www.udemy.com/course/microsoft-playwright/?couponCode=MYFREE17)
-[NIST Cybersecurity A-Z: NIST Cybersecurity Framework (CSF)](https://www.udemy.com/course/nist-csf/?couponCode=MYFREE17)
+[AWS Solutions Architect Associate SAA-C03 Practice Exam 2022](https://www.udemy.com/course/aws-solution-architect-associate-practice-tests/?couponCode=54495520527B0EB218A7)
+[Marketing Fundamentals: Introduction into Digital Marketing](https://www.udemy.com/course/digital-marketing-2024/?couponCode=WATERTIGER7)
+[ITIL 4 Foundation Exam](https://www.udemy.com/course/itil-4-foundation-exam-u/?couponCode=4DC923C2E06F6D7555FE)
+[SQL- The Complete Introduction to SQL programming](https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=233C3C7B9FFB0A021540)
+[The Complete Introduction to C++ Programming](https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=AAC98DD631160A79335D)
+[Practice and Learn React Web Development with Quizzes](https://www.udemy.com/course/react-practice-and-learn-with-quizzes/?couponCode=75EF24B8A9BDD00A041D)
+[Autodesk Revit – beginner to an intermediate level](https://www.udemy.com/course/autodesk-revit-for-beginners-up-to-intermediate-level/?couponCode=469DE2815FB15847D3E7)
+[Video Production, YouTube Marketing, & Video Marketing Guide](https://www.udemy.com/course/complete-video-marketing-course/?couponCode=WATERTIGER19)
+[Accredited Aromatherapy Certificate for Chakra & Kundalini](https://www.udemy.com/course/accredited-diploma-certificate-aromatherapy-essential-oils-kundalini/?couponCode=FREE-TO-HELP)
+[Certification in REBT Therapy – Internationally Accredited](https://www.udemy.com/course/international-accredited-certification-diploma-rebt-rational-therapy/?couponCode=FREE-4-HUMANITY)
+[Internationally Accredited Certification in Neuroplasticity](https://www.udemy.com/course/neuroplasticity-brain-plasticity-therapy-rewiring-brain-made-easy/?couponCode=FREE-4-HUMANITY)
+[AZ-900 Azure Fundamentals practice tests – May 2022](https://www.udemy.com/course/az-900-azure-fundamentals-practice-tests-may-2022/?couponCode=2CECB5C68A09D53DB0D1)
 
