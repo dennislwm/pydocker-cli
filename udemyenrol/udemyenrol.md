@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/10/2022
+# Daily Free Udemy Courses - 17/10/2022
 
-[AZ-104: Microsoft Azure Administrator Practice Questions](https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-questions/?couponCode=AZ104FREE)
-[7120X Avaya Aura Core Components Integration Exam Prep](https://www.udemy.com/course/7120x-avaya-aura-core-components-integration-exam-prep/?couponCode=8640B89FF86E541D9138)
-[Certified Kubernetes Application Developer (CKAD) Exam](https://www.udemy.com/course/certified-kubernetes-application-developer-ckad-exam-g/?couponCode=FREECKAD)
-[AZ-700:Designing and Implementing Azure Networking Solutions](https://www.udemy.com/course/az-700-designing-and-implementing-azure-networking-solution/?couponCode=AZ700FREE2022)
-[How to create an animated promo video in PowerPoint](https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=VIDEO_OCT2)
-[WordPress Mastery for Beginners: Learn WordPress Fast](https://www.udemy.com/course/wordpress-mastery-for-beginners-learn-wordpress-fast/?couponCode=2711526AD226566718BE)
-[Time Management Mastery: 10X Your Time, Join the New Rich](https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=BD62A9E2C3405648B1A0)
-[Basic to Advanced Content Writing: Become a Content Writer](https://www.udemy.com/course/become-a-content-writer/?couponCode=FREEOCT)
-[Human Resources (HR) Project Management & Leadership](https://www.udemy.com/course/human-resources-project-management-leadership/?couponCode=0CAC84F086DA55634D6A)
-[How to write a Policy Brief](https://www.udemy.com/course/how-to-write-a-policy-brief/?couponCode=54B5451E93AC8CDEF897)
-[Yoga Nidra : The Art Of Relaxation](https://www.udemy.com/course/the-art-relaxation-yoga-nidra/?couponCode=DC5E0AFCB665F5D3E2A6)
-[Trade-Based Money Laundering (TBML) Essentials](https://www.udemy.com/course/trade-based-money-laundering-tbml-essentials/?couponCode=246BFDBB3DE7762203E3)
+[Group Dynamics: Psychology of Group Behavior](https://www.udemy.com/course/social-psychology-understanding-group-behavior/?couponCode=D0474AFDAC2377BE9B76)
+[The Complete Digital Advertising Course for Local Businesses](https://www.udemy.com/course/digital-advertising-for-local-business/?couponCode=WATERTIGER5)
+[410-101 Meta (Facebook) Certified Media Buying Professional](https://www.udemy.com/course/certified-media-buying-professional/?couponCode=WATERTIGER10)
+[Data Science Projects – Data Analysis & Machine Learning](https://www.udemy.com/course/data-science-projects/?couponCode=FREEJOIN)
+[(October 2022) Business Fundamentals (pre-University)](https://www.udemy.com/course/egg-timer-igcse-business-studies/?couponCode=LERNBUSINESSFORFREE)
+[Ms Excel/Excel 2022 – The Complete Introduction to Excel](https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=B1BD01A139E32E6C471F)
+[Deep Web- The complete Introduction to the hidden web](https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=5BEEA250DFBB23269CD0)
+[AWS Certified Developer Associate Practice Exams 2022](https://www.udemy.com/course/aws-certified-developer-associate-practice-exam-new/?couponCode=99BC7871AC9C13675948)
+[Learn 6 SIMPLE Steps to Make Money on TikTok App!](https://www.udemy.com/course/make-money-on-tiktok/?couponCode=6AE6730E967230B3F6F3)
+[MBA(Master of Business Administration) Practice Tests 2022](https://www.udemy.com/course/mba-master-of-business-administration-practice-tests/?referralCode=82DDA818E7A2724665E7&couponCode=676F7EAA8707CDD82AF5)
+[8-in-1 course in Ultimate Health – unique information.](https://www.udemy.com/course/the-holman-protocol/?couponCode=SALESALESALEFREE)
+[Old age.](https://www.udemy.com/course/coping-with-old-age/?couponCode=SALEFREESALEFREEOLD)
 
