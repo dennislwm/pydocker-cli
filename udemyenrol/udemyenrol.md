@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/10/2022
+# Daily Free Udemy Courses - 27/10/2022
 
-[Learn Facebook Ads from Scratch – Get more Leads and Sales](https://www.udemy.com/course/learn-facebook-ads-from-scratch-get-more-leads-and-sales/?couponCode=FREEADS)
-[Marketing Strategy: Communicating Your Message](https://www.udemy.com/course/how-to-create-winning-messages/?couponCode=1B2C95AF0C3277849081)
-[Time Management – A Mindful Approach](https://www.udemy.com/course/conscious-time-management/?couponCode=26014EE3F80EE3B07CD3)
-[Complete Adobe Premiere Pro Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-adobe-premiere-pro-megacourse-beginner-to-expert/?couponCode=B6D97FC81113DFB242D4)
-[Master the Art of Writing Fascinating Copy for Persuasion](https://www.udemy.com/course/master-the-art-of-writing-fascinating-copy-for-persuasion/?couponCode=FREE-COPYWRITING)
-[Presentation Skills: Give Great Skype Video Presentations](https://www.udemy.com/course/how-to-speak-and-present-online/?couponCode=B098F515AA16D0582066)
-[Speaking on the Telephone: Confidently Speak on the Phone](https://www.udemy.com/course/how-to-speak-on-the-telephone/?couponCode=6F83BEC37D05DC237215)
-[Public Speaking for People Who Hate Public Speaking](https://www.udemy.com/course/public-speaking-for-people-who-hate-public-speaking/?couponCode=3F6B2B3B9707C8AEEAD2)
-[Media Training: You Can Be a Media Trainer](https://www.udemy.com/course/media-trainer-how-to-become-a-media-trainer/?couponCode=D42D025855436CD0B7B5)
-[Presentation Skills: Insurance Your Next Speech Will be Good](https://www.udemy.com/course/presentation-skills-insurance-your-next-speech-will-be-good/?couponCode=EE50884F8DE4A063AB8F)
-[Fundamentals of Graphic Design, Typography & Color Theory](https://www.udemy.com/course/fundamentals-of-graphic-design-u/?couponCode=LEARNFREE)
-[Basic Course To GST (Goods And Service Tax)](https://www.udemy.com/course/basic-course-to-gst-hindi/?couponCode=DIWALI2022)
+[Customer Retention: Maximise Your Profits](https://www.udemy.com/course/customer-retention-max-profits-fast/?couponCode=42263894F0B0BDC924A4)
+[Learn Illustrator CC: Create a Vector Knight](https://www.udemy.com/course/vector-knight/?couponCode=B51F9C0C89F5CEDC2579)
+[Learn Python With 20+ Real World Projects [In 2021]](https://www.udemy.com/course/learn-python-with-20-real-world-projects/?couponCode=HALLOWEEN2022)
+[Fire Up Creativity in Your Child](https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=OCT2022FREE001)
+[Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=707E63478F35A207E83C)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/?couponCode=2DEDD689639003B65D19)
+[Digital Forensics Masterclass | Forensic Science 2022 DFMC+™](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY_DIGITALFIR)
+[Learn Facebook Ads from Scratch – Get more Leads and Sales](https://www.udemy.com/course/learn-facebook-ads-from-scratch-get-more-leads-and-sales/?couponCode=FREECOURSE)
+[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/python-programming-for-beginners-m/?couponCode=8741EED9B62764AA49BE)
+[Complete PowerPoint Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-powerpoint-megacourse-beginner-to-expert/?couponCode=CB4EC47644E70FD56271)
+[Overcoming Anxiety and Fear: A Simple Method to More Peace](https://www.udemy.com/course/overcoming-anxiety-and-fear/?couponCode=FREE4ALLFVR)
+[Management Skills, Self Leadership & Personal Transformation](https://www.udemy.com/course/roundtheclockleadership/?couponCode=INDIVIDUALIZATION)
 
