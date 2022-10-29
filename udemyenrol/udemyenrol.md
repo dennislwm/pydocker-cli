@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/10/2022
+# Daily Free Udemy Courses - 29/10/2022
 
-[DP-900: Microsoft Azure Data Fundamentals Practice Tests](https://www.udemy.com/course/dp-900-microsoft-azure-data-fundamentals-practice-tests-n/?couponCode=91899B30F6EE0570BF7D)
-[Podcasting Masterclass -Part2 The Podcasting Course Trilogy](https://www.udemy.com/course/podcasting-masterclass-part2-the-podcasting-course-trilogy/?couponCode=AB2716AB5AB6BEEA7560)
-[M&A for Investors](https://www.udemy.com/course/ma-for-investors/?couponCode=FREEOCT22)
-[Teaching in Adult Education](https://www.udemy.com/course/teaching-in-adult-education/?couponCode=TEACHERSALE)
-[Powerful (management) Coaching questions explained](https://www.udemy.com/course/powerful-management-coaching-questions-explained/?couponCode=FREEOCT22)
-[Economics and Art Therapy – an unusual combination!](https://www.udemy.com/course/sakshieconomicsart-therapycovid/?couponCode=ARTECONOMICS)
-[Make Money From Home: 12 EASY Options to Make Money Now](https://www.udemy.com/course/make-easy-money-from-home/?couponCode=4A89B281856AF4ECF2AE)
-[Fundamental of Embedded Systems](https://www.udemy.com/course/fundamental-of-embedded-systems/?couponCode=E31A5D9AB5209E736C70)
-[Fundamentals of Industry 4.0](https://www.udemy.com/course/fundamental-of-industry-40/?couponCode=133C4230846A09DA874B)
-[Fundamentals of IoT (Internet of Things)](https://www.udemy.com/course/fundamentals-of-iot-internet-of-things/?couponCode=03BBE479BF2D6AD4819F)
-[Fundamentals of Network Security](https://www.udemy.com/course/fundamentals-of-network-security-b/?couponCode=2B5CDCDB10BEA3890FB4)
-[Fundamentals of Electrical and Electronics](https://www.udemy.com/course/fundamentals-of-electrical-and-electronics-engineering/?couponCode=5066757E940045FD99D2)
+[Easiest Side Gig 2022 – Passive Income from User Testing](https://www.udemy.com/course/easiest-side-gig-2022-passive-income-from-user-testing-course/?couponCode=USER-TESTING-2022)
+[Monetize your Instagram as an Instagram Influencer in 2022](https://www.udemy.com/course/make-money-on-instagram-as-an-influencer/?couponCode=TLGRM111)
+[EARN MONEY ON YOUR PHONE, Even While You Sleep](https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=4D5290138479728BF65E)
+[Podcasting Masterclass -Part2 The Podcasting Course Trilogy](https://www.udemy.com/course/podcasting-masterclass-part2-the-podcasting-course-trilogy/?couponCode=28126E788E036BA352D6)
+[Local SEO & Facebook ADS as PROJECT & FUN: 10 Days CHALLENGE](https://www.udemy.com/course/local-business-2022/?couponCode=WATERTIGER20)
+[Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=225C9D6C88C62573BB80)
+[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=63DD644CAA755D19B256)
+[Certification in Strategic Human Resource Management](https://www.udemy.com/course/certification-in-strategic-human-resource-management/?couponCode=A735C3236AD2B987B5E2)
+[Complete JavaScript Basics & Fundamentals](https://www.udemy.com/course/complete-javascript-basics-course/?couponCode=CREATIVEPROGRAMMER)
+[Personal Finance Fundamentals : Finance for long term goals](https://www.udemy.com/course/financial-awareness-for-students-and-professionals/?couponCode=29C6857D89B81A2363C1)
+[2022 R 4.0 Programming for Data Science || Beginners to Pro](https://www.udemy.com/course/r-programming-for-data-science-beginners-to-pro/?couponCode=F7FA9C515CAD0E4F536B)
+[2022 Python for Linear Regression in Machine Learning](https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?couponCode=6851DF19683A77F7FEC0)
 
