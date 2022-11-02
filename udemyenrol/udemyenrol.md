@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/11/2022
+# Daily Free Udemy Courses - 02/11/2022
 
-[French course for English Beginners](https://www.udemy.com/course/20-most-common-mistakes-in-basic-french/?couponCode=100FRENCH)
-[MERN Stack with Blog Project](https://www.udemy.com/course/mern-stack-with-blog-project/?couponCode=OCT-2022)
-[2022 Beginner’s guide to Cyber Security](https://www.udemy.com/course/2021-beginners-guide-to-cyber-security/?couponCode=EAB059DF89B628712282)
-[NFT Gold Rush](https://www.udemy.com/course/nft-trading-course/?couponCode=4BCB48BB5ACF78D52ADC)
-[Flutter BLoC State Management [2022] – From Scratch](https://www.udemy.com/course/flutter-bloc-state-management-2022-from-scratch/?couponCode=AUTOMN_GIFT_98)
-[OWASP API Security Top 10 2021 with Java Examples](https://www.udemy.com/course/owasp-learnit/?couponCode=1671B32890B29D66AC65)
-[Secure coding in Java with Web Application Examples](https://www.udemy.com/course/secure-coding-learnit/?couponCode=9620AC8DCD2D6EF83687)
-[WebServices testing (RestSharp + Postman) Complete Guide](https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/?couponCode=E3C1CE638D5DC9DDF662)
-[Software architecture](https://www.udemy.com/course/software-architecture-it-bulls/?couponCode=233FE7B1766A5A4E14BF)
-[Improving software development productivity](https://www.udemy.com/course/improving-software-development-productivity/?couponCode=FC56ED95E985A5D05F65)
-[Master Multithreading – Concurrency with Java Examples](https://www.udemy.com/course/multithreading-learnit/?couponCode=0D58C47EE0A7FE0DE274)
-[JUnit 5, Mockito, PowerMock, TDD, BDD & ATTD](https://www.udemy.com/course/testing-for-developers/?couponCode=A11FAC0B6BA1BF8A24E4)
+[Information Security Fundamentals](https://www.udemy.com/course/infosec-fundamentals/?couponCode=HALLOWEEN)
+[Google My Business. How to Master Powerful Tool for Company](https://www.udemy.com/course/google-my-business-how-to-master-powerful-tool-for-company/?couponCode=GOOGLEMYBUSINESS)
+[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=HALLOWEEN)
+[Graphic Design for Beginners: Logos in Adobe Illustrator](https://www.udemy.com/course/graphic-design-for-beginners-logos-in-adobe-illustrator/?couponCode=NEWLOGOCOURSEFREE)
+[Spycraft 101 Certification Course](https://www.udemy.com/course/spycraft/?couponCode=9FAFD16A8E7EFAC16805)
+[React Responsive Portfolio Website – Complete React Project](https://www.udemy.com/course/react-responsive-portfolio-website-complete-react-project/?couponCode=8DEED2F7650F090CCC61)
+[Python for Time Series – Data Analysis & Forecasting](https://www.udemy.com/course/python-for-time-series/?couponCode=43256482)
+[How To Build Instagram Clone Using Ruby on Rails 7](https://www.udemy.com/course/building-instagram-from-scratch-using-ruby-on-rails-7/?couponCode=5CD1C7F89173C1D72173)
+[Improve Your Life with “Mental Magic”](https://www.udemy.com/course/a-magic-5-step-formula-for-success/?couponCode=D9DD74C6BB0ED926429B)
+[Passive Income – 35+ Tools/Websites to Earn Money](https://www.udemy.com/course/passive-income-money-35-websites-to-earn-money/?couponCode=6F50A9E8AFCDCE1CEF86)
+[Microsoft SQL Server for Beginners | Crash Course](https://www.udemy.com/course/basic-concepts-of-databases-and-writing-query-in-sql-server/?couponCode=E4E383482A505164F6FC)
+[Dare to Lead: How to Become a Next Generation Leader](https://www.udemy.com/course/become-a-next-generation-leader/?couponCode=NOV2022FREE1)
 
