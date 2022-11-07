@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/11/2022
+# Daily Free Udemy Courses - 07/11/2022
 
-[AutoCAD 2D & Isometric | AutoCAD Civil & Architectural](https://www.udemy.com/course/autocad-2d-isometric-autocad-civil-architectural/?couponCode=CAD2DNOV22)
-[Recover, Bypass and Crack Windows Passwords like a pro](https://www.udemy.com/course/crack-windows-passwords/?couponCode=3C529E8528D81CDE8F0E)
-[Contented Career Mom](https://www.udemy.com/course/careermom-maternity-leave-countdown/?couponCode=E99B9BC623527F215CA3)
-[Build a Social Network in 20 Days from Scratch:PHP+MYSQL, Js](https://www.udemy.com/course/build-social-network-in-20-days/?couponCode=NOVEMBER-GIFT)
-[[Tips & Technics] : How to Become a Great Leader | Skills](https://www.udemy.com/course/tips-technics-how-to-become-a-great-leader-skills/?couponCode=746A34A3958F9980A554)
-[[Tips & Technics] : How to Lead Effective Meetings 2022](https://www.udemy.com/course/tips-technics-how-to-lead-effective-meetings-2022/?couponCode=9F0E68E98EFA925A89AC)
-[[Tips & Technics] : Customer Service Skills Next Level 2022](https://www.udemy.com/course/tips-technics-customer-service-skills-next-level-2022/?couponCode=E44C89062F7FC8ADC892)
-[[Tips & Technics] : How to Manage Customer Feedback 2022](https://www.udemy.com/course/tips-technics-how-to-manage-customer-feedback-2022/?couponCode=6396DACBD14540B8BC95)
-[Write Better Email: Technics for Clever communication](https://www.udemy.com/course/write-better-email-technics-for-clever-communication/?couponCode=88D6D0221E13628C872A)
-[[LEADER SKILLS] : 60 habits of successful people – 2022](https://www.udemy.com/course/leader-skills-60-habits-of-successful-people-2022/?couponCode=F18EB19D9DECA3C29DC2)
-[[Microsoft Excel] Dashboard Reporting and Data Analysis -VBA](https://www.udemy.com/course/microsoft-excel-dashboard-reporting-and-data-analysis-vba/?couponCode=0C2FA9ABA58ECB31D6A9)
-[Habits to Achieve Your Goals | How to Set and Achieve Goals](https://www.udemy.com/course/habits-to-achieve-your-goals-how-to-set-and-achieve-goals/?couponCode=F522261789D4312CD51A)
+[Ultimate Guide to Product Design: Design Gripper for Robotic](https://www.udemy.com/course/ultimate-guide-to-product-design-design-gripper-for-robotic/?couponCode=FREECODE)
+[Automotive Mechanic Training Certificated Electrical | 2022+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=CAR_REPAIR_FREE_NOV)
+[English grammar tenses made easy](https://www.udemy.com/course/english-grammar-tenses-made-easy/?couponCode=923B251EA0396297201E)
+[Program to lose 7KG at HOME](https://www.udemy.com/course/program-to-lose-7kg-in-only-1-week/?couponCode=E62FB2D0659E866D8605)
+[Facebook Live Masterclass: Engage More With Facebook Live](https://www.udemy.com/course/facebook-live-masterclass-engage-more-with-facebook-live/?couponCode=C42639DA13F4237ED439)
+[Make Money Online: Mindset Training + Real-Life Examples](https://www.udemy.com/course/make-money-online-training/?couponCode=2B7756B1F36024C92A74)
+[The Guide to Freelancing in the Modern Gig Economy](https://www.udemy.com/course/how-to-be-a-successful-freelancer-in-the-modern-gig-economy/?couponCode=2F95BABD9F4A256F76ED)
+[Public Speaking – High Tech Executives Can be Eloquent](https://www.udemy.com/course/public-speaking-for-high-tech-executives/?couponCode=9ED6D6FC34102D477965)
+[Public Speaking: Financial Advisers Convey Your Expertise](https://www.udemy.com/course/public-speaking-for-financial-advisers/?couponCode=573AC91930BF7B76A43B)
+[Personal Branding: You Deliver a Great Elevator Pitch](https://www.udemy.com/course/how-to-deliver-an-elevator-pitch/?couponCode=2304192BD56DD8AF85E4)
+[Journalism Careers: You Can Be a TV Talking Head/Pundit](https://www.udemy.com/course/how-to-be-a-tv-pundit/?couponCode=17D06CCE10CCE88E421F)
+[Presentation Skills: Give a Great Acceptance Speech](https://www.udemy.com/course/how-to-give-an-acceptance-speech/?couponCode=182C99E6917C8772E4F0)
 
