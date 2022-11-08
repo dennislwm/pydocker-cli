@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/11/2022
+# Daily Free Udemy Courses - 08/11/2022
 
-[Ultimate Guide to Product Design: Design Gripper for Robotic](https://www.udemy.com/course/ultimate-guide-to-product-design-design-gripper-for-robotic/?couponCode=FREECODE)
-[Automotive Mechanic Training Certificated Electrical | 2022+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=CAR_REPAIR_FREE_NOV)
-[English grammar tenses made easy](https://www.udemy.com/course/english-grammar-tenses-made-easy/?couponCode=923B251EA0396297201E)
-[Program to lose 7KG at HOME](https://www.udemy.com/course/program-to-lose-7kg-in-only-1-week/?couponCode=E62FB2D0659E866D8605)
-[Facebook Live Masterclass: Engage More With Facebook Live](https://www.udemy.com/course/facebook-live-masterclass-engage-more-with-facebook-live/?couponCode=C42639DA13F4237ED439)
-[Make Money Online: Mindset Training + Real-Life Examples](https://www.udemy.com/course/make-money-online-training/?couponCode=2B7756B1F36024C92A74)
-[The Guide to Freelancing in the Modern Gig Economy](https://www.udemy.com/course/how-to-be-a-successful-freelancer-in-the-modern-gig-economy/?couponCode=2F95BABD9F4A256F76ED)
-[Public Speaking – High Tech Executives Can be Eloquent](https://www.udemy.com/course/public-speaking-for-high-tech-executives/?couponCode=9ED6D6FC34102D477965)
-[Public Speaking: Financial Advisers Convey Your Expertise](https://www.udemy.com/course/public-speaking-for-financial-advisers/?couponCode=573AC91930BF7B76A43B)
-[Personal Branding: You Deliver a Great Elevator Pitch](https://www.udemy.com/course/how-to-deliver-an-elevator-pitch/?couponCode=2304192BD56DD8AF85E4)
-[Journalism Careers: You Can Be a TV Talking Head/Pundit](https://www.udemy.com/course/how-to-be-a-tv-pundit/?couponCode=17D06CCE10CCE88E421F)
-[Presentation Skills: Give a Great Acceptance Speech](https://www.udemy.com/course/how-to-give-an-acceptance-speech/?couponCode=182C99E6917C8772E4F0)
+[Vue JS + Google Maps API: Ultimate Beginner’s Friendly Guide](https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/?couponCode=FREE5DAYSNOW)
+[Object Oriented Programming in C++ & Interview Preparation](https://www.udemy.com/course/cracking-cpp-interview/?couponCode=1EE8E4FC48BFA6A4381A)
+[Basic to Advanced Content Writing: Become a Content Writer](https://www.udemy.com/course/become-a-content-writer/?couponCode=100OFFDEALNOV)
+[LLQP Exam Preparation – Accident and Sickness (Canada)](https://www.udemy.com/course/llqp-exam-preparation-accident-and-sickness-canada/?couponCode=3A103C09715562863BD5)
+[LLQP Exam Preparation – Life insurance Module (Canada)](https://www.udemy.com/course/llqp-exam-preparation-life-insurance-course-canada/?couponCode=8832B938F19BCD91D693)
+[Shopify Dropshipping 2022: The complete A-Z Masterclass](https://www.udemy.com/course/digital-dropshipping/?couponCode=FREEDROPSHIPPING)
+[Python Programming for Beginners [Full Course]](https://www.udemy.com/course/python-for-beginners-full-course-in-hindi/?couponCode=6458B19355B7882B27A7)
+[Balance Ball With Resistance Bands: Certification Level 2](https://www.udemy.com/course/exercise-program-on-a-balance-ball-with-resistance-bands/?couponCode=EB32D78CC11527661BBE)
+[AZ-204: Developing Solutions for MS Azure Practice Exams](https://www.udemy.com/course/az-204-developing-solutions-for-ms-azure-practice-exams-n/?couponCode=FREE4U)
+[AZ-400 Microsoft Azure DevOps Engineer Expert Practice Exams](https://www.udemy.com/course/az-400-microsoft-azure-devops-engineer-expert-practice-exams/?couponCode=FREE4U)
+[ACAMS: Certified Anti-Money Laundering Specialist Exam Prep](https://www.udemy.com/course/acams-certified-anti-money-laundering-specialist-exam-prep/?couponCode=FREE4U)
+[Certified Wireless Network Administrator CWNA Practice Exams](https://www.udemy.com/course/certified-wireless-network-administrator-cwna-practice-exams/?couponCode=FREE4U)
 
