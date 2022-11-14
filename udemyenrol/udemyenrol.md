@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/11/2022
+# Daily Free Udemy Courses - 14/11/2022
 
-[Becoming A Recruitment And Selection Specialist](https://www.udemy.com/course/becoming-a-recruitment-and-selection-specialist/?couponCode=NOV-22)
-[100 Days of Code: Python Developer Challenge 2022](https://www.udemy.com/course/100-days-of-code-python-developer-challenge/?couponCode=NOVDROP)
-[Experiential Business Insights, Secrets and Strategies](https://www.udemy.com/course/grow-digital-blueprint/?couponCode=DB7F1254B3BA231A872A)
-[300+ Exercises – Python Programming Mega Pack – 2022](https://www.udemy.com/course/python-programming-exercises-mega-pack/?couponCode=NOVDROP)
-[350+ Exercises – Python Programming Mega Pack – Unit Tests](https://www.udemy.com/course/python-programming-unittest-exercises/?couponCode=NOVDROP)
-[How to create an animated promo video in PowerPoint](https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=VIDEO_NOV2)
-[Secrets to Write a Copy that Sells like Crazy-Freelance copy](https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=FREE-COPY-CPN)
-[Nuclear Power Engineering Principles](https://www.udemy.com/course/nuclear-power-engineering-principles/?couponCode=2A10C2DD7F21DD0B3996)
-[Figma Mega Course – Design 6 Complete Web App UI/UX Project](https://www.udemy.com/course/figma-uiux-design-a-complete-web-app-project-base/?couponCode=785602B138D4C7321E0F)
-[Build a Portfolio Website without Coding 2022 [WordPress]](https://www.udemy.com/course/build-your-own-portfolio-website-without-coding-wordpress/?couponCode=ALHAMDULILLAH1122)
-[Start Freelance Graphic Designing using Canva & Get Clients](https://www.udemy.com/course/canva-mastery-become-freelance-graphic-designer-in-1-hour/?couponCode=ALHAMDULILLAH1122)
-[Become a Six-Figure SEO Freelancer & Start Getting Clients](https://www.udemy.com/course/become-a-six-figure-seo-freelancer-start-getting-clients/?couponCode=ALHAMDULILLAH1122)
+[Salesforce Tableau CRM & Einstein Discovery Consultant Exam](https://www.udemy.com/course/salesforce-tableau-crm-einstein-discovery-consultant-exam-h/?couponCode=DE9F63576C28776D88A9)
+[Learn CLO3D Fashion: Masterclass (Intermediate to Advanced)](https://www.udemy.com/course/learn-clo3d-fashion-masterclass-intermediate-to-advanced/?couponCode=FREE_CLO3D)
+[Build professional real world C# Application](https://www.udemy.com/course/build-professional-real-world-c-application/?couponCode=BCA261927B174EAF6F42)
+[Role of Procurement in EPC Construction Projects](https://www.udemy.com/course/role-of-procurement-in-epc-construction-projects/?couponCode=08E10D45CF6CEDA1C776)
+[The Complete PowerPoint Design and Delivery Course for 2022](https://www.udemy.com/course/the-complete-powerpoint-design-and-delivery-course/?couponCode=8ABA6BC60E15D7F2DCF5)
+[Interview Essentials – Master Your Interview Essentials Now](https://www.udemy.com/course/interview-essentials-master-your-interview-essentials-now/?couponCode=BCC482AD27C3185CF2F0)
+[Basic Interviewing Skills – Master Basic Interviewing Skills](https://www.udemy.com/course/basic-interviewing-skills-master-basic-interviewing-skills/?couponCode=98704B4571B3323E08D0)
+[Systems Design Foundations](https://www.udemy.com/course/system-design-foundations/?couponCode=SYSTEMDES1)
+[Azure Databricks and Spark SQL (Python)](https://www.udemy.com/course/azure-databricks-and-spark-sql-python/?couponCode=E6F5AED2CBB3656F4AF8)
+[Best selling Tiktok Shop-Step by Step Tutorial Mastery](https://www.udemy.com/course/5-ways-to-get-benefits-from-tiktok-work-from-home-passive/?couponCode=EA21FB8373FD1926C821)
+[Real case-90% margin Shopify dropshipping strategy](https://www.udemy.com/course/2022-how-to-win-dropshipping-by-3v-formula-with-tight-budget/?couponCode=AC7468B5AD51A2C00DB1)
+[cPanel Ultimate Course](https://www.udemy.com/course/cpanel-course/?couponCode=TRYFREE1000112202)
 
