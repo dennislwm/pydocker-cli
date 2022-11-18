@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/11/2022
+# Daily Free Udemy Courses - 18/11/2022
 
-[Learn the Python 3 Programming Language](https://www.udemy.com/course/python-3-course/?couponCode=F400AB3F734DE64D06B5)
-[WordPress For Complete Beginners!](https://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=NEWCOUPON)
-[Transitioning from Manager to Leader](https://www.udemy.com/course/transitioning-from-manager-to-leader/?couponCode=FREENOV22)
-[Algorithmic trading for beginners: from zero to hero](https://www.udemy.com/course/algorithmic-trading-for-beginners-from-zero-to-hero/?couponCode=2C141F169A01ECD68860)
-[Time Management And Goal Planning: The Productivity Combo](https://www.udemy.com/course/time-management-and-productivity/?couponCode=6C8C946E058BFA785A4D)
-[Algorithmic Trading with Python: Machine Learning strategies](https://www.udemy.com/course/python-for-algorithmic-trading-machine-learning-strategies/?couponCode=1BCEFB5418BBF3B17ACC)
-[Lithium-Sulfur Batteries](https://www.udemy.com/course/lithium-sulfur-batteries/?couponCode=LIS-BATTERIES)
-[Self-Discipline: Build Habits & Develop a Growth Mindset](https://www.udemy.com/course/self-discipline-build-habits/?couponCode=55D682EBDEAE22593283)
-[How is Lithium made?](https://www.udemy.com/course/lithium-technology/?couponCode=LITHIUM-STORY)
-[How are Lithium-Ion Batteries made: Focus cathode materials](https://www.udemy.com/course/lithium-ion-batteries-how-are-cathode-materials-made/?couponCode=BATTERY-CATHODES)
-[Focus Mastery: Focus 100% On Your Goals & Kill Distractions](https://www.udemy.com/course/productivity-hacks-to-improve-focus-and-concentration/?couponCode=8F4499E04366B46719F1)
-[Python Programming Beyond The Basics & Intermediate Training](https://www.udemy.com/course/python-programming-beyond-the-basics-intermediate-training/?couponCode=81ABD3C7428CC3CAC6F9)
+[When Personal Training Gets Personal](https://www.udemy.com/course/when-personal-training-gets-personal/?couponCode=5809F2E2E6F15BDD13F3)
+[Shopify Dropshipping Store Development | Beginners to Expert](https://www.udemy.com/course/shopify-dropshipping-store-development-beginners-to-expert/?couponCode=2CE2891B311E2ADF99AA)
+[HTML, CSS, & Bootstrap – Certification Course for Beginners](https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL72057)
+[Hack Windows](https://www.udemy.com/course/hack-windows/?couponCode=JADENDAY)
+[Ethical Hacking: Linux Backdoor](https://www.udemy.com/course/ethical-hacking-linux-backdoor/?couponCode=JADENDAY)
+[Learn XML-AJAX – For Beginners](https://www.udemy.com/course/learn-xml-ajax-for-beginners/?couponCode=YOUACCEL72057)
+[AWS Certified Developer Associate Practice Exams 2022](https://www.udemy.com/course/aws-certified-developer-associate-practice-exam-new/?couponCode=97C1C79BCCC7F348A37D)
+[Copywriting & Content Marketing Course: Be a Pro Copywriter](https://www.udemy.com/course/content-marketing-course-/?couponCode=LUCKYWATERTIGER1)
+[Adobe Lightroom Classic CC: Master the Develop Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-master-the-develop-module/?couponCode=YOUACCEL72057)
+[Ethical Hacking: boot2root CTF](https://www.udemy.com/course/ethical-hacking-boot2root-ctf/?couponCode=JADENDAY)
+[Learn jQuery – For Beginners](https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL72057)
+[Three.js Basics Guide](https://www.udemy.com/course/threejs-course/?couponCode=TRYFREE1000112203)
 
