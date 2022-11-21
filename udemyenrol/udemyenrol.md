@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/11/2022
+# Daily Free Udemy Courses - 21/11/2022
 
-[Git &Github Practice Tests & Interview Questions (Basic/Adv)](https://www.udemy.com/course/git-github-practice-tests-and-interview-questions-basic-advanced/?couponCode=NOV_BLACKFRIDAY)
-[Python Practice Tests & Interview Questions (Basic/Advanced)](https://www.udemy.com/course/python-practice-tests-and-interview-questions-basic-advanced/?couponCode=NOV_BLACKFRIDAY)
-[Emotional Intelligence for Software Engineers and Developers](https://www.udemy.com/course/emotional-intelligence-for-software-engineers-and-developers/?couponCode=NOV_BLACKFRIDAY)
-[WordPress Practice Tests & Interview Questions (Basic/Adv)](https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/?couponCode=NOV_BLACKFRIDAY)
-[PyScript Fundamentals 101- Run Python in your Browser’s HTML](https://www.udemy.com/course/pyscript-fundamentals-101-run-python-in-your-browsers-html/?couponCode=NOV_BLACKFRIDAY)
-[Data Sonification using Two Tone- Convert your Data to Music](https://www.udemy.com/course/data-sonification-using-two-tone-convert-your-data-to-music/?couponCode=NOV_BLACKFRIDAY)
-[Agile, Scrum & Kanban Practice Tests & Interview Questions](https://www.udemy.com/course/agile-scrum-kanban-practice-tests-and-interview-questions/?couponCode=NOV_BLACKFRIDAY)
-[Quantum Computing Fundamentals with Microsoft Azure Quantum](https://www.udemy.com/course/quantum-computing-fundamentals-with-microsoft-azure-quantum/?couponCode=NOV_BLACKFRIDAY)
-[MongoDB, Express, React, Node, Angular (MEAN/MERN) – 5 in 1](https://www.udemy.com/course/mongodb-express-react-node-angular-mean-mern-stack-5-in-1-course/?couponCode=NOV_BLACKFRIDAY)
-[Machine Learning Practice Tests and Interview Questions](https://www.udemy.com/course/machine-learning-practice-tests-and-interview-questions/?couponCode=NOV_BLACKFRIDAY)
-[Flourish Studio Masterclass : Create Animated Visualizations](https://www.udemy.com/course/flourish-studio-masterclass-create-animated-visualizations/?couponCode=NOV_BLACKFRIDAY)
-[Complete Cyber Security Practice Tests & Interview Questions](https://www.udemy.com/course/complete-cyber-security-practice-tests-interview-questions/?couponCode=NOV_BLACKFRIDAY)
+[Build a Portfolio Website without Coding 2022](https://www.udemy.com/course/build-your-own-portfolio-website-without-coding-wordpress/?couponCode=ALLAHUAKBAR1122)
+[Make Passive Income 2022 – Self Publishing on Amazon KDP](https://www.udemy.com/course/make-passive-income-2022-self-publishing-on-amazon-kdp/?couponCode=PASSIVE-KDP-23)
+[Work-Life Balance Can Be One of Your Superpowers for Good](https://www.udemy.com/course/work-life-balance-can-be-one-of-your-superpowers-for-good/?couponCode=2CF497BEC191480F0660)
+[RoboAuthor: Content Writing Automation 2022 – Part 4](https://www.udemy.com/course/roboauthor-content-writing-automation-2020-part-4/?couponCode=COURSEFOLDER_NET)
+[RoboAuthor: Content Writing Automation 2022 – Part 7](https://www.udemy.com/course/high-speed-blogging-using-wordpress-a-practical-guide/?couponCode=COURSEFOLDER_NET)
+[RoboAuthor: Content Writing Automation 2022 – Part 9](https://www.udemy.com/course/ebook-marketing-certification-for-authors/?couponCode=COURSEFOLDER_NET)
+[Bible: 2 Timothy – 7 Lessons We Can Learn For Today!](https://www.udemy.com/course/bible-2-timothy-7-lessons-we-can-learn-for-today/?couponCode=898157042.9)
+[Learn JavaScript Programming in 7 Days](https://www.udemy.com/course/learn-javascript-programming-in-7-days/?couponCode=CB7DC40518140F67A2DA)
+[Master in HTML & CSS Coding for Web Design](https://www.udemy.com/course/master-in-html-css-coding-for-web-design/?couponCode=0DDB21171B88DC16A891)
+[Bible: Ephesians – 7 Lessons We Can Learn For Today!](https://www.udemy.com/course/bible-study-ephesians-7-lessons-we-can-learn-for-today/?couponCode=740569725.6)
+[Mind Alchemy](https://www.udemy.com/course/mind-alchemy/?couponCode=ALCHEMIST1111)
+[RoboAuthor: Content Writing Automation 2022 – Part 3](https://www.udemy.com/course/roboauthor-content-writing-automation-2020-part-3/?couponCode=COURSEFOLDER_NET)
 
