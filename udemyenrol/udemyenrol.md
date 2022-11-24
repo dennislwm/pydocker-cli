@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/11/2022
+# Daily Free Udemy Courses - 24/11/2022
 
-[The BEST Cryptocurrency Course for ALL Levels (2022)](https://www.udemy.com/course/best-cryptocurrency-course/?couponCode=9A0B9E203EF523D24938)
-[Compliance and Risk Management Online Course](https://www.udemy.com/course/compliance-and-risk-management-online-course/?couponCode=CRM2022)
-[Coding Basics 2023: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=389ED37EB20879F1524E)
-[eCommerce Website: Shopify, Dropshipping, Amazon and more.](https://www.udemy.com/course/ecommerce-empire-shopify-woocommerce-amazon-alibaba/?couponCode=A30B5569EFEE750A8D50)
-[Splunk Enterprise Admin 2022 (Hands-on Labs: Crash Course )](https://www.udemy.com/course/splunk-enterprise-admin-2022-hands-on-labs-crash-course/?couponCode=20CBBE135406ECDB3401)
-[The Complete SAP Analytics Cloud Course 2022](https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=D3C83D1F797844BBA642)
-[Management Consulting Essential Training](https://www.udemy.com/course/management-consulting-problem-solving/?couponCode=186426F0094F5902E30B)
-[SAP Basis Essential Training](https://www.udemy.com/course/sap-basis-erp/?couponCode=16CA349A3C0F43BD877E)
-[SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://www.udemy.com/course/sap-erp-project/?couponCode=5D8B08A75AED57A7AD93)
-[The Ultimate SAP S/4HANA Course 2022: From Zero to Expert](https://www.udemy.com/course/sap-s4hana-erp/?couponCode=21ECE611E17ABA6B5108)
-[Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=FREELANCE-2023)
-[Learn Hindi Language Phrases & Travel in India Easily](https://www.udemy.com/course/learn-hindi-language-phrases-travel-in-india-easily/?couponCode=EC6B0FAF5CA5705EECCB)
+[Master Course of Lean Startup and IT Startup](https://www.udemy.com/course/the-lean-startup-it-startup-master-course/?couponCode=E7347E1913A4D2ECEAD9)
+[Build Successful E-Commerce Stores with WordPress & Woostify](https://www.udemy.com/course/build-successful-e-commerce-stores-with-wordpress-woostify/?couponCode=ALLAHUAKBAR1122)
+[Inbound Marketing – Improve Your Skills Today](https://www.udemy.com/course/inbound-marketing-improve-your-skills-today/?couponCode=0E0ADB3C98CF11F9A4A2)
+[JSF Basics Guide](https://www.udemy.com/course/jsf-course/?couponCode=TRYFREE1000112208)
+[LIGHTEN Your Day With Fast, Easy and Effective Stress Relief](https://www.udemy.com/course/lighten-your-day/?couponCode=8464A842B92243BAA238)
+[Java Web Services Basics Guide](https://www.udemy.com/course/java-web-services-course/?couponCode=TRYFREE1000112208)
+[Master course of Amazon Cognito](https://www.udemy.com/course/amazon-cognito-master-course/?couponCode=8A6C1330042105205938)
+[JDBC Basics Guide](https://www.udemy.com/course/jdbc-course/?couponCode=TRYFREE1000112208)
+[Microsoft Excel – Excel Only For Beginners 2022](https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=ALHAMDULILLAH_1)
+[Master Course of Hospitality Marketing](https://www.udemy.com/course/hospitality-marketing-udemy-master-course/?couponCode=AF90725E4E7B094F2521)
+[Rank Your Blog Website in Google: Beginners SEO Course](https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=ALHAMDULILLAH_1)
+[ITIL 4 Foundation Practice Exams – Late 2022](https://www.udemy.com/course/itil-4-foundation-practice-exams-late-2022/?couponCode=FREE4U)
 
