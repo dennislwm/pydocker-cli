@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/11/2022
+# Daily Free Udemy Courses - 25/11/2022
 
-[Master Course of Lean Startup and IT Startup](https://www.udemy.com/course/the-lean-startup-it-startup-master-course/?couponCode=E7347E1913A4D2ECEAD9)
-[Build Successful E-Commerce Stores with WordPress & Woostify](https://www.udemy.com/course/build-successful-e-commerce-stores-with-wordpress-woostify/?couponCode=ALLAHUAKBAR1122)
-[Inbound Marketing – Improve Your Skills Today](https://www.udemy.com/course/inbound-marketing-improve-your-skills-today/?couponCode=0E0ADB3C98CF11F9A4A2)
-[JSF Basics Guide](https://www.udemy.com/course/jsf-course/?couponCode=TRYFREE1000112208)
-[LIGHTEN Your Day With Fast, Easy and Effective Stress Relief](https://www.udemy.com/course/lighten-your-day/?couponCode=8464A842B92243BAA238)
-[Java Web Services Basics Guide](https://www.udemy.com/course/java-web-services-course/?couponCode=TRYFREE1000112208)
-[Master course of Amazon Cognito](https://www.udemy.com/course/amazon-cognito-master-course/?couponCode=8A6C1330042105205938)
-[JDBC Basics Guide](https://www.udemy.com/course/jdbc-course/?couponCode=TRYFREE1000112208)
-[Microsoft Excel – Excel Only For Beginners 2022](https://www.udemy.com/course/microsoft-excel-excel-only-for-beginners/?couponCode=ALHAMDULILLAH_1)
-[Master Course of Hospitality Marketing](https://www.udemy.com/course/hospitality-marketing-udemy-master-course/?couponCode=AF90725E4E7B094F2521)
-[Rank Your Blog Website in Google: Beginners SEO Course](https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=ALHAMDULILLAH_1)
-[ITIL 4 Foundation Practice Exams – Late 2022](https://www.udemy.com/course/itil-4-foundation-practice-exams-late-2022/?couponCode=FREE4U)
+[Introduction to Ethereum Virtual Machine (EVM)](https://www.udemy.com/course/introduction-to-ethereum-virtual-machine-evm-sam-ghosh/?couponCode=ETHVIRTUAL5DAY2)
+[Learn Cinema 4D: Low Poly Tree](https://www.udemy.com/course/low-poly-art-create-an-abstract-tree/?couponCode=A01F539E9C82F238B7C4)
+[Complete Character Design Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-character-design-megacourse-beginner-to-expert/?couponCode=E8C51E9AC8C6FF080D22)
+[Complete JavaScript, XML, AJAX and React Bootcamp – Hands-On](https://www.udemy.com/course/complete-javascript-xml-ajax-and-react-bootcamp-hands-on/?couponCode=YOUACCEL11790)
+[Cloud Computing Masterclass – Deployment to Administration](https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/?couponCode=YOUACCEL11790)
+[Learn jQuery – For Beginners](https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL11790)
+[How to Install a Free SSL Certificate using Let’s Encrypt](https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/?couponCode=YOUACCEL11790)
+[Internet and Web Development Fundamentals](https://www.udemy.com/course/internet-and-web-development-fundamentals/?couponCode=YOUACCEL11790)
+[Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/?couponCode=YOUACCEL11790)
+[Adobe Lightroom Classic CC: Master the Develop Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-master-the-develop-module/?couponCode=YOUACCEL11790)
+[HTML, CSS, & Bootstrap – Certification Course for Beginners](https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL11790)
+[Learn XML-AJAX – For Beginners](https://www.udemy.com/course/learn-xml-ajax-for-beginners/?couponCode=YOUACCEL11790)
 
