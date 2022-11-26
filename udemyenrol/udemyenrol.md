@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/11/2022
+# Daily Free Udemy Courses - 26/11/2022
 
-[Introduction to Ethereum Virtual Machine (EVM)](https://www.udemy.com/course/introduction-to-ethereum-virtual-machine-evm-sam-ghosh/?couponCode=ETHVIRTUAL5DAY2)
-[Learn Cinema 4D: Low Poly Tree](https://www.udemy.com/course/low-poly-art-create-an-abstract-tree/?couponCode=A01F539E9C82F238B7C4)
-[Complete Character Design Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-character-design-megacourse-beginner-to-expert/?couponCode=E8C51E9AC8C6FF080D22)
-[Complete JavaScript, XML, AJAX and React Bootcamp – Hands-On](https://www.udemy.com/course/complete-javascript-xml-ajax-and-react-bootcamp-hands-on/?couponCode=YOUACCEL11790)
-[Cloud Computing Masterclass – Deployment to Administration](https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/?couponCode=YOUACCEL11790)
-[Learn jQuery – For Beginners](https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL11790)
-[How to Install a Free SSL Certificate using Let’s Encrypt](https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/?couponCode=YOUACCEL11790)
-[Internet and Web Development Fundamentals](https://www.udemy.com/course/internet-and-web-development-fundamentals/?couponCode=YOUACCEL11790)
-[Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/?couponCode=YOUACCEL11790)
-[Adobe Lightroom Classic CC: Master the Develop Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-master-the-develop-module/?couponCode=YOUACCEL11790)
-[HTML, CSS, & Bootstrap – Certification Course for Beginners](https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL11790)
-[Learn XML-AJAX – For Beginners](https://www.udemy.com/course/learn-xml-ajax-for-beginners/?couponCode=YOUACCEL11790)
+[Strategic Partnerships and Collaborations](https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=STRATEGICPARTNER)
+[Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=10X-SALES-2022)
+[Jumpstart your Project Management career](https://www.udemy.com/course/jumpstart-your-project-management-career/?couponCode=BLACKFRIDAY)
+[Python : Master Programming and Development with 15 Projects](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=NOVE00002)
+[Accredited Certificate in Aromatherapy and Essential Oils](https://www.udemy.com/course/aromatherapy-essential-oils-perfume-incense-masterclass-certificate/?couponCode=UR-GIFT)
+[How to pick an online business idea that is perfect for you](https://www.udemy.com/course/how-to-pick-an-online-business-idea-that-is-perfect-for-you/?couponCode=CDBAE7DD94157AD8C6E4)
+[Easy Watercolor Iris Flower Painting with Galaxy Background](https://www.udemy.com/course/easy-watercolor-iris-flower-painting/?couponCode=D1FB4511C2AE059F16B7)
+[Investing in Africa – Key factors for Investors to consider](https://www.udemy.com/course/investing-in-africa-key-factors-for-investors-to-consider/?couponCode=CONSIDERINVAFR)
+[Fundamentals of Successful Leadership – Leading with Impact](https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=LEADERSHIP1)
+[Flutter BLoC State Management [2022] – From Scratch](https://www.udemy.com/course/flutter-bloc-state-management-2022-from-scratch/?couponCode=NOV_FREE_GIFT)
+[Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://www.udemy.com/course/nursery-woodland-bear-drawing-course-easybeginnerfriendly/?couponCode=332D6A8C90743C6521F0)
+[Learn To Paint 8 Magical Watercolor Art Projects](https://www.udemy.com/course/magical_watercolor_projects/?couponCode=E64A5FA07A7D5773E9F2)
 
