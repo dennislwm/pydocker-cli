@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/11/2022
+# Daily Free Udemy Courses - 27/11/2022
 
-[Strategic Partnerships and Collaborations](https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=STRATEGICPARTNER)
-[Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=10X-SALES-2022)
-[Jumpstart your Project Management career](https://www.udemy.com/course/jumpstart-your-project-management-career/?couponCode=BLACKFRIDAY)
-[Python : Master Programming and Development with 15 Projects](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=NOVE00002)
-[Accredited Certificate in Aromatherapy and Essential Oils](https://www.udemy.com/course/aromatherapy-essential-oils-perfume-incense-masterclass-certificate/?couponCode=UR-GIFT)
-[How to pick an online business idea that is perfect for you](https://www.udemy.com/course/how-to-pick-an-online-business-idea-that-is-perfect-for-you/?couponCode=CDBAE7DD94157AD8C6E4)
-[Easy Watercolor Iris Flower Painting with Galaxy Background](https://www.udemy.com/course/easy-watercolor-iris-flower-painting/?couponCode=D1FB4511C2AE059F16B7)
-[Investing in Africa – Key factors for Investors to consider](https://www.udemy.com/course/investing-in-africa-key-factors-for-investors-to-consider/?couponCode=CONSIDERINVAFR)
-[Fundamentals of Successful Leadership – Leading with Impact](https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=LEADERSHIP1)
-[Flutter BLoC State Management [2022] – From Scratch](https://www.udemy.com/course/flutter-bloc-state-management-2022-from-scratch/?couponCode=NOV_FREE_GIFT)
-[Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://www.udemy.com/course/nursery-woodland-bear-drawing-course-easybeginnerfriendly/?couponCode=332D6A8C90743C6521F0)
-[Learn To Paint 8 Magical Watercolor Art Projects](https://www.udemy.com/course/magical_watercolor_projects/?couponCode=E64A5FA07A7D5773E9F2)
+[See 27 Ways to Make Money Online with Your Smartphone!](https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=020AC24DF0FF0CFE0B8F)
+[Design of 100% Renewable Energy Systems](https://www.udemy.com/course/design-of-100-renewable-energy-systems/?couponCode=CF7D56FADFE27595C366)
+[AWS Certified Cloud Practitioner (CLF-C01) – Practice Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exams-i/?couponCode=85401B75371D2F6BCE35)
+[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=A4E9A85A2CC4BBBF20BD)
+[Google Associate Cloud Engineer Exam](https://www.udemy.com/course/google-associate-cloud-engineer-exam-f/?couponCode=2E1DE7B9AF4954CE01D2)
+[Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=BAE56D8B8462380210E7)
+[Peace and Conflict Resolution](https://www.udemy.com/course/peace-and-conflict-resolution/?couponCode=PEACE_1122)
+[Complete Course in AutoCAD Electrical 2021](https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/?couponCode=DPCELL)
+[Unity Multiplayer Blockchain Game Course](https://www.udemy.com/course/unity-multiplayer-blockchain-game-course/?couponCode=FREE_UNITY2)
+[Scrum Ceremonies Simplified](https://www.udemy.com/course/scrum-ceremonies-simplified/?couponCode=FREE-GIFT-HOLIDAYS)
+[Master the Art of Writing Fascinating Copy for Persuasion](https://www.udemy.com/course/master-the-art-of-writing-fascinating-copy-for-persuasion/?couponCode=PERSUASION-2023%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/?couponCode=DPCELL)
+[Microsoft Power BI Desktop, the Basics](https://www.udemy.com/course/power-bi-desktop-the-basics/?couponCode=THANKS2022_VIZXL)
 
