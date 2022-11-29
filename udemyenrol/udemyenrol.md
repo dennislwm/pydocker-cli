@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/11/2022
+# Daily Free Udemy Courses - 29/11/2022
 
-[Rational Thinking](https://www.udemy.com/course/irrational/?couponCode=NOVEMBER_BF)
-[Adding Blockchain to a Unity Game](https://www.udemy.com/course/adding-blockchain-to-a-unity-game/?couponCode=FREE_BLOCKCHAIN)
-[Stop procrastinating within 30 days challenges](https://www.udemy.com/course/stop-procrastinating-within-30-days-challenges/?couponCode=NOVEMBER_BF)
-[Procurement for Practitioners](https://www.udemy.com/course/procurement-lab/?couponCode=_COURSECOUPONCLUB)
-[Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=3802EEA62B14CFAFF1E2)
-[Quit your smartphone addiction with(in) 30 days challenges](https://www.udemy.com/course/quit-your-smartphone-addiction-within-30-days-challenges/?couponCode=NOVEMBER_BF)
-[Machine Learning in R & Predictive Models | 3 Courses in 1](https://www.udemy.com/course/machine-learning-predictive-models-in-r-theory-practice/?couponCode=BLACKFRIDAY)
-[Complete Guide to eBay Selling as a Business](https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=4F67C8DB850725C46D14)
-[Change your anxiety in 30 days challenges](https://www.udemy.com/course/change-your-anxiety-in-30-days-challenges/?couponCode=NOVEMBER_BF)
-[Bachelor Exam](https://www.udemy.com/course/bachelor-exam/?couponCode=NOVEMBER_BF)
-[The 30 days challenge to develop your emotional intelligence](https://www.udemy.com/course/the-30-days-challenge-to-develop-your-emotional-intelligence/?couponCode=NOVEMBER_BF)
-[The 30 Days Challenge to Better Motivate Yourself and Others](https://www.udemy.com/course/the-30-days-challenge-to-better-motivate-yourself-and-others/?couponCode=NOVEMBER_BF)
+[How To Draw FACES for Kids and beginners!](https://www.udemy.com/course/how-to-draw-faces-for-kids/?couponCode=46F45F4E2DF1BB38A58B)
+[How To Draw MECHS – The Ultimate Guide](https://www.udemy.com/course/how-to-draw-mechs-the-ultimate-guide/?couponCode=C5166A983FAE5E81F481)
+[The Complete Qt – QML with C++](https://www.udemy.com/course/complete-qt-qmlpp/?couponCode=FREE1111)
+[How To MAKE Comics – From concept, to pages, to publishing](https://www.udemy.com/course/how-to-make-comics/?couponCode=DABBDB75563C83356F44)
+[Introduction to Trifacta (Alteryx Cloud Designer)](https://www.udemy.com/course/introduction-to-data-wrangling-with-trifacta/?couponCode=3ED5CBD03C92856B4C48)
+[How To Color Comics – Digital Techniques](https://www.udemy.com/course/how-to-color-comics/?couponCode=EC13B715C35DDE65A2E6)
+[Mastering The Complete Agile Scrum Master Workshop](https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=2A32C65FAFE8A803C12B)
+[PSM II Scrum Master Certification+Agile Project Management](https://www.udemy.com/course/agile-scrum-certification-psm-2/?couponCode=281122_FREE)
+[Power Start in Project Management](https://www.udemy.com/course/power-start-in-project-management/?couponCode=415844019B351A961911)
+[Poetry And Music Appreciation: Enrich Your Inner Life](https://www.udemy.com/course/poetry-and-music-appreciation/?couponCode=998E2986A664B7AAC249)
+[2-Second Website Speed Optimization In 1 Day – Technical SEO](https://www.udemy.com/course/improve-page-load-speed/?couponCode=B9EB8CFFA006FB411A49)
+[Investor Business Pitch, Pitch Deck Outline & Elevator Pitch](https://www.udemy.com/course/investor-pitch-deck/?couponCode=F404372159790FCFCCF4)
 
