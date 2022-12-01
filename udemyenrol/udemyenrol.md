@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/11/2022
+# Daily Free Udemy Courses - 01/12/2022
 
-[Go Digital Formula](https://www.udemy.com/course/go-digital-formula/?couponCode=E66C4F64EA9832A8BAEC)
-[Cryptocurrencies: complet practical course on crypto trading](https://www.udemy.com/course/cryptocurrencies-complet-practical-course-on-crypto-trading/?couponCode=DB543C6F1B1B5C64AE26)
-[Merch by Amazon Mastery 2023 | Finding Endless Design Ideas](https://www.udemy.com/course/henry-zhang-merch-mastery-mini-course/?couponCode=54F7A26467B2C580AA8D)
-[Pricing Strategies Mastery 2023 | Optimize Best Conversions](https://www.udemy.com/course/pricing-strategies-mini-course/?couponCode=97F98ED7FF02BD446E19)
-[Shopify Bootcamp: Increase Your Sales and Conversion rate](https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=7985DE89575D350C0792)
-[SOLAR COURSE for Beginners of Solar Energy-](https://www.udemy.com/course/complete-course-for-beginners-for-solar-energy/?couponCode=7A9EB8229043BF43DCB8)
-[The Personal Transformation Master Course](https://www.udemy.com/course/the-personal-transformation-master-course/?couponCode=A285B47815EEA768B072)
-[Digital Marketing Crash Course For Non-Techie Entrepreneurs](https://www.udemy.com/course/digital-marketing-crash-course-for-non-techie-entrepreneurs/?couponCode=B3E82A234E1B429218BA)
-[Printable Business Mastery 2023 | Turn Designs Into Incomes](https://www.udemy.com/course/henry-zhang-print-on-demand-mini-course/?couponCode=9CC5153C3370EE6294F6)
-[Product Launch Mastery 2023 | Get Your Product Seen & Loved](https://www.udemy.com/course/henry-zhang-product-launch-mini-course/?couponCode=F4ACEBCB91E16DC2C631)
-[Side Hustle Mastery 2023 | Earn More While Keeping Your Jobs](https://www.udemy.com/course/henry-zhang-side-hustle-mastery/?couponCode=883878C2314C9AE23273)
-[Make Money Online Moving Your Fingers! (Blogging Course)](https://www.udemy.com/course/make-money-online-blogging/?couponCode=C89F452C16AD2527D6F5)
+[Learn HTML Canvas: Advanced Text Effects](https://www.udemy.com/course/learn-html-canvas-advanced-text-effects/?couponCode=CREATIVE_CODING)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=CB497D93A0501BB1EE6C)
+[Arduino Practice Test: Test your Arduino Knowledge](https://www.udemy.com/course/arduino-practice-test-test-your-arduino-knowledge/?couponCode=7A8C46C3F102C6185C65)
+[Windows Server 2016 with PowerShell: Active Directory, DNS](https://www.udemy.com/course/windows-server-2016-with-powershell-dns/?couponCode=8EF2DE9913741F02645B)
+[Cinematic B-Roll Video: A Beginners Guide](https://www.udemy.com/course/cinematic-b-roll-video-a-beginners-guide/?couponCode=FAA048744881BB7212A2)
+[Social Media Video Masterclass: After Effects & Premiere Pro](https://www.udemy.com/course/social-media-video-masterclass-after-effects-premiere-pro/?couponCode=D2E35874DB650B7032F8)
+[Windows Server with PowerShell](https://www.udemy.com/course/windows-server-2016-with-powershell/?couponCode=57E11538AFF2E54C7164)
+[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=E3BDBC1F1637FC1FFF33)
+[Get Certified with Electronics and Electricity Practice Test](https://www.udemy.com/course/electronics-electricity-and-magnetism-practise-test/?couponCode=2DF935460F77854BFBFC)
+[Complete Cubase Mastery – from Beginner to Pro in any Genre](https://www.udemy.com/course/cubase-complete-course/?couponCode=CUBASEMASTERY)
+[An Introduction to VIM editor](https://www.udemy.com/course/an-introduction-to-vim-editor/?couponCode=01E8C8FA56E3215C2445)
+[Smartphone Videography Masterclass for Beginners](https://www.udemy.com/course/smartphone-videography-masterclass-for-beginners/?couponCode=2339158317436E6B71E4)
 
