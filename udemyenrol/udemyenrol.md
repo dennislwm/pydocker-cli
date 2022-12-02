@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/12/2022
+# Daily Free Udemy Courses - 02/12/2022
 
-[Learn HTML Canvas: Advanced Text Effects](https://www.udemy.com/course/learn-html-canvas-advanced-text-effects/?couponCode=CREATIVE_CODING)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=CB497D93A0501BB1EE6C)
-[Arduino Practice Test: Test your Arduino Knowledge](https://www.udemy.com/course/arduino-practice-test-test-your-arduino-knowledge/?couponCode=7A8C46C3F102C6185C65)
-[Windows Server 2016 with PowerShell: Active Directory, DNS](https://www.udemy.com/course/windows-server-2016-with-powershell-dns/?couponCode=8EF2DE9913741F02645B)
-[Cinematic B-Roll Video: A Beginners Guide](https://www.udemy.com/course/cinematic-b-roll-video-a-beginners-guide/?couponCode=FAA048744881BB7212A2)
-[Social Media Video Masterclass: After Effects & Premiere Pro](https://www.udemy.com/course/social-media-video-masterclass-after-effects-premiere-pro/?couponCode=D2E35874DB650B7032F8)
-[Windows Server with PowerShell](https://www.udemy.com/course/windows-server-2016-with-powershell/?couponCode=57E11538AFF2E54C7164)
-[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=E3BDBC1F1637FC1FFF33)
-[Get Certified with Electronics and Electricity Practice Test](https://www.udemy.com/course/electronics-electricity-and-magnetism-practise-test/?couponCode=2DF935460F77854BFBFC)
-[Complete Cubase Mastery – from Beginner to Pro in any Genre](https://www.udemy.com/course/cubase-complete-course/?couponCode=CUBASEMASTERY)
-[An Introduction to VIM editor](https://www.udemy.com/course/an-introduction-to-vim-editor/?couponCode=01E8C8FA56E3215C2445)
-[Smartphone Videography Masterclass for Beginners](https://www.udemy.com/course/smartphone-videography-masterclass-for-beginners/?couponCode=2339158317436E6B71E4)
+[Microsoft Excel: Excel course for beginners](https://www.udemy.com/course/microsoft-excel-course-excel-for-beginners/?couponCode=06987E47A6D5DF308570)
+[Python for Students: Learn the Basics of coding in Python](https://www.udemy.com/course/python-3-course-for-beginners/?couponCode=1FED4F368E7D854DA902)
+[Looker for Data Visualization – Beginners and Professionals](https://www.udemy.com/course/looker-for-data-visualization-beginners-and-professionals/?couponCode=D96E99E89701CD7AC226)
+[Data Analysis for Entry Level Job – ( 9 courses in 1 )](https://www.udemy.com/course/data-analysis-for-entry-level-job-zero-to-hero-skill-path/?couponCode=D6BED758ABA346B63D3A)
+[Master Google Data Studio for Data Visualization in 2023](https://www.udemy.com/course/google-data-studio-for-data-visualization-for-dummies/?couponCode=743114108582C48A1AC1)
+[Advanced SQL and PostgreSQL: The Complete Developer’s Guide](https://www.udemy.com/course/advanced-postgresql-for-professionals/?couponCode=792150EF5F20619D1154)
+[DaVinci Resolve 2022: Beginner to Advanced in DaVinci 18](https://www.udemy.com/course/davinci-resolve-18/?couponCode=84612EC322758561A10B)
+[Data structure and algorithms for interviews](https://www.udemy.com/course/data-structure-and-algorithms-for-interviews/?couponCode=INTERVIEW2022)
+[PowerShell Functions Master Class](https://www.udemy.com/course/powershell-functions-master-class/?couponCode=DEC_F1)
+[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=A3D3E2B97CACC6BBD929)
+[Practical PowerPoint Advance Animations Guide | Deep Dive](https://www.udemy.com/course/powerpoint-overclocked-boot-camp-unlocked-new-beginning/?couponCode=GET_POWERPOINT)
+[Adobe Photoshop Master Class – Beginner to Pro, ALL LEVELS](https://www.udemy.com/course/photoshop-essentials-beyond-beginning-advance-combined/?couponCode=PHOTOSHOP_DEC1000)
 
