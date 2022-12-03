@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/12/2022
+# Daily Free Udemy Courses - 03/12/2022
 
-[Microsoft Excel: Excel course for beginners](https://www.udemy.com/course/microsoft-excel-course-excel-for-beginners/?couponCode=06987E47A6D5DF308570)
-[Python for Students: Learn the Basics of coding in Python](https://www.udemy.com/course/python-3-course-for-beginners/?couponCode=1FED4F368E7D854DA902)
-[Looker for Data Visualization – Beginners and Professionals](https://www.udemy.com/course/looker-for-data-visualization-beginners-and-professionals/?couponCode=D96E99E89701CD7AC226)
-[Data Analysis for Entry Level Job – ( 9 courses in 1 )](https://www.udemy.com/course/data-analysis-for-entry-level-job-zero-to-hero-skill-path/?couponCode=D6BED758ABA346B63D3A)
-[Master Google Data Studio for Data Visualization in 2023](https://www.udemy.com/course/google-data-studio-for-data-visualization-for-dummies/?couponCode=743114108582C48A1AC1)
-[Advanced SQL and PostgreSQL: The Complete Developer’s Guide](https://www.udemy.com/course/advanced-postgresql-for-professionals/?couponCode=792150EF5F20619D1154)
-[DaVinci Resolve 2022: Beginner to Advanced in DaVinci 18](https://www.udemy.com/course/davinci-resolve-18/?couponCode=84612EC322758561A10B)
-[Data structure and algorithms for interviews](https://www.udemy.com/course/data-structure-and-algorithms-for-interviews/?couponCode=INTERVIEW2022)
-[PowerShell Functions Master Class](https://www.udemy.com/course/powershell-functions-master-class/?couponCode=DEC_F1)
-[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=A3D3E2B97CACC6BBD929)
-[Practical PowerPoint Advance Animations Guide | Deep Dive](https://www.udemy.com/course/powerpoint-overclocked-boot-camp-unlocked-new-beginning/?couponCode=GET_POWERPOINT)
-[Adobe Photoshop Master Class – Beginner to Pro, ALL LEVELS](https://www.udemy.com/course/photoshop-essentials-beyond-beginning-advance-combined/?couponCode=PHOTOSHOP_DEC1000)
+[Speak English with Confidence Today](https://www.udemy.com/course/speak-english-with-confidence-today/?couponCode=DICIEMBREGRATIS)
+[Problem Solving and Program Design in C Language](https://www.udemy.com/course/problem-solving-and-program-design-in-c-language/?couponCode=NOV2022C)
+[UiARD UiPath Advanced RPA Developer Exam Prep Nov 2022](https://www.udemy.com/course/uiard-uipath-certified-advanced-rpa-developer/?couponCode=F6D8B1AE4F4770F48FB7)
+[Learn MySQL – For Beginners](https://www.udemy.com/course/learn-mysql-for-beginners/?couponCode=YOUACCEL83888)
+[Build a Custom E-Commerce Site in React + JavaScript Basics](https://www.udemy.com/course/build-a-custom-e-commerce-site-in-react-javascript-basics/?couponCode=YOUACCEL83888)
+[Web Development Masterclass – Online Certification Course](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL83888)
+[NGINX, Apache, SSL Encryption – Certification Course](https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL83888)
+[Setup LAMP Stack on a Remote Cloud Server + PHP Foundations](https://www.udemy.com/course/setup-lamp-stack-on-a-remote-cloud-server-php-foundations/?couponCode=YOUACCEL83888)
+[Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu](https://www.udemy.com/course/install-nginx-php-mysql-ssl-wordpress-on-ubuntu/?couponCode=YOUACCEL83888)
+[CSS & JavaScript – Certification Course for Beginners](https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL83888)
+[Complete Bootstrap & React Bootcamp with Hands-On Projects](https://www.udemy.com/course/complete-bootstrap-react-bootcamp-with-hands-on-projects/?couponCode=YOUACCEL83888)
+[Java Network Programming – Mastering TCP/IP | CJNP+ 2022PRO](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=NETWORKING_DECEMBER)
 
