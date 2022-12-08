@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/12/2022
+# Daily Free Udemy Courses - 08/12/2022
 
-[The Basics of Linux Command Line](https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=1B0C91DD74EC9356C427)
-[Introduction to Microservices](https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEDEC105)
-[Start Your Own Business From Scratch](https://www.udemy.com/course/start-your-own-business-from-scratch/?couponCode=DF726FA1939EEBCC396D)
-[WP Fastest Cache to Optimize your WordPress Website Speed](https://www.udemy.com/course/wp-fastest-cache-to-optimize-your-wordpress-website-speed-course/?couponCode=B2C744D4BE4E1D3D5156)
-[Docker Course for Beginners](https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEDEC107)
-[Beginners guide to Android App Development (Step by Step)](https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEDEC109)
-[Search Engine Optimization Complete Specialization Course](https://www.udemy.com/course/search-engine-optimization-complete-specialization-course/?couponCode=FREESEOCOUPON)
-[Building Android Widgets from scratch (Learn 8 Widgets)](https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEDEC108)
-[Introduction to the Music Business – course online](https://www.udemy.com/course/introduction-to-the-music-business-course-online/?couponCode=A9E582F63891086C3659)
-[Digital Marketing Crash Course For Non-Techie Entrepreneurs](https://www.udemy.com/course/digital-marketing-crash-course-for-non-techie-entrepreneurs/?couponCode=08EFECDE96C32E445B4A)
-[Python for Deep Learning: Build Neural Networks in Python](https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=07192B1C91A41C0B005E)
-[Quantitative Finance with Python](https://www.udemy.com/course/quantitative-finance-with-python/?couponCode=C0B09CF2FA88506A18E2)
+[Podcast Storytelling Masterclass](https://www.udemy.com/course/how-to-start-podcast-storytelling/?couponCode=PSMEXPDEC122022)
+[Forecasting Models and Time Series for Business in Python](https://www.udemy.com/course/forecasting-python/?couponCode=FREE-DECEMBER22)
+[Master Course in Business Analysis](https://www.udemy.com/course/business-analysis-business-analyst/?couponCode=9250DAF628D8C2D6BCB2)
+[Angel; Guardian Angel; Connect With Your Spirit Guide Angel](https://www.udemy.com/course/request-your-guardian-angels-unlock-the-secrets/?couponCode=1A2B8CD864BF6DE021BB)
+[AWS Certified SysOps Administrator Associate Practice Exams](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-exam-c/?couponCode=D3723210248DB0E6C91E)
+[Blogging and Influencer Marketing](https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=BLOG0612)
+[Etsy: The Ultimate Guide to Boosting Your Business](https://www.udemy.com/course/etsy-promotion/?couponCode=ETSY0612)
+[Spycraft 101 Certification Course](https://www.udemy.com/course/spycraft/?couponCode=5F7E9AA079531DDF8BB9)
+[Frontend Web Development for Beginners](https://www.udemy.com/course/frontenddeveloper/?couponCode=CODETHEWEBFREE)
+[HOW TO EARN MONEY ONLINE FOR FREE (Bitcoin For Beginners)](https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=35FC8BE07234E0E676E3)
+[Complete Guitar Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-guitar-megacourse-beginner-to-expert/?couponCode=FEBE310793FBCEB9B6F4)
+[Windows 11 For Beginners](https://www.udemy.com/course/windows-11-tutorial-course/?couponCode=SCHOLARSHIP100)
 
