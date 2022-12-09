@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/12/2022
+# Daily Free Udemy Courses - 09/12/2022
 
-[Podcast Storytelling Masterclass](https://www.udemy.com/course/how-to-start-podcast-storytelling/?couponCode=PSMEXPDEC122022)
-[Forecasting Models and Time Series for Business in Python](https://www.udemy.com/course/forecasting-python/?couponCode=FREE-DECEMBER22)
-[Master Course in Business Analysis](https://www.udemy.com/course/business-analysis-business-analyst/?couponCode=9250DAF628D8C2D6BCB2)
-[Angel; Guardian Angel; Connect With Your Spirit Guide Angel](https://www.udemy.com/course/request-your-guardian-angels-unlock-the-secrets/?couponCode=1A2B8CD864BF6DE021BB)
-[AWS Certified SysOps Administrator Associate Practice Exams](https://www.udemy.com/course/aws-certified-sysops-administrator-associate-exam-c/?couponCode=D3723210248DB0E6C91E)
-[Blogging and Influencer Marketing](https://www.udemy.com/course/blogging-and-influencer-marketing/?couponCode=BLOG0612)
-[Etsy: The Ultimate Guide to Boosting Your Business](https://www.udemy.com/course/etsy-promotion/?couponCode=ETSY0612)
-[Spycraft 101 Certification Course](https://www.udemy.com/course/spycraft/?couponCode=5F7E9AA079531DDF8BB9)
-[Frontend Web Development for Beginners](https://www.udemy.com/course/frontenddeveloper/?couponCode=CODETHEWEBFREE)
-[HOW TO EARN MONEY ONLINE FOR FREE (Bitcoin For Beginners)](https://www.udemy.com/course/bitcoin-course-udemy/?couponCode=35FC8BE07234E0E676E3)
-[Complete Guitar Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-guitar-megacourse-beginner-to-expert/?couponCode=FEBE310793FBCEB9B6F4)
-[Windows 11 For Beginners](https://www.udemy.com/course/windows-11-tutorial-course/?couponCode=SCHOLARSHIP100)
+[Ansible: A Complete Course with Step-by-Step Demo and Labs](https://www.udemy.com/course/devops-tools-for-beginners-ansible-in-1-hour/?couponCode=326C11D38286986F78AF)
+[Learning Python for Beginners Step-by-Step](https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=FEB719B0A27571E5F54E)
+[Learn Python Programming from Scratch](https://www.udemy.com/course/learn-python-programming-from-scratch-e/?couponCode=A67E33E1E56638711340)
+[Payroll Accounting With Visually Effective Excel Dashboards](https://www.udemy.com/course/complete-guide-for-payroll-accounting-in-microsoft-excel/?couponCode=DECPAY01)
+[Business Chinese: Customer Service Skills](https://www.udemy.com/course/business-chinese-customer-service-skills/?couponCode=DEC2022UK1000)
+[Learn Chinese Language: Everyday & Business Chinese BEGINNER](https://www.udemy.com/course/learn-chinese-language-everyday-business-chinese/?couponCode=DEC2022UK1000)
+[Adobe Premiere Pro Complete Video Editing Masterclass](https://www.udemy.com/course/premiere-pro-cc-masterclass/?couponCode=PPFREE1211)
+[AWS Certified Cloud Practitioner Practice Exams 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=9A4EB7DB1F3317DEC2C0)
+[Create Ecommerce Website In WordPress (Hindi)](https://www.udemy.com/course/ecommerce-website-in-wordpress-hindi/?couponCode=WINTER2022)
+[Microsoft Excel – Excel Course from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-course-from-beginner-to-advanced/?couponCode=C123AF9527C2837DC3EA)
+[FL Studio 20 – Music Theory Cheat Codes – Be a Power User](https://www.udemy.com/course/music-theory-cheat-codes-for-fl-studio-become-a-power-user/?couponCode=B7BD257FFCF3E834DC9C)
+[ServiceNow Certified System administrator Practice Test 2022](https://www.udemy.com/course/servicenow-certified-system-administrator-practice-test-2022-y/?couponCode=FB5FB36850BD8DDA15CE)
 
