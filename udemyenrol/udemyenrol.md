@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/12/2022
+# Daily Free Udemy Courses - 10/12/2022
 
-[Ansible: A Complete Course with Step-by-Step Demo and Labs](https://www.udemy.com/course/devops-tools-for-beginners-ansible-in-1-hour/?couponCode=326C11D38286986F78AF)
-[Learning Python for Beginners Step-by-Step](https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=FEB719B0A27571E5F54E)
-[Learn Python Programming from Scratch](https://www.udemy.com/course/learn-python-programming-from-scratch-e/?couponCode=A67E33E1E56638711340)
-[Payroll Accounting With Visually Effective Excel Dashboards](https://www.udemy.com/course/complete-guide-for-payroll-accounting-in-microsoft-excel/?couponCode=DECPAY01)
-[Business Chinese: Customer Service Skills](https://www.udemy.com/course/business-chinese-customer-service-skills/?couponCode=DEC2022UK1000)
-[Learn Chinese Language: Everyday & Business Chinese BEGINNER](https://www.udemy.com/course/learn-chinese-language-everyday-business-chinese/?couponCode=DEC2022UK1000)
-[Adobe Premiere Pro Complete Video Editing Masterclass](https://www.udemy.com/course/premiere-pro-cc-masterclass/?couponCode=PPFREE1211)
-[AWS Certified Cloud Practitioner Practice Exams 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=9A4EB7DB1F3317DEC2C0)
-[Create Ecommerce Website In WordPress (Hindi)](https://www.udemy.com/course/ecommerce-website-in-wordpress-hindi/?couponCode=WINTER2022)
-[Microsoft Excel – Excel Course from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-course-from-beginner-to-advanced/?couponCode=C123AF9527C2837DC3EA)
-[FL Studio 20 – Music Theory Cheat Codes – Be a Power User](https://www.udemy.com/course/music-theory-cheat-codes-for-fl-studio-become-a-power-user/?couponCode=B7BD257FFCF3E834DC9C)
-[ServiceNow Certified System administrator Practice Test 2022](https://www.udemy.com/course/servicenow-certified-system-administrator-practice-test-2022-y/?couponCode=FB5FB36850BD8DDA15CE)
+[Entrepreneurship and Innovation – Start your own business](https://www.udemy.com/course/entrepreneruship-and-innovation-start-your-own-business/?couponCode=AFB4167D933ABCEF714E)
+[Python3: From Beginner to Pro](https://www.udemy.com/course/python-three-from-beginner-to-pro/?couponCode=DEC1_2022)
+[Healthy living with “No Oil” Recipes – Non Vegetarian](https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food/?couponCode=DEC2022FREE1)
+[Machine Learning Basics in Hindi हिंदी – Regression Analysis](https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=MAR1FR22)
+[Python with NumPy For Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=50C91D9C362CB35D401C)
+[Master Course of Microsoft Power Platform](https://www.udemy.com/course/microsoft-power-platform-microsoft-power-bi/?couponCode=D41A58A9C0953359B2C7)
+[Make Money From Home As a Transcriptionist: 10 Opportunities](https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=750F0AFC0025B5B45216)
+[Forest Fairy Watercolor Manga Portrait Painting Course](https://www.udemy.com/course/watercolor-manga-portrait-painting-course/?couponCode=7F31AAB2A682AE7E4065)
+[Shopify guide: The complete shopify store creation course](https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=BE0E06FA3C5338933751)
+[SEO Link Building & Content Writing Course: Get HQ Backlinks](https://www.udemy.com/course/seo-link-building-2023/?couponCode=LUCKYWATERTIGER3)
+[2022-Basics of SQL using PostgreSQL](https://www.udemy.com/course/2022-basics-of-sql-using-postgresql/?couponCode=DEC_2_2022)
+[Shopify Guide: Start your own clothing brand with Shopify](https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=57835F8D545790D4B106)
 
