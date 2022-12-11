@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/12/2022
+# Daily Free Udemy Courses - 11/12/2022
 
-[Entrepreneurship and Innovation – Start your own business](https://www.udemy.com/course/entrepreneruship-and-innovation-start-your-own-business/?couponCode=AFB4167D933ABCEF714E)
-[Python3: From Beginner to Pro](https://www.udemy.com/course/python-three-from-beginner-to-pro/?couponCode=DEC1_2022)
-[Healthy living with “No Oil” Recipes – Non Vegetarian](https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food/?couponCode=DEC2022FREE1)
-[Machine Learning Basics in Hindi हिंदी – Regression Analysis](https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=MAR1FR22)
-[Python with NumPy For Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=50C91D9C362CB35D401C)
-[Master Course of Microsoft Power Platform](https://www.udemy.com/course/microsoft-power-platform-microsoft-power-bi/?couponCode=D41A58A9C0953359B2C7)
-[Make Money From Home As a Transcriptionist: 10 Opportunities](https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=750F0AFC0025B5B45216)
-[Forest Fairy Watercolor Manga Portrait Painting Course](https://www.udemy.com/course/watercolor-manga-portrait-painting-course/?couponCode=7F31AAB2A682AE7E4065)
-[Shopify guide: The complete shopify store creation course](https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=BE0E06FA3C5338933751)
-[SEO Link Building & Content Writing Course: Get HQ Backlinks](https://www.udemy.com/course/seo-link-building-2023/?couponCode=LUCKYWATERTIGER3)
-[2022-Basics of SQL using PostgreSQL](https://www.udemy.com/course/2022-basics-of-sql-using-postgresql/?couponCode=DEC_2_2022)
-[Shopify Guide: Start your own clothing brand with Shopify](https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=57835F8D545790D4B106)
+[Master Course in Sales Skills](https://www.udemy.com/course/sales-skills-sales-anayst/?couponCode=DC85B7D33D4DA7702FD6)
+[Intensive Ho’oponopono Workshop + 3,800 students enrolled!](https://www.udemy.com/course/practical-hooponopono-workshop/?couponCode=DE2F98350DBD8979D14A)
+[Master ReactJS in 30 Days](https://www.udemy.com/course/master-reactjs-in-30-days/?couponCode=C7A9E3009FA96BB5B7A9)
+[Postgraduate Diploma: Digital Products Management](https://www.udemy.com/course/digital-product-owner/?couponCode=0062A80A272D26C20B2A)
+[Python3: From Beginner to Pro](https://www.udemy.com/course/python-three-from-beginner-to-pro/?couponCode=DEC3_2022)
+[How to Start a Small Business: Fast Track Plan.](https://www.udemy.com/course/how-to-start-a-small-business-fast-track-plan/?couponCode=4055BBA39C1F7E5EADFA)
+[Master Course of Business Consulting](https://www.udemy.com/course/business-consulting-management-consulting/?couponCode=CEB2BD832A5D873A1D5C)
+[Master Course in Human Resources 2.0](https://www.udemy.com/course/human-resource-management-course-udemy/?couponCode=6E6B01654956730890DC)
+[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=2EBF259CFE31DD100279)
+[Easy Christmas Candy Cane Watercolor Gift Painting Course](https://www.udemy.com/course/easy-christmas-themed-watercolor-painting-course/?couponCode=BECB38E4D1ABD580048A)
+[Omnichannel Sales & Service Management with AI & Chat Bots](https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=AF5B00F542813591BDC1)
+[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=1637F4B71235DB24051F)
 
