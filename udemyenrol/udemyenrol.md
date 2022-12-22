@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/12/2022
+# Daily Free Udemy Courses - 22/12/2022
 
-[Email Marketing 2023. Increase sales with Email Marketing!](https://www.udemy.com/course/email-marketing-for-beginners-course/?couponCode=EMAILMARKETING2012)
-[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA2012)
-[Link building 2023. Build links that boost the site traffic!](https://www.udemy.com/course/link-building-course/?couponCode=LINKBUILDING2012)
-[Super way to Learn Arduino | Creative](https://www.udemy.com/course/super-way-to-learn-arduino-creative/?couponCode=DEC12FREE)
-[Social media marketing strategy 2023. Launch your SMM!](https://www.udemy.com/course/social-media-marketing-strategy-course/?couponCode=SMM2012)
-[Etsy: The Ultimate Guide to Boosting Your Business](https://www.udemy.com/course/etsy-promotion/?couponCode=ETSY2012)
-[Plumbing Sanitary System from A-Z](https://www.udemy.com/course/mechanical-engineering-sanitary-drainage-system-from-a-z/?couponCode=00C3F4D82ACD73680C7C)
-[After Effects CC: Create Cool Lower Thirds & Motion Graphics](https://www.udemy.com/course/after-effects-lower-thirds-titles-text-animation/?couponCode=UDEMY20221220)
-[CheckPoint Firewall Administration R80](https://www.udemy.com/course/checkpoint-firewall-administration-r80/?couponCode=DEC-22-FREE-GIFT)
-[Passive Income on Fiverr using Grammarly and Zero Skills](https://www.udemy.com/course/passive-income-on-fiverr-using-grammarly-and-zero-skills/?couponCode=PASSIVEINCOME23)
-[SEO Strategy 2023. SEO training to TOP rank your website!](https://www.udemy.com/course/seo-strategy/?couponCode=SEO2012)
-[Google Analytics Certification. How to Pass the Exam](https://www.udemy.com/course/google-analytics-certification-how-to-pass-the-exam/?couponCode=GACERTIF2012)
+[Complete PYTHON Programming for Beginners – 2022](https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=86A5659698CCA48AC8C1)
+[Complete Graphics Design and Video Editing Masterclass](https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass/?couponCode=BIGBUMP2023)
+[AWS Identity and Access Management (IAM) Foundations](https://www.udemy.com/course/aws-identity-and-access-management-iam-foundations/?couponCode=YOUACCEL76067)
+[Optimized Training for Product Owner Certification](https://www.udemy.com/course/productowner-pspo/?couponCode=607E525648FFE4200856)
+[Bootstrap & jQuery – Certification Course for Beginners](https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL76067)
+[Mastering The Complete Agile Scrum Master Workshop](https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=B12A489234B776F601C3)
+[CSS Complete Course For Beginners](https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=476C7BFC269E6372E42B)
+[Autodesk AutoCAD / CAD – Beginner to an advanced level](https://www.udemy.com/course/autodesk-autocad-beginner-to-an-advanced-level/?couponCode=AA059ECEA5470A8441EA)
+[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=3D7F7D3343C1535B1F2E)
+[How To Design A Great Movie Poster That Works](https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=DEC-HO-HO-HO)
+[Complete DaVinci Resolve 17 Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-davinci-resolve-17-megacourse-beginner-to-expert/?couponCode=93D9564D33E34C15F908)
+[How to build a Weekly Passive Income with Dividend Investing](https://www.udemy.com/course/how-to-build-a-weekly-passive-income-with-dividend-investing/?couponCode=21E58D586152BF717BE2)
 
