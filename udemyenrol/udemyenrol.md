@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/12/2022
+# Daily Free Udemy Courses - 23/12/2022
 
-[Complete PYTHON Programming for Beginners – 2022](https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=86A5659698CCA48AC8C1)
-[Complete Graphics Design and Video Editing Masterclass](https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass/?couponCode=BIGBUMP2023)
-[AWS Identity and Access Management (IAM) Foundations](https://www.udemy.com/course/aws-identity-and-access-management-iam-foundations/?couponCode=YOUACCEL76067)
-[Optimized Training for Product Owner Certification](https://www.udemy.com/course/productowner-pspo/?couponCode=607E525648FFE4200856)
-[Bootstrap & jQuery – Certification Course for Beginners](https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL76067)
-[Mastering The Complete Agile Scrum Master Workshop](https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=B12A489234B776F601C3)
-[CSS Complete Course For Beginners](https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=476C7BFC269E6372E42B)
-[Autodesk AutoCAD / CAD – Beginner to an advanced level](https://www.udemy.com/course/autodesk-autocad-beginner-to-an-advanced-level/?couponCode=AA059ECEA5470A8441EA)
-[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=3D7F7D3343C1535B1F2E)
-[How To Design A Great Movie Poster That Works](https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=DEC-HO-HO-HO)
-[Complete DaVinci Resolve 17 Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-davinci-resolve-17-megacourse-beginner-to-expert/?couponCode=93D9564D33E34C15F908)
-[How to build a Weekly Passive Income with Dividend Investing](https://www.udemy.com/course/how-to-build-a-weekly-passive-income-with-dividend-investing/?couponCode=21E58D586152BF717BE2)
+[2023-Master in Web Designing Skill](https://www.udemy.com/course/master-classes-for-web-design-course-html-css-js-seo/?couponCode=328D8561DA415F11CD2F)
+[2023-Master in Core Python Programming in 99Days](https://www.udemy.com/course/learn-python-programming-with-jafricode-tutorials/?couponCode=69D4CEBF86E9F9F3618C)
+[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=960E0A7D8942B92F2455)
+[Social Media Content Design Create Using Canva: Become a Pro](https://www.udemy.com/course/social-media-content-design-create-using-canva-become-a-pro/?couponCode=FOUEDCANVA)
+[Practise Javascript in 2023 : Code a Card Game in Phaser 3](https://www.udemy.com/course/practise-modern-javascript-by-coding-a-card-game/?couponCode=CARDGAME_FREE2)
+[Branding & Brand Management: Branding Strategy Brand Tactics](https://www.udemy.com/course/mini-mba-in-branding/?couponCode=27B350F9B70BEDAC2EEA)
+[Persuasive Copywriting (2022): Become a Copywriting Master](https://www.udemy.com/course/b2b-copywriting/?couponCode=7D5523E798D45B3D21B9)
+[Mastering LinkedIn Social Selling Automation](https://www.udemy.com/course/mastering-linkedin-social-selling-automation/?couponCode=9ACF87DD0166EA0B88B8)
+[Complete Reading Music Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-reading-music-megacourse-beginner-to-expert/?couponCode=6B9D18B5100CEACE739E)
+[Shopify Aliexpress Dropshipping 2022 -Jewelry Store Creation](https://www.udemy.com/course/shopify-aliexpress-dropshipping-2023-jewelry-store-creation-course/?couponCode=JEWELRYSTORE2023)
+[2023-Master in HTML & CSS Coding for Web Design](https://www.udemy.com/course/master-in-html-css-coding-for-web-design/?couponCode=265996E7E71710FDF2FC)
+[2023-Learn JavaScript Programming in 7 Days](https://www.udemy.com/course/learn-javascript-programming-in-7-days/?couponCode=1EDE49A373DCE8933F9F)
 
