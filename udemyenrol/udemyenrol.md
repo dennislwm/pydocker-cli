@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/12/2022
+# Daily Free Udemy Courses - 24/12/2022
 
-[2023-Master in Web Designing Skill](https://www.udemy.com/course/master-classes-for-web-design-course-html-css-js-seo/?couponCode=328D8561DA415F11CD2F)
-[2023-Master in Core Python Programming in 99Days](https://www.udemy.com/course/learn-python-programming-with-jafricode-tutorials/?couponCode=69D4CEBF86E9F9F3618C)
-[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=960E0A7D8942B92F2455)
-[Social Media Content Design Create Using Canva: Become a Pro](https://www.udemy.com/course/social-media-content-design-create-using-canva-become-a-pro/?couponCode=FOUEDCANVA)
-[Practise Javascript in 2023 : Code a Card Game in Phaser 3](https://www.udemy.com/course/practise-modern-javascript-by-coding-a-card-game/?couponCode=CARDGAME_FREE2)
-[Branding & Brand Management: Branding Strategy Brand Tactics](https://www.udemy.com/course/mini-mba-in-branding/?couponCode=27B350F9B70BEDAC2EEA)
-[Persuasive Copywriting (2022): Become a Copywriting Master](https://www.udemy.com/course/b2b-copywriting/?couponCode=7D5523E798D45B3D21B9)
-[Mastering LinkedIn Social Selling Automation](https://www.udemy.com/course/mastering-linkedin-social-selling-automation/?couponCode=9ACF87DD0166EA0B88B8)
-[Complete Reading Music Megacourse: Beginner to Expert](https://www.udemy.com/course/complete-reading-music-megacourse-beginner-to-expert/?couponCode=6B9D18B5100CEACE739E)
-[Shopify Aliexpress Dropshipping 2022 -Jewelry Store Creation](https://www.udemy.com/course/shopify-aliexpress-dropshipping-2023-jewelry-store-creation-course/?couponCode=JEWELRYSTORE2023)
-[2023-Master in HTML & CSS Coding for Web Design](https://www.udemy.com/course/master-in-html-css-coding-for-web-design/?couponCode=265996E7E71710FDF2FC)
-[2023-Learn JavaScript Programming in 7 Days](https://www.udemy.com/course/learn-javascript-programming-in-7-days/?couponCode=1EDE49A373DCE8933F9F)
+[Kubernetes for developers](https://www.udemy.com/course/kubernetes-for-developers/?couponCode=350ADE4D0058DBDBF002)
+[Practical Kubernetes Guide](https://www.udemy.com/course/kubernetes-best-practices/?couponCode=468E2965C9685ECCDBC2)
+[Learn Github Actions for CI/CD DevOps Pipelines](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/?couponCode=69DFE5BF0365C7372EF3)
+[Learn Azure DevOps CI/CD pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/?couponCode=94B7EABF4BE08FF61A19)
+[Learn Infra as Code with Azure Bicep](https://www.udemy.com/course/learn-azure-bicep/?couponCode=5B93B50A8F732A88633D)
+[master layer farm management the business of millionaires](https://www.udemy.com/course/master-layer-farm-management-the-business-of-millionaires/?couponCode=1FDF8E67093A6AEFB93A)
+[Deploy Infra in the Cloud using Terraform](https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/?couponCode=F3B3D9CBF97CAFE0742D)
+[Getting started with Azure Cloud](https://www.udemy.com/course/microsoft-azure-cloud/?couponCode=5E5A16BCDA225A60E751)
+[SQL Introduction Course 2023: SQL Crash Course.](https://www.udemy.com/course/sql-course/?couponCode=4C9C16581956B9709441)
+[Oracle Database 12c: Advanced Administration 1Z0-063 Exams](https://www.udemy.com/course/oracle-database-12c-advanced-administration-1z0-063-exams/?couponCode=5798DDDE64996F0787EF)
+[Python Course 2023 Learn by Python Projects & Python Quizzes](https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/?couponCode=476822009A543AB2207C)
+[Shopify Aliexpress Dropshipping 2023 – Toy Store Creation](https://www.udemy.com/course/shopify-aliexpress-dropshipping-2023-toy-store-creation-course/?couponCode=2ED6C396098E3E52A420)
 
