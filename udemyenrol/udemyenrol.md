@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/12/2022
+# Daily Free Udemy Courses - 25/12/2022
 
-[Kubernetes for developers](https://www.udemy.com/course/kubernetes-for-developers/?couponCode=350ADE4D0058DBDBF002)
-[Practical Kubernetes Guide](https://www.udemy.com/course/kubernetes-best-practices/?couponCode=468E2965C9685ECCDBC2)
-[Learn Github Actions for CI/CD DevOps Pipelines](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/?couponCode=69DFE5BF0365C7372EF3)
-[Learn Azure DevOps CI/CD pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/?couponCode=94B7EABF4BE08FF61A19)
-[Learn Infra as Code with Azure Bicep](https://www.udemy.com/course/learn-azure-bicep/?couponCode=5B93B50A8F732A88633D)
-[master layer farm management the business of millionaires](https://www.udemy.com/course/master-layer-farm-management-the-business-of-millionaires/?couponCode=1FDF8E67093A6AEFB93A)
-[Deploy Infra in the Cloud using Terraform](https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/?couponCode=F3B3D9CBF97CAFE0742D)
-[Getting started with Azure Cloud](https://www.udemy.com/course/microsoft-azure-cloud/?couponCode=5E5A16BCDA225A60E751)
-[SQL Introduction Course 2023: SQL Crash Course.](https://www.udemy.com/course/sql-course/?couponCode=4C9C16581956B9709441)
-[Oracle Database 12c: Advanced Administration 1Z0-063 Exams](https://www.udemy.com/course/oracle-database-12c-advanced-administration-1z0-063-exams/?couponCode=5798DDDE64996F0787EF)
-[Python Course 2023 Learn by Python Projects & Python Quizzes](https://www.udemy.com/course/the-complete-python-for-beginner-master-python-from-scratch/?couponCode=476822009A543AB2207C)
-[Shopify Aliexpress Dropshipping 2023 – Toy Store Creation](https://www.udemy.com/course/shopify-aliexpress-dropshipping-2023-toy-store-creation-course/?couponCode=2ED6C396098E3E52A420)
+[Insight to Post Pandemic: Importance of Lean Six Sigma](https://www.udemy.com/course/insight-to-post-pandemic-importance-of-lean-six-sigma/?couponCode=CHRISTMASLEGEND04)
+[The Ultimate YouTube Advertising Course for Beginners](https://www.udemy.com/course/the-ultimate-youtube-advertising-course-for-beginners/?couponCode=CHRISTMASLEGEND02)
+[How to Become a Facilitator: 7 Effective Skills](https://www.udemy.com/course/how-to-become-a-facilitator-7-effective-skills/?couponCode=CHRISTMASLEGEND13)
+[Advanced Artificial Intelligence in Digital Marketing Course](https://www.udemy.com/course/artificial-intelligence-in-digital-marketing-part-2/?couponCode=AIFASTLEARN)
+[AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-6-practice-exams/?couponCode=6310C3D33B8CFEE4002C)
+[Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://www.udemy.com/course/learn-audo-studio-ai-powered-noise-cancellation-tool/?couponCode=CHRISTMASLEGEND09)
+[Complete Italian Course: Learning Italian for Beginners 2022](https://www.udemy.com/course/complete-italian-course-learning-italian-for-beginners-2022/?couponCode=COURSEVANIA_COM8)
+[New-Age Technologies For Fitness Trainers (2022 Edition)](https://www.udemy.com/course/new-age-technologies-for-fitness-trainers/?couponCode=CHRISTMASLEGEND07)
+[2023 Complete Python Bootcamp from Zero to Hero in Python](https://www.udemy.com/course/python-programming-for-beginners-m/?couponCode=542AF787BFFDB923690F)
+[React JS- Complete Guide for Frontend Web Development [2022]](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEDEC133)
+[Space Render 1.0: Artificial Intelligence in 3D Animation](https://www.udemy.com/course/space-render-10-artificial-intelligence-in-3d-animation/?couponCode=THISISCRAZY)
+[CSS – Basics to Adv for front end development [2022]](https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEDEC128)
 
