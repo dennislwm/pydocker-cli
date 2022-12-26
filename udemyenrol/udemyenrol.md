@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/12/2022
+# Daily Free Udemy Courses - 26/12/2022
 
-[Insight to Post Pandemic: Importance of Lean Six Sigma](https://www.udemy.com/course/insight-to-post-pandemic-importance-of-lean-six-sigma/?couponCode=CHRISTMASLEGEND04)
-[The Ultimate YouTube Advertising Course for Beginners](https://www.udemy.com/course/the-ultimate-youtube-advertising-course-for-beginners/?couponCode=CHRISTMASLEGEND02)
-[How to Become a Facilitator: 7 Effective Skills](https://www.udemy.com/course/how-to-become-a-facilitator-7-effective-skills/?couponCode=CHRISTMASLEGEND13)
-[Advanced Artificial Intelligence in Digital Marketing Course](https://www.udemy.com/course/artificial-intelligence-in-digital-marketing-part-2/?couponCode=AIFASTLEARN)
-[AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-6-practice-exams/?couponCode=6310C3D33B8CFEE4002C)
-[Learn Audo Studio: AI-Powered Noise Cancellation Tool (2022)](https://www.udemy.com/course/learn-audo-studio-ai-powered-noise-cancellation-tool/?couponCode=CHRISTMASLEGEND09)
-[Complete Italian Course: Learning Italian for Beginners 2022](https://www.udemy.com/course/complete-italian-course-learning-italian-for-beginners-2022/?couponCode=COURSEVANIA_COM8)
-[New-Age Technologies For Fitness Trainers (2022 Edition)](https://www.udemy.com/course/new-age-technologies-for-fitness-trainers/?couponCode=CHRISTMASLEGEND07)
-[2023 Complete Python Bootcamp from Zero to Hero in Python](https://www.udemy.com/course/python-programming-for-beginners-m/?couponCode=542AF787BFFDB923690F)
-[React JS- Complete Guide for Frontend Web Development [2022]](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEDEC133)
-[Space Render 1.0: Artificial Intelligence in 3D Animation](https://www.udemy.com/course/space-render-10-artificial-intelligence-in-3d-animation/?couponCode=THISISCRAZY)
-[CSS – Basics to Adv for front end development [2022]](https://www.udemy.com/course/css-basics-to-advanced/?couponCode=FREEDEC128)
+[Learn WordPress Gutenberg Block Editor 2022 Version](https://www.udemy.com/course/learn-wordpress-gutenberg-block-editor-2022-version/?couponCode=1C52C530EDA0D489A466)
+[Plumbing Water Supply System A-Z](https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=8AF5B1EC22E4FD7700A6)
+[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=470819FB800B0D0484FB)
+[Plumbing & HVAC systems in Chillers water treatment A-Z](https://www.udemy.com/course/hvac-chilled-water-system-chiller-ahu-fcu/?couponCode=CDE5E847ED1D72C86798)
+[Porto Visual Composer CSS Woocommerce Zero to Hero 2020](https://www.udemy.com/course/porto-visual-composer-css-woocommerce-zero-to-hero-2020/?couponCode=5D4A7938EB54B0891E85)
+[Learn Reverse Engineering By Taking Apart Android Games](https://www.udemy.com/course/learn-reverse-engineering-through-android-games/?couponCode=HOLIDAY)
+[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=390F313EEF5074EF4606)
+[Jumpstart your Project Management career](https://www.udemy.com/course/jumpstart-your-project-management-career/?couponCode=MERRYXMAS)
+[Excellence in Sales Management](https://www.udemy.com/course/excellence-in-sales-management/?couponCode=B3DEDFAB9899E9DC3925)
+[CSS Complete Course For Beginners](https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=669868A026AA612428E2)
+[Adobe Photoshop CC- Basic Photoshop training](https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=C0F44FE55FF0423E6CC3)
+[Public Speaking for Parents – Teach Your Kids to Present 1Hr](https://www.udemy.com/course/public-speaking-for-parents-teach-your-kids-to-present-1hr/?couponCode=THANKS0121)
 
