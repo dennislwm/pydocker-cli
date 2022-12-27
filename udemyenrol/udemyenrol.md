@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/12/2022
+# Daily Free Udemy Courses - 27/12/2022
 
-[Learn WordPress Gutenberg Block Editor 2022 Version](https://www.udemy.com/course/learn-wordpress-gutenberg-block-editor-2022-version/?couponCode=1C52C530EDA0D489A466)
-[Plumbing Water Supply System A-Z](https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=8AF5B1EC22E4FD7700A6)
-[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=470819FB800B0D0484FB)
-[Plumbing & HVAC systems in Chillers water treatment A-Z](https://www.udemy.com/course/hvac-chilled-water-system-chiller-ahu-fcu/?couponCode=CDE5E847ED1D72C86798)
-[Porto Visual Composer CSS Woocommerce Zero to Hero 2020](https://www.udemy.com/course/porto-visual-composer-css-woocommerce-zero-to-hero-2020/?couponCode=5D4A7938EB54B0891E85)
-[Learn Reverse Engineering By Taking Apart Android Games](https://www.udemy.com/course/learn-reverse-engineering-through-android-games/?couponCode=HOLIDAY)
-[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=390F313EEF5074EF4606)
-[Jumpstart your Project Management career](https://www.udemy.com/course/jumpstart-your-project-management-career/?couponCode=MERRYXMAS)
-[Excellence in Sales Management](https://www.udemy.com/course/excellence-in-sales-management/?couponCode=B3DEDFAB9899E9DC3925)
-[CSS Complete Course For Beginners](https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=669868A026AA612428E2)
-[Adobe Photoshop CC- Basic Photoshop training](https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=C0F44FE55FF0423E6CC3)
-[Public Speaking for Parents – Teach Your Kids to Present 1Hr](https://www.udemy.com/course/public-speaking-for-parents-teach-your-kids-to-present-1hr/?couponCode=THANKS0121)
+[Data Science: Python for Data Analysis 2022 Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=AEB4B92FF17A212C4769)
+[Advanced Microsoft Excel Formulas & Functions – 2022](https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=ADVDEC26)
+[Javascript Practicals Crash Course](https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=EB25CC851ACDE6D26667)
+[Applied Python: Building Projects with Python Programming](https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=6AF91A11DAC593273D23)
+[Financial Accounting – Inventory Costs](https://www.udemy.com/course/financial-accounting-inventory-costs/?couponCode=06938DD1815673F0C8C0)
+[Financial Accounting – Subsidiary Ledgers & Special Journals](https://www.udemy.com/course/financial-accounting-subsidiary-ledgers-special-journals/?couponCode=BE82744028D345645922)
+[The Python Programming For Everyone Immersive Training](https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=F8E5833EE36005C7D535)
+[Most Essential & Popular Excel Formulas And Functions – 2022](https://www.udemy.com/course/most-essential-popular-excel-formulas-and-functions/?couponCode=MOSTDEC26)
+[The Python Developer Essentials 2022 Immersive Bootcamp](https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=B627BBBEE82DAFA16DAD)
+[Financial Accounting-Adjusting Entries & Financial Statement](https://www.udemy.com/course/financial-accounting-adjusting-entries-financial-statement/?couponCode=41328968817281E4EA96)
+[Advanced Usage Of Excel Vlookup,Hlookup,Index,Match & More](https://www.udemy.com/course/advanced-usage-of-excel-vlookuphlookupindexmatch-more/?couponCode=VLOOKDEC26)
+[Complete Advanced Data Entry Application in Microsoft Excel](https://www.udemy.com/course/create-advanced-data-entry-application-in-microsoft-excel/?couponCode=DATADEC26)
 
