@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/12/2022
+# Daily Free Udemy Courses - 28/12/2022
 
-[Data Science: Python for Data Analysis 2022 Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=AEB4B92FF17A212C4769)
-[Advanced Microsoft Excel Formulas & Functions – 2022](https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=ADVDEC26)
-[Javascript Practicals Crash Course](https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=EB25CC851ACDE6D26667)
-[Applied Python: Building Projects with Python Programming](https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=6AF91A11DAC593273D23)
-[Financial Accounting – Inventory Costs](https://www.udemy.com/course/financial-accounting-inventory-costs/?couponCode=06938DD1815673F0C8C0)
-[Financial Accounting – Subsidiary Ledgers & Special Journals](https://www.udemy.com/course/financial-accounting-subsidiary-ledgers-special-journals/?couponCode=BE82744028D345645922)
-[The Python Programming For Everyone Immersive Training](https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=F8E5833EE36005C7D535)
-[Most Essential & Popular Excel Formulas And Functions – 2022](https://www.udemy.com/course/most-essential-popular-excel-formulas-and-functions/?couponCode=MOSTDEC26)
-[The Python Developer Essentials 2022 Immersive Bootcamp](https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=B627BBBEE82DAFA16DAD)
-[Financial Accounting-Adjusting Entries & Financial Statement](https://www.udemy.com/course/financial-accounting-adjusting-entries-financial-statement/?couponCode=41328968817281E4EA96)
-[Advanced Usage Of Excel Vlookup,Hlookup,Index,Match & More](https://www.udemy.com/course/advanced-usage-of-excel-vlookuphlookupindexmatch-more/?couponCode=VLOOKDEC26)
-[Complete Advanced Data Entry Application in Microsoft Excel](https://www.udemy.com/course/create-advanced-data-entry-application-in-microsoft-excel/?couponCode=DATADEC26)
+[JavaScript & jQuery – Certification Course for Beginners](https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCEL27171)
+[Setup a Virtual Web Server using Linode or Digital Ocean](https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/?couponCode=YOUACCEL27171)
+[Apache Spark In-Depth (Spark with Scala)](https://www.udemy.com/course/apache-spark-in-depth-spark-with-scala/?couponCode=VEERBALDIVAS)
+[Data Analysis In-Depth (With Python)](https://www.udemy.com/course/data-analysis-in-depth-with-python/?couponCode=VEERBALDIVAS)
+[Learn HTML – For Beginners](https://www.udemy.com/course/learn-html-for-beginners/?couponCode=YOUACCEL27171)
+[AWS Certified Cloud Practitioner Practice Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-6-practice-exams/?couponCode=C633F70447FBD015E29E)
+[Entrepreneurship – Ft. Matthew Rolnick of Yaymaker, Groupon](https://www.udemy.com/course/how-to-succeed-as-an-entrepreneur-a-beginners-guide/?couponCode=YOUACCEL72007)
+[Learn Bootstrap – For Beginners](https://www.udemy.com/course/learn-bootstrap-for-beginners/?couponCode=YOUACCEL72007)
+[PHP & MySQL – Certification Course for Beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=YOUACCEL72007)
+[JavaScript, Bootstrap, & PHP – Certification for Beginners](https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/?couponCode=YOUACCEL72007)
+[HTML, JavaScript, & Bootstrap – Certification Course](https://www.udemy.com/course/html-javascript-bootstrap-certification-course/?couponCode=YOUACCEL72007)
+[Adobe Lightroom Masterclass – Beginner to Expert](https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=YOUACCEL27171)
 
