@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/12/2022
+# Daily Free Udemy Courses - 30/12/2022
 
-[Active Directory: Domain Controllers, Operations Masters, GC](https://www.udemy.com/course/active-directory-domain-controllers-operations-masters-gc/?couponCode=3C2DA2C3C2F99DC7FFF2)
-[Active Directory: Managing Users Accounts and Properties](https://www.udemy.com/course/active-directory-managing-users-accounts-and-properties/?couponCode=1E534990C58F68451BD7)
-[Active Directory: Managing Groups, Computers and OUs](https://www.udemy.com/course/active-directory-managing-groups-computers-and-ous/?couponCode=29828212CE4DD1F0B7B9)
-[The Complete Flower Dropshipping Masterclass- WordPress 2023](https://www.udemy.com/course/sell-flowers-online-2022-dropshipping-for-passive-income-course/?couponCode=FLOWERDROPSHIPPING)
-[Professional Google Workspace Administrator Test 2023](https://www.udemy.com/course/professional-google-workspace-administrator-test-2023/?couponCode=CC9C7C49C0D2AA9A4DA3)
-[Learn Canva Like a Pro By Creating 20 Projects](https://www.udemy.com/course/learn-canva-like-pro-by-creating-20-projects/?couponCode=100OFF)
-[Customer Research & Data-Driven Decision Making](https://www.udemy.com/course/customer-research-data-driven-decision-making/?couponCode=9FDC0F919BBC7B404393)
-[Cloud Computing and AWS Introduction](https://www.udemy.com/course/cloud-computing-knodax/?couponCode=1030A6D2C5AAC9D51796)
-[Professional Business Email Writing And Email Etiquette](https://www.udemy.com/course/business-email-writing/?couponCode=0A8937D6AD6B4C769599)
-[AirTable for Beginners 2022: Learn the Basics & Essentials](https://www.udemy.com/course/airtable-beginners/?couponCode=AIR1000)
-[Podcast with Passion and Inspiration](https://www.udemy.com/course/learn-to-podcast-with-passion/?couponCode=PWPAIEXPJAN012023)
-[See 27 Ways to Make Money Online with Your Smartphone!](https://www.udemy.com/course/make-money-with-your-smartphone/?couponCode=FB30294D9F4CB6A3A0A6)
+[Car Mechanic and Electrician Training Certificated | 2023+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=LEARN_CARS_2023)
+[Best of SEO: #1 SEO Training & Content Marketing Course 2023](https://www.udemy.com/course/seo-training-2021/?couponCode=TIGER110)
+[Learn Python – Python Fundamentals for Beginners](https://www.udemy.com/course/python-basics-i/?couponCode=02BBB914EE7578947F86)
+[Ethical Hacking and Cyber Security Masterclass | CSEH+ 2023](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=2023_BEST_OCSALY)
+[The Complete Android & Kotlin Development Course](https://www.udemy.com/course/kotlin-masterclass-learn-kotlin-from-zero-to-advanced/?couponCode=8E8E1A1CB47461731267)
+[Learn Canva Like a Pro By Creating 20 Projects](https://www.udemy.com/course/learn-canva-like-pro-by-creating-20-projects/?couponCode=100100OFF)
+[Customer Research & Data-Driven Decision Making](https://www.udemy.com/course/customer-research-data-driven-decision-making/?couponCode=C206F7907B6C82B59C8A)
+[Secrets to Write a Copywriting that Sells like HOT Cakes!](https://www.udemy.com/course/secrets-to-write-a-copy-that-sells-like-crazy-freelance-copy/?couponCode=1FA405480F3397C10345)
+[Best SAP FICO Tutorial For Beginners & Freshers (SAP ERP)](https://www.udemy.com/course/sap-fico-tutorial-for-beginners/?couponCode=C5A625ADB8713A3CE93E)
+[Shell Scripting Practice Exercises with Demonstration](https://www.udemy.com/course/shell-scripting-practice-exercises-with-demonstration/?couponCode=SHELLSCRIPT)
+[Porto Visual Composer CSS Woocommerce Zero to Hero 2020](https://www.udemy.com/course/porto-visual-composer-css-woocommerce-zero-to-hero-2020/?couponCode=8BCFE47C1F5B046D167A)
+[The Complete SAP S/4HANA Bootcamp 2022](https://www.udemy.com/course/sap-s4-hana/?couponCode=2DCD3AC1AE5FC0B3E631)
 
