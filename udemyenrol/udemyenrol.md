@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/01/2023
+# Daily Free Udemy Courses - 04/01/2023
 
-[Build a Augmented Reality (AR) App and Game with Unity 2021](https://www.udemy.com/course/build-augmented-reality-dartboard-game-with-unity/?couponCode=NEWYEAR2023)
-[Learn Java programming basics and code in Java easily](https://www.udemy.com/course/learn-java-basics-from-scratch/?couponCode=6E083564BD87B3ACBF82)
-[Practical UIUX Projects-Figma](https://www.udemy.com/course/practical-uiux-projects-figma/?couponCode=HAPPYDESIGNING)
-[2022-Basics of SQL using PostgreSQL](https://www.udemy.com/course/2022-basics-of-sql-using-postgresql/?couponCode=JAN2023_1)
-[Python3: From Beginner to Pro](https://www.udemy.com/course/python-three-from-beginner-to-pro/?couponCode=JAN2023_1)
-[Learn Python – Python Fundamentals for Beginners](https://www.udemy.com/course/python-basics-i/?couponCode=LEARNPYTHON)
-[Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=35A4B31C6D47A89AA7C0)
-[Freelance Consulting – The 1-Hour Course for Beginners](https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=D669B5FBCE49D06584D2)
-[The Complete Microsoft Word Course: Master Microsoft Word](https://www.udemy.com/course/the-complete-microsoft-word-course-master-microsoft-word/?couponCode=AA695072FC1BCD7744B6)
-[Stress Management – 1-Hour Intro Course – Reduce Stress Now](https://www.udemy.com/course/stress-management-1-hour-intro-course-reduce-stress-now/?couponCode=92C2456FF9AF5475602D)
-[49 Weight Loss Tips You Can Stick To Forever – Be Thinner](https://www.udemy.com/course/49-weight-loss-tips-you-can-stick-to-forever-be-thinner/?couponCode=B5A550E399B73553B647)
-[The Complete Business Etiquette Course – Biz Social Skills](https://www.udemy.com/course/the-complete-business-etiquette-course-biz-social-skills/?couponCode=77B3B7F54543A003A9EB)
+[The Complete Introduction to C++ Programming](https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=A1FBDE79CA1645895239)
+[Python for Beginners (2022)](https://www.udemy.com/course/python-for-complete-beginners-1/?couponCode=PYTHONFREE3)
+[Mastering The Python Basics 2023 Bootcamp](https://www.udemy.com/course/python-basics-2023-bootcamp/?couponCode=09850EAD6F4B5587A0F3)
+[Practical Cisco Networking Labs in Cisco Packet Tracer](https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=NEWYEARGIFT)
+[Computer Networks Fundamentals](https://www.udemy.com/course/computer-networks-fundamentals/?couponCode=NEWYEARGIFT)
+[IP Addressing and Subnetting – Zero to Hero](https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=NEWYEARGIFT)
+[Information Security Fundamentals](https://www.udemy.com/course/infosec-fundamentals/?couponCode=NEWYEARGIFT)
+[The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data/?couponCode=DLHNY23_2)
+[How To Draw BASICS for Kids and beginners!](https://www.udemy.com/course/how-to-draw-basics-for-kids/?couponCode=9BB75021C161B0B53BA0)
+[Complex Problem Solving Body of Knowledge (Compact version)](https://www.udemy.com/course/cpsbok_by_rnf/?couponCode=GRATIS)
+[Master Course in Interviewing Skills and Career Development](https://www.udemy.com/course/interviewing-skills-career-development-resume-cv-writing-linkedin/?couponCode=56DBEBE348196F3B8A34)
+[Machine Learning- From Basics to Advanced](https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/?couponCode=FREEJAN102)
 
