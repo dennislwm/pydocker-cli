@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/01/2023
+# Daily Free Udemy Courses - 06/01/2023
 
-[Order Flow Analysis Hindi Free Course with FoodtPrint Charts](https://www.udemy.com/course/order-flow-analysis-hindi-free-course-foot-print-charts/?couponCode=INTRADAYGEEKS)
-[Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2022](https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=12E007AE5BE90037763E)
-[Master Course in Advanced SEO (Search Engine Optimization)](https://www.udemy.com/course/search-engine-optimization-seo-audit/?couponCode=035EC37F8A6B3C28CDC6)
-[Convolutional Neural Networks: Deep Learning](https://www.udemy.com/course/convolutional-neural-networks-deep-learning/?couponCode=1E156B5A746F88A1DFA3)
-[Systems Design Foundations – A Step-By-Step Approach](https://www.udemy.com/course/system-design-foundations/?couponCode=SYSTEM33)
-[Computer Science MetaBootcamp: Beginner to Intermediate 2022](https://www.udemy.com/course/odysy-cs-bootcamp/?couponCode=HAPPYNEWYEAR23)
-[FAA part 107 Remote Pilot Test Preparation Course](https://www.udemy.com/course/faa-part-107-bootcamp-for-beginner-test-prep-for-drone-pilot/?couponCode=3779687A0EB03DE331B7)
-[The Full SEO Course 2023 (+ 20 TOP Experts Teach You Fast)](https://www.udemy.com/course/seo-course-with-top-experts/?couponCode=72AA5751631FBC96E4D6)
-[Essential Life Skills MasterClass | Improve Yourself](https://www.udemy.com/course/essential-life-skills-masterclass-improve-yourself/?couponCode=C517AB1ECE5D2F18AEEE)
-[Local Lead Generation Course: The Complete Beginner’s Guide](https://www.udemy.com/course/local-lead-generation-course-the-complete-beginners-guide/?couponCode=C476C4899BA367E55551)
-[Project Management Bootcamp](https://www.udemy.com/course/project-management-bootcamp/?couponCode=4B32C853DAD3F1DAAA74)
-[Observe to Unmask: 100 Small Things to Know People Better](https://www.udemy.com/course/observetounmask/?couponCode=2FFAFAB9A23BDF21C476)
+[Adobe Lightroom Classic CC: The Map & Book Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-the-map-book-module/?couponCode=YOUACCEL74012)
+[Complete JavaScript, jQuery and React Bootcamp – Hands-On](https://www.udemy.com/course/complete-javascript-jquery-and-react-bootcamp-hands-on/?couponCode=YOUACCEL74012)
+[AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]](https://www.udemy.com/course/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/?couponCode=YOUACCEL74012)
+[PHP & MySQL – Certification Course for Beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=YOUACCEL74012)
+[Contracts Management in Construction Projects](https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=CONTRACTSJAN22)
+[Podcast Audience Growth – Networking with your Guests](https://www.udemy.com/course/power-networking-for-podcast-success/?couponCode=PAGNWYGEXPJAN092022)
+[Learn Bootstrap – For Beginners](https://www.udemy.com/course/learn-bootstrap-for-beginners/?couponCode=YOUACCEL74012)
+[Entrepreneurship – Ft. Matthew Rolnick of Yaymaker, Groupon](https://www.udemy.com/course/how-to-succeed-as-an-entrepreneur-a-beginners-guide/?couponCode=YOUACCEL74012)
+[JavaScript, Bootstrap, & PHP – Certification for Beginners](https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/?couponCode=YOUACCEL74012)
+[HTML, JavaScript, & Bootstrap – Certification Course](https://www.udemy.com/course/html-javascript-bootstrap-certification-course/?couponCode=YOUACCEL74012)
+[Introduction to Domain Names and Web Hosting – Quick Guide](https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL74012)
+[Learn To Do Psychic Readings Easily As An Angel Card Reader](https://www.udemy.com/course/angel-card-reading/?couponCode=34C9035BB9F2B1FED450)
 
