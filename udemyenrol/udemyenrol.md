@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/01/2023
+# Daily Free Udemy Courses - 07/01/2023
 
-[Adobe Lightroom Classic CC: The Map & Book Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-the-map-book-module/?couponCode=YOUACCEL74012)
-[Complete JavaScript, jQuery and React Bootcamp – Hands-On](https://www.udemy.com/course/complete-javascript-jquery-and-react-bootcamp-hands-on/?couponCode=YOUACCEL74012)
-[AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]](https://www.udemy.com/course/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/?couponCode=YOUACCEL74012)
-[PHP & MySQL – Certification Course for Beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners/?couponCode=YOUACCEL74012)
-[Contracts Management in Construction Projects](https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=CONTRACTSJAN22)
-[Podcast Audience Growth – Networking with your Guests](https://www.udemy.com/course/power-networking-for-podcast-success/?couponCode=PAGNWYGEXPJAN092022)
-[Learn Bootstrap – For Beginners](https://www.udemy.com/course/learn-bootstrap-for-beginners/?couponCode=YOUACCEL74012)
-[Entrepreneurship – Ft. Matthew Rolnick of Yaymaker, Groupon](https://www.udemy.com/course/how-to-succeed-as-an-entrepreneur-a-beginners-guide/?couponCode=YOUACCEL74012)
-[JavaScript, Bootstrap, & PHP – Certification for Beginners](https://www.udemy.com/course/javascript-bootstrap-php-certification-for-beginners/?couponCode=YOUACCEL74012)
-[HTML, JavaScript, & Bootstrap – Certification Course](https://www.udemy.com/course/html-javascript-bootstrap-certification-course/?couponCode=YOUACCEL74012)
-[Introduction to Domain Names and Web Hosting – Quick Guide](https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/?couponCode=YOUACCEL74012)
-[Learn To Do Psychic Readings Easily As An Angel Card Reader](https://www.udemy.com/course/angel-card-reading/?couponCode=34C9035BB9F2B1FED450)
+[The Complete Pandas Bootcamp 2023 for Data Analysis – Python](https://www.udemy.com/course/pandas-for-data-analysis-in-python/?couponCode=E4E29791F6BB6CF7E25D)
+[Essential Microsoft Excel from Beginner to Advance level](https://www.udemy.com/course/essential-excel-for-beginner-to-advanced/?couponCode=EXCEL-BUNNY2)
+[Google Professional Machine Learning Engineer Exam](https://www.udemy.com/course/google-professional-machine-learning-engineer-exam-z/?couponCode=D28BB966DE9A4D8D00A2)
+[Google Cloud Professional Data Engineer Exam](https://www.udemy.com/course/google-cloud-professional-data-engineer-exam-z/?couponCode=523B1235CBAEC8254056)
+[Adobe Illustrator Masterclass: From Beginner to Pro](https://www.udemy.com/course/illustrator-master-class/?couponCode=CEE3110271A6027DB1B0)
+[Box your way to fitness](https://www.udemy.com/course/box-your-way-to-fitness/?couponCode=A9BF3F305277DA3B3EA5)
+[The Complete Marketing Strategy with Hands-on Exercises](https://www.udemy.com/course/the-complete-marketing-strategy/?couponCode=MARKETINGTA21)
+[Myyaffiliate – 60% margin affiliate dropshipping program](https://www.udemy.com/course/2022-how-to-win-dropshipping-by-3v-formula-with-tight-budget/?couponCode=221497FD00E791256E58)
+[Accelerated Learning: Study Skills for Success: IT industry](https://www.udemy.com/course/accelerated-certification-techniques/?couponCode=266BB261B0D6847A58C9)
+[Communication Empowerment For Reviving Any Love Relationship](https://www.udemy.com/course/lets-talk-about-it/?couponCode=LOVEREVIVAL2023)
+[Amazon AWS Certified Security – Specialty Exam](https://www.udemy.com/course/aws-certified-security-specialty-exam-j/?couponCode=BB93053E8F371F38D1AD)
+[Basic Course To GST (Goods And Service Tax)](https://www.udemy.com/course/basic-course-to-gst-hindi/?couponCode=ONEJAN2023)
 
