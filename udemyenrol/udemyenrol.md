@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/01/2023
+# Daily Free Udemy Courses - 09/01/2023
 
-[DevOps Tools for Beginners: Linux Command Line in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-linux-command-line-in-1-hour/?couponCode=83CDD57D5065213C434E)
-[Active Directory: Implementing and Administering AD FS](https://www.udemy.com/course/active-directory-implementing-and-administering-ad-fs/?couponCode=F0F159B652884BB8DBAF)
-[Reverse Engineering and Malware Analysis x64/32: CRMA+ 2023](https://www.udemy.com/course/reverse-engineering-and-malware-analysis/?couponCode=OCSALY.COM_ACADEMY)
-[The Complete Computer Forensics Course for 2023 PRO | CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=JANUARY_2023_OCSALY)
-[CSS And Javascript Crash Course](https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=8AE73030056E69B70B2B)
-[HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://www.udemy.com/course/html5-css-fundamentals/?couponCode=B7C32B0D6BF74C4C21EC)
-[React.JS Crash Course: The Complete Course for Beginners](https://www.udemy.com/course/reactjs-the-complete-course-for-beginners/?couponCode=EFC1EE7D19E988B9B9DB)
-[Google Office: Docs, Sheets, Slides من الصفر للاحتراف](https://www.udemy.com/course/google-workspace-docs-sheets-slides/?couponCode=JAN2023)
-[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=9498AAFB3AD5731BEDE3)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=FC895524C4BC60BBD025)
-[The Complete Facebook Training MasterClass – Master Facebook](https://www.udemy.com/course/the-complete-facebook-training/?couponCode=6F6042CA5D78942295FC)
-[The Complete Typing Masterclass: Touch Typing Training](https://www.udemy.com/course/the-complete-touch-typing-masterclass-master-touch-typing/?couponCode=BB5E75AECCDE3748D020)
+[2023-300+ Python Exercises (Simple & Complex) with Algorithm](https://www.udemy.com/course/300-python-exercises-simple-and-complex-with-algorithm/?couponCode=40CAA4CD5C909D281A9D)
+[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=JANUARY)
+[IP Addressing and Subnetting – Zero to Hero](https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=JANUARY)
+[Practical Cisco Networking Labs in Cisco Packet Tracer](https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=JANUARY)
+[Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023](https://www.udemy.com/course/e-commerce-seo-2023/?couponCode=LUCKYWATERTIGER10)
+[Make Money From Home As a Transcriptionist: 10 Opportunities](https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=1B0A0D0A1D4B3480B41A)
+[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=5EC328C75973CF4E13AB)
+[Become a Fiverr Level one seller in Two Weeks – Secret Gig](https://www.udemy.com/course/become-a-fiverr-level-one-seller-in-two-weeks-secret-gig/?couponCode=FIVERRGIG2022)
+[CCSK Certificate of Cloud Security Knowledge Exam Prep](https://www.udemy.com/course/ccsk-certificate-of-cloud-security-knowledge-exam-prep/?couponCode=A22FC6988CC83BA0A443)
+[Certified Wireless Design Professional CWDP Exam Prep](https://www.udemy.com/course/certified-wireless-design-professional-cwdp-exam-prep/?couponCode=CC77C9EEEB931382D93E)
+[Foundations of Positive Psychology – Complete Guide](https://www.udemy.com/course/mental-health-with-positive-psychology-aman-varma-online-course/?couponCode=2D124CE9FE36BF0A1C38)
+[Career in I-O Psychology & Organizational behavior](https://www.udemy.com/course/io-psychology-industrial-organizational-psychology-career-course-udemy/?couponCode=C06DA646DFE35636642D)
 
