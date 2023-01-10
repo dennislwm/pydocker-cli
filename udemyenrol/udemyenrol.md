@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/01/2023
+# Daily Free Udemy Courses - 10/01/2023
 
-[2023-300+ Python Exercises (Simple & Complex) with Algorithm](https://www.udemy.com/course/300-python-exercises-simple-and-complex-with-algorithm/?couponCode=40CAA4CD5C909D281A9D)
-[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=JANUARY)
-[IP Addressing and Subnetting – Zero to Hero](https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=JANUARY)
-[Practical Cisco Networking Labs in Cisco Packet Tracer](https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=JANUARY)
-[Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023](https://www.udemy.com/course/e-commerce-seo-2023/?couponCode=LUCKYWATERTIGER10)
-[Make Money From Home As a Transcriptionist: 10 Opportunities](https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=1B0A0D0A1D4B3480B41A)
-[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=5EC328C75973CF4E13AB)
-[Become a Fiverr Level one seller in Two Weeks – Secret Gig](https://www.udemy.com/course/become-a-fiverr-level-one-seller-in-two-weeks-secret-gig/?couponCode=FIVERRGIG2022)
-[CCSK Certificate of Cloud Security Knowledge Exam Prep](https://www.udemy.com/course/ccsk-certificate-of-cloud-security-knowledge-exam-prep/?couponCode=A22FC6988CC83BA0A443)
-[Certified Wireless Design Professional CWDP Exam Prep](https://www.udemy.com/course/certified-wireless-design-professional-cwdp-exam-prep/?couponCode=CC77C9EEEB931382D93E)
-[Foundations of Positive Psychology – Complete Guide](https://www.udemy.com/course/mental-health-with-positive-psychology-aman-varma-online-course/?couponCode=2D124CE9FE36BF0A1C38)
-[Career in I-O Psychology & Organizational behavior](https://www.udemy.com/course/io-psychology-industrial-organizational-psychology-career-course-udemy/?couponCode=C06DA646DFE35636642D)
+[New Angular 15 Crash Course by Angular Engineering Founder](https://www.udemy.com/course/new-angular-15-crash-course-by-angular-engineering-founder/?couponCode=9CA1427FD27485873534)
+[Hands-On React. Build advanced React JS Frontend with expert](https://www.udemy.com/course/hands-on-reactjs/?couponCode=E861E3CC31CA0C7C2EBE)
+[SQL for Developers, Data Analysts and BI. MySQL for everyone](https://www.udemy.com/course/mysql-for-everyone/?couponCode=8D3F84ED23463EC4EAC3)
+[Practical Next.js & React – Build a real WebApp with Next.js](https://www.udemy.com/course/practical-nextjs/?couponCode=2E29E3A943B90AB72F54)
+[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_JAN231)
+[Shopify eCommerce Store Masterclass – Start a Business!](https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=A02B41DE30303A3E6BE9)
+[Complete Guide to eBay Selling as a Business](https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=9D83F90DE56F13745B73)
+[Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=1F215254E848DBBB3F65)
+[The Webrtc Bootcamp 2023 For Beginners](https://www.udemy.com/course/the-webrtc-bootcamp-2021/?couponCode=HAPPY-NEW-YEAR)
+[The Complete Computer Forensics Course for 2023 PRO | CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=SUBSCRIBE_OCSALY_YT)
+[Digital Forensics Masterclass | Forensic Science 2023 DFMC+™](https://www.udemy.com/course/digital-forensics-course/?couponCode=SUBSCRIBE_OCSALY_YT)
+[Android App Development Kotlin : WHOLE NEW LEARNING ANGLE !](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=SUBSCRIBE_OCSALY_YT)
 
