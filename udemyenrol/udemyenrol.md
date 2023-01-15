@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/01/2023
+# Daily Free Udemy Courses - 15/01/2023
 
-[VMWare for Absolute Beginners](https://www.udemy.com/course/vmware-for-absolute-beginners/?couponCode=EXCLUSIVEOFFER)
-[Master Express Framework Examples Node.Js – Zero to Advanced](https://www.udemy.com/course/the-bootcamp-express-framework-nodejs-zero-to-advanced/?couponCode=E6C603F0B739BAFCA0E2)
-[Introduction to International Trade Finance & Trade Services](https://www.udemy.com/course/introduction-to-international-trade-finance-trade-services/?couponCode=6828017CD6802E51F008)
-[AWS Certified Advanced Networking –Specialty Practice Tests](https://www.udemy.com/course/aws-certified-advanced-networking-specialty-practice-tests-x/?couponCode=4952797F57D629F8B2F1)
-[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=CA33069D79876E4EC702)
-[Cloud Computing Masterclass – Deployment to Administration](https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/?couponCode=YOUACCEL30140)
-[Adobe Lightroom Classic CC: Print, Slideshow & Web Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-print-slideshow-web-module/?couponCode=YOUACCEL48161)
-[Adobe Lightroom Classic CC: Master the Develop Module](https://www.udemy.com/course/adobe-lightroom-classic-cc-master-the-develop-module/?couponCode=YOUACCEL30140)
-[Learn HTML – For Beginners](https://www.udemy.com/course/learn-html-for-beginners/?couponCode=YOUACCEL48161)
-[Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/?couponCode=YOUACCEL30140)
-[Copywriting: Persuasive Writing Ft. Two Forbes Writers](https://www.udemy.com/course/persuasive-writing-copywriting/?couponCode=YOUACCEL48161)
-[Adobe Lightroom Masterclass – Beginner to Expert](https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=YOUACCEL48161)
+[Android Studio for Arduino: Temperature Control](https://www.udemy.com/course/android-studio-for-arduino-temperature-control/?couponCode=DA45081646DFCCC708FF)
+[Project Finance Fundamentals | Infrastructure & Energy](https://www.udemy.com/course/project-finance-fundamentals/?couponCode=98490DDD8AFB149409CF)
+[Data Manipulation in Python: Master Python, Numpy & Pandas](https://www.udemy.com/course/master-data-science-in-python/?couponCode=A028E2C25E9F6D6CF972)
+[Python for Deep Learning: Build Neural Networks in Python](https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=003AEA037E030DD5DE74)
+[The Complete NFT Course: Become an NFT Creator & Investor](https://www.udemy.com/course/nft-for-beginners/?couponCode=A4B071F7E94B69C1470E)
+[Python for Machine Learning: The Complete Beginner’s Course](https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=855AE6159390F195370E)
+[Complete Italian for Beginners: Speak Italian like a Pro](https://www.udemy.com/course/learn-easy-italian/?couponCode=CAFECE10CC86E3F9792C)
+[Time Management Mastery: 10X Your Time, Join the New Rich](https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=84DA88EF31CCD1ED5F8D)
+[Fixed Income Securities: Become a Bond Analyst & Investor](https://www.udemy.com/course/introduction-to-bonds/?couponCode=2ED2917C5BC8A5CDB2CC)
+[Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://www.udemy.com/course/bitcoin-university/?couponCode=963932B7B219BF01A9C7)
+[HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://www.udemy.com/course/html5-css-fundamentals/?couponCode=1B247599958BB2A61E0D)
+[Bootstrap 5 Course: Build Responsive Websites like a Pro](https://www.udemy.com/course/bootstrap5-website/?couponCode=970AF0D818EEEB506970)
 
