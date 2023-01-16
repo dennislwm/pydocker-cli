@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/01/2023
+# Daily Free Udemy Courses - 16/01/2023
 
-[Android Studio for Arduino: Temperature Control](https://www.udemy.com/course/android-studio-for-arduino-temperature-control/?couponCode=DA45081646DFCCC708FF)
-[Project Finance Fundamentals | Infrastructure & Energy](https://www.udemy.com/course/project-finance-fundamentals/?couponCode=98490DDD8AFB149409CF)
-[Data Manipulation in Python: Master Python, Numpy & Pandas](https://www.udemy.com/course/master-data-science-in-python/?couponCode=A028E2C25E9F6D6CF972)
-[Python for Deep Learning: Build Neural Networks in Python](https://www.udemy.com/course/deep-learning-basics-with-python/?couponCode=003AEA037E030DD5DE74)
-[The Complete NFT Course: Become an NFT Creator & Investor](https://www.udemy.com/course/nft-for-beginners/?couponCode=A4B071F7E94B69C1470E)
-[Python for Machine Learning: The Complete Beginner’s Course](https://www.udemy.com/course/python-for-machine-learning-beginners/?couponCode=855AE6159390F195370E)
-[Complete Italian for Beginners: Speak Italian like a Pro](https://www.udemy.com/course/learn-easy-italian/?couponCode=CAFECE10CC86E3F9792C)
-[Time Management Mastery: 10X Your Time, Join the New Rich](https://www.udemy.com/course/time-management-secrets-of-billionaires/?couponCode=84DA88EF31CCD1ED5F8D)
-[Fixed Income Securities: Become a Bond Analyst & Investor](https://www.udemy.com/course/introduction-to-bonds/?couponCode=2ED2917C5BC8A5CDB2CC)
-[Crypto Masterclass: Bitcoin, Altcoins, NFTs, DeFi, Metaverse](https://www.udemy.com/course/bitcoin-university/?couponCode=963932B7B219BF01A9C7)
-[HTML5 & CSS3 Complete Course: Build Websites like a Pro](https://www.udemy.com/course/html5-css-fundamentals/?couponCode=1B247599958BB2A61E0D)
-[Bootstrap 5 Course: Build Responsive Websites like a Pro](https://www.udemy.com/course/bootstrap5-website/?couponCode=970AF0D818EEEB506970)
+[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_JAN232)
+[Career Change – Find Your Perfect Job](https://www.udemy.com/course/escape-the-city-career-change-school/?couponCode=2DEF065D2621615159EF)
+[Supervised Machine Learning: Complete Masterclass [2023]](https://www.udemy.com/course/supervised-machine-learning-complete-masterclass-2023/?couponCode=93EFF3359AB5963F24AA)
+[Best of Copywriting: Copywriting 4 E-commerce + 46 Templates](https://www.udemy.com/course/copywriting-for-ecommerce/?couponCode=LUCKYWATERTIGER3)
+[Meta Advertising Fundamentals: Facebook Ads & Instagram Ads](https://www.udemy.com/course/facebook-page-2022/?couponCode=LUCKYWATERTIGER4)
+[Master all the MS Excel Macros and the basics of Excel VBA](https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=56E6D8E46A500D1FB956)
+[Instagram Marketing 2021: Growth and Promotion on Instagram](https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=1F8549FAAAF5EBC13BA4)
+[Ultimate Adobe Photoshop for Beginners – Zero to Hero](https://www.udemy.com/course/ultimate-adobe-photoshop-for-beginners/?couponCode=PSFREECOURSE2)
+[Cyber Psychology Consultant](https://www.udemy.com/course/cyber-forensic-3/?couponCode=10B57A9EEBE2CCA4724B)
+[Cyber Security: Phishing](https://www.udemy.com/course/cyber-security-phishing/?couponCode=BAGELS)
+[Ethical Hacking: Hack Linux Systems](https://www.udemy.com/course/hack-linux/?couponCode=BAGELS)
+[Intro to Django Python Web Apps](https://www.udemy.com/course/intro-to-django-python-web-apps/?couponCode=BAGELS)
 
