@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/01/2023
+# Daily Free Udemy Courses - 20/01/2023
 
-[Primavera P6 Training – For Beginners](https://www.udemy.com/course/oracle-primavera-p6-project-planning-and-scheduling-training/?couponCode=E6DDA6E4C96F8A2FE7C2)
-[AWS SageMaker MasterClass](https://www.udemy.com/course/aws-sagemaker-masterclass/?couponCode=9E0975C92F47CDF55DF4)
-[Quantitative Finance with Python](https://www.udemy.com/course/quantitative-finance-with-python/?couponCode=551A961C9928F51BD8A0)
-[AutoML Automated Machine Learning BootCamp (No Code ML)](https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/?couponCode=85D98FCD327E2D5E6EDC)
-[Deep Learning MasterClass](https://www.udemy.com/course/deep-learning-masterclass/?couponCode=D4927AA7DC906CC6B6FB)
-[Data Science and Machine Learning Basic to Advanced](https://www.udemy.com/course/data-science-and-machine-learning-basic-to-advanced/?couponCode=353FB91080DBBA037D54)
-[Stress-free Effective Learning for Adults: Crush your goals!](https://www.udemy.com/course/fun-and-effective-learning/?couponCode=288DFFDC15F060FA28C8)
-[Freelance Copywriting Hack to 10X Sales Copy Conversion Rate](https://www.udemy.com/course/freelance-copywriting-hack-to-10x-sales-copy-conversion-rate/?couponCode=COPYWRITING54MP)
-[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=8C225885537B7C1D52AE)
-[Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=975E2395158810433328)
-[Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023](https://www.udemy.com/course/e-commerce-seo-2023/?couponCode=LUCKYWATERTIGER12)
-[Google Analytics, GA4, GTM. How to improve your marketing?](https://www.udemy.com/course/google-analytics-ga4-gtm-for-beginners/?couponCode=GA1801)
+[Extreme Personal Privacy 1](https://www.udemy.com/course/extreme-personal-privacy/?couponCode=E5ABF0CC2944ABC84549)
+[Ultimate Ethical Hacking from Zero To Hero](https://www.udemy.com/course/ultimate-ethical-hacking-from-zero-to-hero/?couponCode=FREE4U)
+[Affiliate Marketing – Learn to Make Money Online WORLDWIDE](https://www.udemy.com/course/affiliate-marketing-make-money-online/?couponCode=D1AFABE15745DBB24D41)
+[Machine Learning and AI Level Augmented Reality Experiences](https://www.udemy.com/course/augmented-reality-ar-game-development/?couponCode=EXCLUSIVE_AR)
+[Learn Python Programming : Step By Step Guide for Beginners](https://www.udemy.com/course/python-programming-for-beginners-easily/?couponCode=BF9141E4B7D10C2AD876)
+[Data Visualization using Matplotlib & Plotly(Python Library)](https://www.udemy.com/course/data-visualizaion-using-matplotlib-plotly-python-library/?couponCode=81FB0F576C6CFCD3ED82)
+[CentOS Linux and Ubuntu Linux: Managing Packages](https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=70DD4FCBFF66AA536F6C)
+[Bit Manipulation Algorithms: DSA](https://www.udemy.com/course/bitwise-algorithms/?couponCode=502F7858D915D182C4A7)
+[Microsoft SQL Server Series: Intro to Querying MS SQL Server](https://www.udemy.com/course/microsoft-sql-server-series-querying-sql-server/?couponCode=12CAC11F9D41A07325E9)
+[Securing Amazon EC2 Instances: AWS Elastic Compute Cloud](https://www.udemy.com/course/securing-amazon-ec2-instances/?couponCode=7FFD42C0F13CC040EEBF)
+[Windows Server with Powershell: Fundamentals](https://www.udemy.com/course/windows-server-2016-with-powershell-fundamentals/?couponCode=66E1DD5556874B5A886E)
+[Hosting Static Websites on Amazon S3](https://www.udemy.com/course/hosting-static-websites-amazon-s3/?couponCode=4D81C3DA982E7899EB5B)
 
