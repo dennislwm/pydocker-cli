@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/01/2023
+# Daily Free Udemy Courses - 21/01/2023
 
-[Extreme Personal Privacy 1](https://www.udemy.com/course/extreme-personal-privacy/?couponCode=E5ABF0CC2944ABC84549)
-[Ultimate Ethical Hacking from Zero To Hero](https://www.udemy.com/course/ultimate-ethical-hacking-from-zero-to-hero/?couponCode=FREE4U)
-[Affiliate Marketing – Learn to Make Money Online WORLDWIDE](https://www.udemy.com/course/affiliate-marketing-make-money-online/?couponCode=D1AFABE15745DBB24D41)
-[Machine Learning and AI Level Augmented Reality Experiences](https://www.udemy.com/course/augmented-reality-ar-game-development/?couponCode=EXCLUSIVE_AR)
-[Learn Python Programming : Step By Step Guide for Beginners](https://www.udemy.com/course/python-programming-for-beginners-easily/?couponCode=BF9141E4B7D10C2AD876)
-[Data Visualization using Matplotlib & Plotly(Python Library)](https://www.udemy.com/course/data-visualizaion-using-matplotlib-plotly-python-library/?couponCode=81FB0F576C6CFCD3ED82)
-[CentOS Linux and Ubuntu Linux: Managing Packages](https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=70DD4FCBFF66AA536F6C)
-[Bit Manipulation Algorithms: DSA](https://www.udemy.com/course/bitwise-algorithms/?couponCode=502F7858D915D182C4A7)
-[Microsoft SQL Server Series: Intro to Querying MS SQL Server](https://www.udemy.com/course/microsoft-sql-server-series-querying-sql-server/?couponCode=12CAC11F9D41A07325E9)
-[Securing Amazon EC2 Instances: AWS Elastic Compute Cloud](https://www.udemy.com/course/securing-amazon-ec2-instances/?couponCode=7FFD42C0F13CC040EEBF)
-[Windows Server with Powershell: Fundamentals](https://www.udemy.com/course/windows-server-2016-with-powershell-fundamentals/?couponCode=66E1DD5556874B5A886E)
-[Hosting Static Websites on Amazon S3](https://www.udemy.com/course/hosting-static-websites-amazon-s3/?couponCode=4D81C3DA982E7899EB5B)
+[Learn Python – The Complete Course on Python](https://www.udemy.com/course/learn-python-letsgo/?couponCode=13D3A45E68617E0D655B)
+[5 Real-Time Use Cases using Machine Learning](https://www.udemy.com/course/5-real-time-use-cases-using-machine-learning/?couponCode=1B650D544D6D807F329A)
+[Cyber Crime Analyst Part 2](https://www.udemy.com/course/cyber-forensic-1/?couponCode=59FF104E3943C5218ABA)
+[Start Career in Cyber Security in 2023 – The Complete Course](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=5EF89F166FE1B818B9B7)
+[Cyber Security for Beginners Complete Course 2023](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=CBAD3FEF34BEC6EC1968)
+[Corporate Cyber Security Awareness for Employees 2023](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=5CA54E465B3FBA60D641)
+[NLP Course for Beginner](https://www.udemy.com/course/nlp-course-for-beginner/?couponCode=5303C595D40B953589B3)
+[Machine Learning From Basic to Advanced](https://www.udemy.com/course/machine-learning-course/?couponCode=815193D58477BD17498A)
+[Learn Machine Learning in 21 Days](https://www.udemy.com/course/learn-machine-learning-in-21-days/?couponCode=3A4AC28E686CC8E7EB43)
+[Wondershare Filmora 11 Video Editing Course in Hindi](https://www.udemy.com/course/wondershare-filmora-11/?couponCode=FREEITNOW)
+[Administration of Red Hat Linux Practice Test 1: Essentials](https://www.udemy.com/course/administration-of-red-hat-linux-practice-test-1-essentials/?couponCode=59C07FB9860ED1AC2F40)
+[Microsoft Excel Masterclass for Data Analysis – 2023](https://www.udemy.com/course/microsoft-excel-zero-to-hero-for-data-analysis/?couponCode=F60E65FC8A41AC53EEBD)
 
