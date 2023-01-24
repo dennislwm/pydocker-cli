@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/01/2023
+# Daily Free Udemy Courses - 24/01/2023
 
-[Snowflake SnowPro Core certification Practice Exam Test 2023](https://www.udemy.com/course/snowflake-snowpro-core-certification-practice-exam-test-2023/?couponCode=BE9B2DB9D08F3FF9C96E)
-[AWS Certified Data Analytics Practice Tests [New 2023]](https://www.udemy.com/course/draft/5104508/?couponCode=7C732F5B675B5538B9A4)
-[Leadership & Management Skills: 10 Leadership Courses In 1](https://www.udemy.com/course/leadership-management-skills/?couponCode=2E6D3F38082ADF07B635)
-[Mastering of Python Script for System Administrator](https://www.udemy.com/course/mastering-of-python-script-for-system-administrator/?couponCode=F6097AC78C0196D3775D)
-[The Complete Windows 11 Masterclass](https://www.udemy.com/course/windows-11-course/?couponCode=D2228AC4FCDD8DB41540)
-[The Complete Computer Basics Course: Master the Fundamentals](https://www.udemy.com/course/the-complete-basic-computer-course-master-using-computer/?couponCode=A568AD240E244AC83923)
-[Best of Website Traffic 2023: SEO, Facebook Ads & Google Ads](https://www.udemy.com/course/website-traffic-2022/?couponCode=LUCKYWATERTIGER7)
-[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=D7109EBC7CB33267726B)
-[Shopify guide: The complete shopify store creation course](https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=8ADBAC8917AF4BE4B664)
-[Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://www.udemy.com/course/master-responsive-web-dev-with-css3-flexbox-media-queries/?couponCode=5AF99E305CAFED178419)
-[Performance Testing](https://www.udemy.com/course/manual-testing-certification/?couponCode=PERF_TEST_UPLATZ)
-[Effective Time Management For Professionals](https://www.udemy.com/course/time-management-m/?couponCode=72DBB5CFA10F07A7796D)
+[Administration of Red Hat Linux Practice Test 1: Essentials](https://www.udemy.com/course/administration-of-red-hat-linux-practice-test-1-essentials/?couponCode=AA8589ED7685AE43CB7C)
+[DealCloser MasterClass with Tony Reed](https://www.udemy.com/course/the-real-estate-mastery-course/?couponCode=A04B8A991189F2575501)
+[Self Publish Coloring Books on Amazon for Passive Income](https://www.udemy.com/course/self-publish-coloring-books-on-amazon-for-passive-income/?couponCode=NEWYEAR2023)
+[Master Course in Business Fundamentals and Development](https://www.udemy.com/course/business-fundamentals-business-development-business-management/?couponCode=F4BE56AFA9B07A69D8F9)
+[Learn Unity’s New UI Tools](https://www.udemy.com/course/learn-unitys-new-ui-tools/?couponCode=UNITY_FREE)
+[Google Professional Cloud DevOps Engineer Practice test](https://www.udemy.com/course/google-professional-cloud-devops-engineer-practice-test/?couponCode=45B7E52C76768D4736A8)
+[Google Cloud Professional Cloud Security Engineer Exam](https://www.udemy.com/course/google-cloud-professional-cloud-security-engineer-exam-o/?couponCode=518C870377C2FAECB47C)
+[Cyber Security: Common Attacks](https://www.udemy.com/course/cyber-security-common-attacks/?couponCode=PIEDAY)
+[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=PIEDAY)
+[Public Relations: Media Crisis Communications](https://www.udemy.com/course/crisis-communications-how-to-survive-a-crisis-in-the-media/?couponCode=THANKS021)
+[You Can Deliver a TED-Style Talk Presentation (Unofficial)](https://www.udemy.com/course/how-to-give-a-ted-talk/?couponCode=THANKS021)
+[Best of SEO: #1 SEO Training & Content Marketing Course 2023](https://www.udemy.com/course/seo-training-2021/?couponCode=TIGERJANUARY2)
 
