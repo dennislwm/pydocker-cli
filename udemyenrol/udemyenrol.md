@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/01/2023
+# Daily Free Udemy Courses - 25/01/2023
 
-[Administration of Red Hat Linux Practice Test 1: Essentials](https://www.udemy.com/course/administration-of-red-hat-linux-practice-test-1-essentials/?couponCode=AA8589ED7685AE43CB7C)
-[DealCloser MasterClass with Tony Reed](https://www.udemy.com/course/the-real-estate-mastery-course/?couponCode=A04B8A991189F2575501)
-[Self Publish Coloring Books on Amazon for Passive Income](https://www.udemy.com/course/self-publish-coloring-books-on-amazon-for-passive-income/?couponCode=NEWYEAR2023)
-[Master Course in Business Fundamentals and Development](https://www.udemy.com/course/business-fundamentals-business-development-business-management/?couponCode=F4BE56AFA9B07A69D8F9)
-[Learn Unity’s New UI Tools](https://www.udemy.com/course/learn-unitys-new-ui-tools/?couponCode=UNITY_FREE)
-[Google Professional Cloud DevOps Engineer Practice test](https://www.udemy.com/course/google-professional-cloud-devops-engineer-practice-test/?couponCode=45B7E52C76768D4736A8)
-[Google Cloud Professional Cloud Security Engineer Exam](https://www.udemy.com/course/google-cloud-professional-cloud-security-engineer-exam-o/?couponCode=518C870377C2FAECB47C)
-[Cyber Security: Common Attacks](https://www.udemy.com/course/cyber-security-common-attacks/?couponCode=PIEDAY)
-[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=PIEDAY)
-[Public Relations: Media Crisis Communications](https://www.udemy.com/course/crisis-communications-how-to-survive-a-crisis-in-the-media/?couponCode=THANKS021)
-[You Can Deliver a TED-Style Talk Presentation (Unofficial)](https://www.udemy.com/course/how-to-give-a-ted-talk/?couponCode=THANKS021)
-[Best of SEO: #1 SEO Training & Content Marketing Course 2023](https://www.udemy.com/course/seo-training-2021/?couponCode=TIGERJANUARY2)
+[Ethical capitalism](https://www.udemy.com/course/quakernomics/?couponCode=ETHICALECONOMICS)
+[Modern Business English](https://www.udemy.com/course/modern-business-english/?couponCode=BUSINESSENGLISH23)
+[Learn Unity’s New UI Tools](https://www.udemy.com/course/learn-unitys-new-ui-tools/?couponCode=UNITY_FREE2)
+[Managing Fear Of Failure, and Rejection Mindfully](https://www.udemy.com/course/managing-fear-of-failure-and-rejection-judgements-mindfully/?couponCode=MINDFULLYMANAGE)
+[Machine Learning- From Basics to Advanced](https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/?couponCode=FREEJAN132)
+[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=BE877360AC94467C5F93)
+[AWS Certified Developer Associate practice exams (updated)](https://www.udemy.com/course/aws-developer-associate-practice-exams-updated/?couponCode=DBA1E018A41233593E1C)
+[Learn by doing: design parts with Solidworks](https://www.udemy.com/course/intensive-solidworks-training-learn-by-doing/?couponCode=BD84863822B468F0C4B7)
+[The Ultimate Craft Design Orgonite Course.](https://www.udemy.com/course/ultimatecraft/?couponCode=BESTCOURSE)
+[Learn Just Enough Laravel to Get Started as a Web Developer](https://www.udemy.com/course/just-enough-laravel/?couponCode=EA78C8F29754993D04BE)
+[PHP with MySQL 2023: Build Real Estate Management System](https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE23)
+[English grammar tenses made easy](https://www.udemy.com/course/english-grammar-tenses-made-easy/?couponCode=939F2BF43E7688A0AD36)
 
