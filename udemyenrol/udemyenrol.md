@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 26/01/2023
+# Daily Free Udemy Courses - 27/01/2023
 
 [Ethical capitalism](https://www.udemy.com/course/quakernomics/?couponCode=ETHICALECONOMICS)
 [Modern Business English](https://www.udemy.com/course/modern-business-english/?couponCode=BUSINESSENGLISH23)
