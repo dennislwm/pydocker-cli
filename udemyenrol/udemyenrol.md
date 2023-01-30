@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/01/2023
+# Daily Free Udemy Courses - 30/01/2023
 
-[Master Persuasion & Influence: Hypnotic Communication Skills](https://www.udemy.com/course/master-persuasion-influence-hypnotic-communication-skills/?couponCode=COURSE_FOLDER_FREE)
-[How to Have Difficult Conversations: Conflict Management](https://www.udemy.com/course/how-to-have-difficult-conversations-conflict-management/?couponCode=COURSE_FOLDER_FREE)
-[Train the Trainer](https://www.udemy.com/course/train-the-trainer-k/?couponCode=MSGTRAINFREE)
-[How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=021C653F5BD3D78F543E)
-[The 6 Tiny Habits that Beat Procrastination](https://www.udemy.com/course/the-6-tiny-habits-that-beat-procrastination/?couponCode=A346288433C10B1E35F1)
-[Restaurant Food Photography](https://www.udemy.com/course/restaurant-food-photography/?couponCode=FREE1000)
-[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_JAN233)
-[Fully Accredited Certification in Ho’oponopono & Forgiveness](https://www.udemy.com/course/hooponopono-forgiveness-certification-course-diploma-accredited-course/?couponCode=GIFT-JAN-2023)
-[MongoDB, Express, React, Node, Angular (MEAN/MERN) – 5 in 1](https://www.udemy.com/course/mongodb-express-react-node-angular-mean-mern-stack-5-in-1-course/?couponCode=COURSEFOLDER)
-[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=595224391436BF994A3A)
-[Machine Learning Practice Tests and Interview Questions](https://www.udemy.com/course/machine-learning-practice-tests-and-interview-questions/?couponCode=COURSEFOLDER)
-[Microsoft Power BI Practice Tests and Interview Questions](https://www.udemy.com/course/microsoft-power-bi-practice-tests-and-interview-questions/?couponCode=COURSEFOLDER)
+[Cisco Certified Network Associate (CCNA) Practice test](https://www.udemy.com/course/cisco-certified-network-associate-ccna-practice-test/?couponCode=564D83B5BB9C6A36A12F)
+[ITIL4 Foundation Practice test – Exam](https://www.udemy.com/course/itil4-foundation-practice-test-exam/?couponCode=A916C98BBA429A41076F)
+[AWS Certified Advanced Networking – Specialty Practice test](https://www.udemy.com/course/aws-certified-advanced-networking-specialty-practice-test-s/?couponCode=AFA04F8F629436D1054A)
+[PL-900: Microsoft Power Platform Fundamentals Practice Test](https://www.udemy.com/course/pl-900-microsoft-power-platform-fundamentals-practice-test-m/?couponCode=811CE352A15F1B158ABF)
+[Streamlit Bootcamp](https://www.udemy.com/course/streamlit-bootcamp/?couponCode=CACD92AD40F37A4E8BD9)
+[Practical CSS3 Mastery Course](https://www.udemy.com/course/practical-css3-mastery-course/?couponCode=FC4D482C11B890589841)
+[Git Command Line for Beginners](https://www.udemy.com/course/git-command-line-for-beginners/?couponCode=CODENEWBIES)
+[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=16F960F972798D6B3ABC)
+[FAA part 107 Remote Pilot Test Preparation Course](https://www.udemy.com/course/faa-part-107-bootcamp-for-beginner-test-prep-for-drone-pilot/?couponCode=1C3B06C5272CAD170DBF)
+[Hardening Ubuntu Server](https://www.udemy.com/course/hardening-ubuntu-server/?couponCode=AUSTRALIA)
+[Linux Command Line](https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=LINUXNIEWBIE)
+[AZ-400 Designing Implementing Microsoft DevOps Solution Test](https://www.udemy.com/course/az-400-designing-implementing-microsoft-devops-solution-test/?couponCode=1D67167D9715320FD5AF)
 
