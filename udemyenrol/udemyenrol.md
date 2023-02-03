@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/02/2023
+# Daily Free Udemy Courses - 03/02/2023
 
-[Microsoft Clarity for Web Analytics : A-Z Complete Tutorial](https://www.udemy.com/course/microsoft-clarity-for-website-analytics-a-to-z-complete-tutorial/?couponCode=COURSEFOLDER)
-[Convolutional Neural Networks: Deep Learning](https://www.udemy.com/course/convolutional-neural-networks-deep-learning/?couponCode=3713FE830C9E5DBC494B)
-[Fast Track Your Career to Become an IT Leader and CIO](https://www.udemy.com/course/fast-track-your-career-to-become-an-it-leader-and-cio/?couponCode=3064250D4F4952BD4CA0)
-[Concepts of Operating Systems](https://www.udemy.com/course/concepts-of-operating-systems/?couponCode=5B428FAEC7784DD6DF3C)
-[Cloud Computing and Cloud Strategies – Course by a CIO](https://www.udemy.com/course/cloud-computing-and-cloud-strategies-course-by-a-cio/?couponCode=BF0180054517AC827536)
-[2022-Basics of SQL using PostgreSQL](https://www.udemy.com/course/2022-basics-of-sql-using-postgresql/?couponCode=FEB2023_1)
-[Data Analytics for Managers – Course by a CIO](https://www.udemy.com/course/data-analytics-for-managers-course-by-a-cio/?couponCode=E0336483F97279A184DE)
-[Master the Strategy Language for your IT Leadership Career](https://www.udemy.com/course/master-the-strategy-language-for-your-it-leadership-career/?couponCode=19529A0AE7620B1A33EF)
-[Artificial Intelligence and Machine Learning for Managers](https://www.udemy.com/course/artificial-intelligence-and-machine-learning-for-managers/?couponCode=825797CE3752104D15F9)
-[Agile Frameworks and Enterprise Agility – For Leaders](https://www.udemy.com/course/agile-frameworks-scrum-kanban-devops-safe-and-more/?couponCode=BF00AF3F53E5AD6A7638)
-[Automation (RPA) and IoT Fundamentals for Leaders : 2-in-1](https://www.udemy.com/course/automation-rpa-and-internet-of-things-iot-2-in-1/?couponCode=11C602499E54068283AA)
-[Python3: From Beginner to Pro](https://www.udemy.com/course/python-three-from-beginner-to-pro/?couponCode=FEB2023_1)
+[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=5F20F6E3164D8F4EC87F)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=177B37DB5C1F858B41A8)
+[Python Mastery: 4 Proven Practice Tests for Exam Success](https://www.udemy.com/course/python-mastery-4-proven-practice-tests-for-exam-success/?couponCode=4AADF626A2B2FC2DA97C)
+[WhatsApp Business Mastery Course](https://www.udemy.com/course/whatsapp-business-mastery-course-x/?couponCode=WHATSAPPBUSINESS)
+[ChatGPT for SEO: Harnessing the Potential of AI for SEO 2023](https://www.udemy.com/course/chatgpt-for-seo-harnessing-the-potential-of-ai-for-seo-2023/?couponCode=100OFFF)
+[Build Responsive Real World Portfolio WordPress Website](https://www.udemy.com/course/build-responsive-real-world-portfolio-wordpress-website/?couponCode=FREE1000COM)
+[Introduction to C Programming](https://www.udemy.com/course/intro-c-programming/?couponCode=FEB2_FREE)
+[Reverse Engineering 5: Reversing Visual Basic](https://www.udemy.com/course/reverse-engineering-visual-basic/?couponCode=FEB2_FREE)
+[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=FEBRUARRY)
+[Primavera P6 Training – For Beginners](https://www.udemy.com/course/oracle-primavera-p6-project-planning-and-scheduling-training/?couponCode=214524BDABB29AC3E376)
+[ChatGPT : The Complete Bootcamp for Beginner With Practical](https://www.udemy.com/course/chatgpt-the-complete-bootcamp-for-beginner-with-practical/?couponCode=CHATGPTFREE)
+[Wondershare Filmora X 11 /12 Pro Complete Video Editing 2023](https://www.udemy.com/course/wondershare-filmora-x-11-12-pro-complete-video-editing-2023/?couponCode=53FB944F224EC34AB096)
 
