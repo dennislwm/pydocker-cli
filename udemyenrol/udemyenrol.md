@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/02/2023
+# Daily Free Udemy Courses - 06/02/2023
 
-[AZ-900: Microsoft Azure Fundamentals – Exam Cram](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-cram/?couponCode=FEB2023OFFER)
-[Become Master of Programming and it Concepts & Fundamentals](https://www.udemy.com/course/become-master-of-programming-and-it-concepts-funtamentals/?couponCode=3E15C6EEEA55D23033F9)
-[Advance Drag and Drop Uploading System with Cropping Feature](https://www.udemy.com/course/addvanced-drag-and-drop-uploader-and-cropping-system/?couponCode=9D9356124F0114B2B54E)
-[Ethical Hacking: Eternalblue](https://www.udemy.com/course/ethical-hacking-eternalblue/?couponCode=ICECREAMBREAKFAST)
-[Build Your Own FREE AI Art Generator for Unlimited Images](https://www.udemy.com/course/build-your-own-free-ai-art-generator/?couponCode=FREEART3)
-[Ubuntu Linux for beginners](https://www.udemy.com/course/ubuntu-linux-for-beginners/?couponCode=ICECREAMBREAKFAST)
-[Linux Terminal for beginners](https://www.udemy.com/course/linux-terminal-for-beginners/?couponCode=ICECREAMBREAKFAST)
-[Information Security Fundamentals](https://www.udemy.com/course/infosec-fundamentals/?couponCode=FEBRUARRY)
-[Computer Networks Fundamentals](https://www.udemy.com/course/computer-networks-fundamentals/?couponCode=FEBRUARRY)
-[Mitsubishi PLC Programming from Scratch – GX Developer](https://www.udemy.com/course/mitsubishi-plc-in-2hours/?couponCode=FREE-FEB-FIRST-WEEK)
-[Bootstrap 5 Essentials: A Comprehensive Guide 2023](https://www.udemy.com/course/bootstrap-5-beginner-to-advance-with-responsive-website-design/?couponCode=LEARN-BOOTSTRAP)
-[Digital Transformation Roadmap For Businesses](https://www.udemy.com/course/digital-transformation-roadmap-for-businesses/?couponCode=2235125C35F87861A829)
+[How to Prepare Yourself for change!?](https://www.udemy.com/course/how-to-prepare-yourself-for-change/?couponCode=ARCUIGIVEAWAY)
+[Make Simple Games with Python](https://www.udemy.com/course/make-simple-games-with-python/?couponCode=CHOCOLATEFUNDUE)
+[Ethical Hacking: Post-Exploitation](https://www.udemy.com/course/ethical-hacking-post-exploitation/?couponCode=CHOCOLATEFUNDUE)
+[Cyber Kill Chain](https://www.udemy.com/course/cyber-kill-chain/?couponCode=CHOCOLATEFUNDUE)
+[Common English Spoken and Written mistakes 1](https://www.udemy.com/course/common-english-spoken-and-written-mistakes-1/?couponCode=ZAKIBIRTHDAY)
+[English Grammar For IELTS](https://www.udemy.com/course/english-grammar-rules-from-scratch/?couponCode=ZAKIBIRTHDAY)
+[Learn English With Movies](https://www.udemy.com/course/learn-english-with-movies/?couponCode=ZAKIBIRTHDAY)
+[American Accent and Phonetics](https://www.udemy.com/course/american-accent-pronunciation-rules-from-scratch/?couponCode=ZAKIBIRTHDAY)
+[Mastering English Punctuation](https://www.udemy.com/course/mastering-english-punctuation/?couponCode=ZAKIBIRTHDAY)
+[Proofreading and Editing: common writing mistakes](https://www.udemy.com/course/proofreading-and-editing-common-writing-mistakes/?couponCode=ZAKIBIRTHDAY)
+[How to Learn English like a Pro](https://www.udemy.com/course/how-to-learn-english-like-a-pro/?couponCode=ZAKIBIRTHDAY)
+[Android App Development Kotlin Bootcamp : MobDevOpsKT+ 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=ANDROID_APP_DEV23)
 
