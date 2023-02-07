@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/02/2023
+# Daily Free Udemy Courses - 07/02/2023
 
-[How to Prepare Yourself for change!?](https://www.udemy.com/course/how-to-prepare-yourself-for-change/?couponCode=ARCUIGIVEAWAY)
-[Make Simple Games with Python](https://www.udemy.com/course/make-simple-games-with-python/?couponCode=CHOCOLATEFUNDUE)
-[Ethical Hacking: Post-Exploitation](https://www.udemy.com/course/ethical-hacking-post-exploitation/?couponCode=CHOCOLATEFUNDUE)
-[Cyber Kill Chain](https://www.udemy.com/course/cyber-kill-chain/?couponCode=CHOCOLATEFUNDUE)
-[Common English Spoken and Written mistakes 1](https://www.udemy.com/course/common-english-spoken-and-written-mistakes-1/?couponCode=ZAKIBIRTHDAY)
-[English Grammar For IELTS](https://www.udemy.com/course/english-grammar-rules-from-scratch/?couponCode=ZAKIBIRTHDAY)
-[Learn English With Movies](https://www.udemy.com/course/learn-english-with-movies/?couponCode=ZAKIBIRTHDAY)
-[American Accent and Phonetics](https://www.udemy.com/course/american-accent-pronunciation-rules-from-scratch/?couponCode=ZAKIBIRTHDAY)
-[Mastering English Punctuation](https://www.udemy.com/course/mastering-english-punctuation/?couponCode=ZAKIBIRTHDAY)
-[Proofreading and Editing: common writing mistakes](https://www.udemy.com/course/proofreading-and-editing-common-writing-mistakes/?couponCode=ZAKIBIRTHDAY)
-[How to Learn English like a Pro](https://www.udemy.com/course/how-to-learn-english-like-a-pro/?couponCode=ZAKIBIRTHDAY)
-[Android App Development Kotlin Bootcamp : MobDevOpsKT+ 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=ANDROID_APP_DEV23)
+[Practical UIUX Projects-Figma](https://www.udemy.com/course/practical-uiux-projects-figma/?couponCode=DESIGNTHEWEB)
+[The Complete HTML5 Course: From Beginning to Expert](https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5FEB2023)
+[Oracle Primavera P6 Essentials Training](https://www.udemy.com/course/project-schedule-management-oracle-primavera-p6-foundations-training/?couponCode=A1673B2EE1ECE10B047A)
+[Project Development Using JAVA for Beginners – 2023](https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=05F53FA406E186B6D117)
+[Developing and Deploying Applications with Streamlit](https://www.udemy.com/course/develop_streamlit_applications/?couponCode=VALENTINESDAY)
+[Sanitation & Wastewater Treatment Explained](https://www.udemy.com/course/wastewater-treatment-explained/?couponCode=145DF6AEE5AEFC257070)
+[Adobe Photoshop CC- Basic Photoshop training](https://www.udemy.com/course/adobe-photoshop-cc-basic-photoshop-training/?couponCode=C2A2F6D4545F3E243188)
+[Master all the MS Excel Macros and the basics of Excel VBA](https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=40446FA4EE5CDD295B65)
+[Marketing Fundamentals: Introduction into Digital Marketing](https://www.udemy.com/course/digital-marketing-2024/?couponCode=LUCKYWATERRABBIT1)
+[The Polite Child ( Level One )](https://www.udemy.com/course/the-polite-child-level-one/?couponCode=003D3BC2D11612679FFB)
+[Masterclass: Conquer Unconscious Bias In Talent Acquisition!](https://www.udemy.com/course/masterclass-conquer-unconscious-bias-in-talent-acquisition/?couponCode=FREE5DAYS)
+[The Complete Typing Masterclass: Touch Typing Training](https://www.udemy.com/course/the-complete-touch-typing-masterclass-master-touch-typing/?couponCode=CBC506DB9720F18EBABE)
 
