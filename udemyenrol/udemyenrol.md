@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/02/2023
+# Daily Free Udemy Courses - 09/02/2023
 
-[HTML and CSS: A Beginner’s Guide to Web Development (2023)](https://www.udemy.com/course/html-and-css-web-development/?couponCode=E4E6DC18142045482726)
-[ChatGPT: The Ultimate Guide to YouTube Autopilot](https://www.udemy.com/course/chatgpt-the-ultimate-guide-to-youtube-autopilot/?couponCode=024042D98586CD7885A0)
-[Evidence-Based Information Security Management](https://www.udemy.com/course/metrics-and-processes-for-information-security/?couponCode=VICENTE2023)
-[Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=99EB06FFFCCC3153E56E)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/?couponCode=9EC9422A279816007A88)
-[Fundamentals of Network Security](https://www.udemy.com/course/fundamentals-of-network-security-b/?couponCode=F201271662C8D72FA18B)
-[Master Course in Hazard Analysis and Critical Control Points](https://www.udemy.com/course/haccp-hazard-analysis-and-critical-control-points-food-safety-harpc/?couponCode=9639EE3C7AAB2E28D72F)
-[Cisco Certified Network Associate (CCNA) Practice Test 2023](https://www.udemy.com/course/cisco-certified-network-associate-ccna-practice-test-2023/?couponCode=577041656488FAA35B3F)
-[Amazon AWS Certified Developer – Associate Exam](https://www.udemy.com/course/amazon-aws-certified-developer-associate-exam-n/?couponCode=6FF9275ED7DD68982060)
-[Learn Python Programming : Step By Step Guide for Beginners](https://www.udemy.com/course/python-programming-for-beginners-easily/?couponCode=CBA05834095EE2F593DC)
-[Programming with C++ Language: The Complete Course](https://www.udemy.com/course/programmingwithcpluspluslanguage/?couponCode=A89262247A6FE9FE61B1)
-[Data Visualization using Matplotlib & Plotly(Python Library)](https://www.udemy.com/course/data-visualizaion-using-matplotlib-plotly-python-library/?couponCode=AE2D923F6DA3AAFF6E30)
+[Salesforce Tableau CRM & Einstein Discovery Consultant Exam](https://www.udemy.com/course/salesforce-tableau-crm-einstein-discovery-consultant-exam-h/?couponCode=91EC7441BAD906F10E00)
+[PRINCE 2 Foundation Practice test – Exam](https://www.udemy.com/course/prince-2-foundation-practice-test-exam/?couponCode=E8A65066315A40207449)
+[Salesforce Certified Platform Developer I Exam/Test 2022](https://www.udemy.com/course/salesforce-certified-platform-developer-i-test/?couponCode=69BF0FBB6D9AD36B19D1)
+[ITIL4 Foundation Practice test – Exam](https://www.udemy.com/course/itil4-foundation-practice-test-exam/?couponCode=5346580530252E838C59)
+[ServiceNow Certified Application Developer Exam Tests 2023](https://www.udemy.com/course/servicenow-certified-application-developer-exam-tests-2023/?couponCode=CD19F36226A50E2733E8)
+[Full-Stack Web Development with React and MongoDB](https://www.udemy.com/course/full-stack-web-development-with-react-and-mongodb/?couponCode=404B6D75221A4ECFC5D6)
+[JAVA 8: Zero To Hero with Lambdas & Streams](https://www.udemy.com/course/java-8-zero-to-hero-with-lambda-stream/?couponCode=7F99C022A8EEC604A646)
+[Primavera P6 Complete Course of Project Planning 2022](https://www.udemy.com/course/primavera-p6-complete-course-of-project-planning-2020/?couponCode=FEB2023)
+[Freelance Consulting – The 1-Hour Course for Beginners](https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=EC81918F49002C932E98)
+[The Complete PowerPoint Design and Delivery Course for 2023](https://www.udemy.com/course/the-complete-powerpoint-design-and-delivery-course/?couponCode=B4F76291ED8750C28967)
+[Interview Essentials – Master Your Interview Essentials Now](https://www.udemy.com/course/interview-essentials-master-your-interview-essentials-now/?couponCode=1BA1DF3EA763B050F89D)
+[HTML and CSS for Beginners From Basic to Advance](https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=FF03AE819E744D63A8E1)
 
