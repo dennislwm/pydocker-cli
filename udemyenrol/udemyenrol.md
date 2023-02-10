@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/02/2023
+# Daily Free Udemy Courses - 10/02/2023
 
-[Salesforce Tableau CRM & Einstein Discovery Consultant Exam](https://www.udemy.com/course/salesforce-tableau-crm-einstein-discovery-consultant-exam-h/?couponCode=91EC7441BAD906F10E00)
-[PRINCE 2 Foundation Practice test – Exam](https://www.udemy.com/course/prince-2-foundation-practice-test-exam/?couponCode=E8A65066315A40207449)
-[Salesforce Certified Platform Developer I Exam/Test 2022](https://www.udemy.com/course/salesforce-certified-platform-developer-i-test/?couponCode=69BF0FBB6D9AD36B19D1)
-[ITIL4 Foundation Practice test – Exam](https://www.udemy.com/course/itil4-foundation-practice-test-exam/?couponCode=5346580530252E838C59)
-[ServiceNow Certified Application Developer Exam Tests 2023](https://www.udemy.com/course/servicenow-certified-application-developer-exam-tests-2023/?couponCode=CD19F36226A50E2733E8)
-[Full-Stack Web Development with React and MongoDB](https://www.udemy.com/course/full-stack-web-development-with-react-and-mongodb/?couponCode=404B6D75221A4ECFC5D6)
-[JAVA 8: Zero To Hero with Lambdas & Streams](https://www.udemy.com/course/java-8-zero-to-hero-with-lambda-stream/?couponCode=7F99C022A8EEC604A646)
-[Primavera P6 Complete Course of Project Planning 2022](https://www.udemy.com/course/primavera-p6-complete-course-of-project-planning-2020/?couponCode=FEB2023)
-[Freelance Consulting – The 1-Hour Course for Beginners](https://www.udemy.com/course/freelance-consulting-the-1-hour-course-for-beginners/?couponCode=EC81918F49002C932E98)
-[The Complete PowerPoint Design and Delivery Course for 2023](https://www.udemy.com/course/the-complete-powerpoint-design-and-delivery-course/?couponCode=B4F76291ED8750C28967)
-[Interview Essentials – Master Your Interview Essentials Now](https://www.udemy.com/course/interview-essentials-master-your-interview-essentials-now/?couponCode=1BA1DF3EA763B050F89D)
-[HTML and CSS for Beginners From Basic to Advance](https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=FF03AE819E744D63A8E1)
+[Microsoft AZ-400 Practice Exam Tests 2023](https://www.udemy.com/course/microsoft-az-400-practice-exam-tests-2023/?couponCode=C2BEC264CD77C7B1582A)
+[GCP: Google Cloud Digital Leader Practice Exams [2023 New]](https://www.udemy.com/course/gcp-google-cloud-digital-leader-practice-exams-en/?couponCode=17D0242A87D085B1FE87)
+[Microsoft Data Analysis using Excel Pivot Tables & Charts](https://www.udemy.com/course/excel-data-analysis-using-pivot-tables-pivot-charts/?couponCode=FEBSPL)
+[[2023] Create a Business Plan: From A to Z with Templates](https://www.udemy.com/course/2022-create-a-business-plan-from-a-to-z-with-templates/?couponCode=92EB9D0E14CB45C58839)
+[Earning Money with ChatGPT and Midjourney: 12 Easy Ways 2023](https://www.udemy.com/course/chatgpt-and-midjourney/?couponCode=FREE1000)
+[Adobe Audition Projects Guide](https://www.udemy.com/course/adobe-audition-projects/?couponCode=FREE223G1S1)
+[Adobe Audition Ultimate Guide](https://www.udemy.com/course/adobe-audition-cc-2020-master-course/?couponCode=FREE223G1S1)
+[Adobe Bridge Basics Guide](https://www.udemy.com/course/learn-basic-adobe-bridge/?couponCode=FREE223G1S1)
+[Adobe Color Basics Guide](https://www.udemy.com/course/learn-adobe-color/?couponCode=FREE223G1S1)
+[Excel Mastery: 4 Proven Practice Tests for Exam Success 2023](https://www.udemy.com/course/excel-mastery-4-proven-practice-tests-for-exam-success-2023/?couponCode=26F6644825B388E91905)
+[Adobe Dimension Basics Guide](https://www.udemy.com/course/learn-basic-dimension/?couponCode=FREE223G1S1)
+[Swing Trading Strategy For Beginners [Full Course]](https://www.udemy.com/course/swing-trading-strategy-for-beginners-full-course/?couponCode=87B035F8132E6CD75134)
 
