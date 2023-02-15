@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/02/2023
+# Daily Free Udemy Courses - 15/02/2023
 
-[learn German – simply through music](https://www.udemy.com/course/learn_german/?couponCode=CF0ECDFD80A36BED9195)
-[Practical Next.js & React – Build a real WebApp with Next.js](https://www.udemy.com/course/practical-nextjs/?couponCode=FBAA49B2B894AAEA79BB)
-[SQL for Developers, Data Analysts and BI. MySQL for everyone](https://www.udemy.com/course/mysql-for-everyone/?couponCode=DE5384073B0F3C3234A1)
-[Hands-On React. Build advanced React JS Frontend with expert](https://www.udemy.com/course/hands-on-reactjs/?couponCode=53B9A17CC545769543F0)
-[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=2C3A1916C43C58E3833F)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=FA1846598F66C9CFDF5E)
-[General bacteriology a concise course](https://www.udemy.com/course/general-bacteriology-a-concise-course/?couponCode=0B4DB4CE35DB877C5330)
-[Master Persuasion & Influence: Hypnotic Communication Skills](https://www.udemy.com/course/master-persuasion-influence-hypnotic-communication-skills/?couponCode=FEB_2023_FREE_NOW)
-[Create High-Converting Sales Funnels with ChatGPT in 2023](https://www.udemy.com/course/create-high-converting-sales-funnels-with-chatgpt-in-2023-course/?couponCode=7DA471A3BD273DE90E45)
-[Basic Course To GST (Goods And Service Tax)](https://www.udemy.com/course/basic-course-to-gst-hindi/?couponCode=THIRTEENTHPROMO)
-[CompTIA A+ |220-1001 – 220-1002| Practice Test](https://www.udemy.com/course/comptia-a-220-1001-220-1002-practice-test/?couponCode=002BACFD9B68ACA8CE1E)
-[Google Cloud Digital Leader Test 2023](https://www.udemy.com/course/google-cloud-digital-leader-test-2023/?couponCode=E2DB6644B09D60F2D285)
+[Java Preparatory Test/Exam Questions For IT Job Interviews](https://www.udemy.com/course/java-preparatory-testexam-questions-for-it-job-interviews/?couponCode=999FEB2023)
+[Cloud Digital Leader Test Exams | English](https://www.udemy.com/course/cloud-digital-leader-test-exams/?couponCode=F08E4A313609D25D914B)
+[Bootstrap 5 Course: Build Responsive Websites like a Pro](https://www.udemy.com/course/bootstrap5-website/?couponCode=VALENT-DEALS)
+[Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://www.udemy.com/course/learn-tailwind-css-quickly/?couponCode=VALENT-DEALS)
+[React.JS Crash Course: The Complete Course for Beginners](https://www.udemy.com/course/reactjs-the-complete-course-for-beginners/?couponCode=VALENT-DEALS)
+[2023 Aliexpress & Shopify Dropshipping Mastery: Naruto Store](https://www.udemy.com/course/dropshipping-w-aliexpress-shopify-in-2023-naruto-store-course/?couponCode=ALIEXPRESSDROPSHIP23)
+[Public Speaking Emergency! Ace the Speech With Little Prep](https://www.udemy.com/course/emergency-speech-preparation-last-minute-presentation-tips/?couponCode=THANKS013)
+[The C++ Course : Whole New Learning Experience with C++ | CP](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=CPP_OCSALY_ACADEMY)
+[ChatGPT: The Secret to Upwork and Fiverr Freelancing Success](https://www.udemy.com/course/chatgpt-the-secret-to-upwork-and-fiverr-freelancing-success/?couponCode=0D27B8D5803963228CFE)
+[The Trinity Acting Method](https://www.udemy.com/course/the-trinity-acting-method/?couponCode=971C184F29D33FDEA2CB)
+[Learn Illustrator CC: Create Simple Flat Vector Characters](https://www.udemy.com/course/simple-flat-vector-characters/?couponCode=A188807B088CA8A10F66)
+[Complete WordPress Website Developer Course](https://www.udemy.com/course/the-complete-wordpress-developer-course-w/?couponCode=709F9CC9204B93AEE471)
 
