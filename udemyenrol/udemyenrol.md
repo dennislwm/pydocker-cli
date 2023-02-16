@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/02/2023
+# Daily Free Udemy Courses - 16/02/2023
 
-[Java Preparatory Test/Exam Questions For IT Job Interviews](https://www.udemy.com/course/java-preparatory-testexam-questions-for-it-job-interviews/?couponCode=999FEB2023)
-[Cloud Digital Leader Test Exams | English](https://www.udemy.com/course/cloud-digital-leader-test-exams/?couponCode=F08E4A313609D25D914B)
-[Bootstrap 5 Course: Build Responsive Websites like a Pro](https://www.udemy.com/course/bootstrap5-website/?couponCode=VALENT-DEALS)
-[Tailwind CSS in 1 hour: Master Tailwind CSS Quickly](https://www.udemy.com/course/learn-tailwind-css-quickly/?couponCode=VALENT-DEALS)
-[React.JS Crash Course: The Complete Course for Beginners](https://www.udemy.com/course/reactjs-the-complete-course-for-beginners/?couponCode=VALENT-DEALS)
-[2023 Aliexpress & Shopify Dropshipping Mastery: Naruto Store](https://www.udemy.com/course/dropshipping-w-aliexpress-shopify-in-2023-naruto-store-course/?couponCode=ALIEXPRESSDROPSHIP23)
-[Public Speaking Emergency! Ace the Speech With Little Prep](https://www.udemy.com/course/emergency-speech-preparation-last-minute-presentation-tips/?couponCode=THANKS013)
-[The C++ Course : Whole New Learning Experience with C++ | CP](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=CPP_OCSALY_ACADEMY)
-[ChatGPT: The Secret to Upwork and Fiverr Freelancing Success](https://www.udemy.com/course/chatgpt-the-secret-to-upwork-and-fiverr-freelancing-success/?couponCode=0D27B8D5803963228CFE)
-[The Trinity Acting Method](https://www.udemy.com/course/the-trinity-acting-method/?couponCode=971C184F29D33FDEA2CB)
-[Learn Illustrator CC: Create Simple Flat Vector Characters](https://www.udemy.com/course/simple-flat-vector-characters/?couponCode=A188807B088CA8A10F66)
-[Complete WordPress Website Developer Course](https://www.udemy.com/course/the-complete-wordpress-developer-course-w/?couponCode=709F9CC9204B93AEE471)
+[Passive Income 5 Figures – Drop Servicing from Home 2023](https://www.udemy.com/course/passive-income-5-figures-drop-servicing-from-home-2022-course/?couponCode=44DF8C1B69E9054CAAA8)
+[Android App Development Kotlin Bootcamp : MobDevOpsKT+ 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=OCSALY.COM_ACADEMY)
+[TESOL and TPRS Course (For Language Teachers)](https://www.udemy.com/course/tesol-and-tprs-course-/?couponCode=70E590C9045C851FB1E3)
+[Understand research in nutrition & fitness for health coach](https://www.udemy.com/course/understand-research-in-nutrition-fitness-for-health-coach/?couponCode=LAUNCH-1000)
+[Java And C++ Complete Course for Beginners 2022](https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=A9783D213F3E63DBC630)
+[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=5E6E7B5DF5AA475EAF4C)
+[Leadership & Management Skills: 10 Leadership Courses In 1](https://www.udemy.com/course/leadership-management-skills/?couponCode=DB4E442324FAEB2F3291)
+[DevOps Fundamentals](https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEFEB115)
+[React JS- Complete Guide for Frontend Web Development [2023]](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEFEB118)
+[(CASP+) CompTIA Adv Security Practitioner CAS-004 Exam Test](https://www.udemy.com/course/casp-comptia-adv-security-practitioner-exam-test/?couponCode=EDF46C2E6FE3D62C1D53)
+[Python Programming – From Basics to Advanced level [2023]](https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEFEB119)
+[How To Design A Great Movie Poster That Works](https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=FEBGLORY)
 
