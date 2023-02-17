@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/02/2023
+# Daily Free Udemy Courses - 17/02/2023
 
-[Passive Income 5 Figures – Drop Servicing from Home 2023](https://www.udemy.com/course/passive-income-5-figures-drop-servicing-from-home-2022-course/?couponCode=44DF8C1B69E9054CAAA8)
-[Android App Development Kotlin Bootcamp : MobDevOpsKT+ 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=OCSALY.COM_ACADEMY)
-[TESOL and TPRS Course (For Language Teachers)](https://www.udemy.com/course/tesol-and-tprs-course-/?couponCode=70E590C9045C851FB1E3)
-[Understand research in nutrition & fitness for health coach](https://www.udemy.com/course/understand-research-in-nutrition-fitness-for-health-coach/?couponCode=LAUNCH-1000)
-[Java And C++ Complete Course for Beginners 2022](https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=A9783D213F3E63DBC630)
-[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=5E6E7B5DF5AA475EAF4C)
-[Leadership & Management Skills: 10 Leadership Courses In 1](https://www.udemy.com/course/leadership-management-skills/?couponCode=DB4E442324FAEB2F3291)
-[DevOps Fundamentals](https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEFEB115)
-[React JS- Complete Guide for Frontend Web Development [2023]](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEFEB118)
-[(CASP+) CompTIA Adv Security Practitioner CAS-004 Exam Test](https://www.udemy.com/course/casp-comptia-adv-security-practitioner-exam-test/?couponCode=EDF46C2E6FE3D62C1D53)
-[Python Programming – From Basics to Advanced level [2023]](https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEFEB119)
-[How To Design A Great Movie Poster That Works](https://www.udemy.com/course/how-to-design-a-great-movie-poster-that-works/?couponCode=FEBGLORY)
+[Time Management Mastery – Boost Productivity and Save Time](https://www.udemy.com/course/time-management-mastery-boost-productivity-and-save-time/?couponCode=7A226581B9602779100C)
+[Remote Work Success: Earn More – Work Less – Live More](https://www.udemy.com/course/remote-work-success/?couponCode=6936B1C9EC0AFD9800E7)
+[Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://www.udemy.com/course/google-ads-2022/?couponCode=LUCKYWATERRABBIT2)
+[Master Electric circuits, part 1-DC Circuits](https://www.udemy.com/course/master-electric-circuits-part-1-dc-circuits/?couponCode=2E8093A85E90A3756B99)
+[Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023](https://www.udemy.com/course/e-commerce-seo-2023/?couponCode=LUCKYWATERRABBIT2)
+[Tally Erp 9 + Tally Prime + GST 2023 – Certificate Course](https://www.udemy.com/course/tallygst/?couponCode=TRAINERGIFTFEB23)
+[The BEST Cryptocurrency Course for ALL Levels (2023)](https://www.udemy.com/course/best-cryptocurrency-course/?couponCode=6804A752217F6CFCF3A6)
+[Preparation to Java Technical Interview – Java Core, Java EE](https://www.udemy.com/course/java-interview-learnit/?couponCode=40BDD978ED9FCA1AC57F)
+[How to Get UpWork Clients (2020 And Beyond)](https://www.udemy.com/course/how-to-get-upwork-clients-2020-and-beyond/?couponCode=19DFE4DBA87EA64AFBF8)
+[Advanced Strategies to Secure Better UpWork Clients](https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=B2D4D9D9A6DCC6E92DE9)
+[Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/?couponCode=EF1A3585473189645213)
+[Webservices API Testing with Postman – Complete Guide](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=7591A50DE5FA9BFAE1B2)
 
