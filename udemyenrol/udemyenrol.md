@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/02/2023
+# Daily Free Udemy Courses - 18/02/2023
 
-[Time Management Mastery – Boost Productivity and Save Time](https://www.udemy.com/course/time-management-mastery-boost-productivity-and-save-time/?couponCode=7A226581B9602779100C)
-[Remote Work Success: Earn More – Work Less – Live More](https://www.udemy.com/course/remote-work-success/?couponCode=6936B1C9EC0AFD9800E7)
-[Google Ads, YouTube Ads, Bing Ads & Google Retargeting Guide](https://www.udemy.com/course/google-ads-2022/?couponCode=LUCKYWATERRABBIT2)
-[Master Electric circuits, part 1-DC Circuits](https://www.udemy.com/course/master-electric-circuits-part-1-dc-circuits/?couponCode=2E8093A85E90A3756B99)
-[Write 2 Sell: 28 Copywriting Templates & Ecommerce SEO 2023](https://www.udemy.com/course/e-commerce-seo-2023/?couponCode=LUCKYWATERRABBIT2)
-[Tally Erp 9 + Tally Prime + GST 2023 – Certificate Course](https://www.udemy.com/course/tallygst/?couponCode=TRAINERGIFTFEB23)
-[The BEST Cryptocurrency Course for ALL Levels (2023)](https://www.udemy.com/course/best-cryptocurrency-course/?couponCode=6804A752217F6CFCF3A6)
-[Preparation to Java Technical Interview – Java Core, Java EE](https://www.udemy.com/course/java-interview-learnit/?couponCode=40BDD978ED9FCA1AC57F)
-[How to Get UpWork Clients (2020 And Beyond)](https://www.udemy.com/course/how-to-get-upwork-clients-2020-and-beyond/?couponCode=19DFE4DBA87EA64AFBF8)
-[Advanced Strategies to Secure Better UpWork Clients](https://www.udemy.com/course/advanced-strategies-to-secure-better-upwork-clients/?couponCode=B2D4D9D9A6DCC6E92DE9)
-[Software Architecture and Clean Code Design in OOP](https://www.udemy.com/course/software-architecture-learnit/?couponCode=EF1A3585473189645213)
-[Webservices API Testing with Postman – Complete Guide](https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=7591A50DE5FA9BFAE1B2)
+[Emotional Intelligence 2 – Confidence and Career Mastery](https://www.udemy.com/course/emotional-intelligence-confidence/?couponCode=EI2CACMEXPFEB222023)
+[How to Make Electronic Music with Ableton](https://www.udemy.com/course/how-to-make-electronic-music-with-ableton/?couponCode=01C40C550AC8D472D28A)
+[MAKE MONEY FROM HOME WRITING WORDS (Copywriting Course)](https://www.udemy.com/course/learn-copywriting/?couponCode=E60A355059588AD9B389)
+[Forex and Commodity Trading Masterclass](https://www.udemy.com/course/forex-and-commodity-trading-masterclass/?couponCode=F923DE891D2059B2C05C)
+[Flutter SQLite Database with full project](https://www.udemy.com/course/flutter-sqlite-database-full-project/?couponCode=2FCE93B38CE28DF19069)
+[Recon for bug bounty, penetration testers & ethical hackers](https://www.udemy.com/course/recon-for-bug-bounty-penetration-testers-ethical-hackers/?couponCode=C0B5BDA4179E39A06FA0)
+[Learn Creational Design Patterns in Java](https://www.udemy.com/course/creationalpatternsinjava/?couponCode=SPRINGBOOT2023)
+[AZ-104 – Microsoft Azure Hands On Labs](https://www.udemy.com/course/az-104-microsoft-azure-hands-on-labs/?couponCode=3667D403E73F5746776C)
+[The Ultimate Sleeping Course (Sleep good & Cure Insomnia)](https://www.udemy.com/course/sleeping-insomnia/?couponCode=SLEEP1111)
+[Streamlit Bootcamp](https://www.udemy.com/course/streamlit-bootcamp/?couponCode=0CCE17AF525E38743DA1)
+[Social Media for Nonprofits 101: Developing Your Content](https://www.udemy.com/course/social-media-foundations-for-nonprofits/?couponCode=FIVERRTEST)
+[Grassroots Fundraising 101](https://www.udemy.com/course/grassroots-fundraising-101/?couponCode=FIVERRTEST)
 
