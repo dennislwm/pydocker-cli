@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/02/2023
+# Daily Free Udemy Courses - 20/02/2023
 
-[Complete guide for Aronium Point of Sale : Free & Best POS](https://www.udemy.com/course/complete-guide-for-aronium-point-of-sale-free-best-pos/?couponCode=AROFEB20)
-[Passive Income Mastery: Achieve Financial Independence Now](https://www.udemy.com/course/passive-income-mastery-achieve-financial-independence-now/?couponCode=80CA44D0B2BE91FDFA9D)
-[Amazon AWS-SysOps Administrator Practice Test 2022](https://www.udemy.com/course/amazon-aws-sysops-administrator-practice-test-2022/?couponCode=7DFFBDF8AF65498C2D76)
-[Six Sigma in Era of Artificial Intelligence & Industry 4.0](https://www.udemy.com/course/sixsigmamachinelearning/?couponCode=586EE8ACA6FF7E827C41)
-[Remote Sales Over Zoom, Skype, Phone, Or Teleconference](https://www.udemy.com/course/remote-sales/?couponCode=71CE2ACAED6A0D8BA7AC)
-[Applying Scrum: Mastering the Agile Scrum Framework](https://www.udemy.com/course/applying-scrum/?couponCode=FREE-GIFT-FEB23)
-[The BEST Bitcoin Trading Course for ALL Levels! (2023)](https://www.udemy.com/course/best-bitcoin-trading-course/?couponCode=52636D7DCA934AF93683)
-[Learn Java Fundamentals for Beginners](https://www.udemy.com/course/learn-java-fundamentals-for-beginners/?couponCode=E9125074973540C91050)
-[Build Habits Using Biology And Neuroscience](https://www.udemy.com/course/build-habits-using-neuroscience/?couponCode=86B5D691421704F2E877)
-[C# Complete Master Course (Updated to C# 10)](https://www.udemy.com/course/c-sharp-complete-master-course/?couponCode=FBC4BEB3E97AC16C4348)
-[Web Hosting Basics Guide](https://www.udemy.com/course/learn-web-hosting/?couponCode=FREE223G9S2)
-[Python 3 Ultimate Guide](https://www.udemy.com/course/python-3-master-course-for-2021/?couponCode=FREE223G9S2)
+[Build A TodoList with Ruby on Rails and SolidJs](https://www.udemy.com/course/build-a-todolist-with-ruby-on-rails-and-solidjs/?couponCode=FREE_RUBY)
+[How to Create Blog On WordPress – Full A-Z Course 2023](https://www.udemy.com/course/create-blog-on-wordpress-hindi/?couponCode=6THPROMO)
+[The Anonymity Course For Beginners](https://www.udemy.com/course/anonymity/?couponCode=ANONYMOUS-9)
+[Build A TodoList with Actix-Web, Rust and SolidJs](https://www.udemy.com/course/build-a-todolist-with-actix-web-rust-and-solidjs/?couponCode=FREE_RUST)
+[Creating a Website in 1 Hour – WordPress, Elementor, & UX](https://www.udemy.com/course/creating-a-website-in-1-hour-wordpress-elementor-ux/?couponCode=5EAE10763A5F3CA50033)
+[Learn Elementor & WordPress, for Startups & Freelancers](https://www.udemy.com/course/beginner-to-expert-learn-elementor-wordpress/?couponCode=F4E7A5BDC56A4652FF94)
+[MS-900: Microsoft 365 Fundamentals Practice Exam Tests 2023](https://www.udemy.com/course/ms-900-microsoft-365-fundamentals-practice-exam-tests-2023/?couponCode=337B75DBEE0ECAED8348)
+[Amazon AWS Certified Security – Specialty Exam](https://www.udemy.com/course/aws-certified-security-specialty-exam-j/?couponCode=09E5ADE80715CA3C12F1)
+[Create a Survival Game in Javascript with Phaser 3 in 2023](https://www.udemy.com/course/create-a-survival-game-in-javascript-with-phaser-3-in-2020/?couponCode=SURVIVAL_FREE3)
+[Shopify Dropshipping 2023: The complete A-Z Masterclass](https://www.udemy.com/course/digital-dropshipping/?couponCode=FREE23)
+[Amazon Automation 2023: Resell existing products on Amazon](https://www.udemy.com/course/amazon-automation-the-new-business-strategies/?couponCode=FREE23)
+[Amazon FBA: The 2023 Business Model & Strategies](https://www.udemy.com/course/amazon-fba-the-new-business-strategies/?couponCode=FREE23)
 
