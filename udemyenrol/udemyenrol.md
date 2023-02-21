@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/02/2023
+# Daily Free Udemy Courses - 21/02/2023
 
-[Build A TodoList with Ruby on Rails and SolidJs](https://www.udemy.com/course/build-a-todolist-with-ruby-on-rails-and-solidjs/?couponCode=FREE_RUBY)
-[How to Create Blog On WordPress – Full A-Z Course 2023](https://www.udemy.com/course/create-blog-on-wordpress-hindi/?couponCode=6THPROMO)
-[The Anonymity Course For Beginners](https://www.udemy.com/course/anonymity/?couponCode=ANONYMOUS-9)
-[Build A TodoList with Actix-Web, Rust and SolidJs](https://www.udemy.com/course/build-a-todolist-with-actix-web-rust-and-solidjs/?couponCode=FREE_RUST)
-[Creating a Website in 1 Hour – WordPress, Elementor, & UX](https://www.udemy.com/course/creating-a-website-in-1-hour-wordpress-elementor-ux/?couponCode=5EAE10763A5F3CA50033)
-[Learn Elementor & WordPress, for Startups & Freelancers](https://www.udemy.com/course/beginner-to-expert-learn-elementor-wordpress/?couponCode=F4E7A5BDC56A4652FF94)
-[MS-900: Microsoft 365 Fundamentals Practice Exam Tests 2023](https://www.udemy.com/course/ms-900-microsoft-365-fundamentals-practice-exam-tests-2023/?couponCode=337B75DBEE0ECAED8348)
-[Amazon AWS Certified Security – Specialty Exam](https://www.udemy.com/course/aws-certified-security-specialty-exam-j/?couponCode=09E5ADE80715CA3C12F1)
-[Create a Survival Game in Javascript with Phaser 3 in 2023](https://www.udemy.com/course/create-a-survival-game-in-javascript-with-phaser-3-in-2020/?couponCode=SURVIVAL_FREE3)
-[Shopify Dropshipping 2023: The complete A-Z Masterclass](https://www.udemy.com/course/digital-dropshipping/?couponCode=FREE23)
-[Amazon Automation 2023: Resell existing products on Amazon](https://www.udemy.com/course/amazon-automation-the-new-business-strategies/?couponCode=FREE23)
-[Amazon FBA: The 2023 Business Model & Strategies](https://www.udemy.com/course/amazon-fba-the-new-business-strategies/?couponCode=FREE23)
+[G Professional Workspace Administrator | Practice Test 2023](https://www.udemy.com/course/google-professional-workspace-administrator-practice-tests/?couponCode=FEB-23-2)
+[Cloud Digital Leader Practice Tests 2023 | English](https://www.udemy.com/course/cloud-digital-leader-test-exams/?couponCode=FEB-23-2)
+[Google Cloud Associate Cloud Engineer Practice Tests 2023](https://www.udemy.com/course/cloud-associate-cloud-engineer-practice-tests/?couponCode=FEB-23-2)
+[Exámenes Google Associate Cloud Engineer 2023 | Español](https://www.udemy.com/course/examenes-google-associate-cloud-engineer/?couponCode=FEB-23-2)
+[The Full SEO Course 2023 (+ 20 TOP Experts Teach You Fast)](https://www.udemy.com/course/seo-course-with-top-experts/?couponCode=THE-BEST-SEO-COURSE)
+[Adobe Fonts Basics Guide](https://www.udemy.com/course/learn-adobe-fonts/?couponCode=FREE223G1S3)
+[Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners/?couponCode=668DAE27C98EAD627FC3)
+[Woo-Commerce Flower Dropshipping Masterclass- WordPress 2023](https://www.udemy.com/course/sell-flowers-online-2022-dropshipping-for-passive-income-course/?couponCode=5E0E2589E126915F5D1E)
+[Digital Marketing hacks: Behavioral Science applied](https://www.udemy.com/course/boost-digital-marketing-effectiveness-via-behavioral-science/?couponCode=F22868FD84F4261AED1C)
+[Adobe Lightroom Web Basics Guide](https://www.udemy.com/course/learn-lightroom-web/?couponCode=FREE223G2S3)
+[Adobe Lightroom Basics Guide](https://www.udemy.com/course/learn-basic-lightroom/?couponCode=FREE223G2S3)
+[Adobe Lightroom Classic Basics Guide](https://www.udemy.com/course/learn-lightroom-classic/?couponCode=FREE223G2S3)
 
