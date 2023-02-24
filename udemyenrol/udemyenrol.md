@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/02/2023
+# Daily Free Udemy Courses - 24/02/2023
 
-[CSS3 Basics Guide](https://www.udemy.com/course/learn-basic-css3/?couponCode=FREE223G4S3)
-[Cisco 350-601 (DCCOR) Certification Practice Test 2023](https://www.udemy.com/course/cisco-350-601-dccor-certification-practice-test-2023/?couponCode=83E4D64EFEC6959EFDE9)
-[CSS3 Ultimate Guide](https://www.udemy.com/course/the-complete-css-course/?couponCode=FREE223G4S3)
-[Burp Suite Basics Guide](https://www.udemy.com/course/burp-suite-course/?couponCode=FREE223G4S3)
-[Referral System – How To Create A Successful One!](https://www.udemy.com/course/referral-system-how-to-create-a-successful-one/?couponCode=FF86F5FA9EE607034262)
-[Writing Grants Applications For Nonprofit Organizations](https://www.udemy.com/course/grants-for-nonprofit-organizations/?couponCode=2514F5531800CBDBA386)
-[How To Get Substantial Seed Funding For Your Startup (Pitch)](https://www.udemy.com/course/how-to-get-seed-funding-for-your-business-idea/?couponCode=732F5609075B2B7BFDC8)
-[Apache Tomcat Basics Guide](https://www.udemy.com/course/apache-tomcat/?couponCode=FREE223G3S3)
-[Microsoft SC-900 : Practice Training Exam Tests 2023](https://www.udemy.com/course/microsoft-sc-900-practice-training-exam-tests-2023/?couponCode=3703912B1BE9B29AD1BD)
-[Computer Basics 2023: Hardware and Windows 11 Fundamentals](https://www.udemy.com/course/computer-basics-basic-computer-skills-and-fundamentals/?couponCode=FEBGIFT1)
-[Apache Web Server Basics Guide](https://www.udemy.com/course/apache-web-server/?couponCode=FREE223G3S3)
-[Chrome Extension Basics Guide](https://www.udemy.com/course/chrome-extensions-course/?couponCode=FREE223G4S3)
+[OWASP Top 10 for Docker and Kubernetes Security](https://www.udemy.com/course/owasp-top-10-for-docker-and-kubernetes-security/?couponCode=FREEKUBERNETESSEC)
+[Google Professional Cloud Network Engineer Test 2023](https://www.udemy.com/course/google-professional-cloud-network-engineer-test-2023/?couponCode=AB8A06FD51FCA7F11164)
+[Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/?couponCode=YOUACCEL41958)
+[React – Complete Developer Course with Hands-On Projects](https://www.udemy.com/course/react-complete-developer-course-with-hands-on-projects/?couponCode=YOUACCEL41958)
+[Cloud Computing Masterclass – Deployment to Administration](https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/?couponCode=YOUACCEL41958)
+[Complete JavaScript, XML, AJAX and React Bootcamp – Hands-On](https://www.udemy.com/course/complete-javascript-xml-ajax-and-react-bootcamp-hands-on/?couponCode=YOUACCEL41958)
+[Adobe Lightroom Masterclass – Beginner to Expert](https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=YOUACCEL76541)
+[Looker and Looker Studio: Google’s Data Visualization Tools](https://www.udemy.com/course/looker-and-looker-studio/?couponCode=36551F)
+[Machine Learning Basics in Hindi हिंदी – Regression Analysis](https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=B2027B)
+[HTML, CSS, & JavaScript – Certification Course for Beginners](https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL76541)
+[How to Install a Free SSL Certificate using Let’s Encrypt](https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/?couponCode=YOUACCEL41958)
+[HTML, CSS, & Bootstrap – Certification Course for Beginners](https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL41958)
 
