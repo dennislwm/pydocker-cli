@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/02/2023
+# Daily Free Udemy Courses - 25/02/2023
 
-[OWASP Top 10 for Docker and Kubernetes Security](https://www.udemy.com/course/owasp-top-10-for-docker-and-kubernetes-security/?couponCode=FREEKUBERNETESSEC)
-[Google Professional Cloud Network Engineer Test 2023](https://www.udemy.com/course/google-professional-cloud-network-engineer-test-2023/?couponCode=AB8A06FD51FCA7F11164)
-[Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/?couponCode=YOUACCEL41958)
-[React – Complete Developer Course with Hands-On Projects](https://www.udemy.com/course/react-complete-developer-course-with-hands-on-projects/?couponCode=YOUACCEL41958)
-[Cloud Computing Masterclass – Deployment to Administration](https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/?couponCode=YOUACCEL41958)
-[Complete JavaScript, XML, AJAX and React Bootcamp – Hands-On](https://www.udemy.com/course/complete-javascript-xml-ajax-and-react-bootcamp-hands-on/?couponCode=YOUACCEL41958)
-[Adobe Lightroom Masterclass – Beginner to Expert](https://www.udemy.com/course/adobe-lightroom-masterclass-beginner-to-expert/?couponCode=YOUACCEL76541)
-[Looker and Looker Studio: Google’s Data Visualization Tools](https://www.udemy.com/course/looker-and-looker-studio/?couponCode=36551F)
-[Machine Learning Basics in Hindi हिंदी – Regression Analysis](https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=B2027B)
-[HTML, CSS, & JavaScript – Certification Course for Beginners](https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL76541)
-[How to Install a Free SSL Certificate using Let’s Encrypt](https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/?couponCode=YOUACCEL41958)
-[HTML, CSS, & Bootstrap – Certification Course for Beginners](https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL41958)
+[Excel Certification Exam Preparation: 4 Practice Tests 2023](https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests/?couponCode=AFD38A3F1B555D5276EE)
+[Introduction to International Trade Finance & Trade Services](https://www.udemy.com/course/introduction-to-international-trade-finance-trade-services/?couponCode=56A72F13BDD1FDAB101B)
+[Linux Command Line](https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=DISCOVER)
+[Automate with Python](https://www.udemy.com/course/automate-with-python/?couponCode=DISCOVER)
+[Create a Movie Streaming Website and OTT App Like Netflix](https://www.udemy.com/course/movie-streaming-website-and-ott-app-like-netflix/?couponCode=328623640A577A0F58CE)
+[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=398E44F4EAA96D4EBCC8)
+[Fiverr Freelancing 2023: Sell Like The Top 1%](https://www.udemy.com/course/freelance-with-fiverr-2023-how-to-sell-on-fiverr-like-a-pro/?couponCode=E0278BB39590EEE461BB)
+[Master The Art Of Hypnotism](https://www.udemy.com/course/learn-how-to-hypnotize-anyone-in-30-seconds-or-less/?couponCode=FREEUDEMY)
+[Mastering The Python Basics 2023 Bootcamp](https://www.udemy.com/course/python-basics-2023-bootcamp/?couponCode=9BBCFE1C4F1501E26B0F)
+[MySQL for Beginners: A Complete Training for beginnners](https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/?couponCode=DBA1B815990F03F0D78F)
+[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_FEB23_3)
+[Zero to Hero in Tableau: Data Visualization using Tableau](https://www.udemy.com/course/tableau-data-visualization-starttech/?couponCode=FE23B98)
 
