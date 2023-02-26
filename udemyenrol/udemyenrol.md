@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/02/2023
+# Daily Free Udemy Courses - 26/02/2023
 
-[Excel Certification Exam Preparation: 4 Practice Tests 2023](https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests/?couponCode=AFD38A3F1B555D5276EE)
-[Introduction to International Trade Finance & Trade Services](https://www.udemy.com/course/introduction-to-international-trade-finance-trade-services/?couponCode=56A72F13BDD1FDAB101B)
-[Linux Command Line](https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=DISCOVER)
-[Automate with Python](https://www.udemy.com/course/automate-with-python/?couponCode=DISCOVER)
-[Create a Movie Streaming Website and OTT App Like Netflix](https://www.udemy.com/course/movie-streaming-website-and-ott-app-like-netflix/?couponCode=328623640A577A0F58CE)
-[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=398E44F4EAA96D4EBCC8)
-[Fiverr Freelancing 2023: Sell Like The Top 1%](https://www.udemy.com/course/freelance-with-fiverr-2023-how-to-sell-on-fiverr-like-a-pro/?couponCode=E0278BB39590EEE461BB)
-[Master The Art Of Hypnotism](https://www.udemy.com/course/learn-how-to-hypnotize-anyone-in-30-seconds-or-less/?couponCode=FREEUDEMY)
-[Mastering The Python Basics 2023 Bootcamp](https://www.udemy.com/course/python-basics-2023-bootcamp/?couponCode=9BBCFE1C4F1501E26B0F)
-[MySQL for Beginners: A Complete Training for beginnners](https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/?couponCode=DBA1B815990F03F0D78F)
-[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_FEB23_3)
-[Zero to Hero in Tableau: Data Visualization using Tableau](https://www.udemy.com/course/tableau-data-visualization-starttech/?couponCode=FE23B98)
+[ChatGPT and Your First Online Income: A Practical Course](https://www.udemy.com/course/chatgpt-and-online-income-a-practical-course/?couponCode=D43E163374E7796372E6)
+[The Cyber Security Course: End Point Protection!](https://www.udemy.com/course/ios-penetration-testing-for-ethical-hacking-course/?couponCode=D30A3774BA5952863031)
+[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSEFREE-FEB)
+[Certification Course For Web Design](https://www.udemy.com/course/web-development-crash-course-2020/?couponCode=193DFD8EFB6BEA44A38B)
+[Ethical Hacking Using Metasploit Hacking Operating System](https://www.udemy.com/course/advanced-ios-and-android-ethical-hacking-course/?couponCode=96BA8B2544003B71D477)
+[Machine Learning and AI Level Augmented Reality Experiences](https://www.udemy.com/course/augmented-reality-ar-game-development/?couponCode=EXCLUSIVE_FREE)
+[IT Fundamentals Information Technology Essentials IT Support](https://www.udemy.com/course/it-fundamentals-information-technology-essentials-it-support/?couponCode=ACBF90366EB762037F96)
+[Microsoft AZ-400 Practice Test](https://www.udemy.com/course/microsoft-az-400-practice-test-t/?couponCode=FF741CA7F6061B87B389)
+[CompTIA Linux+ XK0-004 Practice Test 2023](https://www.udemy.com/course/comptia-linux-xk0-004-practice-test-2023/?couponCode=9D8C31C97137E604D40F)
+[Build your own Automated Dustbin using Raspberry Pi 2023](https://www.udemy.com/course/build-your-own-automated-dustbin-from-scratch-using-raspberry-pi/?couponCode=FREE_4_TODAY_ONLY)
+[Information Security Fundamentals](https://www.udemy.com/course/infosec-fundamentals/?couponCode=FEBRRUARY)
+[Book Cover Designing Photoshop for Beginners](https://www.udemy.com/course/learn-professional-book-cover-designing-photoshop/?couponCode=713605CF177A13C04A33)
 
