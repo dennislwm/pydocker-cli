@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/02/2023
+# Daily Free Udemy Courses - 27/02/2023
 
-[ChatGPT and Your First Online Income: A Practical Course](https://www.udemy.com/course/chatgpt-and-online-income-a-practical-course/?couponCode=D43E163374E7796372E6)
-[The Cyber Security Course: End Point Protection!](https://www.udemy.com/course/ios-penetration-testing-for-ethical-hacking-course/?couponCode=D30A3774BA5952863031)
-[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSEFREE-FEB)
-[Certification Course For Web Design](https://www.udemy.com/course/web-development-crash-course-2020/?couponCode=193DFD8EFB6BEA44A38B)
-[Ethical Hacking Using Metasploit Hacking Operating System](https://www.udemy.com/course/advanced-ios-and-android-ethical-hacking-course/?couponCode=96BA8B2544003B71D477)
-[Machine Learning and AI Level Augmented Reality Experiences](https://www.udemy.com/course/augmented-reality-ar-game-development/?couponCode=EXCLUSIVE_FREE)
-[IT Fundamentals Information Technology Essentials IT Support](https://www.udemy.com/course/it-fundamentals-information-technology-essentials-it-support/?couponCode=ACBF90366EB762037F96)
-[Microsoft AZ-400 Practice Test](https://www.udemy.com/course/microsoft-az-400-practice-test-t/?couponCode=FF741CA7F6061B87B389)
-[CompTIA Linux+ XK0-004 Practice Test 2023](https://www.udemy.com/course/comptia-linux-xk0-004-practice-test-2023/?couponCode=9D8C31C97137E604D40F)
-[Build your own Automated Dustbin using Raspberry Pi 2023](https://www.udemy.com/course/build-your-own-automated-dustbin-from-scratch-using-raspberry-pi/?couponCode=FREE_4_TODAY_ONLY)
-[Information Security Fundamentals](https://www.udemy.com/course/infosec-fundamentals/?couponCode=FEBRRUARY)
-[Book Cover Designing Photoshop for Beginners](https://www.udemy.com/course/learn-professional-book-cover-designing-photoshop/?couponCode=713605CF177A13C04A33)
+[Data Structures and OOP with C++ | CS104, CS105 Masterclass](https://www.udemy.com/course/data-structures-cpp/?couponCode=CS105_CS104_CPP)
+[Cisco CCNA – 200-301 Complete Course!](https://www.udemy.com/course/ccna-v2-with-ben-jacobson/?couponCode=05BAF73B1DC006E4E17D)
+[Amazon AWS Certified Cloud Practitioner Exam](https://www.udemy.com/course/aws-certified-cloud-practitioner-exam-p/?couponCode=55FA0E4B643BCE7F4437)
+[AZ-304 : Microsoft Azure Architect Design Practice Test 2023](https://www.udemy.com/course/az-304-microsoft-azure-architect-design-practice-test-2021/?couponCode=7565CFF1A6F8073DF91A)
+[Cisco Certified Network Associate (CCNA) Practice Test 2023](https://www.udemy.com/course/cisco-certified-network-associate-ccna-practice-test-2023/?couponCode=AB28DBDF65CB1CBD7B4D)
+[Microsoft AI-900 Practice Test](https://www.udemy.com/course/microsoft-ai-900-practice-test-q/?couponCode=BC0A71467B0B3253EDEB)
+[Cisco 200-901 DevNet Associate (DEVASC) Practice Test 2023](https://www.udemy.com/course/cisco-200-901-devnet-associate-devasc-practice-test-2023/?couponCode=6572630F2E51B4775676)
+[NumPy for Data Science: 140+ Practical Exercises in Python](https://www.udemy.com/course/numpy-for-data-science-140-practical-exercises-in-python/?couponCode=8887708C823FF7062AA0)
+[Introduction to Rhino Grasshopper: Parametric Design Primer](https://www.udemy.com/course/introduction-to-rhino-grasshopper-parametric-design-primer/?couponCode=B55DFF575D89EBE8DC49)
+[Microsoft DP-300 Practice Test](https://www.udemy.com/course/microsoft-dp-300-practice-test-n/?couponCode=EE5E704941CAD5181A60)
+[Microsoft AZ-204 Practice Test](https://www.udemy.com/course/microsoft-az-204-practice-test-h/?couponCode=F79BE262BF487379BAF6)
+[Photography: Build a Portfolio on Unsplash](https://www.udemy.com/course/photography-build-a-portfolio-on-unsplash/?couponCode=COURSEVANIA-COM)
 
