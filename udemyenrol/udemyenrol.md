@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/03/2023
+# Daily Free Udemy Courses - 02/03/2023
 
-[Advanced Ichimoku Trading Strategies for Stocks & Forex](https://www.udemy.com/course/ichimoku-trading/?couponCode=1FEB23)
-[Google Professional Cloud Architect Practice Tests 2023](https://www.udemy.com/course/google-professional-cloud-architect-practice-tests/?couponCode=LAUNCHFEB23)
-[Google Professional Cloud DevOps Engineer | Practice Test 23](https://www.udemy.com/course/professional-cloud-devops-engineer-practice-tests/?couponCode=LAUNCHFEB23)
-[Google Professional Cloud Database Engineer | Tests 2023](https://www.udemy.com/course/google-professional-cloud-database-engineer-test-exams/?couponCode=LAUNCHFEB23)
-[Bitwise Operators in C In Depth – Hands On](https://www.udemy.com/course/bitwise-operators-in-c-in-depth-hands-on/?couponCode=C82D7423E1006E11870D)
-[Google Professional Machine Learning Engineer Tests 2023](https://www.udemy.com/course/google-professional-machine-learning-engineer-tests/?couponCode=LAUNCHFEB23)
-[The Most Powerful Compound Strategy for Trading](https://www.udemy.com/course/the-most-powerful-compound-strategy-for-trading/?couponCode=FREETRADING)
-[Google Professional Cloud Developer | Practice Tests 2023](https://www.udemy.com/course/google-professional-cloud-developer-tests/?couponCode=LAUNCHFEB23)
-[Become Master of Programming and it Concepts & Fundamentals](https://www.udemy.com/course/become-master-of-programming-and-it-concepts-funtamentals/?couponCode=CB8566607843539EC8D1)
-[Advance Drag and Drop Uploading System with Cropping Feature](https://www.udemy.com/course/addvanced-drag-and-drop-uploader-and-cropping-system/?couponCode=304CD09F526679C53626)
-[AutoCAD 3D & 2D beginner course modeling software](https://www.udemy.com/course/autocad-3d-2d-beginner-course-modelling-software/?couponCode=476BDCEA5AE2A526BAC8)
-[Chat Application In PHP With MySQL And JavaScrip ( Laravel )](https://www.udemy.com/course/advance-chat-system-using-php/?couponCode=F74BEB347F1E8436A536)
+[HTML and CSS: A Beginner’s Guide to Web Development (2023)](https://www.udemy.com/course/html-and-css-web-development/?couponCode=0CD8EAFB03FA45A3628D)
+[Instagram Marketing 2023. How to Promote Your Business!](https://www.udemy.com/course/instagram-marketing-practical-course/?couponCode=INSTAGRAM0103)
+[SAP-C02: AWS Certified Solutions Architect Professional exam](https://www.udemy.com/course/sap-c02-aws-certified-solutions-architect-professional-exam/?couponCode=6C9516D5209D85B84588)
+[Adding Blockchain to a Unity Game](https://www.udemy.com/course/adding-blockchain-to-a-unity-game/?couponCode=FREE_BLOCKCHAIN13)
+[Digital Forensics Masterclass | Forensic Science 2023 DFMC+™](https://www.udemy.com/course/digital-forensics-course/?couponCode=DGT_FORENSICS_OCSALY)
+[Car Mechanic and Electrician Training Certificated | 2023+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=CAR_MECHANIC_OCSALY)
+[6 Killer Startup Business Ideas In One Masterclass Framework](https://www.udemy.com/course/starting-6-businesses-in-2021/?couponCode=5999EDF0AF186004E60F)
+[Affiliate Marketing – Learn to Make Money Online WORLDWIDE](https://www.udemy.com/course/affiliate-marketing-make-money-online/?couponCode=368DF4EFD9BAB85F2A51)
+[Midjourney AI for Passive Income: Create & Sell Your Art](https://www.udemy.com/course/midjourney-ai-for-passive-income-create-sell-your-art-course/?couponCode=1A33D1DB172425810CD7)
+[Create a WordPress website with Hostinger!](https://www.udemy.com/course/wordpress-and-hosting-for-beginners/?couponCode=WORDPRESS0103)
+[Facebook Ads 2023: Launch Your Best Advertising Campaign](https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=FBFREE0103)
+[Unstoppable Self Confidence – Your Key to Success!](https://www.udemy.com/course/unstoppable-self-confidence-success/?couponCode=USCYKTSEXPMAR062023)
 
