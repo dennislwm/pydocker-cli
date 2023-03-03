@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/03/2023
+# Daily Free Udemy Courses - 03/03/2023
 
-[HTML and CSS: A Beginner’s Guide to Web Development (2023)](https://www.udemy.com/course/html-and-css-web-development/?couponCode=0CD8EAFB03FA45A3628D)
-[Instagram Marketing 2023. How to Promote Your Business!](https://www.udemy.com/course/instagram-marketing-practical-course/?couponCode=INSTAGRAM0103)
-[SAP-C02: AWS Certified Solutions Architect Professional exam](https://www.udemy.com/course/sap-c02-aws-certified-solutions-architect-professional-exam/?couponCode=6C9516D5209D85B84588)
-[Adding Blockchain to a Unity Game](https://www.udemy.com/course/adding-blockchain-to-a-unity-game/?couponCode=FREE_BLOCKCHAIN13)
-[Digital Forensics Masterclass | Forensic Science 2023 DFMC+™](https://www.udemy.com/course/digital-forensics-course/?couponCode=DGT_FORENSICS_OCSALY)
-[Car Mechanic and Electrician Training Certificated | 2023+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=CAR_MECHANIC_OCSALY)
-[6 Killer Startup Business Ideas In One Masterclass Framework](https://www.udemy.com/course/starting-6-businesses-in-2021/?couponCode=5999EDF0AF186004E60F)
-[Affiliate Marketing – Learn to Make Money Online WORLDWIDE](https://www.udemy.com/course/affiliate-marketing-make-money-online/?couponCode=368DF4EFD9BAB85F2A51)
-[Midjourney AI for Passive Income: Create & Sell Your Art](https://www.udemy.com/course/midjourney-ai-for-passive-income-create-sell-your-art-course/?couponCode=1A33D1DB172425810CD7)
-[Create a WordPress website with Hostinger!](https://www.udemy.com/course/wordpress-and-hosting-for-beginners/?couponCode=WORDPRESS0103)
-[Facebook Ads 2023: Launch Your Best Advertising Campaign](https://www.udemy.com/course/facebook-ads-launch-pro-advertising-campaigns/?couponCode=FBFREE0103)
-[Unstoppable Self Confidence – Your Key to Success!](https://www.udemy.com/course/unstoppable-self-confidence-success/?couponCode=USCYKTSEXPMAR062023)
+[Adobe InDesign | Basics Guide](https://www.udemy.com/course/learn-basic-indesign/?couponCode=FREE323G1S1)
+[Adobe InDesign | Ultimate Guide](https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?couponCode=FREE323G1S1)
+[Adobe Lightroom | Projects Guide](https://www.udemy.com/course/learn-lightroom-classic/?couponCode=FREE323G2S1)
+[Adobe Lightroom | Ultimate Guide](https://www.udemy.com/course/learn-lightroom-web/?couponCode=FREE323G2S1)
+[Learn Azure DevOps CI/CD pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/?couponCode=CD1FB8982A5F0CA6DB7D)
+[Learn Infra as Code with Azure Bicep](https://www.udemy.com/course/learn-azure-bicep/?couponCode=7247AA88B040C7852BB8)
+[Crafting Your Career: Expert Tips for a Winning Resume](https://www.udemy.com/course/13-useful-resume-writing-tips/?couponCode=13A5E02A9AC255AE2175)
+[The “BigTech” System Design Interview Bootcamp](https://www.udemy.com/course/the-bigtech-system-design-interview-bootcamp/?couponCode=FREE-SYSTEM-DESIGN)
+[Complete Cognos Analytics Training Course](https://www.udemy.com/course/complete-cognos-analytics-training-course/?couponCode=ANALYTICSFEB2)
+[Reverse Engineering, Memory Hacking and Software Protection](https://www.udemy.com/course/reverse-engineering-packed-programs/?couponCode=MARCH2_FREE)
+[Reverse Engineering 5: Reversing Visual Basic](https://www.udemy.com/course/reverse-engineering-visual-basic/?couponCode=MARCH2_FREE)
+[Unity Multiplayer Blockchain Game Course](https://www.udemy.com/course/unity-multiplayer-blockchain-game-course/?couponCode=FREE_UNITY12)
 
