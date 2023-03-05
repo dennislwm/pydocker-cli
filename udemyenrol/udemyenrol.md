@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/03/2023
+# Daily Free Udemy Courses - 05/03/2023
 
-[C++ Code Like you are in MATRIX | Mastering C++ in 12 Hours](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=OCSALY_ACADEMY_199)
-[Build a Social Network in 20 Days from Scratch:PHP+MYSQL, Js](https://www.udemy.com/course/build-social-network-in-20-days/?couponCode=MARCH-GIFT)
-[Google Professional Cloud Network Engineer Exam](https://www.udemy.com/course/google-professional-cloud-network-engineer-exam-m/?couponCode=9C5DB4AF6022DAA48C8E)
-[Clean PHP – Código de Calidad y Buenas Prácticas](https://www.udemy.com/course/clean-php/?couponCode=9CEFAF5A2E6E9EFAE8FE)
-[How to create an animated promo video in PowerPoint](https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/?couponCode=VIDEO_MAR_23_1)
-[Excel Mastery: 4 Proven Practice Tests for Exam Success 2023](https://www.udemy.com/course/excel-mastery-4-proven-practice-tests-for-exam-success-2023/?couponCode=F3D5C87611B1E12038AB)
-[Python Mastery: 4 Proven Practice Tests for Exam Success](https://www.udemy.com/course/python-mastery-4-proven-practice-tests-for-exam-success/?couponCode=C7F46135A2A892B347CD)
-[JavaScript Certification Exam Preparation Tests 2023](https://www.udemy.com/course/javascript-certification-exam-preparation-tests/?couponCode=6F530507370793B71564)
-[The Ultimate SQL Practice Bundle : 4 Practice Test 2023](https://www.udemy.com/course/the-ultimate-sql-practice-bundle-4-practice-tests/?couponCode=AB8F8D25D68FBE8343DF)
-[Excel Certification Exam Preparation: 4 Practice Tests 2023](https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests/?couponCode=D8052C527A15ABECC10D)
-[Cisco Certified Network Associate (CCNA) Practice Test 2023](https://www.udemy.com/course/cisco-certified-network-associate-ccna-practice-test-2023/?couponCode=496FBB1D7C9703EC9A30)
-[Passive Income 5 Figures – Drop Servicing from Home 2023](https://www.udemy.com/course/passive-income-5-figures-drop-servicing-from-home-2022-course/?couponCode=565D33183B7FD57EF789)
+[Landing Pages](https://www.udemy.com/course/landing_pages/?couponCode=1B631C3510DC4BC83B61)
+[The Webrtc Bootcamp 2023 For Beginners](https://www.udemy.com/course/the-webrtc-bootcamp-2021/?couponCode=MARCH-GIFT)
+[iOS 16 Swift & SwiftUI – Complete iOS App Development](https://www.udemy.com/course/ios-16-swift-complete-app-development/?couponCode=45C3D50D59BC316008BC)
+[LinkedIn Marketing: LinkedIn Ads | LinkedIn Lead Generation](https://www.udemy.com/course/linkedin-advertising-marketing/?couponCode=2B3CB3B3BD1A4AA2B1BF)
+[SaaS Marketing: SaaS Startup Lead Generation Lean Startup](https://www.udemy.com/course/saas-marketing/?couponCode=96BC0B3F9FC6259519D5)
+[Persuasive Copywriting (2023): Become a Copywriting Master](https://www.udemy.com/course/b2b-copywriting/?couponCode=A5633BFF91849DF898AF)
+[Become a Facebook Ads Pro 2023: Top 1% Facebook Advertising](https://www.udemy.com/course/facebook-ads-b2b/?couponCode=54887EA74BB2EE7E33BC)
+[Startup Marketing 0 to 1 Million Startup Entrepeneur Revenue](https://www.udemy.com/course/startup-marketing/?couponCode=A97EF3639443E3BAC4B9)
+[ChatGPT: Enhance Every Area of Personal & Professional Life](https://www.udemy.com/course/chatgpt-enhance-every-area-of-personal-professional-life/?couponCode=NEWNEW)
+[Digital Marketing Mastery 2023 with Dekker Fraser, MBA](https://www.udemy.com/course/digital-marketing-mba/?couponCode=301D21D6AAEAFD6E86DA)
+[Google Cloud Certified Professional Data Engineer 2023](https://www.udemy.com/course/google-cloud-certified-professional-data-engineer-exam/?couponCode=MARCHGIFT)
+[Salesforce Certified Platform Developer I Practice Test 2023](https://www.udemy.com/course/salesforce-certified-platform-developer-i-practice-test-2023/?couponCode=6274DDE2FE85D941C78A)
 
