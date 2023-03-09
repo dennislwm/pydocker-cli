@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/03/2023
+# Daily Free Udemy Courses - 09/03/2023
 
-[Deploying React NodeJS app on VPS with Ubuntu 20.04](https://www.udemy.com/course/deploying-react-nodejs-app-on-vps-with-ubuntu/?couponCode=E05D7832C0A9CC79230A)
-[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=COMPUTER_FORENSICS)
-[Car Mechanic and Electrician Training Certificated | 2023+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=CAR_REPAIR_TRAINING)
-[Best Starter Course: Robotics & ROS Introduction [2023]](https://www.udemy.com/course/robotic-system-ros-foundations/?couponCode=ROBOTMAR222)
-[NEW-JNCIA Junos -104 Practice Exams powered by ChatGPT](https://www.udemy.com/course/new-jncia-junos-104-practice-exams-questions-and-answers/?couponCode=5D4ACC437F0029C76FE8)
-[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=C5EB804BC0E534E59777)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=3A76B337A70647C714CF)
-[Secrets to Making Money with ChatGPT: From Beginner to Pro](https://www.udemy.com/course/secrets-to-making-money-with-chatgpt-from-beginner-to-pro/?couponCode=57D3C9BB319E7A0011F5)
-[Microsoft MS-900 Exam](https://www.udemy.com/course/microsoft-ms-900-exam/?couponCode=5B38F10D04C4D09386EC)
-[Product Owner Certification – PSPO-1](https://www.udemy.com/course/product-owner-certification-pspo-1/?couponCode=PSPO1EXPERT1)
-[File & Folder Management Using PowerShell](https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=MARCH-GIFT3)
-[Best of Copywriting: Copywriting 4 E-commerce + 46 Templates](https://www.udemy.com/course/copywriting-for-ecommerce/?couponCode=LUCKYWATERRABBIT3)
+[SAP SD – S/4HANA / Fiori](https://www.udemy.com/course/sap-s4hana-sales-process-with-fiori-for-usersconsultants/?couponCode=F18DA15D78F0C6AD893E)
+[Secrets to Making Money with ChatGPT: From Beginner to Pro](https://www.udemy.com/course/secrets-to-making-money-with-chatgpt-from-beginner-to-pro/?couponCode=785FD563DF37FC0A0180)
+[Beginner to Pro In Midjourney & Many Ways To Earn Good Money](https://www.udemy.com/course/beginner-to-pro-in-midjouney-earn-passive-income/?couponCode=BABF085400733C03C2C9)
+[The Complete Photoshop Masterclass: From 0 to Hero](https://www.udemy.com/course/complete-photoshop-masterclass/?couponCode=17F03AE69ABBF32486B2)
+[The Complete Illustrator Masterclass: From 0 to Hero](https://www.udemy.com/course/complete-illustrator-masterclass/?couponCode=DD873533F0AACAA8617B)
+[Design Principles, Typography & Color Theory in 1 MegaCourse](https://www.udemy.com/course/design-principles/?couponCode=7C1E78294FA0AC346663)
+[WordPress 2023 – Affiliate Coupon Website to Generate Income](https://www.udemy.com/course/passive-income-affiliate-coupon-website-to-generate-income-course/?couponCode=940AAF7EE34D3D6ACCB3)
+[IP Addressing and Subnetting – Zero to Hero](https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=MARRCH)
+[Amazon (KDP): How to Create a Passive Income from Books](https://www.udemy.com/course/amazon-kdp-how-to-create-a-passive-income-from-books/?couponCode=1A21FDF8DD1D6D339FD6)
+[Cryptocurrency Trading for Beginners (Learn CLICK-BY-CLICK)](https://www.udemy.com/course/cryptocurrency-trading-course-for-beginners/?couponCode=868C5571968AE4088176)
+[Affiliate Marketing – Learn to Make Money Online WORLDWIDE](https://www.udemy.com/course/affiliate-marketing-make-money-online/?couponCode=2397F63FFC6CC4CF0DB9)
+[Scrum Master Certification (PSM1) – IN Hindi](https://www.udemy.com/course/professional-scrum-master-psm1-in-hindi/?couponCode=PSMHINDI)
 
