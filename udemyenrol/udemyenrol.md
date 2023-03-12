@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/03/2023
+# Daily Free Udemy Courses - 12/03/2023
 
-[Google Professional Data Engineer Practice Test](https://www.udemy.com/course/google-professional-data-engineer-practice-test/?couponCode=B362238E85C39EFA9E85)
-[Adding Blockchain to a Unity Game](https://www.udemy.com/course/adding-blockchain-to-a-unity-game/?couponCode=FREE_BLOCKCHAIN14)
-[Quantity Surveying Templates for Effective Cost Management](https://www.udemy.com/course/quantity-surveying-templates-for-effective-cost-management/?couponCode=QSTEMPLATESMAR23)
-[Python : Master Programming and Development with 15 Projects](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=MAR2023)
-[PHP for Beginners 2023](https://www.udemy.com/course/php-for-beginners-2023/?couponCode=A1E48CE9D8257060DA76)
-[ISC CAP Certification Practice Test 2023](https://www.udemy.com/course/isc-cap-certification-practice-test-2023/?couponCode=AEADD2EE4F95367F47EE)
-[Complete Arduino Course For Beginners](https://www.udemy.com/course/full-arduino-course-for-beginners/?couponCode=10MAR2023_5DAYS)
-[Best Starter Course: Robotics & ROS Introduction [2023]](https://www.udemy.com/course/robotic-system-ros-foundations/?couponCode=64F59B4915FA533D157C)
-[Google Professional Cloud DevOps Engineer Practice Exam 2023](https://www.udemy.com/course/google-professional-cloud-devops-engineer-practice-exam-2023/?couponCode=MYSTUD)
-[Intro to ChatGPT: The Essential Skills for Getting Started](https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/?couponCode=23AE50D7BD0D29EB2DF9)
-[Google Professional Data Engineer Practice Exams 2023](https://www.udemy.com/course/google-professional-data-engineer-practice-exams-2023/?couponCode=MYSTUD)
-[Google Professional Machine Learning Engineer Practice Exams](https://www.udemy.com/course/google-professional-machine-learning-engineer-practice-exams-x/?couponCode=2A7863B0932FFAC9C0F1)
+[React – Learn React with Hooks by creating a Roguelike game](https://www.udemy.com/course/react-learn-react-with-hooks-by-creating-a-roguelike-game/?couponCode=FREE_REACT6)
+[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=6DEF1BFF4EC7F9FF537E)
+[The Complete Introduction to Online Course Creation](https://www.udemy.com/course/the-complete-introduction-to-online-course-creation/?couponCode=6AE82ADA2B4857AAC7E7)
+[Microsoft Excel – Excel Course from Beginner to Advanced](https://www.udemy.com/course/microsoft-excel-course-from-beginner-to-advanced/?couponCode=9B2436EC0A367A0BE41F)
+[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=E713900745D66DD3A428)
+[YouTube Podcast Marketing For Natural Health Practitioners](https://www.udemy.com/course/youtube-podcast-marketing-for-natural-health-practitioners/?couponCode=YTPMFNHPEXPMAR152023)
+[Python Project: Building Online Banking App](https://www.udemy.com/course/python-project-building-online-banking-app/?couponCode=C3DEEB7778F2AADF8FE2)
+[Javascript Practicals Crash Course](https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=1F04D0D7BB8C4D7A492F)
+[Complete Advanced Data Entry Application in Microsoft Excel](https://www.udemy.com/course/create-advanced-data-entry-application-in-microsoft-excel/?couponCode=69BA71F4CFCE878016C4)
+[Google Professional Cloud DevOps Engineer Practice Exam 2023](https://www.udemy.com/course/google-professional-cloud-devops-engineer-practice-exam-2023/?couponCode=42E6D6E9D04A5E1E863F)
+[Google Professional Data Engineer Practice Exams 2023](https://www.udemy.com/course/google-professional-data-engineer-practice-exams-2023/?couponCode=8950D5F7117290315BC2)
+[Python for OOP: The A-to-Z OOP Python Programming Course](https://www.udemy.com/course/python-for-object-oriented-programming/?couponCode=EAE627CFF476A52E100B)
 
