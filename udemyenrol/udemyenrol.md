@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/03/2023
+# Daily Free Udemy Courses - 14/03/2023
 
-[iMovie for Mac – Beginner to Advanced Video Editing Course](https://www.udemy.com/course/imovie-video-editing-course/?couponCode=786747942DD2F7C5ED26)
-[Ultimate T-shirt Design Mastery with Adobe Illustrator CC](https://www.udemy.com/course/t-shirt-design-mastery-with-adobe-illustrator-cc/?couponCode=0F1E917FF9A95C3631F2)
-[Graphic Design with Autism, Dyslexia & etc in 2023](https://www.udemy.com/course/graphic-designing-for-people-with-autism-dyslexia-etc/?couponCode=MARCH2023)
-[Mobile App Development for Autism, Dyslexia & etc in 2023](https://www.udemy.com/course/mobile-app-development-for-people-with-autism-dyslexia-etc/?couponCode=MARCH2023)
-[Unit Testing in .NET 7 and C# with NUnit and MOQ](https://www.udemy.com/course/unit-testing-net-applications-with-nunit/?couponCode=915CFF9A1204B1678730)
-[3D Printing Design for Autism, Dyslexic & more in 2023](https://www.udemy.com/course/3d-printing-design-skills-for-people-with-autism-dyslexia/?couponCode=MARCH2023)
-[Texts SAP Certified Technology Associate – C_TADM54_75](https://www.udemy.com/course/sap-certified-technology-associate-c_tadm54_75/?couponCode=C356F2404C8292849A05)
-[Multimedia and Graphic designing Course for Special Needs](https://www.udemy.com/course/graphic-designing-course-for-special-needs-people/?couponCode=MARCH2023)
-[Solar Specialist Certification Interview Practice Test 2022](https://www.udemy.com/course/solar-specialist-certification-practice-tests-2022/?couponCode=07E65C6A4D951C0B15A0)
-[Learn 2D Animation Making for Special Needs People in 2023](https://www.udemy.com/course/learn-2d-animation-making-for-special-needs-people/?couponCode=MARCH2023)
-[AWS Certified Solutions Architect Associate – Tests [NEW]](https://www.udemy.com/course/aws-cloud-certified-solutions-architect-associate/?couponCode=0FF9B1498A425720E39D)
-[Google Cloud Professional Data Engineer – GCP – Exams – 2023](https://www.udemy.com/course/google-cloud-professional-data-engineer-gcp-exams/?couponCode=5B4D6D27C60607881821)
+[Build A TodoList with NestJS, MongoDB and Electron Vue](https://www.udemy.com/course/build-a-todolist-with-nestjs-mongodb-and-electron-vue/?couponCode=8E3490EBD5D8A8678909)
+[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE-MARCH)
+[NGINX Mastery](https://www.udemy.com/course/setup-and-configure-windows-nano-server-2016-from-scratch/?couponCode=D4411AC4585D9FF076A0)
+[Active Directory: Introduction and Administration Tools](https://www.udemy.com/course/active-directory-introduction-and-administration-tools/?couponCode=50E3623B590064298731)
+[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA1303)
+[Google Professional Cloud Database Engineer | Tests 2023](https://www.udemy.com/course/google-professional-cloud-database-engineer-test-exams/?couponCode=1MARCH23)
+[Google Professional Machine Learning Engineer Tests 2023](https://www.udemy.com/course/google-professional-machine-learning-engineer-tests/?couponCode=1MARCH23)
+[Splunk Enterprise Certified Admin Practice Test 2023](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-test-2023/?couponCode=99613948969A8D99F548)
+[AWS Certified Database – Specialty Practice Test 2023](https://www.udemy.com/course/aws-certified-database-specialty-practice-test-2023/?couponCode=32C29CE188D83482C787)
+[Google Professional Cloud Developer | Practice Tests 2023](https://www.udemy.com/course/google-professional-cloud-developer-tests/?couponCode=1MARCH23)
+[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=DISCUDEMY.COM_3)
+[Introduction To SEO Based Content Writing (Hindi)](https://www.udemy.com/course/seo-based-content-writing/?couponCode=MAR012023)
 
