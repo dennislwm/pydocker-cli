@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/03/2023
+# Daily Free Udemy Courses - 15/03/2023
 
-[Build A TodoList with NestJS, MongoDB and Electron Vue](https://www.udemy.com/course/build-a-todolist-with-nestjs-mongodb-and-electron-vue/?couponCode=8E3490EBD5D8A8678909)
-[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE-MARCH)
-[NGINX Mastery](https://www.udemy.com/course/setup-and-configure-windows-nano-server-2016-from-scratch/?couponCode=D4411AC4585D9FF076A0)
-[Active Directory: Introduction and Administration Tools](https://www.udemy.com/course/active-directory-introduction-and-administration-tools/?couponCode=50E3623B590064298731)
-[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA1303)
-[Google Professional Cloud Database Engineer | Tests 2023](https://www.udemy.com/course/google-professional-cloud-database-engineer-test-exams/?couponCode=1MARCH23)
-[Google Professional Machine Learning Engineer Tests 2023](https://www.udemy.com/course/google-professional-machine-learning-engineer-tests/?couponCode=1MARCH23)
-[Splunk Enterprise Certified Admin Practice Test 2023](https://www.udemy.com/course/splunk-enterprise-certified-admin-practice-test-2023/?couponCode=99613948969A8D99F548)
-[AWS Certified Database – Specialty Practice Test 2023](https://www.udemy.com/course/aws-certified-database-specialty-practice-test-2023/?couponCode=32C29CE188D83482C787)
-[Google Professional Cloud Developer | Practice Tests 2023](https://www.udemy.com/course/google-professional-cloud-developer-tests/?couponCode=1MARCH23)
-[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=DISCUDEMY.COM_3)
-[Introduction To SEO Based Content Writing (Hindi)](https://www.udemy.com/course/seo-based-content-writing/?couponCode=MAR012023)
+[Practise Javascript in 2023 : Code a Card Game in Phaser 3](https://www.udemy.com/course/practise-modern-javascript-by-coding-a-card-game/?couponCode=CARDGAME_FREE9)
+[Upskill yourself by developing Home Automation Project](https://www.udemy.com/course/getting-stared-with-asus-tinker-board/?couponCode=FREE_4_NOW)
+[The Complete SAP Analytics Cloud Course 2023](https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=0DEA803163A8F2B3BD6A)
+[Vue JS + Google Maps API: Ultimate Beginner’s Friendly Guide](https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/?couponCode=MAR-FREE-FIVE-DAYS)
+[SAP Business Analytics Essential Training](https://www.udemy.com/course/sap-bi-bo/?couponCode=888566003101B72AB8A7)
+[SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://www.udemy.com/course/sap-erp-project/?couponCode=CE03E31B7B67C6768598)
+[Python Mastery: 4 Proven Practice Tests for Exam Success](https://www.udemy.com/course/python-mastery-4-proven-practice-tests-for-exam-success/?couponCode=E16E61927387F1FD938D)
+[Python Certification Exam: 4 Practice Tests to Ace Your Exam](https://www.udemy.com/course/python-certification-exam-4-practice-tests-to-ace-your-exam/?couponCode=36CDC107390F10B0AE4F)
+[Excel Mastery: 4 Proven Practice Tests for Exam Success 2023](https://www.udemy.com/course/excel-mastery-4-proven-practice-tests-for-exam-success-2023/?couponCode=AA6172FBE73461F2AD39)
+[Python Exam Success Unlocked: 4 Test Bundle](https://www.udemy.com/course/python-exam-success-unlocked-4-test-bundle/?couponCode=0C8E3027EB50801F8D08)
+[Excel Fundamentals: 4 Practice Test Bundles for Exam Success](https://www.udemy.com/course/excel-certification-course/?couponCode=435B674CA06F7FEE5259)
+[Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEMAR116)
 
