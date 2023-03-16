@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/03/2023
+# Daily Free Udemy Courses - 16/03/2023
 
-[Practise Javascript in 2023 : Code a Card Game in Phaser 3](https://www.udemy.com/course/practise-modern-javascript-by-coding-a-card-game/?couponCode=CARDGAME_FREE9)
-[Upskill yourself by developing Home Automation Project](https://www.udemy.com/course/getting-stared-with-asus-tinker-board/?couponCode=FREE_4_NOW)
-[The Complete SAP Analytics Cloud Course 2023](https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=0DEA803163A8F2B3BD6A)
-[Vue JS + Google Maps API: Ultimate Beginner’s Friendly Guide](https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/?couponCode=MAR-FREE-FIVE-DAYS)
-[SAP Business Analytics Essential Training](https://www.udemy.com/course/sap-bi-bo/?couponCode=888566003101B72AB8A7)
-[SAP Project Essentials: Implementing SAP S/4HANA and SAP ERP](https://www.udemy.com/course/sap-erp-project/?couponCode=CE03E31B7B67C6768598)
-[Python Mastery: 4 Proven Practice Tests for Exam Success](https://www.udemy.com/course/python-mastery-4-proven-practice-tests-for-exam-success/?couponCode=E16E61927387F1FD938D)
-[Python Certification Exam: 4 Practice Tests to Ace Your Exam](https://www.udemy.com/course/python-certification-exam-4-practice-tests-to-ace-your-exam/?couponCode=36CDC107390F10B0AE4F)
-[Excel Mastery: 4 Proven Practice Tests for Exam Success 2023](https://www.udemy.com/course/excel-mastery-4-proven-practice-tests-for-exam-success-2023/?couponCode=AA6172FBE73461F2AD39)
-[Python Exam Success Unlocked: 4 Test Bundle](https://www.udemy.com/course/python-exam-success-unlocked-4-test-bundle/?couponCode=0C8E3027EB50801F8D08)
-[Excel Fundamentals: 4 Practice Test Bundles for Exam Success](https://www.udemy.com/course/excel-certification-course/?couponCode=435B674CA06F7FEE5259)
-[Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEMAR116)
+[AZ-900 Azure Fundamentals practice tests](https://www.udemy.com/course/az-900-azure-fundamentals-practice-tests-f/?couponCode=MARZO2023)
+[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=90CB15B39C084868289C)
+[Big Data Programming Languages & Big Data Vs Data Science](https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=670EDA1652D06011C137)
+[Advanced Foundations of Python Programming | 2023 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=A3B9727B35EF6425BA0D)
+[The SQL Programming Essentials 2023 Immersive Training](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=CE402884DC5294C05D84)
+[Object-Oriented Programming (OOP) – How to Code Faster 2023](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=8CCC208ADDF953969E9E)
+[Databases with Python: MySQL, SQLite & MongoDB with Python](https://www.udemy.com/course/databases-with-python-mysql-sqlite-mongodb-with-python/?couponCode=02BB6EE86F267FDC033A)
+[Data Science: R Programming Complete Diploma 2023](https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=D700B4415C6A36BF8E94)
+[Learn Coding with C# from Scratch | C# Comprehensive Course](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=903E5321E9BA033E8108)
+[Learn Coding with Java from Scratch: Essential Training 2023](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=6E9C3901CC2AA7FA5E99)
+[Coding Basics 2023: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=55CF4C26618A37ECA036)
+[Fundamentals of IoT (Internet of Things)](https://www.udemy.com/course/fundamentals-of-iot-internet-of-things/?couponCode=96492B8D63DDEBB94F1D)
 
