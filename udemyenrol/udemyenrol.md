@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/03/2023
+# Daily Free Udemy Courses - 18/03/2023
 
-[Step by step double your sales with Email Marketing](https://www.udemy.com/course/step-by-step-double-your-sales-with-email-marketing/?couponCode=B695DFEDC66B00F82132)
-[OSINT: “Unleashing the Power of Public Information” – 2023+](https://www.udemy.com/course/open-source-intelligence/?couponCode=OCSALY_ACADEMY)
-[Java Network Programming – Mastering TCP/IP | CJNP+ 2023 JVA](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=OCSALY_ACADEMY)
-[Digital Forensics Masterclass | Forensic Science 2023 DFMC+™](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY_ACADEMY)
-[Graph Theory Algorithms in Java](https://www.udemy.com/course/graph-theory-algorithms-in-java/?couponCode=F427F8FCF3A5F025FF3F)
-[Dynamic Programming Algorithms](https://www.udemy.com/course/dynamic-programming-algorithms-coding-interview-questions/?couponCode=760C46E902DEF3249C1D)
-[Make Money on YouTube Following PROVEN STEPS – Works in 2023](https://www.udemy.com/course/earn-money-on-youtube/?couponCode=A939F9B21FA465D61E64)
-[Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=223D52E8F58D4C3BB11F)
-[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=2D4FC10D35B1ECDB31E1)
-[Practical Password cracking – Office files | Ethical Hacking](https://www.udemy.com/course/office-password-cracking/?couponCode=REVIEW-ME)
-[NGINX Web Server from Scratch](https://www.udemy.com/course/nginx-web-server/?couponCode=NGINX213212)
-[#1 Crazy Hack for Landing Jobs on LinkedIn](https://www.udemy.com/course/1-crazy-hack-for-stealing-jobs-on-linkedin/?couponCode=00328FF15A156B589BBD)
+[AZ-720 Practice Tests prep Exam](https://www.udemy.com/course/az-720-practice-tests-prep-exam-h/?couponCode=3EF2C40D4AB39FF6DED0)
+[OWASP Top 10 for Docker Containers and Kubernetes Security](https://www.udemy.com/course/owasp-top-10-for-docker-and-kubernetes-security/?couponCode=MAR2023)
+[Git for Beginners](https://www.udemy.com/course/git-for-beginners-course/?couponCode=3C44164CC64EFA217429)
+[[2023] Google Associate Cloud Engineer Certification – Exams](https://www.udemy.com/course/google-associate-cloud-engineer-certification-exams/?couponCode=784DB3DAEBD926EC7C82)
+[MS-101 Microsoft 365 Mobility and Security Practice Tests](https://www.udemy.com/course/ms-101-microsoft-365-mobility-and-security-practice-tests-r/?couponCode=7213DC831D67B208A414)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=40DB9F2A5FFCEB1E1CDB)
+[Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=340FB651C2E10A4C779B)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/?couponCode=96204A5B33E125C6CBF1)
+[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=2CABB67DC99B0DC6FBA8)
+[Photoshop plus : 30 days challenge to learn adobe photoshop](https://www.udemy.com/course/photoshop-plus/?couponCode=2994FAD395BB3D43C2E9)
+[Media Training: Media Interview Skills](https://www.udemy.com/course/media-interview-skills/?couponCode=0B7F916D7D1DC57739A2)
+[What Do YOU Do? How To Ace Your Elevator Pitch and Story?](https://www.udemy.com/course/what-do-you-do-how-to-ace-your-elevator-pitch-and-story/?couponCode=993D3E2D0F2BA39A478A)
 
