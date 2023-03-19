@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/03/2023
+# Daily Free Udemy Courses - 19/03/2023
 
-[AZ-720 Practice Tests prep Exam](https://www.udemy.com/course/az-720-practice-tests-prep-exam-h/?couponCode=3EF2C40D4AB39FF6DED0)
-[OWASP Top 10 for Docker Containers and Kubernetes Security](https://www.udemy.com/course/owasp-top-10-for-docker-and-kubernetes-security/?couponCode=MAR2023)
-[Git for Beginners](https://www.udemy.com/course/git-for-beginners-course/?couponCode=3C44164CC64EFA217429)
-[[2023] Google Associate Cloud Engineer Certification – Exams](https://www.udemy.com/course/google-associate-cloud-engineer-certification-exams/?couponCode=784DB3DAEBD926EC7C82)
-[MS-101 Microsoft 365 Mobility and Security Practice Tests](https://www.udemy.com/course/ms-101-microsoft-365-mobility-and-security-practice-tests-r/?couponCode=7213DC831D67B208A414)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=40DB9F2A5FFCEB1E1CDB)
-[Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=340FB651C2E10A4C779B)
-[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/?couponCode=96204A5B33E125C6CBF1)
-[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=2CABB67DC99B0DC6FBA8)
-[Photoshop plus : 30 days challenge to learn adobe photoshop](https://www.udemy.com/course/photoshop-plus/?couponCode=2994FAD395BB3D43C2E9)
-[Media Training: Media Interview Skills](https://www.udemy.com/course/media-interview-skills/?couponCode=0B7F916D7D1DC57739A2)
-[What Do YOU Do? How To Ace Your Elevator Pitch and Story?](https://www.udemy.com/course/what-do-you-do-how-to-ace-your-elevator-pitch-and-story/?couponCode=993D3E2D0F2BA39A478A)
+[The Complete Vue.JS Course for Beginners: Zero to Mastery](https://www.udemy.com/course/the-complete-vuejs-course-for-beginners-zero-to-mastery/?couponCode=MARCH-OFFERS)
+[MySQL for Beginners: A Complete Training for beginnners](https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/?couponCode=MARCH-DEALS)
+[The Complete Microsoft SQL Server Course: From A to Z](https://www.udemy.com/course/the-complete-microsoft-sql-server-course-from-a-to-z/?couponCode=MARCH-OFFERS)
+[Project Finance & Excel: Build Financial Models from Scratch](https://www.udemy.com/course/project-finance-excel-build-financial-models-from-scratch/?couponCode=MARCH-OFFERS)
+[The Ultimate Excel VBA Course: Learn & Master VBA Fast](https://www.udemy.com/course/the-ultimate-excel-vba-course-for-beginners-learn-master-vba-fast/?couponCode=MARCH-BARGAIN)
+[Learn To Create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/?couponCode=GEEKSGOD)
+[Learn Python With 20+ Real World Projects [In 2023]](https://www.udemy.com/course/learn-python-with-20-real-world-projects/?couponCode=GEEKSGOD)
+[Computer Organization Computer Architecture Instruction Set](https://www.udemy.com/course/computer-organization-computer-architecture-instruction-set/?couponCode=8C80B6600609CD280DD9)
+[Computer Architecture Instruction Set Architecture Course](https://www.udemy.com/course/computer-architecture-instruction-set-architecture-course/?couponCode=D9F603AA150DB66DAEE2)
+[ChatGPT : The Complete Bootcamp for Beginner With Practical](https://www.udemy.com/course/chatgpt-the-complete-bootcamp-for-beginner-with-practical/?couponCode=GEEKSGOD)
+[Arduino UNO Bootcamp For Beginners – 2023 Complete Course](https://www.udemy.com/course/arduino-uno-bootcamp-for-beginners-2022-complete-course/?couponCode=GEEKSGOD)
+[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=63E3C5AE5A63FB0672ED)
 
