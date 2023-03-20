@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/03/2023
+# Daily Free Udemy Courses - 20/03/2023
 
-[The Complete Vue.JS Course for Beginners: Zero to Mastery](https://www.udemy.com/course/the-complete-vuejs-course-for-beginners-zero-to-mastery/?couponCode=MARCH-OFFERS)
-[MySQL for Beginners: A Complete Training for beginnners](https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/?couponCode=MARCH-DEALS)
-[The Complete Microsoft SQL Server Course: From A to Z](https://www.udemy.com/course/the-complete-microsoft-sql-server-course-from-a-to-z/?couponCode=MARCH-OFFERS)
-[Project Finance & Excel: Build Financial Models from Scratch](https://www.udemy.com/course/project-finance-excel-build-financial-models-from-scratch/?couponCode=MARCH-OFFERS)
-[The Ultimate Excel VBA Course: Learn & Master VBA Fast](https://www.udemy.com/course/the-ultimate-excel-vba-course-for-beginners-learn-master-vba-fast/?couponCode=MARCH-BARGAIN)
-[Learn To Create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/?couponCode=GEEKSGOD)
-[Learn Python With 20+ Real World Projects [In 2023]](https://www.udemy.com/course/learn-python-with-20-real-world-projects/?couponCode=GEEKSGOD)
-[Computer Organization Computer Architecture Instruction Set](https://www.udemy.com/course/computer-organization-computer-architecture-instruction-set/?couponCode=8C80B6600609CD280DD9)
-[Computer Architecture Instruction Set Architecture Course](https://www.udemy.com/course/computer-architecture-instruction-set-architecture-course/?couponCode=D9F603AA150DB66DAEE2)
-[ChatGPT : The Complete Bootcamp for Beginner With Practical](https://www.udemy.com/course/chatgpt-the-complete-bootcamp-for-beginner-with-practical/?couponCode=GEEKSGOD)
-[Arduino UNO Bootcamp For Beginners – 2023 Complete Course](https://www.udemy.com/course/arduino-uno-bootcamp-for-beginners-2022-complete-course/?couponCode=GEEKSGOD)
-[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=63E3C5AE5A63FB0672ED)
+[How To Write A Business Proposal – Upwork – Proposal Writing](https://www.udemy.com/course/how-to-write-a-business-proposal/?couponCode=836E6F575B252406428F)
+[The Book of Jonah: Insightful Overview & Life Applications](https://www.udemy.com/course/the-book-of-jonah-insightful-overview-life-applications/?couponCode=5F9592597853122340A6)
+[C++ Code Like you are in MATRIX | Mastering C++ in 12 Hours](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=OCSALY_CPLUSPLUS)
+[Dart & Flutter | The Complete Flutter Development Course](https://www.udemy.com/course/dart-flutter-the-complete-flutter-development-course/?couponCode=4D02CD2B4C5B9D465F5E)
+[ESG Reporting for Businesses](https://www.udemy.com/course/esg-reporting-for-businesses/?couponCode=FREEESG2023)
+[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=OCSALY_CFIR_DFIR)
+[Machine Learning From Basic to Advanced](https://www.udemy.com/course/machine-learning-course/?couponCode=EFE278246876BDDDEE4F)
+[Learn Machine Learning in 21 Days](https://www.udemy.com/course/learn-machine-learning-in-21-days/?couponCode=FA0B69F5DA2AE30B22B4)
+[5 Real-Time Use Cases using Machine Learning](https://www.udemy.com/course/5-real-time-use-cases-using-machine-learning/?couponCode=BA1F000CCB35EBF6097B)
+[The Complete Computer Forensics Course for 2023 PRO | CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=OCSALY_CYBERPOLICE)
+[Learn Ethical Hacking in 15 Hours | Certificated CSEH+ 2023](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=OCSALY_CEHV11_2023)
+[Java Network Programming – Mastering TCP/IP | CJNP+ 2023 JVA](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=OCSALY_JAVANET)
 
