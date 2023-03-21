@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/03/2023
+# Daily Free Udemy Courses - 21/03/2023
 
-[How To Write A Business Proposal – Upwork – Proposal Writing](https://www.udemy.com/course/how-to-write-a-business-proposal/?couponCode=836E6F575B252406428F)
-[The Book of Jonah: Insightful Overview & Life Applications](https://www.udemy.com/course/the-book-of-jonah-insightful-overview-life-applications/?couponCode=5F9592597853122340A6)
-[C++ Code Like you are in MATRIX | Mastering C++ in 12 Hours](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=OCSALY_CPLUSPLUS)
-[Dart & Flutter | The Complete Flutter Development Course](https://www.udemy.com/course/dart-flutter-the-complete-flutter-development-course/?couponCode=4D02CD2B4C5B9D465F5E)
-[ESG Reporting for Businesses](https://www.udemy.com/course/esg-reporting-for-businesses/?couponCode=FREEESG2023)
-[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=OCSALY_CFIR_DFIR)
-[Machine Learning From Basic to Advanced](https://www.udemy.com/course/machine-learning-course/?couponCode=EFE278246876BDDDEE4F)
-[Learn Machine Learning in 21 Days](https://www.udemy.com/course/learn-machine-learning-in-21-days/?couponCode=FA0B69F5DA2AE30B22B4)
-[5 Real-Time Use Cases using Machine Learning](https://www.udemy.com/course/5-real-time-use-cases-using-machine-learning/?couponCode=BA1F000CCB35EBF6097B)
-[The Complete Computer Forensics Course for 2023 PRO | CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=OCSALY_CYBERPOLICE)
-[Learn Ethical Hacking in 15 Hours | Certificated CSEH+ 2023](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=OCSALY_CEHV11_2023)
-[Java Network Programming – Mastering TCP/IP | CJNP+ 2023 JVA](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=OCSALY_JAVANET)
+[Canva Designing Masterclass: Most Comprehensive Course](https://www.udemy.com/course/canva-design-masterclass-beginner-to-advance/?couponCode=FREEOPENCANVA1000)
+[Fastest Laravel app building trick](https://www.udemy.com/course/build-fast-laravel-applications-using-blueprint/?couponCode=435B3A633F46EFE3CB7A)
+[Application of MS Excel in Quantity Surveying](https://www.udemy.com/course/application-of-ms-excel-in-quantity-surveying/?couponCode=872BB15684812A5B4A2C)
+[Learn Modern Javascript by Coding a Snake Game](https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/?couponCode=FREE_SNAKE7)
+[200 Scrum Master Certification Mock Exam Questions for 2023](https://www.udemy.com/course/200-scrum-master-certification-mock-exam-questions-for-2023/?couponCode=SCRUMMASTER2)
+[Exam DP-100: Azure Data Scientist Associate – Practice Tests](https://www.udemy.com/course/exam-dp-100-azure-data-scientist-associate-practice-tests/?couponCode=FREEDROP)
+[How to Make an Augmented Reality (AR) Drawing](https://www.udemy.com/course/augmented-reality-drawing/?couponCode=S2B43B7FC8B3876D7-SH)
+[Certified Associate in Project Management CAPM Exam Prep](https://www.udemy.com/course/certified-associate-in-project-management-capm-exam-jan-2023/?couponCode=53D2DA6FAC6211EA99B1)
+[Learn Blockchain and Crypto from Beginning](https://www.udemy.com/course/learn-blockchain-and-cryotp-from-beginning/?couponCode=8723FEE4B8E7E8D7EC56)
+[Master Course in Teacher Training and Teaching Online 2.0](https://www.udemy.com/course/teacher-training-teaching-online-elearning-remote-teaching/?couponCode=2ED1EAAD9783FD741881)
+[Shopify guide: The complete shopify store creation course](https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=AA8ABA1A1AFC52F50939)
+[Learn 47 Different Ways to Make Money Online!](https://www.udemy.com/course/learn-to-make-money-online/?couponCode=394074DA4C58D42D12D5)
 
