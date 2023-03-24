@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/03/2023
+# Daily Free Udemy Courses - 24/03/2023
 
-[PostgreSQL and MS SQL for Beginners](https://www.udemy.com/course/postgresql-and-ms-sql-for-beginners/?couponCode=A771FC)
-[Become a Data Analyst: Excel, SQL & Tableau – 3-in-1 Bundle](https://www.udemy.com/course/become-a-data-analyst/?couponCode=29FF2C)
-[Linear Regression and Logistic Regression using R Studio](https://www.udemy.com/course/linear-regression-and-logistic-regression-r-studio-starttech/?couponCode=FCEDE8)
-[Time Series Analysis and Forecasting using Python](https://www.udemy.com/course/machine-learning-time-series-forecasting-in-python/?couponCode=B95C5F8)
-[Complete Machine Learning with R Studio – ML for 2023](https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=3CA6E3)
-[Marketing Analytics & Retail Business Management using Excel](https://www.udemy.com/course/marketing-analytics-marketing-strategy-models-in-excel/?couponCode=8920B14)
-[Microsoft Excel Weekender Crash Course](https://www.udemy.com/course/microsoft-excel-masterclass-complete-and-concise/?couponCode=0C7870C)
-[Seven quality tools for quality management : 7 QC tools](https://www.udemy.com/course/seven-quality-tools/?couponCode=137BE82)
-[Machine Learning Basics in Hindi हिंदी – Regression Analysis](https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=08D431)
-[SQL for Data Analytics in Hindi – हिंदी में सीखें SQL A-Z](https://www.udemy.com/course/sql-in-hindi/?couponCode=AB8851)
-[Learn MATLAB from ZERO to HERO](https://www.udemy.com/course/learn-matlab-from-zero-to-hero/?couponCode=A1B0AAB35CEF30E4586F)
-[Dropshipping with Shopify | Selling Online Worldwide](https://www.udemy.com/course/shopify-dropshipping-khalidgraphy/?couponCode=FREERAMZANOFFER)
+[WiFi Hacking using Evil Twin Attacks and Captive Portals](https://www.udemy.com/course/evil-twin-and-captive-portals/?couponCode=WIFIHACKING7212)
+[Basics and Advanced Angular 2 Programming Course](https://www.udemy.com/course/the-complete-angular-course-beginner-to-expert-1/?couponCode=LEKARTY)
+[Certification Course For Angular 6](https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically/?couponCode=PAKKUUR)
+[All-in-one cyber security comprehensive test](https://www.udemy.com/course/test-your-cyber-security-knowledge/?couponCode=SECURITYTEST)
+[Learn Microsoft Excel From Scratch Practically](https://www.udemy.com/course/complete-excel-course-go-from-zero-to-hero-i/?couponCode=PRAAMKUU)
+[Ethical Hacking: Network Exploitation Basics](https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/?couponCode=HACKERSS)
+[Day Trading Options for Income](https://www.udemy.com/course/mighty-ninety/?couponCode=DT2023)
+[Learn Photoshop From Scratch Practically](https://www.udemy.com/course/complete-photoshop-course-beginner-to-expert-x/?couponCode=SEMAAK)
+[Clojure Introduction: Learn Functional Programming](https://www.udemy.com/course/clojure-programming/?couponCode=HACKERSS)
+[Git Command Line for Beginners](https://www.udemy.com/course/git-command-line-for-beginners/?couponCode=HACKERSS)
+[Entrepreneurship: 60 Day Startup Launch Blueprint](https://www.udemy.com/course/60-day-startup/?couponCode=ENTREPRENEUR122)
+[Fire Up Creativity in Your Child](https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=MAR2023FREE001)
 
