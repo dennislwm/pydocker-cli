@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/03/2023
+# Daily Free Udemy Courses - 25/03/2023
 
-[WiFi Hacking using Evil Twin Attacks and Captive Portals](https://www.udemy.com/course/evil-twin-and-captive-portals/?couponCode=WIFIHACKING7212)
-[Basics and Advanced Angular 2 Programming Course](https://www.udemy.com/course/the-complete-angular-course-beginner-to-expert-1/?couponCode=LEKARTY)
-[Certification Course For Angular 6](https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically/?couponCode=PAKKUUR)
-[All-in-one cyber security comprehensive test](https://www.udemy.com/course/test-your-cyber-security-knowledge/?couponCode=SECURITYTEST)
-[Learn Microsoft Excel From Scratch Practically](https://www.udemy.com/course/complete-excel-course-go-from-zero-to-hero-i/?couponCode=PRAAMKUU)
-[Ethical Hacking: Network Exploitation Basics](https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/?couponCode=HACKERSS)
-[Day Trading Options for Income](https://www.udemy.com/course/mighty-ninety/?couponCode=DT2023)
-[Learn Photoshop From Scratch Practically](https://www.udemy.com/course/complete-photoshop-course-beginner-to-expert-x/?couponCode=SEMAAK)
-[Clojure Introduction: Learn Functional Programming](https://www.udemy.com/course/clojure-programming/?couponCode=HACKERSS)
-[Git Command Line for Beginners](https://www.udemy.com/course/git-command-line-for-beginners/?couponCode=HACKERSS)
-[Entrepreneurship: 60 Day Startup Launch Blueprint](https://www.udemy.com/course/60-day-startup/?couponCode=ENTREPRENEUR122)
-[Fire Up Creativity in Your Child](https://www.udemy.com/course/fostering-creativity-in-children/?couponCode=MAR2023FREE001)
+[[NEW] Azure AZ-900 Fundamentals Certification Exam Prep 2023](https://www.udemy.com/course/az-900-ultimate-certification-guide-for-azure-fundamentals/?couponCode=ED120103EC2CACD16C20)
+[Level 1 – Japanese Candlesticks Trading Mastery Program](https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=TRADINGL1)
+[Data Analysis And Business Intelligence With Microsoft Excel](https://www.udemy.com/course/microsoft-excel-business-intelligence/?couponCode=POWER-XL-MAR-23)
+[Web Application: Step by Step Guide](https://www.udemy.com/course/web-applications-part-1/?couponCode=49A0AF50E6C70D2D17AF)
+[Web Applications Step by Step Guide Part-2](https://www.udemy.com/course/web-applications-step-by-step-guide-part-2/?couponCode=FE88882F6980BBA768F2)
+[Web Applications Step by Step Guide Part – 3](https://www.udemy.com/course/web-applications-step-by-step-guide-part-3/?couponCode=BDFBE46D463F825CD1D5)
+[Web Applications Step by Step Guide Part 4](https://www.udemy.com/course/web-applications-step-by-step-guide-part-4/?couponCode=770949AD565966A7E891)
+[JavaScript Beginner’s Guide](https://www.udemy.com/course/the-complete-javascript-course-zero-to-mastery/?couponCode=C47B75F09C76A62F532D)
+[Certification Course For JS Programmer](https://www.udemy.com/course/the-ultimate-javascript-course-beginner-to-advanced/?couponCode=780E6D917BEC765496D4)
+[Function Guide In C++](https://www.udemy.com/course/the-ultimate-c-course-learn-from-scratch/?couponCode=244E446606D97436EC14)
+[Data Types In Node.js](https://www.udemy.com/course/nodejs-crash-course/?couponCode=1DB8BA89E1FD0FD23E2E)
+[Variables and Data Types In Python](https://www.udemy.com/course/the-ultimate-python-bootcamp-learn-from-scratch/?couponCode=0B1CE5C54DBF847FB187)
 
