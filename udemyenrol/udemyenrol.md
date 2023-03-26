@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/03/2023
+# Daily Free Udemy Courses - 26/03/2023
 
-[[NEW] Azure AZ-900 Fundamentals Certification Exam Prep 2023](https://www.udemy.com/course/az-900-ultimate-certification-guide-for-azure-fundamentals/?couponCode=ED120103EC2CACD16C20)
-[Level 1 – Japanese Candlesticks Trading Mastery Program](https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=TRADINGL1)
-[Data Analysis And Business Intelligence With Microsoft Excel](https://www.udemy.com/course/microsoft-excel-business-intelligence/?couponCode=POWER-XL-MAR-23)
-[Web Application: Step by Step Guide](https://www.udemy.com/course/web-applications-part-1/?couponCode=49A0AF50E6C70D2D17AF)
-[Web Applications Step by Step Guide Part-2](https://www.udemy.com/course/web-applications-step-by-step-guide-part-2/?couponCode=FE88882F6980BBA768F2)
-[Web Applications Step by Step Guide Part – 3](https://www.udemy.com/course/web-applications-step-by-step-guide-part-3/?couponCode=BDFBE46D463F825CD1D5)
-[Web Applications Step by Step Guide Part 4](https://www.udemy.com/course/web-applications-step-by-step-guide-part-4/?couponCode=770949AD565966A7E891)
-[JavaScript Beginner’s Guide](https://www.udemy.com/course/the-complete-javascript-course-zero-to-mastery/?couponCode=C47B75F09C76A62F532D)
-[Certification Course For JS Programmer](https://www.udemy.com/course/the-ultimate-javascript-course-beginner-to-advanced/?couponCode=780E6D917BEC765496D4)
-[Function Guide In C++](https://www.udemy.com/course/the-ultimate-c-course-learn-from-scratch/?couponCode=244E446606D97436EC14)
-[Data Types In Node.js](https://www.udemy.com/course/nodejs-crash-course/?couponCode=1DB8BA89E1FD0FD23E2E)
-[Variables and Data Types In Python](https://www.udemy.com/course/the-ultimate-python-bootcamp-learn-from-scratch/?couponCode=0B1CE5C54DBF847FB187)
+[Build A Chat Application With Firebase, Flutter and Provider](https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/?couponCode=9153399C56217A5C4279)
+[CPIM Certification Practice Exams: Ace Your APICS Exam!](https://www.udemy.com/course/cpim-certification-practice-exams-ace-your-apics-exam/?couponCode=FIRSTMEG)
+[Front End Web Development | Ultimate Guide](https://www.udemy.com/course/learn-front-end-development/?couponCode=FREE323G5S3)
+[Learn Certified Ethical Hacking From Scratch](https://www.udemy.com/course/ceh-course/?couponCode=FREE-BE-HACKER)
+[PMI-ACP®: Agile Certified Project Management 200 Questions](https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=33B14B940223D3219BBD)
+[IP Addressing and Subnetting – Zero to Hero](https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=FREEEEEE)
+[SEO Training for Beginners: Learn SEO & Local SEO Fast & Fun](https://www.udemy.com/course/seo-training-2022/?couponCode=LUCKYWATERRABBIT4)
+[Digital Nomad Lifestyle: Live Your Dream & Travel the World](https://www.udemy.com/course/digital-nomad-2022/?couponCode=LUCKYWATERRABIT4)
+[[NEW] AWS Certified Cloud Practitioner Practice Exam 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-2023/?couponCode=7DC519F8E54179BBBA0B)
+[Copywriting & SEO for Beginners: Complete Copywriting Course](https://www.udemy.com/course/copywriting-2023/?couponCode=LUCKYWATERRABBIT6)
+[AWS DBS-C01 Practice Exams: Test Your Database Skills](https://www.udemy.com/course/aws-dbs-c01-practice-exams-test-your-database-skills/?couponCode=FIRSTMEG)
+[Passive Income: 27 Ways to EARN MONEY WHILE YOU SLEEP!](https://www.udemy.com/course/how-to-earn-passive-income-online/?couponCode=7A77CFD27E88AA659580)
 
