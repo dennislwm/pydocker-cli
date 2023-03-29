@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/03/2023
+# Daily Free Udemy Courses - 29/03/2023
 
-[A Beginners Guide to Python 3 Web Development Using Flask](https://www.udemy.com/course/a-beginners-guide-to-python-3-web-development-using-flask/?couponCode=FREE_PYTHON12)
-[Google Bard -LaMDA (Language Model for Dialogue Application)](https://www.udemy.com/course/google-bard-lamda-language-model-for-dialogue-application/?couponCode=GOOGLEAI)
-[Midjourney for Beginners: AI Art Generator](https://www.udemy.com/course/midjourney/?couponCode=GOODKARMA)
-[Fundamentals of Object Oriented Programming with C++](https://www.udemy.com/course/fundamentals-of-object-oriented-programing-cplusplus/?couponCode=1E8803A20BC394B37351)
-[Shiny for Python Ultimate: Web Development with Python](https://www.udemy.com/course/shiny-for-python-ultimate/?couponCode=SHINYWEBDEV)
-[Flutter, Firebase, ChatGPT and ElevenLabs API course](https://www.udemy.com/course/flutter-firebase-chatgpt-and-elevenlabs-api-course/?couponCode=72FDF2ED2518CE31AA98)
-[Complete Express Framework Course – Sign Up Auth0 – Node.Js](https://www.udemy.com/course/complete-express-framework-course-sign-up-auth0-nodejs/?couponCode=B8E9E27C71639797213E)
-[OWASP Top 10 for Docker Containers and Kubernetes Security](https://www.udemy.com/course/owasp-top-10-for-docker-and-kubernetes-security/?couponCode=91853D6797F564B8DCF2)
-[Scrum Master Certification Mock Exams 2023+Agile Scrum](https://www.udemy.com/course/scrum-master-certification-mock-exam-practice-test/?couponCode=270323_FREE)
-[PHP for Beginners: PHP Crash Course 2023](https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?couponCode=PHPCOURSE86)
-[Build A ChatGPT AI in JavaScript – OpenAI – Code Along](https://www.udemy.com/course/build-a-chatgpt-ai-in-javascript-openai-machine-learning/?couponCode=3B812A380A7A5B196BC0)
-[Vue JS + Google Maps API: Ultimate Beginner’s Friendly Guide](https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/?couponCode=MARCH-FREE-FIVE-DAYS)
+[Photoshop plus : 30 days challenge to learn adobe photoshop](https://www.udemy.com/course/photoshop-plus/?couponCode=AD8BB5A77CF8772F4A8E)
+[Data Security, Recovery and Storage Hacking for Newbies](https://www.udemy.com/course/data-security-recovery-and-storage-hacking-for-newbies/?couponCode=MARBZST38)
+[Test Automation for Beginners](https://www.udemy.com/course/test-automation-for-beginners/?couponCode=1B95F1532417AC30C859)
+[Do Different Real-World Python Projects as a Beginner](https://www.udemy.com/course/do-different-real-world-python-projects-as-a-beginner/?couponCode=A2491151BEA5BF7E746F)
+[Exploitation Cyber Security Course](https://www.udemy.com/course/exploitation-cyber-security-course/?couponCode=AAB84E90FDC6FC0034BF)
+[Application Ethical Hacking Course](https://www.udemy.com/course/a-guide-to-learn-ethical-hacking-from-scratch/?couponCode=BDCEA0C41AF765BCE6BF)
+[Ultimate Angular Course – Learn Angular Practically](https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically-r/?couponCode=EE809649BE44FD8B28B2)
+[Learn JavaScript From Scratch Practically](https://www.udemy.com/course/javascript-certification-course-hands-on-guide-to-learn-jav/?couponCode=2C555596EADBE80EC99A)
+[Scanning Cyber Security Hacking Course](https://www.udemy.com/course/learn-and-understand-ethical-hacking-from-scratch/?couponCode=D6A35A54FE2955708A9B)
+[Web Development Beginner Bootcamp](https://www.udemy.com/course/a-complete-practical-guide-to-learn-web-development/?couponCode=F4AB29E354955BEB58FC)
+[Microsoft Power BI | Basics Guide](https://www.udemy.com/course/learn-microsoft-power-bi-course/?couponCode=FREE323G7S3)
+[Data Types In C++](https://www.udemy.com/course/c-programming-beginners-bootcamp-2020/?couponCode=AA49924259A852B7D5AE)
 
