@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/03/2023
+# Daily Free Udemy Courses - 30/03/2023
 
-[Photoshop plus : 30 days challenge to learn adobe photoshop](https://www.udemy.com/course/photoshop-plus/?couponCode=AD8BB5A77CF8772F4A8E)
-[Data Security, Recovery and Storage Hacking for Newbies](https://www.udemy.com/course/data-security-recovery-and-storage-hacking-for-newbies/?couponCode=MARBZST38)
-[Test Automation for Beginners](https://www.udemy.com/course/test-automation-for-beginners/?couponCode=1B95F1532417AC30C859)
-[Do Different Real-World Python Projects as a Beginner](https://www.udemy.com/course/do-different-real-world-python-projects-as-a-beginner/?couponCode=A2491151BEA5BF7E746F)
-[Exploitation Cyber Security Course](https://www.udemy.com/course/exploitation-cyber-security-course/?couponCode=AAB84E90FDC6FC0034BF)
-[Application Ethical Hacking Course](https://www.udemy.com/course/a-guide-to-learn-ethical-hacking-from-scratch/?couponCode=BDCEA0C41AF765BCE6BF)
-[Ultimate Angular Course – Learn Angular Practically](https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically-r/?couponCode=EE809649BE44FD8B28B2)
-[Learn JavaScript From Scratch Practically](https://www.udemy.com/course/javascript-certification-course-hands-on-guide-to-learn-jav/?couponCode=2C555596EADBE80EC99A)
-[Scanning Cyber Security Hacking Course](https://www.udemy.com/course/learn-and-understand-ethical-hacking-from-scratch/?couponCode=D6A35A54FE2955708A9B)
-[Web Development Beginner Bootcamp](https://www.udemy.com/course/a-complete-practical-guide-to-learn-web-development/?couponCode=F4AB29E354955BEB58FC)
-[Microsoft Power BI | Basics Guide](https://www.udemy.com/course/learn-microsoft-power-bi-course/?couponCode=FREE323G7S3)
-[Data Types In C++](https://www.udemy.com/course/c-programming-beginners-bootcamp-2020/?couponCode=AA49924259A852B7D5AE)
+[Amazon AWS Certified DevOps Engineer – Professional Exam](https://www.udemy.com/course/amazon-aws-certified-devops-engineer-professional-exam/?couponCode=44B97C735F9B3BD35775)
+[Object Oriented Programming in C++ & Interview Preparation](https://www.udemy.com/course/cracking-cpp-interview/?couponCode=5EC835F0F958BFD4E21C)
+[WebdriverIO Certification Course with JavaScript & Node.js](https://www.udemy.com/course/webdriverio/?couponCode=MARCH-FREE)
+[Java Games Development With libGDX | Create 5 Games](https://www.udemy.com/course/libgdx-game-development/?couponCode=MARCH-FREE)
+[Game Development with Java and Python](https://www.udemy.com/course/java-python-game/?couponCode=MARCH-FREE)
+[The Complete Automation PyTest Course for 2023](https://www.udemy.com/course/pytest-python/?couponCode=MARCH-FREE)
+[The Complete Python Game Development Course for 2023](https://www.udemy.com/course/python-game-development/?couponCode=MARCH-FREE)
+[The Complete Python Network Programming Course for 2023](https://www.udemy.com/course/python-networking/?couponCode=MARCH-FREE)
+[Game Development with PyGame | Real World Games](https://www.udemy.com/course/pygame-python/?couponCode=MARCH-FREE)
+[The Complete GSAP: JavaScript ,HTML and CSS Course for 2023](https://www.udemy.com/course/gsap-course/?couponCode=MARCH-FREE)
+[The Complete Java Swing Course for GUI Development for 2023](https://www.udemy.com/course/introduction-java-swing-awt/?couponCode=MARCH-FREE)
+[The Complete Mathematics Software Developer Course for 2023](https://www.udemy.com/course/mathematics-software-development/?couponCode=MARCH-FREE)
 
