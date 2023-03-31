@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/03/2023
+# Daily Free Udemy Courses - 31/03/2023
 
-[Amazon AWS Certified DevOps Engineer – Professional Exam](https://www.udemy.com/course/amazon-aws-certified-devops-engineer-professional-exam/?couponCode=44B97C735F9B3BD35775)
-[Object Oriented Programming in C++ & Interview Preparation](https://www.udemy.com/course/cracking-cpp-interview/?couponCode=5EC835F0F958BFD4E21C)
-[WebdriverIO Certification Course with JavaScript & Node.js](https://www.udemy.com/course/webdriverio/?couponCode=MARCH-FREE)
-[Java Games Development With libGDX | Create 5 Games](https://www.udemy.com/course/libgdx-game-development/?couponCode=MARCH-FREE)
-[Game Development with Java and Python](https://www.udemy.com/course/java-python-game/?couponCode=MARCH-FREE)
-[The Complete Automation PyTest Course for 2023](https://www.udemy.com/course/pytest-python/?couponCode=MARCH-FREE)
-[The Complete Python Game Development Course for 2023](https://www.udemy.com/course/python-game-development/?couponCode=MARCH-FREE)
-[The Complete Python Network Programming Course for 2023](https://www.udemy.com/course/python-networking/?couponCode=MARCH-FREE)
-[Game Development with PyGame | Real World Games](https://www.udemy.com/course/pygame-python/?couponCode=MARCH-FREE)
-[The Complete GSAP: JavaScript ,HTML and CSS Course for 2023](https://www.udemy.com/course/gsap-course/?couponCode=MARCH-FREE)
-[The Complete Java Swing Course for GUI Development for 2023](https://www.udemy.com/course/introduction-java-swing-awt/?couponCode=MARCH-FREE)
-[The Complete Mathematics Software Developer Course for 2023](https://www.udemy.com/course/mathematics-software-development/?couponCode=MARCH-FREE)
+[Become a PHP Pro: A Step-by-Step Guide for Beginners 2023](https://www.udemy.com/course/the-complete-php-bootcamp-from-beginner-to-advance-full-course/?couponCode=D1FDA28E7B57AD1CFB63)
+[The Java Course – Learn From Scratch](https://www.udemy.com/course/java-for-beginners-learn-with-examples-and-projects/?couponCode=2F216AACD4B26A8D7450)
+[The Node.js Course For Rookies](https://www.udemy.com/course/complete-nodejs-course-beginner-to-expert/?couponCode=BDBEFB3266FDD1FB431B)
+[C# Complete Master Course (Updated to C# 10)](https://www.udemy.com/course/c-sharp-complete-master-course/?couponCode=339860A12D58E53FB123)
+[[NEW] AWS Certified Cloud Practitioner Practice Exam 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-2023/?couponCode=7F0A41607D4A9579D999)
+[Web Development Beginner’s Course](https://www.udemy.com/course/web-development-beginners-bootcamp-2020/?couponCode=22D81D1E2D7E78419BA6)
+[Master Online Events! Virtual Audience Engagement Tools 2023](https://www.udemy.com/course/better-online-meetings-virtual-audience-engagement-tools/?couponCode=ONLINE2023)
+[Security Fundementals In Cyber Security](https://www.udemy.com/course/security-fundementals-in-cyber-security/?couponCode=5148EB9B21C5ABAB03F6)
+[Advanced Extending Metasploit Ethical Hacking Course](https://www.udemy.com/course/advanced-extending-metasploit-ethical-hacking-course/?couponCode=3131D799BFB4C41CE654)
+[Vulnerability Analysis IOS App Ethical Hacking Course](https://www.udemy.com/course/vulnerability-analysis-ios-app-ethical-hacking-course/?couponCode=9B71F8F36C0154157846)
+[Learn Machine Learning From Scratch](https://www.udemy.com/course/complete-machine-learning-course-beginne-to-advanced/?couponCode=267BDBF56D4BEF27A05E)
+[Pursue Top 1% Career: Become The No. 1 Success Magnet](https://www.udemy.com/course/become-a-corporate-winner/?couponCode=MAR2023FREE001)
 
