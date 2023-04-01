@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/03/2023
+# Daily Free Udemy Courses - 01/04/2023
 
-[Become a PHP Pro: A Step-by-Step Guide for Beginners 2023](https://www.udemy.com/course/the-complete-php-bootcamp-from-beginner-to-advance-full-course/?couponCode=D1FDA28E7B57AD1CFB63)
-[The Java Course – Learn From Scratch](https://www.udemy.com/course/java-for-beginners-learn-with-examples-and-projects/?couponCode=2F216AACD4B26A8D7450)
-[The Node.js Course For Rookies](https://www.udemy.com/course/complete-nodejs-course-beginner-to-expert/?couponCode=BDBEFB3266FDD1FB431B)
-[C# Complete Master Course (Updated to C# 10)](https://www.udemy.com/course/c-sharp-complete-master-course/?couponCode=339860A12D58E53FB123)
-[[NEW] AWS Certified Cloud Practitioner Practice Exam 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-2023/?couponCode=7F0A41607D4A9579D999)
-[Web Development Beginner’s Course](https://www.udemy.com/course/web-development-beginners-bootcamp-2020/?couponCode=22D81D1E2D7E78419BA6)
-[Master Online Events! Virtual Audience Engagement Tools 2023](https://www.udemy.com/course/better-online-meetings-virtual-audience-engagement-tools/?couponCode=ONLINE2023)
-[Security Fundementals In Cyber Security](https://www.udemy.com/course/security-fundementals-in-cyber-security/?couponCode=5148EB9B21C5ABAB03F6)
-[Advanced Extending Metasploit Ethical Hacking Course](https://www.udemy.com/course/advanced-extending-metasploit-ethical-hacking-course/?couponCode=3131D799BFB4C41CE654)
-[Vulnerability Analysis IOS App Ethical Hacking Course](https://www.udemy.com/course/vulnerability-analysis-ios-app-ethical-hacking-course/?couponCode=9B71F8F36C0154157846)
-[Learn Machine Learning From Scratch](https://www.udemy.com/course/complete-machine-learning-course-beginne-to-advanced/?couponCode=267BDBF56D4BEF27A05E)
-[Pursue Top 1% Career: Become The No. 1 Success Magnet](https://www.udemy.com/course/become-a-corporate-winner/?couponCode=MAR2023FREE001)
+[Learn basic Italian in 2 hours](https://www.udemy.com/course/italian-to-survive/?couponCode=ITALIANFREESPRING)
+[IT Fundamentals Information Technology Essentials IT Support](https://www.udemy.com/course/it-fundamentals-information-technology-essentials-it-support/?couponCode=6C2CF8698C8AC02953A0)
+[Shopify Bootcamp: Increase Your Sales and Conversion rate](https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=EA02515B1B06292CBCD2)
+[MAKE MONEY FROM HOME WRITING WORDS (Copywriting Course)](https://www.udemy.com/course/learn-copywriting/?couponCode=6EC3735A2159EE395168)
+[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=D18EF2F6392608EDF5F0)
+[Dark Web: Complete Introduction to the Deep/Dark Web 2023](https://www.udemy.com/course/dark-web-complete-introduction-to-the-deep_dark-web-2021/?couponCode=FREE01)
+[Self Discipline will Change Your life for GOOD](https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=SELFDISCIPLINE12)
+[Strategic Partnerships and Collaborations](https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=STRATEGICPARTNER15)
+[Fundamentals of Successful Leadership – Leading with Impact](https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=LEADERSHIP15)
+[Leadership – Leading a Community](https://www.udemy.com/course/leadership-leading-a-community/?couponCode=LEADINGACOMMUNITY12)
+[Fundamentals of Financial Services](https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=FUNDAMENTALSFS9)
+[ChatGPT for SEO: Boosting SEO Performance With ChatGPT AI](https://www.udemy.com/course/chatgpt-for-seo-harnessing-the-potential-of-ai-for-seo-2023/?couponCode=100OFFW)
 
