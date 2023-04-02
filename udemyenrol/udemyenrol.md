@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/04/2023
+# Daily Free Udemy Courses - 02/04/2023
 
-[Learn basic Italian in 2 hours](https://www.udemy.com/course/italian-to-survive/?couponCode=ITALIANFREESPRING)
-[IT Fundamentals Information Technology Essentials IT Support](https://www.udemy.com/course/it-fundamentals-information-technology-essentials-it-support/?couponCode=6C2CF8698C8AC02953A0)
-[Shopify Bootcamp: Increase Your Sales and Conversion rate](https://www.udemy.com/course/shopify-bootcamp-increase-your-sales-and-conversion-rate/?couponCode=EA02515B1B06292CBCD2)
-[MAKE MONEY FROM HOME WRITING WORDS (Copywriting Course)](https://www.udemy.com/course/learn-copywriting/?couponCode=6EC3735A2159EE395168)
-[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=D18EF2F6392608EDF5F0)
-[Dark Web: Complete Introduction to the Deep/Dark Web 2023](https://www.udemy.com/course/dark-web-complete-introduction-to-the-deep_dark-web-2021/?couponCode=FREE01)
-[Self Discipline will Change Your life for GOOD](https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=SELFDISCIPLINE12)
-[Strategic Partnerships and Collaborations](https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=STRATEGICPARTNER15)
-[Fundamentals of Successful Leadership – Leading with Impact](https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/?couponCode=LEADERSHIP15)
-[Leadership – Leading a Community](https://www.udemy.com/course/leadership-leading-a-community/?couponCode=LEADINGACOMMUNITY12)
-[Fundamentals of Financial Services](https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=FUNDAMENTALSFS9)
-[ChatGPT for SEO: Boosting SEO Performance With ChatGPT AI](https://www.udemy.com/course/chatgpt-for-seo-harnessing-the-potential-of-ai-for-seo-2023/?couponCode=100OFFW)
+[Build A Chat Application With Firebase, Flutter and Provider](https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/?couponCode=C07B28EE74D2FA6EE072)
+[Python & Django | The Complete Django Web Development Course](https://www.udemy.com/course/python-django-the-complete-django-web-development-course/?couponCode=B28A54243BAA1AFBC4CC,)
+[Flutter & Firebase Chat App: Master Flutter and Firebase](https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/?couponCode=58F833FED0C2E6DAB3FB,)
+[Flutter UI Bootcamp | Build Beautiful Apps using Flutter](https://www.udemy.com/course/the-complete-flutter-ui-course-build-amazing-mobile-ui/?couponCode=C0A4F735F99788908D16,)
+[Python & Django REST API Bootcamp – Build A Python Web API](https://www.udemy.com/course/the-complete-python-django-rest-api-development-bootcamp/?couponCode=473084560BAED93DD3B8,)
+[Master Python Web Scraping & Automation using BS4 & Selenium](https://www.udemy.com/course/master-python-web-scraping-automation-using-bs4-selenium/?couponCode=E0F20A2EB690F6836657,)
+[Dart & Flutter | The Complete Flutter Development Course](https://www.udemy.com/course/dart-flutter-the-complete-flutter-development-course/?couponCode=C0111F6B2BF40676FAFA,)
+[Flutter REST Movie App: Master Flutter REST API Development](https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=545F69A273740807209A,)
+[The Essential Types of Software Development & Engineering](https://www.udemy.com/course/types-of-software-development-engineering-masterclass-2023/?couponCode=5610421C73D9A955CB6A)
+[Complete Beginners Trading Strategy For Passive Income](https://www.udemy.com/course/swing-trading-strategy-for-beginners-full-course/?couponCode=939D195B02D54C27EDEC)
+[Complete Personal Development And Transformation Course](https://www.udemy.com/course/complete-personal-development-and-transformation-course/?couponCode=DASA-LEAVE-REVEIW4ME)
+[Make KDP Kids Books Every Day with AI and Boost Your Income](https://www.udemy.com/course/make-kdp-kids-books-every-day-with-ai-and-boost-your-income/?couponCode=8CA518205C6A6271C857)
 
