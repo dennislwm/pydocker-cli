@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/04/2023
+# Daily Free Udemy Courses - 06/04/2023
 
-[Thai Language Quick Start Guide – Learn Thai Language Basics](https://www.udemy.com/course/thai-language-course/?couponCode=LIMITED-TIME)
-[AZ-900: Microsoft Azure Fundamentals – Exam Cram](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-cram/?couponCode=36257C01)
-[2023 R Programming Bootcamp](https://www.udemy.com/course/2022-r-programming-bootcamp/?couponCode=B1E93938F0BE13039922)
-[2023 Complete Python Bootcamp from Zero to Hero in Python](https://www.udemy.com/course/python-programming-for-beginners-m/?couponCode=5A7B15530E63928B6BED)
-[The SQL Programming Essentials 2023 Immersive Training](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=5F58349BB2FB6E79300B)
-[The Complete Cryptocurrency & Bitcoin Swing Trading Course](https://www.udemy.com/course/the-complete-cryptocurrency-bitcoin-swing-trading-course/?couponCode=9FDA387EE9B0BF631285)
-[Build yourself a good online income with Affiliate Marketing](https://www.udemy.com/course/the-affiliate-marketing-course-v1/?couponCode=521881B1DB46FC239E9C)
-[Object-Oriented Programming (OOP) – How to Code Faster 2023](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=63EDDF4CA448C8EE62A4)
-[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=3ACBE1A3C8DF9D51DCCC)
-[Advanced Foundations of Python Programming | 2023 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=556E4B1A94E84C52C143)
-[How to Monetize Midjourney AI Art : A Beginner Guide](https://www.udemy.com/course/how-to-monetize-midjourney-ai-art-a-beginner-guide/?couponCode=FAD3D046D99F10F70560)
-[Build Online Businesses with ChatGPT, DALL-E + AI Tools 2023](https://www.udemy.com/course/build-online-businesses-passive-income-with-ai-tools-2023/?couponCode=C5466B445F140C05A09E)
+[The Python Programming A-Z Definitive Diploma in 2023](https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=0403BF87AE7CD744CF5D)
+[Linux Bash Shell Scripting Incl. AWK, SED and 10+ Projects](https://www.udemy.com/course/learn-shell-scripting-incl-awksedand-more-than-10-project/?couponCode=LEARNNOWWITHUS)
+[Complete Pandas for Absolute Beginners 2023](https://www.udemy.com/course/complete-pandas-for-absolute-beginners/?couponCode=5BAB173ECE4F50C8390C)
+[numpy,pandas and data visualisation course 2023](https://www.udemy.com/course/numpypandas-and-data-visualisation-using-python/?couponCode=27DAB1CDF7C57F58412A)
+[CSS Complete Course For Beginners](https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=DE0DB40D55DF496C467C)
+[[NEW] AWS Certified Advanced Networking Specialty Exams 2023](https://www.udemy.com/course/new-aws-certified-advanced-networking-specialty-exams-2013/?couponCode=BC9B6D8672FBA418AD6E)
+[CCNA 200-355 Wireless Implementing Network Fundamentals Exam](https://www.udemy.com/course/ccna-200-355-wireless-implementing-network-fundamentals-exam/?couponCode=355-200)
+[Certificate of Cloud Security Knowledge (CCSK V4) Exams 2023](https://www.udemy.com/course/certificate-of-cloud-security-knowledge-ccsk-v4-exams/?couponCode=18F9DD273160A0ABD178)
+[MB-210 Microsoft Dynamics 365 Sales Certified Practice Exam](https://www.udemy.com/course/mb-210-microsoft-dynamics-365-sales-certified-practice-exam/?couponCode=MB-210)
+[How to Create Blog On WordPress – Full A-Z Course 2023](https://www.udemy.com/course/create-blog-on-wordpress-hindi/?couponCode=9THPROMO)
+[AWS Certified Solutions Architect Professional Exams 2023](https://www.udemy.com/course/aws-certified-solutions-architect-professional-exams-2023-m/?couponCode=7CE9BD23CEC420902151)
+[300-209 CCNP Security Implementing Cisco Solutions Exam](https://www.udemy.com/course/300-209-ccnp-security-implementing-cisco-solutions-exam/?couponCode=209-300)
 
