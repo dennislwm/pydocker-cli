@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/04/2023
+# Daily Free Udemy Courses - 08/04/2023
 
-[Agile Project Management+Scrum Step by Step with Examples](https://www.udemy.com/course/scrum-master-training/?couponCode=060423_FREE)
-[The Ultimate Guide to Botanical Watercolor Illustrations](https://www.udemy.com/course/the-ultimate-guide-to-botanical-watercolor-illustrations/?couponCode=NEWBOTANICAL)
-[3-in-1 Online Business Bundle: Etsy, Amazon & Online Courses](https://www.udemy.com/course/online-business-course/?couponCode=HOBARTSTUDENTGIFT)
-[CompTIA A+ (220-1001) Core 1 Practice Exams | Updated 2023](https://www.udemy.com/course/comptia-a-220-1101-core-1-practice-exams-updated-2023/?couponCode=8E0E97076632A360A2EE)
-[3-in-1 E-Commerce Masterclass – Amazon, Etsy & Pinterest](https://www.udemy.com/course/e-commerce-course/?couponCode=LAUNCH3)
-[Front End Web Development | Ultimate Guide](https://www.udemy.com/course/learn-front-end-development/?couponCode=FREE423G6S1)
-[Python Programming & Software Design For Absolute Beginners](https://www.udemy.com/course/python-programming-software-design-for-absolute-beginners/?couponCode=1F8AC12319904CC702A7)
-[Self-Discipline: Build Habits & Develop a Growth Mindset](https://www.udemy.com/course/self-discipline-build-habits/?couponCode=B9FD67BE3C8B10C6CF94)
-[Focus Mastery: Focus 100% On Your Goals & Kill Distractions](https://www.udemy.com/course/productivity-hacks-to-improve-focus-and-concentration/?couponCode=9AC5EBA3C8869A022C08)
-[Time Management And Goal Planning: The Productivity Combo](https://www.udemy.com/course/time-management-and-productivity/?couponCode=FF3504669D5A99AC4306)
-[Master Course in Restaurant Business & Restaurant Management](https://www.udemy.com/course/restaurant-business-restaurant-management-catering-hotel-management/?couponCode=4683C91438B83BD7575D)
-[Master Course in Microsoft MB-260 (Customer Data Platform)](https://www.udemy.com/course/microsoft-mb-260-customer-data-platform-specialty/?couponCode=7C08057391139F3BEB5B)
+[AWS, JavaScript, React | Deploy Web Apps on the Cloud](https://www.udemy.com/course/aws-javascript-react-deploy-web-apps-on-the-cloud/?couponCode=YOUACCEL13255)
+[Linode: Build a Scalable Blog App using PHP & MySQL DB](https://www.udemy.com/course/linode-build-a-scalable-blog-app-using-php-mysql-db/?couponCode=YOUACCEL13255)
+[Linode: Deploy Scalable React Web Apps on the Cloud](https://www.udemy.com/course/linode-deploy-scalable-react-web-apps-on-the-cloud/?couponCode=YOUACCEL13255)
+[HTML, CSS, & JavaScript – Certification Course for Beginners](https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL89560)
+[JavaScript & jQuery – Certification Course for Beginners](https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCEL89560)
+[Learn XML-AJAX – For Beginners](https://www.udemy.com/course/learn-xml-ajax-for-beginners/?couponCode=YOUACCEL89560)
+[Learn jQuery – For Beginners](https://www.udemy.com/course/learn-jquery-for-beginners/?couponCode=YOUACCEL89560)
+[Amazon Elastic Compute Cloud (EC2) Beginners Certification](https://www.udemy.com/course/amazon-elastic-compute-cloud-ec2-beginners/?couponCode=YOUACCEL89560)
+[HTML, CSS, & Bootstrap – Certification Course for Beginners](https://www.udemy.com/course/html-css-bootstrap-certification-course-for-beginners/?couponCode=YOUACCEL89560)
+[NEW-JNCIA Junos -104 Practice Exams powered by ChatGPT 2023](https://www.udemy.com/course/new-jncia-junos-104-practice-exams-questions-and-answers/?couponCode=83C2607B49609BE37FB8)
+[CSM Practice Test 2023: Certified Scrum Master Certification](https://www.udemy.com/course/scrum-alliance-scrum-master-certification-practice-tests/?couponCode=FREE-CSM-MOCK)
+[Preparation and Practice MCQs for ISC2 CC Real Exam 2023](https://www.udemy.com/course/isc2-cc-real-exam-2023/?couponCode=3F9C77CB7B3D8BC5B0C7)
 
