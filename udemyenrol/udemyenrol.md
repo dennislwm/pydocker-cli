@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/04/2023
+# Daily Free Udemy Courses - 11/04/2023
 
-[Data Mesh : Building a Modern Data Architecture](https://www.udemy.com/course/data-mesh-complete-course-to-implementing-a-modern-data-architecture/?couponCode=6CB8E7CAA88E84D11993)
-[Microsoft SQL Server Series: Intro to Querying MS SQL Server](https://www.udemy.com/course/microsoft-sql-server-series-querying-sql-server/?couponCode=4011AE5E0B176DDBE967)
-[Master Python: Beginner to Pro with Hands-on Coding Tasks](https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/?couponCode=F7E1ACEF14E8C5E52485)
-[ISTQB Foundation Level Practice Test (CTFL) 2023](https://www.udemy.com/course/istq52-foundation-level-practice-test-ctfl-200-questions/?couponCode=201EBEE2626C4CDBFCC6)
-[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=6B46AE5241CF86D91DE4)
-[Python For Absolute Beginners : Learn Python From Scratch](https://www.udemy.com/course/pythonforabsolutebeginners/?couponCode=C0B21FF91C056901EECE)
-[150+ Exercises – Object Oriented Programming in Python – OOP](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/?couponCode=9E868045AF18BFD23B3D)
-[Primavera P6 Project Planning and Scheduling Masterclass](https://www.udemy.com/course/primavera-p6-learning-foundations/?couponCode=A286A2B2434837CFE762)
-[Complete Filmmaker Guide: Become an Incredible Video Creator](https://www.udemy.com/course/incrediblevideocreator/?couponCode=FILMMAKER2)
-[210+ Exercises – Python Standard Libraries – 2023](https://www.udemy.com/course/exercises-python-standard-libraries/?couponCode=A4B71ECEA2F685830DFD)
-[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=05C07AF588CC2D37915C)
-[Design Sketching S01: Create Amazing Designs with Procreate](https://www.udemy.com/course/design-sketching-s01-create-amazing-designs-with-procreate/?couponCode=HURDLESM1OOO)
+[Mastering AWS Elastic Map Reduce (EMR) for Data Engineers](https://www.udemy.com/course/mastering-aws-elastic-map-reduce-for-data-engineers/?couponCode=ITV20230401FREE)
+[Mastering SQL using Postgresql](https://www.udemy.com/course/mastering-sql-using-postgresql/?couponCode=ITV20230401FREE)
+[Sqoop, Hive and Impala for Data Analysts (Formerly CCA 159)](https://www.udemy.com/course/cca-159-data-analyst-using-sqoop-hive-and-impala/?couponCode=ITV20230401FREE)
+[Practical Guide to setup Hadoop and Spark Cluster using CDH](https://www.udemy.com/course/cca-131-cloudera-certified-hadoop-and-spark-administrator/?couponCode=ITV20230401FREE)
+[Linux Fundamentals for IT Professionals using Ubuntu 20x](https://www.udemy.com/course/linux-fundamentals-for-it-professionals/?couponCode=ITV20230401FREE)
+[MySQL Database Development Mastery](https://www.udemy.com/course/mysql-database-development-mastery/?couponCode=549ACC5F68165AF7929F)
+[Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://www.udemy.com/course/advanced-php-web-development-w-mysql-github-bootstrap-4/?couponCode=DB4C0CEF569023EC8514)
+[Learn to Code in Python 3: Programming beginner to advanced](https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=B116C30A865B99381614)
+[Dynamic Programming Algorithms](https://www.udemy.com/course/dynamic-programming-algorithms-coding-interview-questions/?couponCode=58F069065543148A4BC8)
+[Recursion and Backtracking Algorithms in Java](https://www.udemy.com/course/recursion-and-backtracking-algorithms-in-java/?couponCode=07EC3867CD5B9F26035D)
+[Graph Theory Algorithms in Java](https://www.udemy.com/course/graph-theory-algorithms-in-java/?couponCode=046F089F84F631E87953)
+[Learn Photoshop From Scratch Practically](https://www.udemy.com/course/complete-photoshop-course-beginner-to-expert-x/?couponCode=8C3FEEB1848A3F507A9D)
 
