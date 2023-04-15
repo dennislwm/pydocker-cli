@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/04/2023
+# Daily Free Udemy Courses - 15/04/2023
 
-[GitLab and CICD Mastery: Automate Your Software Delivery](https://www.udemy.com/course/gitlab-cicd-essentials-for-industry-comprehensive-tutorial/?couponCode=22D1EEE0CFD3601F3D42)
-[Learn Big Data Basics](https://www.udemy.com/course/learn-big-data-basics/?couponCode=7D89D40245A2B57547C2)
-[Data Analytics,Storage,Mining & Visual Big Data Technologies](https://www.udemy.com/course/different-technologies-in-big-data/?couponCode=8079E60B8E839BC103C4)
-[CompTIA Security+ ( SY0-601 ) ADVANCE Mock Exams | 900Q](https://www.udemy.com/course/comptia-security-sy0-601-advance-mock-exams-900q/?couponCode=273C8840B8A668571E18)
-[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=2C7347CC4A6CCD2A744A)
-[Big Data Programming Languages & Big Data Vs Data Science](https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=D5062F0732E5EC48A2A0)
-[First Step in Automation Testing; Writing Robust Web Locator](https://www.udemy.com/course/learn-how-to-write-robust-web-locators/?couponCode=TOTALLY-FREE)
-[Color Workshop: The Basics for Artists and Illustrators](https://www.udemy.com/course/colorforartists/?couponCode=COLORWORKSHOPFREE)
-[Scrum Certification 2023 + Agile Scrum Master Certification](https://www.udemy.com/course/scrum-certification/?couponCode=130423_FREE)
-[AWS Cloud Practitioner Certification](https://www.udemy.com/course/aws-cloud-practitioner-certification-e/?couponCode=DROP-0813)
-[Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=674258CF43A1B03C359C)
-[CSS And JavaScript Complete Course For Beginners](https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=9C8B6F1856E085A767E5)
+[Reverse Engineering 5: Reversing Visual Basic](https://www.udemy.com/course/reverse-engineering-visual-basic/?couponCode=APRIL_FREE)
+[Reverse Engineering, Memory Hacking and Software Protection](https://www.udemy.com/course/reverse-engineering-packed-programs/?couponCode=APRIL_FREE)
+[Python Performance Optimization](https://www.udemy.com/course/python-performance-optimization/?couponCode=APRIL14)
+[Master Your Mind – Self Mastery](https://www.udemy.com/course/spiritual-mindfulness-b/?couponCode=F6A9BB99D3ADABAFE50F)
+[The Power of DALL-E2: Crafting Incredible AI Art in 2023](https://www.udemy.com/course/the-power-of-dall-e2-crafting-incredible-ai-art-in-2023-course/?couponCode=DALL-E2AICPN)
+[Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/?couponCode=2971B5E2130732CD0EF7)
+[PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=176364DDB0BE6559DE93)
+[PMP® Practice Test: Project Management Professional 2021](https://www.udemy.com/course/pmp-practice-test-project-management-professional-2021/?couponCode=E7CD4F8D269A5B9132F3)
+[PMI-ACP®: Agile Certified Project Management 200 Questions](https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=46DF620A10783EF8B9B4)
+[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=OCSALY_APRIL)
+[Data Manipulation in Python: Master Python, Numpy & Pandas](https://www.udemy.com/course/master-data-science-in-python/?couponCode=A2E6E1B36AE987D48D34)
+[The Complete Vue.JS Course for Beginners: Zero to Mastery](https://www.udemy.com/course/the-complete-vuejs-course-for-beginners-zero-to-mastery/?couponCode=23833F9722E4939BBA1C)
 
