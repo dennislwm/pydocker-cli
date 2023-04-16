@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/04/2023
+# Daily Free Udemy Courses - 16/04/2023
 
-[Reverse Engineering 5: Reversing Visual Basic](https://www.udemy.com/course/reverse-engineering-visual-basic/?couponCode=APRIL_FREE)
-[Reverse Engineering, Memory Hacking and Software Protection](https://www.udemy.com/course/reverse-engineering-packed-programs/?couponCode=APRIL_FREE)
-[Python Performance Optimization](https://www.udemy.com/course/python-performance-optimization/?couponCode=APRIL14)
-[Master Your Mind – Self Mastery](https://www.udemy.com/course/spiritual-mindfulness-b/?couponCode=F6A9BB99D3ADABAFE50F)
-[The Power of DALL-E2: Crafting Incredible AI Art in 2023](https://www.udemy.com/course/the-power-of-dall-e2-crafting-incredible-ai-art-in-2023-course/?couponCode=DALL-E2AICPN)
-[Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/?couponCode=2971B5E2130732CD0EF7)
-[PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=176364DDB0BE6559DE93)
-[PMP® Practice Test: Project Management Professional 2021](https://www.udemy.com/course/pmp-practice-test-project-management-professional-2021/?couponCode=E7CD4F8D269A5B9132F3)
-[PMI-ACP®: Agile Certified Project Management 200 Questions](https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=46DF620A10783EF8B9B4)
-[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=OCSALY_APRIL)
-[Data Manipulation in Python: Master Python, Numpy & Pandas](https://www.udemy.com/course/master-data-science-in-python/?couponCode=A2E6E1B36AE987D48D34)
-[The Complete Vue.JS Course for Beginners: Zero to Mastery](https://www.udemy.com/course/the-complete-vuejs-course-for-beginners-zero-to-mastery/?couponCode=23833F9722E4939BBA1C)
+[Scrum for Success: Master Agile, Scrum and best practices](https://www.udemy.com/course/scrum-for-success-master-agile-scrum-simulaiton-and-best-practices/?couponCode=APRIL15-23)
+[Learn Unity’s New UI Tools](https://www.udemy.com/course/learn-unitys-new-ui-tools/?couponCode=UNITY_FREE8)
+[SEO:Affiliate Marketing Website + SEO |255+ Videos |22 Hours](https://www.udemy.com/course/seoaffiliate-marketing-website-seo-255-videos-22-hours/?couponCode=AFFMARKETING23)
+[React JS- Complete Guide for Frontend Web Development [2023]](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEAPRIL108)
+[Liberate your body](https://www.udemy.com/course/liberate-your-body/?couponCode=D2668C15F20239F59573)
+[OWASP Top 10 for Docker Containers and Kubernetes Security](https://www.udemy.com/course/owasp-top-10-for-docker-and-kubernetes-security/?couponCode=21A9B3C86067EC7C2AD8)
+[SQL Boot Camp 2023: Complete SQL Course](https://www.udemy.com/course/sql-bootcamp-course/?couponCode=7E36EC7511297CE15C0D)
+[Python Programming – From Basics to Advanced level [2023]](https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEAPRIL109)
+[Complete Beginners Trading Strategy For Passive Income](https://www.udemy.com/course/swing-trading-strategy-for-beginners-full-course/?couponCode=EAFE776897A22F8C1DA4)
+[Mastering Exchange Server with Powershell: Databases](https://www.udemy.com/course/mastering-exchange-server-2016-with-powershell-databases/?couponCode=C5D2702C3D28CB94C6AA)
+[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE_APR23)
+[Mastering Exchange Server with Powershell: Recipients](https://www.udemy.com/course/mastering-exchange-server-2016-with-powershell/?couponCode=B6E716D66C2676E474C2)
 
