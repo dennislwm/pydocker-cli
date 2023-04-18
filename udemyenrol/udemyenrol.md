@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/04/2023
+# Daily Free Udemy Courses - 18/04/2023
 
-[Complete Python Challenges: Python MCQ& Python Recap in 2023](https://www.udemy.com/course/python-exercises-workbook/?couponCode=6C1CADC843EE31139B79)
-[Learn Microsoft Publisher 2016 Complete Course for Beginners](https://www.udemy.com/course/learn-microsoft-publisher-2016-complete-course-for-beginners/?couponCode=E82775C59B7200FDA99C)
-[IT Networking Fundamentals Exclusively for Beginners](https://www.udemy.com/course/it-networking-fundamentals-exclusively-for-beginners/?couponCode=AFE770265F551D3B7774)
-[Machine Learning Basics in Hindi हिंदी – Regression Analysis](https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=254743C)
-[Machine Learning using Python](https://www.udemy.com/course/machine-learning-using-python-starttech/?couponCode=81D308E)
-[Test Automation for Beginners](https://www.udemy.com/course/test-automation-for-beginners/?couponCode=9386F5B0902DEA17A5A7)
-[Happiness By Positive Psychology, Counselling in Hindi 2023](https://www.udemy.com/course/mindfulness-self-awareness-counselling-course-in-hindi/?couponCode=HAPPINESSFORYOU)
-[Presentation Skills for Product Managers](https://www.udemy.com/course/presentation-skills-for-product-managers/?couponCode=EARLY-REVIEWERS)
-[Copywriting & Content Marketing Course: Be a Pro Copywriter](https://www.udemy.com/course/content-marketing-course-/?couponCode=LUCKYWATERRABBIT1)
-[Claves para crear un negocio digital escalable](https://www.udemy.com/course/claves-para-crear-un-negocio-digital-escalable/?couponCode=5A1D11E48BBFDFF2D8C9)
-[Learn to Code in Python 3: Programming beginner to advanced](https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=EE386B6702E632698F01)
-[Modern PHP Web Development w/ MySQL, GitHub & Heroku](https://www.udemy.com/course/advanced-php-web-development-w-mysql-github-bootstrap-4/?couponCode=6D91041224FE89DD5972)
+[Streamlit Bootcamp](https://www.udemy.com/course/streamlit-bootcamp/?couponCode=8023288D858A0C131243)
+[Communication & Public Speaking Skills For Beginners](https://www.udemy.com/course/mastering-communication-skills-public-speaking-skills-course/?couponCode=COMMUNICATION_SKILLS)
+[Entrepreneurship: Defining Your Values & Business Vision](https://www.udemy.com/course/entrepreneurship-defining-your-values-business-vision/?couponCode=5379F40954E6E34D97EA)
+[Cryptocurrencies: BTC & Alts Trading with Technical Analysis](https://www.udemy.com/course/cryptocurrencies-btc-alts-trading-with-technical-analysis/?couponCode=9320C1C6433BD2FB79CB)
+[Burp Suite Apprentice Web App Penetration Testing Course](https://www.udemy.com/course/burp-suite-apprentice-web-app-penetration-testing-course/?couponCode=AF5F56787351FBE63EE5)
+[The Complete Short Course on Ripple Cryptocurrency](https://www.udemy.com/course/ripple-coin-cryptocurrency/?couponCode=2APR23)
+[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=2F664A73411E85D445D5)
+[How to make Video Intro and Outro: A Beginner’s Guide](https://www.udemy.com/course/how-to-make-video-intro-and-outro-a-beginners-guide/?couponCode=LYKABLEAPRIL2023)
+[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=1E27078627F3B098355A)
+[Increase your Self Belief in 21 days](https://www.udemy.com/course/increase-your-self-belief-in-21-days/?couponCode=IAMREADYFORMORE)
+[Product Owner Certification Mock Exams 2023+Agile Scrum](https://www.udemy.com/course/product-owner-certification-exam/?couponCode=170423_FREE)
+[P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?couponCode=APR2023FREE01)
 
