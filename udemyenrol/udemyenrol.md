@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/04/2023
+# Daily Free Udemy Courses - 20/04/2023
 
-[Streamlit Bootcamp](https://www.udemy.com/course/streamlit-bootcamp/?couponCode=8023288D858A0C131243)
-[Communication & Public Speaking Skills For Beginners](https://www.udemy.com/course/mastering-communication-skills-public-speaking-skills-course/?couponCode=COMMUNICATION_SKILLS)
-[Entrepreneurship: Defining Your Values & Business Vision](https://www.udemy.com/course/entrepreneurship-defining-your-values-business-vision/?couponCode=5379F40954E6E34D97EA)
-[Cryptocurrencies: BTC & Alts Trading with Technical Analysis](https://www.udemy.com/course/cryptocurrencies-btc-alts-trading-with-technical-analysis/?couponCode=9320C1C6433BD2FB79CB)
-[Burp Suite Apprentice Web App Penetration Testing Course](https://www.udemy.com/course/burp-suite-apprentice-web-app-penetration-testing-course/?couponCode=AF5F56787351FBE63EE5)
-[The Complete Short Course on Ripple Cryptocurrency](https://www.udemy.com/course/ripple-coin-cryptocurrency/?couponCode=2APR23)
-[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=2F664A73411E85D445D5)
-[How to make Video Intro and Outro: A Beginner’s Guide](https://www.udemy.com/course/how-to-make-video-intro-and-outro-a-beginners-guide/?couponCode=LYKABLEAPRIL2023)
-[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=1E27078627F3B098355A)
-[Increase your Self Belief in 21 days](https://www.udemy.com/course/increase-your-self-belief-in-21-days/?couponCode=IAMREADYFORMORE)
-[Product Owner Certification Mock Exams 2023+Agile Scrum](https://www.udemy.com/course/product-owner-certification-exam/?couponCode=170423_FREE)
-[P.O.W.E.R. : Proven Interview System to crack your DREAM job](https://www.udemy.com/course/ace-every-job-interview-master-blueprint-and-get-your-dream-job/?couponCode=APR2023FREE01)
+[C++ And Java Training Crash Course 2022](https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=0E122DF1BD65111641A2)
+[How To Block and Repel A Manipulator’s Tactics](https://www.udemy.com/course/how-to-stop-manipulators-and-narcissists/?couponCode=960C1709B977F527CDB3)
+[Python Programming- Practice Tests & Interview Questions](https://www.udemy.com/course/python-programming-practice-tests-interview-questions/?couponCode=PROMOCOUPONS24.COM)
+[The Ultimate Web Application Bug Bounty Hunting Course](https://www.udemy.com/course/the-ultimate-web-application-bug-bounty-hunting-course/?couponCode=B4C61B4CF35DDE88F029)
+[Learn Big Data Basics](https://www.udemy.com/course/learn-big-data-basics/?couponCode=722B796241A21521A255)
+[Microsoft Certified: Azure Fundamentals (AZ-900) – Exams](https://www.udemy.com/course/microsoft-certified-azure-fundamentals-az-900-exams/?couponCode=120749B315680A8631FF)
+[Scrum Master Certification (PSM1) – IN Hindi](https://www.udemy.com/course/professional-scrum-master-psm1-in-hindi/?couponCode=PSM-HINDI)
+[Data Analytics,Storage,Mining & Visual Big Data Technologies](https://www.udemy.com/course/different-technologies-in-big-data/?couponCode=04DF4E8DB5D62CF16B77)
+[Big Data Programming Languages & Big Data Vs Data Science](https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=1F567D55E7AD4003F306)
+[CentOS Linux and Ubuntu Linux: Managing Packages](https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=B726F138E7715B3E2A15)
+[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=296D6ACBABA92E300F71)
+[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=D7E5ECE3D41ED53580A7)
 
