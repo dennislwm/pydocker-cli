@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/04/2023
+# Daily Free Udemy Courses - 21/04/2023
 
-[C++ And Java Training Crash Course 2022](https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=0E122DF1BD65111641A2)
-[How To Block and Repel A Manipulator’s Tactics](https://www.udemy.com/course/how-to-stop-manipulators-and-narcissists/?couponCode=960C1709B977F527CDB3)
-[Python Programming- Practice Tests & Interview Questions](https://www.udemy.com/course/python-programming-practice-tests-interview-questions/?couponCode=PROMOCOUPONS24.COM)
-[The Ultimate Web Application Bug Bounty Hunting Course](https://www.udemy.com/course/the-ultimate-web-application-bug-bounty-hunting-course/?couponCode=B4C61B4CF35DDE88F029)
-[Learn Big Data Basics](https://www.udemy.com/course/learn-big-data-basics/?couponCode=722B796241A21521A255)
-[Microsoft Certified: Azure Fundamentals (AZ-900) – Exams](https://www.udemy.com/course/microsoft-certified-azure-fundamentals-az-900-exams/?couponCode=120749B315680A8631FF)
-[Scrum Master Certification (PSM1) – IN Hindi](https://www.udemy.com/course/professional-scrum-master-psm1-in-hindi/?couponCode=PSM-HINDI)
-[Data Analytics,Storage,Mining & Visual Big Data Technologies](https://www.udemy.com/course/different-technologies-in-big-data/?couponCode=04DF4E8DB5D62CF16B77)
-[Big Data Programming Languages & Big Data Vs Data Science](https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=1F567D55E7AD4003F306)
-[CentOS Linux and Ubuntu Linux: Managing Packages](https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=B726F138E7715B3E2A15)
-[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=296D6ACBABA92E300F71)
-[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=D7E5ECE3D41ED53580A7)
+[Create Surreal Photo Manipulation & Digital Art in Photoshop](https://www.udemy.com/course/create-surreal-photo-manipulation-digital-art-in-photoshop/?couponCode=LEARNWITHMIRZA1)
+[C++ Training Crash Course 2022](https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=096516C839571FE3F2C7)
+[Certified Wireless Network Administrator Practice Tests 2023](https://www.udemy.com/course/certified-wireless-network-administrator-practice-tests-2023/?couponCode=16293C2058664B1962DB)
+[Procurement in Practice](https://www.udemy.com/course/procurement-lab/?couponCode=APRIL23PROMO)
+[Thai Language Quick Start Guide – Learn Thai Language Basics](https://www.udemy.com/course/thai-language-course/?couponCode=1000-FREE)
+[Complete Affiliate Marketing Introduction for Beginners 2023](https://www.udemy.com/course/complete-affiliate-marketing-introduction-for-beginners-2022-course/?couponCode=AFFMARKETING2023)
+[Master course : Vigilant Leader, Upskilling & ERG Leadership](https://www.udemy.com/course/vigilant-leader-upskilling-erg-leadership/?couponCode=BF27F46CD4B3D1B678D7)
+[Goal Setting For Success: Plan And Achieve Your Goals](https://www.udemy.com/course/goal-setting-for-students-plan-and-achieve-your-goals/?couponCode=9044A8B7D00FD32FC656)
+[Digital Marketing Mastery 2023 with Dekker Fraser, MBA](https://www.udemy.com/course/digital-marketing-mba/?couponCode=BCDD7F71FDCAF7FE7A41)
+[Influencer Marketing & Instagram Marketing: Be Famous in 2mo](https://www.udemy.com/course/become-famous/?couponCode=F579F7EC55DEA0BD7277)
+[Market Research | Complete Marketing Research Course 2023](https://www.udemy.com/course/market-research-complete-marketing-research-course-2022/?couponCode=9ABEC34E1623466F1DE0)
+[Become a Leader Development Course | Leadership Development](https://www.udemy.com/course/leadership-development-course/?couponCode=256689525C54E2DD3F01)
 
