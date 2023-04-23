@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/04/2023
+# Daily Free Udemy Courses - 23/04/2023
 
-[Python Programming- Practice Tests & Interview Questions](https://www.udemy.com/course/python-programming-practice-tests-interview-questions/?couponCode=DISCUDEMY.COM)
-[C++ Programming- Practice Tests & Interview Questions](https://www.udemy.com/course/c-programming-practice-tests-interview-questions/?couponCode=DISCUDEMY.COM)
-[Professional Financial Analyst Assessment (PFAA)](https://www.udemy.com/course/financial-analyst/?couponCode=C57A57F0DE5A753B2D96)
-[Lead Digital Transformations with Customer eXperiences](https://www.udemy.com/course/lead-digital-transformations-with-customer-experiences/?couponCode=84B90A70C3C088FC82BE)
-[Practical Skills on Stablecoin Investment: Beginner](https://www.udemy.com/course/practical-skills-on-stablecoin-investment-beginner/?couponCode=CD1A6453C8E5CD38810F)
-[The Complete ReactJs Course – Basics to Advanced [2023]](https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREEAPRIL116)
-[JavaScript – Basics to Advanced step by step [2023]](https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEAPRIL117)
-[Effective Goals for People with No Time](https://www.udemy.com/course/masterclass-effective-goals/?couponCode=6AF88A03E1CB77B95233)
-[Javascript Practicals Crash Course](https://www.udemy.com/course/javascript-practicals-crash-course/?couponCode=88F8ED99CD83FD25331B)
-[Strategic Business Administration Assessment](https://www.udemy.com/course/businessadministration/?couponCode=8AD4EA9442E52D64C9FE)
-[Project Management Assessment](https://www.udemy.com/course/project-management-assessment/?couponCode=E73E3C9CD2AFC8F3C374)
-[AZ-104 – Microsoft Azure Hands On Labs](https://www.udemy.com/course/az-104-microsoft-azure-hands-on-labs/?couponCode=7450A8898A408498DEF0)
+[Complete Arduino Course For Beginners](https://www.udemy.com/course/full-arduino-course-for-beginners/?couponCode=22APR2023_5DS_1000ST)
+[Mastering Database Management with Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?couponCode=DEVLYZER-C3-P2)
+[Advance your Midjourney Proficiency|From Beginner to Master|](https://www.udemy.com/course/advance-your-midjourney-proficiencyfrom-beginner-to-master/?couponCode=21D60F3CF1B173B18037)
+[The Law of Attraction for Realness](https://www.udemy.com/course/the-law-of-attraction-for-realness/?couponCode=REALNESSFORFREE)
+[Offensive Security Certified Professional (arabic)](https://www.udemy.com/course/oscp-arabic/?couponCode=9DE0EF236029FED5CC9C)
+[The Complete, Step-By-Step course to Ace your Job Interview](https://www.udemy.com/course/interview-hero/?couponCode=INTERVIEWJOB)
+[B2B Cold Email Course 2023 – 5 Figure Copywriting Blueprint](https://www.udemy.com/course/b2b-cold-email-course-2022-5-figure-copywriting-blueprint/?couponCode=5FIGURECOPY23)
+[Passive Income on Fiverr using Grammarly and Zero Skills](https://www.udemy.com/course/passive-income-on-fiverr-using-grammarly-and-zero-skills/?couponCode=FIVERRGRAMMARLY23)
+[Shopify guide: The complete shopify store creation course](https://www.udemy.com/course/the-complete-shopify-store-creation-course/?couponCode=0F9EEFA4888B02BE55BF)
+[Healing Family Relationships After Addiction](https://www.udemy.com/course/healing-family-relationships-after-addiction/?couponCode=ADDICTEDLOVE)
+[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=SPRING23)
+[Learn Unity’s New UI Tools](https://www.udemy.com/course/learn-unitys-new-ui-tools/?couponCode=UNITY_FREE9)
 
