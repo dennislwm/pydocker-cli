@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/04/2023
+# Daily Free Udemy Courses - 27/04/2023
 
-[Disaster Recovery (BCDR) in Azure using ASR, Chaos Studio](https://www.udemy.com/course/azdisaster/?couponCode=AZRECOVER)
-[AI-900: Microsoft Azure Artificial Intelligence Fundamentals](https://www.udemy.com/course/microsoft-ai-900/?couponCode=AZUREAI)
-[AWS Solutions Architect Professional Premium Practice Tests](https://www.udemy.com/course/aws-solutions-architect-professional-premium-practice-tests/?couponCode=AWS-SAP-FREE)
-[Learn VMware Fusion | Creating VM’s on your Mac! DIY HomeLab](https://www.udemy.com/course/vmwarefusion/?couponCode=5AD5E210AE2DACE5448B)
-[Learn iMovie for Beginners – Video Editing on the Mac](https://www.udemy.com/course/imoviepro/?couponCode=6C7A83DC7976725BD306)
-[ISC2- CCSP Certified Cloud Security Professional Mock Test](https://www.udemy.com/course/isc2-ccsp-certified-cloud-security-professional-real-test/?couponCode=ISC2CCSPFREE)
-[Azure Open AI & Prompt Engineering Zero to Hero with Chatgpt](https://www.udemy.com/course/azopenai/?couponCode=FREEAZUREOPENAI)
-[Learn Hacking Using Social Engineering](https://www.udemy.com/course/social-engineering-attacks/?couponCode=81E8690F62F49517D193)
-[Profitable Forex Candlestick Trading Strategy – Forex Trader](https://www.udemy.com/course/profitable-forex-candlestick-trading-strategy-forex-trader/?couponCode=130643705058368E5D24)
-[Complete WiFi Hacking Course: Beginner to Advanced](https://www.udemy.com/course/complete-wifi-hacking-course/?couponCode=WIFIHACKING998)
-[Pass SC-100: MS Cybersecurity Architect Exam in first try](https://www.udemy.com/course/sc-100-ms-cybersecurity-architect/?couponCode=0E60FC6765D5080AE43B)
-[Google Cloud Platform – Fundamentos Laboratorios y Practicas](https://www.udemy.com/course/google-cloud-platform-fundamentos-laboratorios-practicas/?couponCode=8FB5F43AC0D4B7993A8E)
+[Chrome Extensions Basics](https://www.udemy.com/course/chrome-extensions-course/?couponCode=FREE423G6S3)
+[CLO-002 CompTIA Cloud Essentials+](https://www.udemy.com/course/clo002-comptia-cloud-essentials/?couponCode=FREETEST)
+[CompTIA A+ Core 2 (220-1002) Masterclass: Six Practice Tests](https://www.udemy.com/course/comptia-a-core-2-2201002/?couponCode=FREETEST)
+[CompTIA A+ Core 1 (220-1001) Masterclass: Six Practice Tests](https://www.udemy.com/course/comptia-a-core-1-2201001/?couponCode=FREETEST)
+[Fastest Laravel app building trick](https://www.udemy.com/course/build-fast-laravel-applications-using-blueprint/?couponCode=A09EF72390398775F28B)
+[Azure Open AI & Prompt Engineering Zero to Hero with Chatgpt](https://www.udemy.com/course/azopenai/?couponCode=AZUREFREE)
+[Salesforce ADM-211 Test 2023](https://www.udemy.com/course/salesforce-adm-211-test-2023/?couponCode=CF270F031A8569288E05)
+[AWS Certified Advanced Networking – Specialty Exam](https://www.udemy.com/course/aws-certified-advanced-networking-specialty-exam-2022-e/?couponCode=B354A8A20E8077F60199)
+[Amazon AWS-SysOps Administrator Practice Test](https://www.udemy.com/course/amazon-aws-sysops-administrator-practice-test-2022/?couponCode=2757B06E6EF45BDB93D8)
+[PMP Practice Test](https://www.udemy.com/course/pmp-practice-test-2022/?couponCode=659B51F2429E4C63A60C)
+[Microsoft AI-102 Practice Test](https://www.udemy.com/course/microsoft-ai-102-practice-test-2022/?couponCode=99B0979F34364136FEB7)
+[salesforce adm-201 certification questions](https://www.udemy.com/course/salesforce-adm-201-certification-questions/?couponCode=3B3C7F4F1BF0F5512805)
 
