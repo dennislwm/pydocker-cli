@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/04/2023
+# Daily Free Udemy Courses - 28/04/2023
 
-[Chrome Extensions Basics](https://www.udemy.com/course/chrome-extensions-course/?couponCode=FREE423G6S3)
-[CLO-002 CompTIA Cloud Essentials+](https://www.udemy.com/course/clo002-comptia-cloud-essentials/?couponCode=FREETEST)
-[CompTIA A+ Core 2 (220-1002) Masterclass: Six Practice Tests](https://www.udemy.com/course/comptia-a-core-2-2201002/?couponCode=FREETEST)
-[CompTIA A+ Core 1 (220-1001) Masterclass: Six Practice Tests](https://www.udemy.com/course/comptia-a-core-1-2201001/?couponCode=FREETEST)
-[Fastest Laravel app building trick](https://www.udemy.com/course/build-fast-laravel-applications-using-blueprint/?couponCode=A09EF72390398775F28B)
-[Azure Open AI & Prompt Engineering Zero to Hero with Chatgpt](https://www.udemy.com/course/azopenai/?couponCode=AZUREFREE)
-[Salesforce ADM-211 Test 2023](https://www.udemy.com/course/salesforce-adm-211-test-2023/?couponCode=CF270F031A8569288E05)
-[AWS Certified Advanced Networking – Specialty Exam](https://www.udemy.com/course/aws-certified-advanced-networking-specialty-exam-2022-e/?couponCode=B354A8A20E8077F60199)
-[Amazon AWS-SysOps Administrator Practice Test](https://www.udemy.com/course/amazon-aws-sysops-administrator-practice-test-2022/?couponCode=2757B06E6EF45BDB93D8)
-[PMP Practice Test](https://www.udemy.com/course/pmp-practice-test-2022/?couponCode=659B51F2429E4C63A60C)
-[Microsoft AI-102 Practice Test](https://www.udemy.com/course/microsoft-ai-102-practice-test-2022/?couponCode=99B0979F34364136FEB7)
-[salesforce adm-201 certification questions](https://www.udemy.com/course/salesforce-adm-201-certification-questions/?couponCode=3B3C7F4F1BF0F5512805)
+[Frontend Web Development for Beginners](https://www.udemy.com/course/frontenddeveloper/?couponCode=6C42D516CC97FA3D7A49)
+[Building News Website with Javascript, React, and News API](https://www.udemy.com/course/building-news-website-with-javascript-react-and-news-api/?couponCode=3B55DB14FD3684278092)
+[Complete Guide to TOEFL iBT | Get the score you need!](https://www.udemy.com/course/complete-guide-to-toefl-ibt/?couponCode=APRILFREE1)
+[Embedded Systems Concepts](https://www.udemy.com/course/embedded-systems-concepts/?couponCode=8C62550DE2299528A62F)
+[Learn To Create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/?couponCode=APRIL2023)
+[Fiverr Freelancing 2023: Sell Like The Top 1%](https://www.udemy.com/course/freelance-with-fiverr-2023-how-to-sell-on-fiverr-like-a-pro/?couponCode=9D3E8B588DDE43F2C1E5)
+[Information Security Expert Assessment](https://www.udemy.com/course/information_security_expert/?couponCode=2E96EEB628F1FA18137D)
+[Getting Started with Vim for Beginners](https://www.udemy.com/course/an-introduction-to-vim-editor/?couponCode=9DE1BD67E6C28136554B)
+[Learn Python With 20+ Real World Projects [In 2023]](https://www.udemy.com/course/learn-python-with-20-real-world-projects/?couponCode=APRIL2023)
+[Arduino UNO Based Obstacle Avoiding Robot Car & RC-Control](https://www.udemy.com/course/arduino-uno-based-obstacle-avoiding-robot-car-rc-control/?couponCode=APRIL2023)
+[Disaster Recovery (BCDR) in Azure using ASR, Chaos Studio](https://www.udemy.com/course/azdisaster/?couponCode=F4DCD7BD27E70490DB80)
+[Analysis of Cambridge IGCSE Chinese 0547-11 Listening (2022)](https://www.udemy.com/course/analysis-of-cambridge-igcse-chinese-0547-11-listening-2022/?couponCode=89852AA79FEBC2099C4D)
 
