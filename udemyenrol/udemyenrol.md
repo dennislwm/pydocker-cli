@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/04/2023
+# Daily Free Udemy Courses - 29/04/2023
 
-[Frontend Web Development for Beginners](https://www.udemy.com/course/frontenddeveloper/?couponCode=6C42D516CC97FA3D7A49)
-[Building News Website with Javascript, React, and News API](https://www.udemy.com/course/building-news-website-with-javascript-react-and-news-api/?couponCode=3B55DB14FD3684278092)
-[Complete Guide to TOEFL iBT | Get the score you need!](https://www.udemy.com/course/complete-guide-to-toefl-ibt/?couponCode=APRILFREE1)
-[Embedded Systems Concepts](https://www.udemy.com/course/embedded-systems-concepts/?couponCode=8C62550DE2299528A62F)
-[Learn To Create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/?couponCode=APRIL2023)
-[Fiverr Freelancing 2023: Sell Like The Top 1%](https://www.udemy.com/course/freelance-with-fiverr-2023-how-to-sell-on-fiverr-like-a-pro/?couponCode=9D3E8B588DDE43F2C1E5)
-[Information Security Expert Assessment](https://www.udemy.com/course/information_security_expert/?couponCode=2E96EEB628F1FA18137D)
-[Getting Started with Vim for Beginners](https://www.udemy.com/course/an-introduction-to-vim-editor/?couponCode=9DE1BD67E6C28136554B)
-[Learn Python With 20+ Real World Projects [In 2023]](https://www.udemy.com/course/learn-python-with-20-real-world-projects/?couponCode=APRIL2023)
-[Arduino UNO Based Obstacle Avoiding Robot Car & RC-Control](https://www.udemy.com/course/arduino-uno-based-obstacle-avoiding-robot-car-rc-control/?couponCode=APRIL2023)
-[Disaster Recovery (BCDR) in Azure using ASR, Chaos Studio](https://www.udemy.com/course/azdisaster/?couponCode=F4DCD7BD27E70490DB80)
-[Analysis of Cambridge IGCSE Chinese 0547-11 Listening (2022)](https://www.udemy.com/course/analysis-of-cambridge-igcse-chinese-0547-11-listening-2022/?couponCode=89852AA79FEBC2099C4D)
+[AZ-900: Microsoft Azure Fundamentals – Exam Cram](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-cram/?couponCode=8272BE57C)
+[[2023] Google Professional Cloud Developer Practice Exams](https://www.udemy.com/course/2023-google-professional-cloud-developer-practice-exams-new/?couponCode=345E2D7A18C29369FE90)
+[[NEW] AWS Certified Cloud Practitioner Practice Exam 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-2023/?couponCode=F042AADD767776B35EFC)
+[HTML, CSS & Python – Web Development Certification Course](https://www.udemy.com/course/html-css-python-certification-course/?couponCode=9AF82DB6ACAFFF5AEFDC)
+[React JS- Complete Guide for Frontend Web Development [2023]](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEAPRIL143)
+[Python Programming – From Basics to Advanced level [2023]](https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEAPRIL144)
+[Deep Learning MasterClass](https://www.udemy.com/course/deep-learning-masterclass/?couponCode=9DC76F4998A92CB340E7)
+[Machine Learning- From Basics to Advanced](https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/?couponCode=FREEAPRIL142)
+[ChatGPT: Complete ChatGPT Guide For Beginners](https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=SUBHANALLAH_042823)
+[Story Power: Help Children Grow and Thrive in Today’s World](https://www.udemy.com/course/story-power/?couponCode=SPRINGFREE2023)
+[Office Administration and Management](https://www.udemy.com/course/office-and-administrative-management_xl/?couponCode=FREEOAMXL)
+[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=C9E9EEBE1282DC9A6D29)
 
