@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/05/2023
+# Daily Free Udemy Courses - 04/05/2023
 
-[AZ-700 Practice Tests Exam 2023](https://www.udemy.com/course/az-700-practice-exam/?couponCode=0EE4444D35229F84D6AD)
-[PL-600 Power Platform Solution Architect -Prep Exam Tests](https://www.udemy.com/course/pl-600-power-platform-solution-architect-prep-exam-tests/?couponCode=BBF57FD1D9304EADF21B)
-[DP-203 Data Engineering on Microsoft Azure Prep -Tests Exam](https://www.udemy.com/course/dp-203-data-engineering-on-microsoft-azure-prep-tests-exam/?couponCode=61832F9885DB360E1B2F)
-[DP-100 Azure Practice Tests Prep Exam 2023](https://www.udemy.com/course/dp-100-azure-practice-tests-prep-exam/?couponCode=8C97CB936A932D6C561E)
-[Javascript Build a Calculator using HTML, CSS and Javascript](https://www.udemy.com/course/build-a-simple-calculator-using-html-css-and-javascript/?couponCode=MADEIT)
-[Write Html & Css 5 Times Faster With Vs Code & Emmet 2023](https://www.udemy.com/course/learn-visual-studio-code-and-emmet-full-course-vs-code-masterclass-323/?couponCode=30B420FDEC3BF80B95BF)
-[SQL Mastery: Learn Enough SQL To Be A Professional [2023]](https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/?couponCode=B63DA842DCA92A52D13D)
-[The Complete Html and CSS Mastery With Real Projects 2023](https://www.udemy.com/course/html-and-css-basics-to-advance-with-real-website-designs/?couponCode=D4272A1BADFFEEF8339A)
-[Bootstrap 5 Essentials: A Comprehensive Guide 2023](https://www.udemy.com/course/bootstrap-5-beginner-to-advance-with-responsive-website-design/?couponCode=A4C14E24E2DC41DFB60A)
-[The Ultimate Sass & Less Course: Boost Your Web Skills 2023](https://www.udemy.com/course/sass-less-and-stylus-masterclass-the-complete-guide/?couponCode=5687ABD6EA4E89F80948)
-[The Complete Modern Javascript course for beginners 2023](https://www.udemy.com/course/the-complete-modern-javascript-course-for-beginners-complete-course/?couponCode=B9FCE20FCCA0FEFCA0E4)
-[AI-900 Azure AI Fundamentals practice tests](https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-v/?couponCode=MAY2023)
+[Physics For Unity 2022](https://www.udemy.com/course/physics-for-unity/?couponCode=ADA6004C2406EA1FA649)
+[MVC Architecture For Unity 2022](https://www.udemy.com/course/mvc-architecture-for-unity/?couponCode=14096B80649FFC200166)
+[The Concept of Waste](https://www.udemy.com/course/the-concept-of-waste/?couponCode=0481B44287F6D42D7E28)
+[Learn Ruby on Rails 7](https://www.udemy.com/course/learn-ruby-on-rails-7/?couponCode=02FD7F54297208595A83)
+[AWS Certification Training BOOTCAMP + AWS Practice Exam 2023](https://www.udemy.com/course/aws-certification/?couponCode=C158C181121BA2CC3E75)
+[Design Patterns & Antipatterns in JavaScript 2023](https://www.udemy.com/course/mastering-design-patterns-with-javascript/?couponCode=67661B8A4D05597C9C94)
+[Photoshop Beginners to Expert – Secrets Revealed with Tips](https://www.udemy.com/course/photoshop-beginners-to-expert-secrets-revealed-with-tips/?couponCode=FREE1000)
+[Python Exam Success Unlocked: 4 Test Bundle](https://www.udemy.com/course/python-exam-success-unlocked-4-test-bundle/?couponCode=98585BCA2A12533C59E6)
+[Body Language & Non-Verbal Communication Mastery for Leaders](https://www.udemy.com/course/body-language-non-verbal-communication-mastery-for-leaders/?couponCode=EFC6D57FE1228416F97C)
+[Python Exam Prep: A Complete Set of Mock Tests for Success](https://www.udemy.com/course/python-exam-prep-a-complete-set-of-mock-tests-for-success/?couponCode=F39B08B906763BD57DA3)
+[Python Certification Exam: 4 Practice Tests to Ace Your Exam](https://www.udemy.com/course/python-certification-exam-4-practice-tests-to-ace-your-exam/?couponCode=BE8A2A1256C186F35EA2)
+[Practice Tests: Crack the Python PCEP Certification Exam](https://www.udemy.com/course/practice-tests-crack-the-python-pcep-certification-exam/?couponCode=8502918A723FBF60C51D)
 
