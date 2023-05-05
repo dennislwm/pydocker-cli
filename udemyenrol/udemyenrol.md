@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/05/2023
+# Daily Free Udemy Courses - 05/05/2023
 
-[Physics For Unity 2022](https://www.udemy.com/course/physics-for-unity/?couponCode=ADA6004C2406EA1FA649)
-[MVC Architecture For Unity 2022](https://www.udemy.com/course/mvc-architecture-for-unity/?couponCode=14096B80649FFC200166)
-[The Concept of Waste](https://www.udemy.com/course/the-concept-of-waste/?couponCode=0481B44287F6D42D7E28)
-[Learn Ruby on Rails 7](https://www.udemy.com/course/learn-ruby-on-rails-7/?couponCode=02FD7F54297208595A83)
-[AWS Certification Training BOOTCAMP + AWS Practice Exam 2023](https://www.udemy.com/course/aws-certification/?couponCode=C158C181121BA2CC3E75)
-[Design Patterns & Antipatterns in JavaScript 2023](https://www.udemy.com/course/mastering-design-patterns-with-javascript/?couponCode=67661B8A4D05597C9C94)
-[Photoshop Beginners to Expert – Secrets Revealed with Tips](https://www.udemy.com/course/photoshop-beginners-to-expert-secrets-revealed-with-tips/?couponCode=FREE1000)
-[Python Exam Success Unlocked: 4 Test Bundle](https://www.udemy.com/course/python-exam-success-unlocked-4-test-bundle/?couponCode=98585BCA2A12533C59E6)
-[Body Language & Non-Verbal Communication Mastery for Leaders](https://www.udemy.com/course/body-language-non-verbal-communication-mastery-for-leaders/?couponCode=EFC6D57FE1228416F97C)
-[Python Exam Prep: A Complete Set of Mock Tests for Success](https://www.udemy.com/course/python-exam-prep-a-complete-set-of-mock-tests-for-success/?couponCode=F39B08B906763BD57DA3)
-[Python Certification Exam: 4 Practice Tests to Ace Your Exam](https://www.udemy.com/course/python-certification-exam-4-practice-tests-to-ace-your-exam/?couponCode=BE8A2A1256C186F35EA2)
-[Practice Tests: Crack the Python PCEP Certification Exam](https://www.udemy.com/course/practice-tests-crack-the-python-pcep-certification-exam/?couponCode=8502918A723FBF60C51D)
+[Zero to Hero with GPT-3 & Python : Building Cutting-Edge AI](https://www.udemy.com/course/zero-to-hero-with-gpt-3-python-building-cutting-edge-ai/?couponCode=APRIL2023)
+[MidJourney Master Class: Elevate Your Artistic Skills](https://www.udemy.com/course/midjourney-master-class-elevate-your-artistic-skills/?couponCode=FREE2023)
+[ChatGPT for Product Development](https://www.udemy.com/course/chatgpt-for-product-development/?couponCode=D56B99FF5671FFF42AFD)
+[Metaverse 101 : Ultimate Metaverse Course For Beginners](https://www.udemy.com/course/metaverse-101-ultimate-metaverse-course-for-beginners/?couponCode=FREE2023)
+[Print on Demand 2023: From Zero to Profitable Business](https://www.udemy.com/course/print-on-demand-course/?couponCode=SUBHANALLAHO523)
+[Learn Web Design using WordPress & Start Freelancing](https://www.udemy.com/course/become-successful-wordpress-freelancer-to-make-money-online/?couponCode=SUBHANALLAH0523)
+[Partial Differential Equations: Comprehensive Course](https://www.udemy.com/course/mathematical-intuition-for-heisenberg-uncertainty-principle/?couponCode=PARTIAL1)
+[Mastering Complex Calculus: From Derivatives to Residues](https://www.udemy.com/course/mathematical-theory-of-complex-calculus/?couponCode=COMPLEX1)
+[Mathematical intuition behind Special and General Relativity](https://www.udemy.com/course/mathematical-intuition-behind-special-and-general-relativity/?couponCode=TENSOR1)
+[Advanced Data Analysis using Wavelets and Machine Learning](https://www.udemy.com/course/advanced-data-analysis-using-wavelets-and-machine-learning/?couponCode=WAVELET1)
+[The Math of Random Signals, Fatigue Damage, Vibration Tests](https://www.udemy.com/course/the-math-of-random-signals-fatigue-damage-vibration-tests/?couponCode=VIBRATION1)
+[Mastering Database Management with Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?couponCode=DEVLYZER-C3-P4)
 
