@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/05/2023
+# Daily Free Udemy Courses - 06/05/2023
 
-[Zero to Hero with GPT-3 & Python : Building Cutting-Edge AI](https://www.udemy.com/course/zero-to-hero-with-gpt-3-python-building-cutting-edge-ai/?couponCode=APRIL2023)
-[MidJourney Master Class: Elevate Your Artistic Skills](https://www.udemy.com/course/midjourney-master-class-elevate-your-artistic-skills/?couponCode=FREE2023)
-[ChatGPT for Product Development](https://www.udemy.com/course/chatgpt-for-product-development/?couponCode=D56B99FF5671FFF42AFD)
-[Metaverse 101 : Ultimate Metaverse Course For Beginners](https://www.udemy.com/course/metaverse-101-ultimate-metaverse-course-for-beginners/?couponCode=FREE2023)
-[Print on Demand 2023: From Zero to Profitable Business](https://www.udemy.com/course/print-on-demand-course/?couponCode=SUBHANALLAHO523)
-[Learn Web Design using WordPress & Start Freelancing](https://www.udemy.com/course/become-successful-wordpress-freelancer-to-make-money-online/?couponCode=SUBHANALLAH0523)
-[Partial Differential Equations: Comprehensive Course](https://www.udemy.com/course/mathematical-intuition-for-heisenberg-uncertainty-principle/?couponCode=PARTIAL1)
-[Mastering Complex Calculus: From Derivatives to Residues](https://www.udemy.com/course/mathematical-theory-of-complex-calculus/?couponCode=COMPLEX1)
-[Mathematical intuition behind Special and General Relativity](https://www.udemy.com/course/mathematical-intuition-behind-special-and-general-relativity/?couponCode=TENSOR1)
-[Advanced Data Analysis using Wavelets and Machine Learning](https://www.udemy.com/course/advanced-data-analysis-using-wavelets-and-machine-learning/?couponCode=WAVELET1)
-[The Math of Random Signals, Fatigue Damage, Vibration Tests](https://www.udemy.com/course/the-math-of-random-signals-fatigue-damage-vibration-tests/?couponCode=VIBRATION1)
-[Mastering Database Management with Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?couponCode=DEVLYZER-C3-P4)
+[Sentiment Analysis with NLP using Python and Flask](https://www.udemy.com/course/sentiment-analysis-with-nlp-using-python-flask/?couponCode=A79B19E9E4BAC7B55A67)
+[Building a Face Detection and Recognition Model From Scratch](https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=DFD8675E0DA9E0033862)
+[Object Detection Web App with TensorFlow, OpenCV and Flask](https://www.udemy.com/course/object-detection-web-app-with-tensorflow-opencv-and-flask/?couponCode=A42326E3A8C02DD79DD0)
+[Git and GitHub For Beginners](https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=A2CEAE778CE3169CEDE8)
+[Data Analytics A-Z with Python](https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=46CDD0F100BA1199FD40)
+[The Ultimate ChatGPT Guide](https://www.udemy.com/course/the-ultimate-chatgpt-guide/?couponCode=TUTORIALBARUDEMY)
+[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=DA671D61B2742FA4E1BB)
+[MVC Architecture For Unity 2022](https://www.udemy.com/course/mvc-architecture-for-unity/?couponCode=254CEF91C11B8291E33E)
+[Crypto Technical Analysis Complete Course](https://www.udemy.com/course/crypto-technical-analysis-complete-course/?couponCode=GOODMAN123)
+[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA505)
+[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA505)
+[PHP for Beginners 2023: The Complete PHP MySQL PDO Course](https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK81)
 
