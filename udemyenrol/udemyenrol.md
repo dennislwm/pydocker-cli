@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/05/2023
+# Daily Free Udemy Courses - 07/05/2023
 
-[Sentiment Analysis with NLP using Python and Flask](https://www.udemy.com/course/sentiment-analysis-with-nlp-using-python-flask/?couponCode=A79B19E9E4BAC7B55A67)
-[Building a Face Detection and Recognition Model From Scratch](https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=DFD8675E0DA9E0033862)
-[Object Detection Web App with TensorFlow, OpenCV and Flask](https://www.udemy.com/course/object-detection-web-app-with-tensorflow-opencv-and-flask/?couponCode=A42326E3A8C02DD79DD0)
-[Git and GitHub For Beginners](https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=A2CEAE778CE3169CEDE8)
-[Data Analytics A-Z with Python](https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=46CDD0F100BA1199FD40)
-[The Ultimate ChatGPT Guide](https://www.udemy.com/course/the-ultimate-chatgpt-guide/?couponCode=TUTORIALBARUDEMY)
-[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=DA671D61B2742FA4E1BB)
-[MVC Architecture For Unity 2022](https://www.udemy.com/course/mvc-architecture-for-unity/?couponCode=254CEF91C11B8291E33E)
-[Crypto Technical Analysis Complete Course](https://www.udemy.com/course/crypto-technical-analysis-complete-course/?couponCode=GOODMAN123)
-[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA505)
-[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA505)
-[PHP for Beginners 2023: The Complete PHP MySQL PDO Course](https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK81)
+[Mastering ChatGPT Models: From Fine-tuning to Deployment](https://www.udemy.com/course/mastering-chatgpt-models-from-fine-tuning-to-deployment-openai/?couponCode=521C421245B1C8E14278)
+[Computer Networks Fundamentals](https://www.udemy.com/course/computer-networks-fundamentals/?couponCode=MAYISHERE)
+[The Healthy Lifestyle Formula](https://www.udemy.com/course/the-healthy-lifestyle-formula/?couponCode=4ED7D0D1578B037A2263)
+[ZERO to HERO: AI & ML Starter Course with Hands-On Projects](https://www.udemy.com/course/zero-to-hero-ai-ml-starter-course-with-hands-on-projects/?couponCode=AICOURSE111)
+[Python Arcade Library: Python Game Development For Beginners](https://www.udemy.com/course/python-arcade-game-development/?couponCode=5B915BEC219E9CC43BDE)
+[AZ-104 Exam Preparation: Microsoft Azure Administrator](https://www.udemy.com/course/az-104-exam-preparation-microsoft-azure-administrator/?couponCode=70E9306FC05B86A81D45)
+[Getting Started with Vim for Beginners](https://www.udemy.com/course/an-introduction-to-vim-editor/?couponCode=B97C1AB1B86731DB1548)
+[Tableau Desktop Specialist Certification Exams 2023](https://www.udemy.com/course/tableau-desktop-specialist-certification-exams-2023/?couponCode=2289B1B4512EF2F6139C)
+[Managing Modern Desktops (MD-101) Practice Test](https://www.udemy.com/course/managing-modern-desktops-md-101-practice-test/?couponCode=BE6A571C3E45AAA07206)
+[CompTIA CySA+ (CS0-002) Practice Certification Exams 2023](https://www.udemy.com/course/comptia-cysa-cs0-002-practice-certification-exams/?couponCode=407617C1B79305A12E09)
+[CentOS Linux and Ubuntu Linux: Managing Packages](https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=3C8B2EF4C0BFE06D40CC)
+[Lean Six Sigma Green Belt Exam 2023](https://www.udemy.com/course/lean-six-sigma-green-belt-exam/?couponCode=10BCBD3B47904F004977)
 
