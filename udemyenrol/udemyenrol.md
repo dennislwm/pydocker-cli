@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/05/2023
+# Daily Free Udemy Courses - 09/05/2023
 
-[Docker Certified Associate (DCA)-Practice Test-2022](https://www.udemy.com/course/docker-certified-associate-dca-practice-test-2022/?couponCode=F15CB793AB217AA89D1D)
-[Oracle Database 11g: Program with PL/SQL 4- Practice Test](https://www.udemy.com/course/oracle-database-11g-program-with-plsql-4-practice-test/?couponCode=5FF5D1E8CDA354E5A441)
-[[New] VMware Certified Professional – VCP-DTM Practice Exam](https://www.udemy.com/course/new-vmware-certified-professional-vcp-dtm-practice-exam/?couponCode=2149484174CEDC76DB64)
-[[New] – AZ-104 Microsoft Azure Administrator-Practice Test](https://www.udemy.com/course/new-az-104-microsoft-azure-administrator-practice-test-o/?couponCode=E24DAE0B26A26AB7EB83)
-[Python for Scientific Research: From Beginner to Advanced](https://www.udemy.com/course/python-for-researchers/?couponCode=F7C74F694199935993CC)
-[How To Use R Programming for Research](https://www.udemy.com/course/r-for-research/?couponCode=8C80457A3EDBF783967B)
-[Midjourney Mastery: Unlock Your Creative Potential with AI](https://www.udemy.com/course/midjourney-mastery-unlock-your-creative-potential-with-ai/?couponCode=8446F3F0A62135DEEDD6)
-[The Ultimate C++ Beginner Course | 2022](https://www.udemy.com/course/the-ultimate-c-beginner-course/?couponCode=9CA020C4937C7926AF02)
-[The Ultimate C++ Advanced Course | 2022](https://www.udemy.com/course/the-ultimate-c-advanced-course-2022/?couponCode=C206347EAB182CAAAF2F)
-[Advanced PowerPoint Course For Professional and Job Success](https://www.udemy.com/course/advanced-powerpoint-course-for-professional-and-job-success/?couponCode=CAA3C8B01F173A9A28C9)
-[Fiverr HACKS to Become a Top 1% Freelancer in 2023](https://www.udemy.com/course/fiverr-hacks-to-become-a-top-level-freelancer-with-no-skills/?couponCode=FIVERRFREELANCECPN23)
-[AZ-204: Developing Solutions for Azure – Tests Prep](https://www.udemy.com/course/az-204-developing-solutions-for-azure-tests-prep/?couponCode=F677A7D3C5A21625ACE2)
+[User Stories for Agile Scrum+Product Owner+Business Analysis](https://www.udemy.com/course/userstory/?couponCode=080523_FREE)
+[Peak Thinking : Tools of Great Scientists and Inventors](https://www.udemy.com/course/disrupt-thinking-tools-of-great-scientists-and-tech-moguls/?couponCode=733DD91CF9CE7D8ABFAF)
+[jQuery for Absolute Beginners : From Beginning to Advanced](https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYMAY2023)
+[Azure Open AI & Prompt Engineering Zero to Hero with Chatgpt](https://www.udemy.com/course/azopenai/?couponCode=AEA2E405C83FFCE1C19B)
+[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=FFB08F1984279FA03EA2)
+[Java And PHP Complete Course](https://www.udemy.com/course/java-and-php-complete-course/?couponCode=04E256CB848FC6A82225)
+[Design Patterns & Antipatterns in JavaScript 2023](https://www.udemy.com/course/mastering-design-patterns-with-javascript/?couponCode=ACF18D5EBA2728B9BF5E)
+[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=293600EE8AC385D80FD4)
+[Python Certification Exam PCEP-30-02 – Preparation (2023)](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/?couponCode=DDE41F4F349D2F635071)
+[CISSP Exam – Covering all domains – 150 Ques – 2023 – #5](https://www.udemy.com/course/cissp-exam-covering-all-domains-150-ques-2023-5/?couponCode=059850089259)
+[Civil Engineering, Architecture Softwares in One Course](https://www.udemy.com/course/civil-engineering-architecture-softwares-in-one-course/?couponCode=8831F9AA0E64721F75E2)
+[3 Kubernetes Certifications – CKA, CKAD & CKS Crash Course](https://www.udemy.com/course/cka-ckad-crash-course/?couponCode=FREEMAY)
 
