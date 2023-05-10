@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/05/2023
+# Daily Free Udemy Courses - 10/05/2023
 
-[User Stories for Agile Scrum+Product Owner+Business Analysis](https://www.udemy.com/course/userstory/?couponCode=080523_FREE)
-[Peak Thinking : Tools of Great Scientists and Inventors](https://www.udemy.com/course/disrupt-thinking-tools-of-great-scientists-and-tech-moguls/?couponCode=733DD91CF9CE7D8ABFAF)
-[jQuery for Absolute Beginners : From Beginning to Advanced](https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYMAY2023)
-[Azure Open AI & Prompt Engineering Zero to Hero with Chatgpt](https://www.udemy.com/course/azopenai/?couponCode=AEA2E405C83FFCE1C19B)
-[Oracle Primavera P6: Your First Lesson!](https://www.udemy.com/course/primavera-p6-training-for-beginners/?couponCode=FFB08F1984279FA03EA2)
-[Java And PHP Complete Course](https://www.udemy.com/course/java-and-php-complete-course/?couponCode=04E256CB848FC6A82225)
-[Design Patterns & Antipatterns in JavaScript 2023](https://www.udemy.com/course/mastering-design-patterns-with-javascript/?couponCode=ACF18D5EBA2728B9BF5E)
-[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=293600EE8AC385D80FD4)
-[Python Certification Exam PCEP-30-02 – Preparation (2023)](https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/?couponCode=DDE41F4F349D2F635071)
-[CISSP Exam – Covering all domains – 150 Ques – 2023 – #5](https://www.udemy.com/course/cissp-exam-covering-all-domains-150-ques-2023-5/?couponCode=059850089259)
-[Civil Engineering, Architecture Softwares in One Course](https://www.udemy.com/course/civil-engineering-architecture-softwares-in-one-course/?couponCode=8831F9AA0E64721F75E2)
-[3 Kubernetes Certifications – CKA, CKAD & CKS Crash Course](https://www.udemy.com/course/cka-ckad-crash-course/?couponCode=FREEMAY)
+[Docker for Beginners: a Hands-On Practice Course (+12 hours)](https://www.udemy.com/course/docker-for-beginners-a-hands-on-practice-course-12-hours/?couponCode=FREE-MAY-23)
+[XML and XSD: a complete W3C-content based course (+10 hours)](https://www.udemy.com/course/xml-and-xsd-a-complete-w3c-content-based-course/?couponCode=FREE-MAY-23)
+[Capture, Edit, Render: Create UHD Screen Videos with NVIDIA](https://www.udemy.com/course/capture-edit-render-create-uhd-screen-videos-with-nvidia/?couponCode=FREE-MAY-23)
+[Quantitative Finance with Python](https://www.udemy.com/course/quantitative-finance-with-python/?couponCode=581D31E26A14E7B147FC)
+[Computer Networks Foundations – Best Starter Course [2023]](https://www.udemy.com/course/computer-network-system-foundations/?couponCode=NETWORKMAY333)
+[Python For Beginners Course In-Depth](https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=5A6BFCD95A1ECF17AFBD)
+[HVAC Ductwork Quantity Take off for Quantity Surveyors](https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVAC4UMAY23)
+[Google Ads Fundamentals: Fast-Track Practice Quiz Exam](https://www.udemy.com/course/google-ads-fundamentals-fast-track-practice-quiz/?couponCode=054175730686)
+[सीखें Javascript Programming हिन्दी में](https://www.udemy.com/course/learn-javascript-step-by-step-in-hindi/?couponCode=05657D4545DE359DE61D)
+[LinkedIn Virality: Go Viral on LinkedIn](https://www.udemy.com/course/linkedin-virality-go-viral-on-linkedin/?couponCode=055101850892)
+[TEST | Python Django](https://www.udemy.com/course/test-python-django/?couponCode=379DDEEC354F1246126D)
+[Amazon AWS DevOps Engineer Professional Exam](https://www.udemy.com/course/amazon-aws-devops-engineer-professional-exam-2022-p/?couponCode=5531CCAA15F378047007)
 
