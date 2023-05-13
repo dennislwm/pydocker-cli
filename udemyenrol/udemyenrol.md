@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/05/2023
+# Daily Free Udemy Courses - 13/05/2023
 
-[[2023] Google Associate Cloud Engineer Certification – Exams](https://www.udemy.com/course/google-associate-cloud-engineer-certification-exams/?couponCode=ECCEB3DC6234251756D0)
-[Managing Modern Desktops (MD-101) Practice Test](https://www.udemy.com/course/managing-modern-desktops-md-101-practice-test/?couponCode=94BC4E55B487564C6B27)
-[Real time Automation+Manual Interview Questions with Answers](https://www.udemy.com/course/testing-interview-questions-with-answers/?couponCode=MAY_SALE)
-[Developing a Profitable Forex Trading Strategy](https://www.udemy.com/course/developing-a-profitable-forex-trading-strategy/?couponCode=6EC18DE0499A6839776D)
-[Object Oriented Programming in C++ & Interview Preparation](https://www.udemy.com/course/cracking-cpp-interview/?couponCode=3842883B986F3F237DDF)
-[Certified Ethical Hacker v12 Practice exam [2023] -Part 1](https://www.udemy.com/course/certified-ethical-hacker-v12-practice-exam-2023-part-1/?couponCode=5C9069A5E039F85550D3)
-[Certified Ethical Hacker v12 Practice exam [2023] -Part 3](https://www.udemy.com/course/certified-ethical-hacker-v12-practice-exam-2023-part-3/?couponCode=D5F48A31AFDDF7256DD1)
-[Certified Ethical Hacker v12 Practice exam [2023] -Part 2](https://www.udemy.com/course/certified-ethical-hacker-v12-practice-exam-2023-part-2/?couponCode=7795BB56470E4C1002D6)
-[A magical guide to Python – Wizzy and Professor Fumbledore.](https://www.udemy.com/course/a-magical-guide-to-programming-adventures-of-wizzy/?couponCode=A18C1B57BD693EE5B9CD)
-[Award Winning Black and White Photography](https://www.udemy.com/course/award-winning-black-and-white-photography/?couponCode=0D3D583EE6DC6FF2B5BF)
-[Linux Command Line Terminal Basic for Beginners (In Hindi)](https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/?couponCode=MAY_SALE)
-[AWS SageMaker MasterClass](https://www.udemy.com/course/aws-sagemaker-masterclass/?couponCode=6AFD0F640EBF88817503)
+[Mastering the Android System Design Interview](https://www.udemy.com/course/mobile-system-design-interview-prep/?couponCode=EBA96BAC062719D8DE38)
+[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=E14AB3780557DD279115)
+[Intro to ChatGPT: The Essential Skills for Getting Started](https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/?couponCode=CBEB05D3B7245ED384D1)
+[Cloud InterviewACE Cloud Interview Deep Dive](https://www.udemy.com/course/cloud-interviewace-cloud-interview-deep-dive/?couponCode=8525713245F88661E9F5)
+[Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEMAY116)
+[Build a Custom E-Commerce Site in React + JavaScript Basics](https://www.udemy.com/course/build-a-custom-e-commerce-site-in-react-javascript-basics/?couponCode=YOUACCEL66804)
+[Practical Skills on Stablecoin Investment: Beginner](https://www.udemy.com/course/practical-skills-on-stablecoin-investment-beginner/?couponCode=8AEC3E323110BC2E4EFA)
+[Character AI:Make & Talk to lifelike Famous Figure Character](https://www.udemy.com/course/character-aimake-talk-to-lifelike-famous-figure-character/?couponCode=C69C90FD15751D8353D7)
+[Introduction to Microservices](https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEMAY115)
+[Financial Modeling in Excel – DCF Model of Big Books Corp](https://www.udemy.com/course/financial-modeling-in-excel-dcf-model-of-big-books-inc/?couponCode=EDUCBA)
+[Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://www.udemy.com/course/make-money-freelancing/?couponCode=9E004F4089E8482EDE67)
+[B2B Cold Email Course 2023 – 5 Figure Copywriting Blueprint](https://www.udemy.com/course/b2b-cold-email-course-2022-5-figure-copywriting-blueprint/?couponCode=1A46DCB4E9BFD5311511)
 
