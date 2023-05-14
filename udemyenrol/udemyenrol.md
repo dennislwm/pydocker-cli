@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/05/2023
+# Daily Free Udemy Courses - 14/05/2023
 
-[Mastering the Android System Design Interview](https://www.udemy.com/course/mobile-system-design-interview-prep/?couponCode=EBA96BAC062719D8DE38)
-[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=E14AB3780557DD279115)
-[Intro to ChatGPT: The Essential Skills for Getting Started](https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/?couponCode=CBEB05D3B7245ED384D1)
-[Cloud InterviewACE Cloud Interview Deep Dive](https://www.udemy.com/course/cloud-interviewace-cloud-interview-deep-dive/?couponCode=8525713245F88661E9F5)
-[Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEMAY116)
-[Build a Custom E-Commerce Site in React + JavaScript Basics](https://www.udemy.com/course/build-a-custom-e-commerce-site-in-react-javascript-basics/?couponCode=YOUACCEL66804)
-[Practical Skills on Stablecoin Investment: Beginner](https://www.udemy.com/course/practical-skills-on-stablecoin-investment-beginner/?couponCode=8AEC3E323110BC2E4EFA)
-[Character AI:Make & Talk to lifelike Famous Figure Character](https://www.udemy.com/course/character-aimake-talk-to-lifelike-famous-figure-character/?couponCode=C69C90FD15751D8353D7)
-[Introduction to Microservices](https://www.udemy.com/course/introduction-to-microservices-edyoda/?couponCode=FREEMAY115)
-[Financial Modeling in Excel – DCF Model of Big Books Corp](https://www.udemy.com/course/financial-modeling-in-excel-dcf-model-of-big-books-inc/?couponCode=EDUCBA)
-[Freelancing: 37 Ways to Make Money From Home as a Freelancer](https://www.udemy.com/course/make-money-freelancing/?couponCode=9E004F4089E8482EDE67)
-[B2B Cold Email Course 2023 – 5 Figure Copywriting Blueprint](https://www.udemy.com/course/b2b-cold-email-course-2022-5-figure-copywriting-blueprint/?couponCode=1A46DCB4E9BFD5311511)
+[The Ultimate BAC and IDOR guide for Ethical Hacking](https://www.udemy.com/course/the-ultimate-bac-and-idor-guide-for-ethical-hacking/?couponCode=88F57BA508C82D378359)
+[Pentesting 101: The Ultimate Hacking Guide Start To Finish](https://www.udemy.com/course/pentesting-the-ultimate-guide/?couponCode=781BF68AEC3E75B11A78)
+[Complete Pandas for Absolute Beginners 2023](https://www.udemy.com/course/complete-pandas-for-absolute-beginners/?couponCode=041D82EE9848CCAEF9C8)
+[ChatGPT: Earning Money With ChatGPT – Easy Way For Beginners](https://www.udemy.com/course/chatgpt-earning-money-with-chatgpt-easy-way-for-beginners/?couponCode=SUBHANALLAH_051323)
+[AI ChatGPT Prompt Engineering](https://www.udemy.com/course/ai-prompt-engineering/?couponCode=FREEBIES)
+[Character AI:Make & Talk to lifelike Famous Figure Character](https://www.udemy.com/course/character-aimake-talk-to-lifelike-famous-figure-character/?couponCode=5FFF4DD1D0AA3964C329)
+[The Spotify For Podcasting Playbook-Create a Spotify Podcast](https://www.udemy.com/course/anchor-podcasting-masterclass-say-it-with-anchor-by-spotify/?couponCode=4033DC50D0772C581A07)
+[Python for Scientific Research: From Beginner to Advanced](https://www.udemy.com/course/python-for-researchers/?couponCode=384DFE9FEF51119B3F68)
+[Thai Language Quick Start Guide – Learn Thai Language Basics](https://www.udemy.com/course/thai-language-course/?couponCode=8BA61DAC639C978FC7C8)
+[Innovating with Biomathematics](https://www.udemy.com/course/innovating-with-biomathematics/?couponCode=D230A5C7FB105F913DB0)
+[How To Use R Programming for Research](https://www.udemy.com/course/r-for-research/?couponCode=C21BFED2E0512BA324B6)
+[Cloud Computing Masterclass – Deployment to Administration](https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/?couponCode=YOUACCEL43139)
 
