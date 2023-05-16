@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/05/2023
+# Daily Free Udemy Courses - 16/05/2023
 
-[Ultimate T-shirt Design Mastery with Adobe Illustrator CC](https://www.udemy.com/course/t-shirt-design-mastery-with-adobe-illustrator-cc/?couponCode=DF4036A4EB744E8DE20A)
-[Dark Web: Complete Introduction to the Deep/Dark Web 2023](https://www.udemy.com/course/dark-web-complete-introduction-to-the-deep_dark-web-2021/?couponCode=GETFREE789)
+[Advanced Quantity Surveying & Cost Estimation With AutoCad](https://www.udemy.com/course/diploma-in-advanced-quantity-surveying-cost-estimation/?couponCode=MAY2023)
+[The Complete C Developer Course – Build 7 Exciting Projects.](https://www.udemy.com/course/the-complete-c-developer-course-build-7-exciting-projects/?couponCode=5814DB787AD6EA74B132)
+[The Complete Ubuntu Linux Server Administration Course !](https://www.udemy.com/course/the-complete-ubuntu-linux-server-administration-course/?couponCode=9E8A7E8FAA6952621DC8)
+[Python Arcade Library: Python Game Development For Beginners](https://www.udemy.com/course/python-arcade-game-development/?couponCode=C9B946B3B07AA9963AE4)
+[Learn To Create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/?couponCode=MAYFREE)
+[Metaverse 101 : Ultimate Metaverse Course For Beginners](https://www.udemy.com/course/metaverse-101-ultimate-metaverse-course-for-beginners/?couponCode=MAYFREE)
+[Open AI’s Generative Pre-trained Transformer 3 (GPT3)](https://www.udemy.com/course/open-ais-generative-pre-trained-transformer-3-gpt3/?couponCode=OPENAI23)
+[Build Social Media Like App Twitter & Instagram From Scratch](https://www.udemy.com/course/build-full-featured-progressive-web-app/?couponCode=98E71906F573D2C1FF04)
+[AWS Certified Cloud Practitioner Practice Exams 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=42046577BAEDA069A1B5)
 [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exams-fc/?couponCode=F22D9351489F012B5B65)
-[Exam C_SM100_7208 SAP Certified Solution manager (7.2 SPS8)](https://www.udemy.com/course/exam-c_sm100_7208-sap-certified-solution-manager-72-sps8/?couponCode=87D7E2BA3B8C937F947C)
-[Ramadan Marketing Blueprint – Create Buzz, Win Customer](https://www.udemy.com/course/ramadan-marketing/?couponCode=RAMADANSEVEN)
-[Practice Exams | Cisco CCNA 200-301 | New 2023](https://www.udemy.com/course/practice-exams-cisco-ccna-200-301-new-2023/?couponCode=4EEB7D793399B2884311)
-[Creative Infographics in PowerPoint](https://www.udemy.com/course/creative-infographics-in-powerpoint/?couponCode=INFOGR_MAY23_1)
-[Public Relations for Startups 2023](https://www.udemy.com/course/public-relations-startups/?couponCode=F6DB59E21379A396BFCE)
-[Communication Skills: Acquire Effective Communication](https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=CS_MAY)
-[Creating Video Lessons with Online Video Maker InVideo](https://www.udemy.com/course/video-lecture-with-neitdesign-for-invideo/?couponCode=INVIDEO_MAY23_1)
-[Open AI’s Generative Pre-trained Transformer 3 (GPT3)](https://www.udemy.com/course/open-ais-generative-pre-trained-transformer-3-gpt3/?couponCode=OPENAIMAY23)
-[ChatGPT Expert Assessment](https://www.udemy.com/course/chatgpt_expert/?couponCode=2B4082A2F64D3C977A9F)
+[practical clinical chemistry from scratch](https://www.udemy.com/course/practical-clinical-chemistry-from-scratch/?couponCode=C356669F8AC09D7ED914)
+[Fastest Laravel app building trick](https://www.udemy.com/course/build-fast-laravel-applications-using-blueprint/?couponCode=D483A5966BA7A0F33789)
 
