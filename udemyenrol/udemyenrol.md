@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/05/2023
+# Daily Free Udemy Courses - 17/05/2023
 
-[Advanced Quantity Surveying & Cost Estimation With AutoCad](https://www.udemy.com/course/diploma-in-advanced-quantity-surveying-cost-estimation/?couponCode=MAY2023)
-[The Complete C Developer Course – Build 7 Exciting Projects.](https://www.udemy.com/course/the-complete-c-developer-course-build-7-exciting-projects/?couponCode=5814DB787AD6EA74B132)
-[The Complete Ubuntu Linux Server Administration Course !](https://www.udemy.com/course/the-complete-ubuntu-linux-server-administration-course/?couponCode=9E8A7E8FAA6952621DC8)
-[Python Arcade Library: Python Game Development For Beginners](https://www.udemy.com/course/python-arcade-game-development/?couponCode=C9B946B3B07AA9963AE4)
-[Learn To Create AI Assistant (JARVIS) With Python](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python/?couponCode=MAYFREE)
-[Metaverse 101 : Ultimate Metaverse Course For Beginners](https://www.udemy.com/course/metaverse-101-ultimate-metaverse-course-for-beginners/?couponCode=MAYFREE)
-[Open AI’s Generative Pre-trained Transformer 3 (GPT3)](https://www.udemy.com/course/open-ais-generative-pre-trained-transformer-3-gpt3/?couponCode=OPENAI23)
-[Build Social Media Like App Twitter & Instagram From Scratch](https://www.udemy.com/course/build-full-featured-progressive-web-app/?couponCode=98E71906F573D2C1FF04)
-[AWS Certified Cloud Practitioner Practice Exams 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=42046577BAEDA069A1B5)
-[AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exams-fc/?couponCode=F22D9351489F012B5B65)
-[practical clinical chemistry from scratch](https://www.udemy.com/course/practical-clinical-chemistry-from-scratch/?couponCode=C356669F8AC09D7ED914)
-[Fastest Laravel app building trick](https://www.udemy.com/course/build-fast-laravel-applications-using-blueprint/?couponCode=D483A5966BA7A0F33789)
+[Linux Bash Shell Scripting Incl. AWK, SED and 10+ Projects](https://www.udemy.com/course/learn-shell-scripting-incl-awksedand-more-than-10-project/?couponCode=7D24F979036ECD863E5A)
+[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=693457D9078CA5A4B64C)
+[Basics of Java Certification ( Java Oops feature )](https://www.udemy.com/course/basic-of-java-certification/?couponCode=CC07574A7F2E0D81446C)
+[Advanced Data Analysis using Wavelets and Machine Learning](https://www.udemy.com/course/advanced-data-analysis-using-wavelets-and-machine-learning/?couponCode=WAVELET3)
+[DevOps Tools for Beginners: Linux Command Line in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-linux-command-line-in-1-hour/?couponCode=319EA912A01B09F718AC)
+[Automated Blogging using Contentify AI](https://www.udemy.com/course/automated-blogging-using-contentify-ai/?couponCode=THELEGEND)
+[AWS Certified Cloud Practitioner Mock Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-mock-exams/?couponCode=DISCUDEMY.COM)
+[[2023] AWS Certified Cloud Practitioner (CLF-C01) – Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exams-i/?couponCode=BE6B30AC4CBF5D439974)
+[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=4335E78CE6FD658BD368)
+[2023 PMP Mock Exams: 900 Questions Based on PMBOK 6th + 7th](https://www.udemy.com/course/2023-pmp-mock-exams-900-questions-based-on-pmbok-6th-7th/?couponCode=C6811AA6BCF01B6D780F)
+[Mastering Complex Calculus: From Derivatives to Residues](https://www.udemy.com/course/mathematical-theory-of-complex-calculus/?couponCode=COMPLEX3)
+[PMI CAPM Mock Exams, 2023 Updates: 450 Questions](https://www.udemy.com/course/pmi-capm-mock-exams-2023-updates-450-questions/?couponCode=E0570E5547E6EB701C72)
 
