@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/05/2023
+# Daily Free Udemy Courses - 18/05/2023
 
-[Linux Bash Shell Scripting Incl. AWK, SED and 10+ Projects](https://www.udemy.com/course/learn-shell-scripting-incl-awksedand-more-than-10-project/?couponCode=7D24F979036ECD863E5A)
-[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=693457D9078CA5A4B64C)
-[Basics of Java Certification ( Java Oops feature )](https://www.udemy.com/course/basic-of-java-certification/?couponCode=CC07574A7F2E0D81446C)
-[Advanced Data Analysis using Wavelets and Machine Learning](https://www.udemy.com/course/advanced-data-analysis-using-wavelets-and-machine-learning/?couponCode=WAVELET3)
-[DevOps Tools for Beginners: Linux Command Line in 1 hour](https://www.udemy.com/course/devops-tools-for-beginners-linux-command-line-in-1-hour/?couponCode=319EA912A01B09F718AC)
-[Automated Blogging using Contentify AI](https://www.udemy.com/course/automated-blogging-using-contentify-ai/?couponCode=THELEGEND)
-[AWS Certified Cloud Practitioner Mock Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-mock-exams/?couponCode=DISCUDEMY.COM)
-[[2023] AWS Certified Cloud Practitioner (CLF-C01) – Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exams-i/?couponCode=BE6B30AC4CBF5D439974)
-[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=4335E78CE6FD658BD368)
-[2023 PMP Mock Exams: 900 Questions Based on PMBOK 6th + 7th](https://www.udemy.com/course/2023-pmp-mock-exams-900-questions-based-on-pmbok-6th-7th/?couponCode=C6811AA6BCF01B6D780F)
-[Mastering Complex Calculus: From Derivatives to Residues](https://www.udemy.com/course/mathematical-theory-of-complex-calculus/?couponCode=COMPLEX3)
-[PMI CAPM Mock Exams, 2023 Updates: 450 Questions](https://www.udemy.com/course/pmi-capm-mock-exams-2023-updates-450-questions/?couponCode=E0570E5547E6EB701C72)
+[HTML, CSS & Python – Web Development Certification Course](https://www.udemy.com/course/html-css-python-certification-course/?couponCode=C1B23AADCB46589A49B8)
+[HTML & CSS – Certification Course for Beginners](https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=C876814821850D7C5D52)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=1F8E0E68DA4394EA1CB4)
+[Pass TOGAF® 9 Part 2 Exam In First Try](https://www.udemy.com/course/togaf-9-part-2-exam/?couponCode=5846DE7D770F49BD10F6)
+[Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2023](https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=45A0A150776901A07B03)
+[Databases with Python: MySQL, SQLite & MongoDB with Python](https://www.udemy.com/course/databases-with-python-mysql-sqlite-mongodb-with-python/?couponCode=B8133ACCB2F2628F07BC)
+[Certified Chief Executive Officer (CEO)](https://www.udemy.com/course/certified-chief-executive-officer/?couponCode=765594846BF0A583BD35)
+[C++ Training Crash Course 2022](https://www.udemy.com/course/c-training-crash-course-2022/?couponCode=F9647305372782BB5F50)
+[Instagram OSINT Hacking: Ethical Hackers and OSINTeers](https://www.udemy.com/course/instagram-osint-hacking/?couponCode=FREEXEYE)
+[Data Science: R Programming Complete Diploma 2023](https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=336523A20AFE74E712A8)
+[The SQL Programming Essentials 2023 Immersive Training](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=F53E35ADF9A22349B4AD)
+[Advanced Foundations of Python Programming | 2023 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=7F5006AA54A6576D9DE1)
 
