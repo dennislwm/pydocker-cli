@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/05/2023
+# Daily Free Udemy Courses - 21/05/2023
 
-[Build Projects In HTML And CSS](https://www.udemy.com/course/build-projects-in-html-and-css/?couponCode=2479873C793FFEF8EAAA)
-[Learn 2D Animation Making for Special Needs People in 2023](https://www.udemy.com/course/learn-2d-animation-making-for-special-needs-people/?couponCode=01C4E62E1DFE43244A5E)
-[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=E093FECD73A08FED00AF)
-[Big Data Programming Languages & Big Data Vs Data Science](https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=0305093AE3817D34780A)
-[Learn Big Data Basics](https://www.udemy.com/course/learn-big-data-basics/?couponCode=756999F8C5EDC55EE730)
-[Data Analytics,Storage,Mining & Visual Big Data Technologies](https://www.udemy.com/course/different-technologies-in-big-data/?couponCode=3335B7E36D621946FFD4)
-[Git and GitHub For Beginners](https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=766B9BDD1A8052D2E5D6)
-[2023 Complete SQL Bootcamp from Zero to Hero in SQL](https://www.udemy.com/course/2022-complete-sql-bootcamp-from-zero-to-hero-in-sql/?couponCode=74BAE96A30103B6E7734)
-[Achieve Authentic Happiness:](https://www.udemy.com/course/meaning-of-life/?couponCode=399C855511F8F37032DF)
-[Dental School Interview Questions – For USA & Canada](https://www.udemy.com/course/situational-judgement-in-ndecc/?couponCode=DENTALADMISSIONS)
-[Social Media Mastery 2023| Increase Customer Conversion Rate](https://www.udemy.com/course/social-media-mastery-increase-customer-conversion-rate/?couponCode=31607A8B792E8A17793E)
-[Flutter Advanced Course – Clean Architecture With MVVM](https://www.udemy.com/course/flutter-advanced-course-clean-architecture-with-mvvm/?couponCode=FREEMAY)
+[ChatGPT: Make Money with ChatGPT as a New Freelancer](https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_052023)
+[Learn Coding with C# from Scratch | C# Comprehensive Course](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=4BF2C8CB7DE2C1DC4D8C)
+[Object-Oriented Programming (OOP) – How to Code Faster 2023](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=94CDE56BA4E7A55B7097)
+[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=F2FBD0E3C3FFCAEC3363)
+[Coding Basics 2023: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=995FB72D462C6AF0CE3E)
+[Learn Coding with Java from Scratch: Essential Training 2023](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=68DB7CCC951616886132)
+[Lead Magnet Course 2023: Killer Lead Magnet for B2B Success](https://www.udemy.com/course/killer-lead-magnet-to-build-your-email-list-on-steroids/?couponCode=LEADMAGNETGENZ2023)
+[DevOps Fundamentals](https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEMAY125)
+[SuccessFactors Employee Central Payroll – Course B](https://www.udemy.com/course/successfactors-employee-central-payroll-course-b/?couponCode=F9B2DFB3129F8AC6056B)
+[PCRs and SCHEMAs for Beginners in SAP HCM Payroll and ECP](https://www.udemy.com/course/pcrs-and-schemas-hcm-payroll/?couponCode=B82E6945E913418CB7D9)
+[ChatGPT PROFIT: Complete Passive Income Supremacy W/ ChatGPT](https://www.udemy.com/course/chatgpt-mastery-ultimate-guide-to-making-money-with-chatgpt/?couponCode=81863391B91439C69C33)
+[Basics of the Arabic Language](https://www.udemy.com/course/easy-way-to-learn-arabic-basics/?couponCode=AR5FREE)
 
