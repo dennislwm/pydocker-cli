@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/05/2023
+# Daily Free Udemy Courses - 22/05/2023
 
-[ChatGPT: Make Money with ChatGPT as a New Freelancer](https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_052023)
-[Learn Coding with C# from Scratch | C# Comprehensive Course](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=4BF2C8CB7DE2C1DC4D8C)
-[Object-Oriented Programming (OOP) – How to Code Faster 2023](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=94CDE56BA4E7A55B7097)
-[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=F2FBD0E3C3FFCAEC3363)
-[Coding Basics 2023: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=995FB72D462C6AF0CE3E)
-[Learn Coding with Java from Scratch: Essential Training 2023](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=68DB7CCC951616886132)
-[Lead Magnet Course 2023: Killer Lead Magnet for B2B Success](https://www.udemy.com/course/killer-lead-magnet-to-build-your-email-list-on-steroids/?couponCode=LEADMAGNETGENZ2023)
-[DevOps Fundamentals](https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEMAY125)
-[SuccessFactors Employee Central Payroll – Course B](https://www.udemy.com/course/successfactors-employee-central-payroll-course-b/?couponCode=F9B2DFB3129F8AC6056B)
-[PCRs and SCHEMAs for Beginners in SAP HCM Payroll and ECP](https://www.udemy.com/course/pcrs-and-schemas-hcm-payroll/?couponCode=B82E6945E913418CB7D9)
-[ChatGPT PROFIT: Complete Passive Income Supremacy W/ ChatGPT](https://www.udemy.com/course/chatgpt-mastery-ultimate-guide-to-making-money-with-chatgpt/?couponCode=81863391B91439C69C33)
-[Basics of the Arabic Language](https://www.udemy.com/course/easy-way-to-learn-arabic-basics/?couponCode=AR5FREE)
+[2023 R 4.0 Programming for Data Science || Beginners to Pro](https://www.udemy.com/course/r-programming-for-data-science-beginners-to-pro/?couponCode=1219BD4F6F850255737C)
+[Data Visualization in Python Masterclass™: Beginners to Pro](https://www.udemy.com/course/complete-data-visualization-in-python/?couponCode=ECCB8B8233EB5C165B39)
+[2023 Advanced Machine Learning and Deep Learning Projects](https://www.udemy.com/course/advanced-natural-language-and-image-processing-projects/?couponCode=4035D3DE1C4D60DB3213)
+[Deployment of Machine Learning Models in Production | Python](https://www.udemy.com/course/nlp-with-bert-in-python/?couponCode=CF05D45D8836B757D268)
+[Graph Theory Algorithms in Java](https://www.udemy.com/course/graph-theory-algorithms-in-java/?couponCode=59CDADB3F0463F8E6DC9)
+[Best SAP FICO Tutorial For Beginners & Freshers (SAP ERP)](https://www.udemy.com/course/sap-fico-tutorial-for-beginners/?couponCode=74D4BA5869A3665067AC)
+[Recursion and Backtracking Algorithms in Java](https://www.udemy.com/course/recursion-and-backtracking-algorithms-in-java/?couponCode=C4A93FA7A80585663C45)
+[Grokking Dynamic Programming: A Deep Dive Using Java](https://www.udemy.com/course/dynamic-programming-algorithms-coding-interview-questions/?couponCode=7FD61C26FDF7DC87A827)
+[2023 Python for Linear Regression in Machine Learning](https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?couponCode=05A335C1AF2571322B8C)
+[Excel Dashboards und Diagramme für den Berufsalltag](https://www.udemy.com/course/excel-dashboards-und-diagramme-fuer-job-und-beruf/?couponCode=9A46527C1DBEE2C04EF6)
+[2023 Natural Language Processing in Python for Beginners](https://www.udemy.com/course/nlp-in-python/?couponCode=84935E7A63D536040A80)
+[Data Science: R Programming Complete Diploma 2023](https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=4590CFFD0AF6E95D1D6B)
 
