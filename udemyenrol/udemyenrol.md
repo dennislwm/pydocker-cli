@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/05/2023
+# Daily Free Udemy Courses - 24/05/2023
 
-[Game Maker Studio: Build Space Game & Sell It on Itch IO](https://www.udemy.com/course/game-maker-studio-build-space-game-sell-it-on-itch-io/?couponCode=AF2CE591048B3EECB72B)
-[ESP32: Sending SMS using twilio with ESP32](https://www.udemy.com/course/esp32-sending-sms-using-twilio-with-esp32/?couponCode=F6B5A20569120A335785)
-[Recursion and Backtracking Algorithms in Java](https://www.udemy.com/course/recursion-and-backtracking-algorithms-in-java/?couponCode=30620F9906E7985883E6)
-[Blind 75 LeetCode Questions: Ace Algorithms Coding Interview](https://www.udemy.com/course/blind-75-leetcode-questions-ace-algorithms-coding-interview/?couponCode=48D5576BA4EDB3FE6AB4)
-[Introduction To Alteryx Designer Core Profession Certificate](https://www.udemy.com/course/introduction-to-alteryx-designer/?couponCode=FREE_05_23_A)
-[Arduino: Interfacing Bluetooth with Arduino Step by Step](https://www.udemy.com/course/arduino-interfacing-bluetooth-with-arduino-step-by-step/?couponCode=B37B0E97F046AC30496C)
-[Robotics Course: Analysis & Simulation](https://www.udemy.com/course/robotics-course-analysis-simulation/?couponCode=E47E62652E6298982916)
-[MERN Stack with Project](https://www.udemy.com/course/mern-stack-with-project/?couponCode=MAY-2023)
-[Weather-Proof Your Skills:An ESP32-based IoT Weather Station](https://www.udemy.com/course/weather-proof-your-skillsan-esp32-based-iot-weather-station/?couponCode=36DF1E555DF85822ABD8)
-[Learn Java to Master](https://www.udemy.com/course/learn-java-to-master/?couponCode=FDFABDB25760C71DBA1F)
-[Best SAP FICO Tutorial For Beginners & Freshers (SAP ERP)](https://www.udemy.com/course/sap-fico-tutorial-for-beginners/?couponCode=F310CEE2A4E3E3B86BDC)
-[AutoCAD – 2D and 3D CAD design – learn easy!](https://www.udemy.com/course/learn-autocad-easy/?couponCode=MEGAPROM5X1)
+[Build Complete 2023 CMS Blog in PHP MySQL Bootstrap & PDO](https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/?couponCode=PHPBLOG42)
+[Adobe Premiere Pro CC: Complete Video Editing Masterclass](https://www.udemy.com/course/adobe-premiere-pro-masterclass/?couponCode=AFCDF1E1C8529D0598D3)
+[Business Communication Skills for Professionals](https://www.udemy.com/course/communication-skills-business/?couponCode=F9CNEW27995DD9)
+[Essential Workplace First Aid Skills for Employee Safety](https://www.udemy.com/course/workplace-first-aid/?couponCode=10AB6651C27E7C134R)
+[React – Learn React with Hooks by creating a Roguelike game](https://www.udemy.com/course/react-learn-react-with-hooks-by-creating-a-roguelike-game/?couponCode=FREE_REACT11)
+[Writing with ChatGPT: Unleash Your Writing Potential](https://www.udemy.com/course/writing-with-chatgpt/?couponCode=189FF5BD32EBD463E4)
+[Oracle Java Certification Exam OCA 1Z0-808 Preparation 2023](https://www.udemy.com/course/oca-1z0-808-certification-java-exam-practice-tests-oracle-associate/?couponCode=D1F8EE0A9685616C557E)
+[Excel – Microsoft Excel Course Beginner to Expert 2023](https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=SUBHANALLAH_052323)
+[The Concept of Waste](https://www.udemy.com/course/the-concept-of-waste/?couponCode=72303FF846B77B276BB3)
+[Metal Forming Processes -Bulk Deformation&Sheet Metalworking](https://www.udemy.com/course/metal-forming-processes-bulk-deformationsheet-metalworking/?couponCode=A7ABA5829E484510FFBC)
+[Fundamentals of Metal Machining Techniques & Machine Tools](https://www.udemy.com/course/fundamentals-of-advanced-metal-machining-techniques/?couponCode=6E8F0331D5935B225F10)
+[Metal Casting: Techniques, Materials, and Product Design-AFS](https://www.udemy.com/course/metal-casting-techniques-materials-and-product-design-afs/?couponCode=14726D0B7725E8E7AFEE)
 
