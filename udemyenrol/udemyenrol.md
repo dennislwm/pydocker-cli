@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/05/2023
+# Daily Free Udemy Courses - 27/05/2023
 
-[PHP with MySQL 2023: Build a Complete Job Portal](https://www.udemy.com/course/php-with-mysql-2022-build-a-complete-job-portal/?couponCode=PHPJOBPORTAL37)
-[Master the Art of Mobile App UI Design for Android and iOS](https://www.udemy.com/course/master-the-art-of-mobile-app-ui-design-for-android-and-ios/?couponCode=E18EC6F0FB455895721D)
-[Data Analysis And Business Intelligence With Microsoft Excel](https://www.udemy.com/course/microsoft-excel-business-intelligence/?couponCode=EXCEL-BI-MAY-23)
-[Create awesome videos from text using Pictory](https://www.udemy.com/course/create-awesome-videos-from-text-using-pictory/?couponCode=051343444433)
-[How To Use LazyApply To Automate Your Job Search?](https://www.udemy.com/course/how-to-use-lazyapply-to-automate-your-job-search/?couponCode=058206058254)
-[Developing Professional Project Plans through MS Project](https://www.udemy.com/course/mastering-ms-project-to-develop-professional-project-plans/?couponCode=MAY2MAY)
-[GRAMMAR: FIGURES OF SPEECH – Creating pictures with words.](https://www.udemy.com/course/grammar-figures-of-speech/?couponCode=FIGURESOFSPEECH)
-[Stock Market Success : Secret Sauce – Stock Market Trading](https://www.udemy.com/course/stockmarketsuccesssecretsauce/?couponCode=27D8BC5EEEE1BE978398)
-[Python 3 Ultimate Guide](https://www.udemy.com/course/python-3-master-course-for-2021/?couponCode=FREE523G10S2)
-[Zabbix Basics](https://www.udemy.com/course/zabbix-course/?couponCode=FREE523G10S2)
-[Windows Command Line Basics](https://www.udemy.com/course/learn-windows-command-line/?couponCode=FREE523G10S2)
-[WebVR Basics](https://www.udemy.com/course/webxr-vr/?couponCode=FREE523G10S2)
+[The Complete Dart Learning Guide [2022 Edition]](https://www.udemy.com/course/dart-learning-guide/?couponCode=MY2-2023)
+[Scrum Master Certificacion](https://www.udemy.com/course/scrum-master-certificacion-z/?couponCode=A94C51ECB66FF1E2C5EA)
+[Standardization in ISO, ITIL, CMMI, BPM, Lean & Six Sigma](https://www.udemy.com/course/standardization-in-iso-itil-cmmi-bpm-lean-six-sigma/?couponCode=BD9A6F7C94249DC35771)
+[ChatGPT – Power Your English Language Learning with AI](https://www.udemy.com/course/chatgpt-you-can-learn-english-using-chatgpt/?couponCode=621FBEAEA72BE522160E)
+[Stress Management – Overcome Obstacles & Building Resilience](https://www.udemy.com/course/overcoming-obstacles-and-building-resilience-manage-stress/?couponCode=06C6132A343B2809E5AB)
+[Java Training Crash Course 2022](https://www.udemy.com/course/java-training-crash-course-2022/?couponCode=D7A8720260C74AA4CFCD)
+[CSS, JavaScript,PHP And Python Programming All in One Course](https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/?couponCode=5D97DD656FFBF140A794)
+[Python And Flask Framework Complete Course](https://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=A8740017206EEC83BEA9)
+[Java 19 Mastery: The Complete and Fast-Paced Guide](https://www.udemy.com/course/java-groundup/?couponCode=177377D7E3E61FAF3975)
+[Fundamentals of Heat & Mass Transfer -Basic to Advance Level](https://www.udemy.com/course/fundamentals-of-heat-masstransfer-basic-to-advance-level/?couponCode=0BA2840ECC46409371B0)
+[Java for Beginners – Learn all the Basics of Java](https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=6AD677331356A6D38996)
+[SQL- The Complete Introduction to SQL programming](https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/?couponCode=E84533302BCE1BF24F80)
 
