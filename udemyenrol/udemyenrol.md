@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/05/2023
+# Daily Free Udemy Courses - 31/05/2023
 
-[AWS Certified Cloud Practitioner Practice Exams 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=6E92A6E4C28D45B9BA9C)
-[Advanced Course on Microsoft PowerPoint Presentation / PPT](https://www.udemy.com/course/the-art-of-the-powerpoint-slide/?couponCode=0D6653D74A97B2D8D491)
-[Learn Infra as Code with Azure Bicep](https://www.udemy.com/course/learn-azure-bicep/?couponCode=7F352C5DFADC20383E02)
-[Fast WPF in C# Windows Presentation Foundation for Beginners](https://www.udemy.com/course/fast-wpf-in-c-windows-presentation-foundation-for-beginners/?couponCode=FREE_GIFT52)
-[Practical Kubernetes Guide](https://www.udemy.com/course/kubernetes-best-practices/?couponCode=C03A26EF2E0E385D829F)
-[Fast C# by Windows Forms to Create Pro Windows Apps](https://www.udemy.com/course/fast-c-by-windows-form-pro-apps/?couponCode=FREE_GIFT52)
-[Learn Azure DevOps CI/CD pipelines](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/?couponCode=1B9DF9CB73B89FFC0C0D)
-[Kubernetes for developers](https://www.udemy.com/course/kubernetes-for-developers/?couponCode=1BF24E157ECEBD93BF14)
-[Web Development Beginner Bootcamp](https://www.udemy.com/course/a-complete-practical-guide-to-learn-web-development/?couponCode=B2B00C86FE0FE00EAE8E)
-[Deploy Infra in the Cloud using Terraform](https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/?couponCode=0316AB05104733E90936)
-[Learn Github Actions for CI/CD DevOps Pipelines](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/?couponCode=BED658FE07BDF0022161)
-[JavaScript for ABSOLUTE beginners!](https://www.udemy.com/course/javascript-for-absolute-beginners-r/?couponCode=FD13C28AACB29FB5AE21)
+[Build a good structure with golang (go, gin, mysql, gorm)](https://www.udemy.com/course/build-a-good-structure-with-golang-go-gin-mysql-gorm/?couponCode=6A9CB6E8B2FFB5D0C10B)
+[Building a Face Detection and Recognition Model From Scratch](https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=76F65DFCBD982A45C413)
+[Automating Notifications For Your Ideal Jobs On Upwork](https://www.udemy.com/course/ideal-jobs-on-upwork/?couponCode=ANFYIJOUEXPJUN042023)
+[Day Trading: Learn Futures Trading with 3 Strategies Fast](https://www.udemy.com/course/day-trading-futures-trading-to-make-money-work-for-you/?couponCode=90B5EE0FD32B76E6F1F8)
+[Mastering The Complete Agile Scrum Master Workshop](https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=BAC2562F25805414490E)
+[Prompt Engineering Safety & AI Engineering Safety Expert](https://www.udemy.com/course/prompt-engineering-safety-ai-engineering-safety-expert/?couponCode=4DE0C9E3F16D7C7BE5BA)
+[Python Programming for Beginners [Full Course]](https://www.udemy.com/course/python-for-beginners-full-course-in-hindi/?couponCode=FB44F1A5390F0B612890)
+[Master Python Programming Skills: 4 Practice Tests 2023](https://www.udemy.com/course/master-python-programming-skills-4-practice-tests/?couponCode=7DF9AAA3B58D7F4E6621)
+[Microeconomics (URDU-Hindi)](https://www.udemy.com/course/microeconomics-urdu-hindi/?couponCode=F851F019299F1CAC3443)
+[Python Practice Tests for Job Interviews and Assessments](https://www.udemy.com/course/python-practice-tests-for-job-interviews-and-assessments/?couponCode=10A8AD718D76A676B9DA)
+[4 Practice Tests for any Python Certification](https://www.udemy.com/course/4-practice-tests-for-any-python-certification/?couponCode=3242FDA35BDF4FEC30F0)
+[Facilitating Small Group Conversations to Promote Belonging](https://www.udemy.com/course/small-group-discussion-facilitation-training-mastery/?couponCode=FACILITATEMAY)
 
