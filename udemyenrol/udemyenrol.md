@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/05/2023
+# Daily Free Udemy Courses - 01/06/2023
 
-[Build a good structure with golang (go, gin, mysql, gorm)](https://www.udemy.com/course/build-a-good-structure-with-golang-go-gin-mysql-gorm/?couponCode=6A9CB6E8B2FFB5D0C10B)
-[Building a Face Detection and Recognition Model From Scratch](https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=76F65DFCBD982A45C413)
-[Automating Notifications For Your Ideal Jobs On Upwork](https://www.udemy.com/course/ideal-jobs-on-upwork/?couponCode=ANFYIJOUEXPJUN042023)
-[Day Trading: Learn Futures Trading with 3 Strategies Fast](https://www.udemy.com/course/day-trading-futures-trading-to-make-money-work-for-you/?couponCode=90B5EE0FD32B76E6F1F8)
-[Mastering The Complete Agile Scrum Master Workshop](https://www.udemy.com/course/mastering-agile-scrum-workshop/?couponCode=BAC2562F25805414490E)
-[Prompt Engineering Safety & AI Engineering Safety Expert](https://www.udemy.com/course/prompt-engineering-safety-ai-engineering-safety-expert/?couponCode=4DE0C9E3F16D7C7BE5BA)
-[Python Programming for Beginners [Full Course]](https://www.udemy.com/course/python-for-beginners-full-course-in-hindi/?couponCode=FB44F1A5390F0B612890)
-[Master Python Programming Skills: 4 Practice Tests 2023](https://www.udemy.com/course/master-python-programming-skills-4-practice-tests/?couponCode=7DF9AAA3B58D7F4E6621)
-[Microeconomics (URDU-Hindi)](https://www.udemy.com/course/microeconomics-urdu-hindi/?couponCode=F851F019299F1CAC3443)
-[Python Practice Tests for Job Interviews and Assessments](https://www.udemy.com/course/python-practice-tests-for-job-interviews-and-assessments/?couponCode=10A8AD718D76A676B9DA)
-[4 Practice Tests for any Python Certification](https://www.udemy.com/course/4-practice-tests-for-any-python-certification/?couponCode=3242FDA35BDF4FEC30F0)
-[Facilitating Small Group Conversations to Promote Belonging](https://www.udemy.com/course/small-group-discussion-facilitation-training-mastery/?couponCode=FACILITATEMAY)
+[2023 [New] | AWS Certified Security Specialty Practice Exam](https://www.udemy.com/course/2023-new-aws-certified-security-specialty-practice-exam/?couponCode=4A0F6C31540A83D52976)
+[AZ-305 Designing Azure Infrastructure Solutions Exam (2023)](https://www.udemy.com/course/az-305-designing-azure-infrastructure-solutions-exam-2023-w/?couponCode=7E4911CF56E829FD4B37)
+[How to Create a Profitable Online Course that SELL Fast](https://www.udemy.com/course/how-to-create-a-profitable-online-course-that-sell-fast-2021/?couponCode=0C947251DCCF3C325FAC)
+[Developer Tools Basics](https://www.udemy.com/course/developer-tools-course/?couponCode=FREE523G7S3)
+[MariaDB Basics](https://www.udemy.com/course/mariadb-course/?couponCode=FREE523G9S3)
+[Mac Terminal Basics](https://www.udemy.com/course/mac-terminal-help/?couponCode=FREE523G9S3)
+[Microsoft Excel – Beginner to Advance with Example](https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/?couponCode=MAY2023)
+[Cyber Crime and Fraud Management: Online Fraud Protection](https://www.udemy.com/course/cyber-crime-and-fraud-management-online-fraud-protection/?couponCode=CCF8A7C8747DE5447966)
+[MS-100 Microsoft 365 Identity & Services Practice Tests 2023](https://www.udemy.com/course/ms-100-microsoft-365-identity-services-practice-tests-2023/?couponCode=9E2DEEF40364A83D7B89)
+[2023 [New] AWS Certified Cloud Practitioner Practice Exams](https://www.udemy.com/course/2023-new-aws-certified-cloud-practitioner-practice-exams/?couponCode=7ADB9B32E2F5D5FD6369)
+[Microsoft SC-400 Exam : Practice Test 2023](https://www.udemy.com/course/microsoft-sc-400-exam-practice-test-2021/?couponCode=60FE9C2A62D0E86699BE)
+[(MS-740) Troubleshooting Microsoft Teams: Practice Test 2023](https://www.udemy.com/course/ms-740-troubleshooting-microsoft-teams-practice-test-2021/?couponCode=3362178759B894F4AE03)
 
