@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 01/06/2023
+# Daily Free Udemy Courses - 02/06/2023
 
 [2023 [New] | AWS Certified Security Specialty Practice Exam](https://www.udemy.com/course/2023-new-aws-certified-security-specialty-practice-exam/?couponCode=4A0F6C31540A83D52976)
 [AZ-305 Designing Azure Infrastructure Solutions Exam (2023)](https://www.udemy.com/course/az-305-designing-azure-infrastructure-solutions-exam-2023-w/?couponCode=7E4911CF56E829FD4B37)
