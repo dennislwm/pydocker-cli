@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/06/2023
+# Daily Free Udemy Courses - 03/06/2023
 
-[2023 [New] | AWS Certified Security Specialty Practice Exam](https://www.udemy.com/course/2023-new-aws-certified-security-specialty-practice-exam/?couponCode=4A0F6C31540A83D52976)
-[AZ-305 Designing Azure Infrastructure Solutions Exam (2023)](https://www.udemy.com/course/az-305-designing-azure-infrastructure-solutions-exam-2023-w/?couponCode=7E4911CF56E829FD4B37)
-[How to Create a Profitable Online Course that SELL Fast](https://www.udemy.com/course/how-to-create-a-profitable-online-course-that-sell-fast-2021/?couponCode=0C947251DCCF3C325FAC)
-[Developer Tools Basics](https://www.udemy.com/course/developer-tools-course/?couponCode=FREE523G7S3)
-[MariaDB Basics](https://www.udemy.com/course/mariadb-course/?couponCode=FREE523G9S3)
-[Mac Terminal Basics](https://www.udemy.com/course/mac-terminal-help/?couponCode=FREE523G9S3)
-[Microsoft Excel – Beginner to Advance with Example](https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/?couponCode=MAY2023)
-[Cyber Crime and Fraud Management: Online Fraud Protection](https://www.udemy.com/course/cyber-crime-and-fraud-management-online-fraud-protection/?couponCode=CCF8A7C8747DE5447966)
-[MS-100 Microsoft 365 Identity & Services Practice Tests 2023](https://www.udemy.com/course/ms-100-microsoft-365-identity-services-practice-tests-2023/?couponCode=9E2DEEF40364A83D7B89)
-[2023 [New] AWS Certified Cloud Practitioner Practice Exams](https://www.udemy.com/course/2023-new-aws-certified-cloud-practitioner-practice-exams/?couponCode=7ADB9B32E2F5D5FD6369)
-[Microsoft SC-400 Exam : Practice Test 2023](https://www.udemy.com/course/microsoft-sc-400-exam-practice-test-2021/?couponCode=60FE9C2A62D0E86699BE)
-[(MS-740) Troubleshooting Microsoft Teams: Practice Test 2023](https://www.udemy.com/course/ms-740-troubleshooting-microsoft-teams-practice-test-2021/?couponCode=3362178759B894F4AE03)
+[Looker for Data Visualization – Beginners and Professionals](https://www.udemy.com/course/looker-for-data-visualization-beginners-and-professionals/?couponCode=1280126AEB6D6E1BFEFE)
+[Grammar Tests for Academic Exams (TOEFL, IELTS, TOEIC, SAT)](https://www.udemy.com/course/english-grammar-tests-/?couponCode=30MAY23)
+[C# Complete Master Course (Updated to C# 10)](https://www.udemy.com/course/c-sharp-complete-master-course/?couponCode=062C6F287F1349447821)
+[Reverse Engineering: IDA For Beginners](https://www.udemy.com/course/reverse-engineering-ida/?couponCode=FREE_JUNE2)
+[Visual Real Analysis : Real Numbers & Real Sequences](https://www.udemy.com/course/visual-real-analysis/?couponCode=JUNE2023)
+[Data Storytelling with PowerBI – 2023](https://www.udemy.com/course/ai-driven-data-storytelling-with-powerbi-2023/?couponCode=F50FB103EFF2636DCCEC)
+[AutoCAD Civil 3D – MEGA course for Civil Works](https://www.udemy.com/course/civil-works-expert-civil3d-level-1/?couponCode=MEGAPROM5X3)
+[CCIE Security v6.0, by dr Jonas Birch](https://www.udemy.com/course/ccie-security/?couponCode=EXPERT2)
+[Master Course in Chatbot Technology and Google Bard AI](https://www.udemy.com/course/chatbot-technology-google-bard-ai/?couponCode=6E92FD8C296146B86ED1)
+[Professional Email Writing & Etiquette – Write Better Emails](https://www.udemy.com/course/professional-email-writing-etiquette-write-better-emails/?couponCode=56556E89B66696CCBBB4)
+[Build a full user Web app from scratch with vanilla PHP 8+](https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=9B7AC9F509F315D70489)
+[Manage Boundaries: When Personal Training Gets Personal](https://www.udemy.com/course/when-personal-training-gets-personal/?couponCode=451CD6B58AE672997339)
 
