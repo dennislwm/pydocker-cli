@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/06/2023
+# Daily Free Udemy Courses - 04/06/2023
 
-[Looker for Data Visualization – Beginners and Professionals](https://www.udemy.com/course/looker-for-data-visualization-beginners-and-professionals/?couponCode=1280126AEB6D6E1BFEFE)
-[Grammar Tests for Academic Exams (TOEFL, IELTS, TOEIC, SAT)](https://www.udemy.com/course/english-grammar-tests-/?couponCode=30MAY23)
-[C# Complete Master Course (Updated to C# 10)](https://www.udemy.com/course/c-sharp-complete-master-course/?couponCode=062C6F287F1349447821)
-[Reverse Engineering: IDA For Beginners](https://www.udemy.com/course/reverse-engineering-ida/?couponCode=FREE_JUNE2)
-[Visual Real Analysis : Real Numbers & Real Sequences](https://www.udemy.com/course/visual-real-analysis/?couponCode=JUNE2023)
-[Data Storytelling with PowerBI – 2023](https://www.udemy.com/course/ai-driven-data-storytelling-with-powerbi-2023/?couponCode=F50FB103EFF2636DCCEC)
-[AutoCAD Civil 3D – MEGA course for Civil Works](https://www.udemy.com/course/civil-works-expert-civil3d-level-1/?couponCode=MEGAPROM5X3)
-[CCIE Security v6.0, by dr Jonas Birch](https://www.udemy.com/course/ccie-security/?couponCode=EXPERT2)
-[Master Course in Chatbot Technology and Google Bard AI](https://www.udemy.com/course/chatbot-technology-google-bard-ai/?couponCode=6E92FD8C296146B86ED1)
-[Professional Email Writing & Etiquette – Write Better Emails](https://www.udemy.com/course/professional-email-writing-etiquette-write-better-emails/?couponCode=56556E89B66696CCBBB4)
-[Build a full user Web app from scratch with vanilla PHP 8+](https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=9B7AC9F509F315D70489)
-[Manage Boundaries: When Personal Training Gets Personal](https://www.udemy.com/course/when-personal-training-gets-personal/?couponCode=451CD6B58AE672997339)
+[Python for Data Analytics – Beginner to Advanced](https://www.udemy.com/course/python-for-data-analytics/?couponCode=54F2A52F51F418F4009F)
+[Fundamental Question on Python](https://www.udemy.com/course/fundamentals-of-python/?couponCode=9C8A4772952728FF2D75)
+[Fundamental Question on Rasberry Pi](https://www.udemy.com/course/fundamental-of-rasberry-pi/?couponCode=2343E4590E01001FAE6B)
+[Fundamental Question on Power system](https://www.udemy.com/course/fundamental-question-on-power-system/?couponCode=8C562A5AE32B0EDFB08B)
+[Python flask framework 2023](https://www.udemy.com/course/python-flask-framework-2023/?couponCode=55BC043BF1235F0E6915)
+[SQL bootcamp for beginners](https://www.udemy.com/course/sql-bootcamp-for-beginners-g/?couponCode=B869B9D00BDCB0DBB19D)
+[Excel data analysis bootcamp](https://www.udemy.com/course/excel-data-analysis-bootcamp/?couponCode=9D29AFDE10F6832BE345)
+[The Beginner’s guide to Advanced C coding in Linux](https://www.udemy.com/course/advanced-c-coding-in-linux/?couponCode=OBTAIN)
+[CCIE Security v6.0, by dr Jonas Birch](https://www.udemy.com/course/ccie-security/?couponCode=EXPERT1)
+[Easy Guitar for Beginners](https://www.udemy.com/course/easy-guitar-for-beginners/?couponCode=5CDD8734A9E93FF76605)
+[Build Social Media Like App Twitter & Instagram From Scratch](https://www.udemy.com/course/build-full-featured-progressive-web-app/?couponCode=5C44FFCF602D63F37232)
+[Create a Culture of Ownership with Accountability](https://www.udemy.com/course/create-a-culture-of-ownership-with-accountability/?couponCode=0B43976FB537CA7CF28D)
 
