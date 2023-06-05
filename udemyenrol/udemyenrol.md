@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/06/2023
+# Daily Free Udemy Courses - 05/06/2023
 
-[Python for Data Analytics – Beginner to Advanced](https://www.udemy.com/course/python-for-data-analytics/?couponCode=54F2A52F51F418F4009F)
-[Fundamental Question on Python](https://www.udemy.com/course/fundamentals-of-python/?couponCode=9C8A4772952728FF2D75)
-[Fundamental Question on Rasberry Pi](https://www.udemy.com/course/fundamental-of-rasberry-pi/?couponCode=2343E4590E01001FAE6B)
-[Fundamental Question on Power system](https://www.udemy.com/course/fundamental-question-on-power-system/?couponCode=8C562A5AE32B0EDFB08B)
-[Python flask framework 2023](https://www.udemy.com/course/python-flask-framework-2023/?couponCode=55BC043BF1235F0E6915)
-[SQL bootcamp for beginners](https://www.udemy.com/course/sql-bootcamp-for-beginners-g/?couponCode=B869B9D00BDCB0DBB19D)
-[Excel data analysis bootcamp](https://www.udemy.com/course/excel-data-analysis-bootcamp/?couponCode=9D29AFDE10F6832BE345)
-[The Beginner’s guide to Advanced C coding in Linux](https://www.udemy.com/course/advanced-c-coding-in-linux/?couponCode=OBTAIN)
-[CCIE Security v6.0, by dr Jonas Birch](https://www.udemy.com/course/ccie-security/?couponCode=EXPERT1)
-[Easy Guitar for Beginners](https://www.udemy.com/course/easy-guitar-for-beginners/?couponCode=5CDD8734A9E93FF76605)
-[Build Social Media Like App Twitter & Instagram From Scratch](https://www.udemy.com/course/build-full-featured-progressive-web-app/?couponCode=5C44FFCF602D63F37232)
-[Create a Culture of Ownership with Accountability](https://www.udemy.com/course/create-a-culture-of-ownership-with-accountability/?couponCode=0B43976FB537CA7CF28D)
+[Developing and Deploying Applications with Streamlit](https://www.udemy.com/course/develop_streamlit_applications/?couponCode=STREAMLITMAY2023)
+[Google Cloud Workshop for Semiconductor Workloads](https://www.udemy.com/course/google-cloud-workshop-for-semiconductor-workloads/?couponCode=GCPHPC2023)
+[Complete Inventory Management in Microsoft Excel &TALLY ERP9](https://www.udemy.com/course/complete-inventory-management-in-microsoft-excel-tally-erp9/?couponCode=597BAEABDBC70D149544)
+[Advanced Microsoft Excel Formulas & Functions – 2023](https://www.udemy.com/course/advanced-microsoft-excel-formulas-functions/?couponCode=361C485DFBD2BE457CCC)
+[A Database of the Most Frequently Used Data Science commands](https://www.udemy.com/course/python-that-appears-all-the-time-at-workplace/?couponCode=67CE88634ECC0748DCD8)
+[PyScript – The Complete Guide (2023 Edition)](https://www.udemy.com/course/complete-guide-to-master-pyscript-b/?couponCode=32896834916F6488DA44)
+[Web Development Masterclass – Online Certification Course](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL39699)
+[Complete Bootstrap & React Bootcamp with Hands-On Projects](https://www.udemy.com/course/complete-bootstrap-react-bootcamp-with-hands-on-projects/?couponCode=YOUACCEL39699)
+[Gatsby JS | Build a personal blog using gatsbyJS](https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JUNE2023)
+[Mastering Database Management with Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?couponCode=DEVLYZER-C3-P7)
+[React JS- Complete Guide for Frontend Web Development](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEMAY143)
+[Ramadan Marketing Blueprint: Reach 2 Billion Muslim Customer](https://www.udemy.com/course/ramadan-marketing/?couponCode=6E9B8B694E065516C4F2)
 
