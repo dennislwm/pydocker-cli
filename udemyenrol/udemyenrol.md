@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/06/2023
+# Daily Free Udemy Courses - 07/06/2023
 
-[Ultimate AWS Cloud Practitioner Practice Exam 2023 | 600+ Q](https://www.udemy.com/course/ultimate-aws-certified-cloud-practitioner-practice-exam-2023/?couponCode=FREE-1000)
-[Developing Professional Project Plans through MS Project](https://www.udemy.com/course/mastering-ms-project-to-develop-professional-project-plans/?couponCode=JUN23FIRST)
-[Rank Your Blog Website in Google: SEO For Beginners 2023](https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_060523)
-[Computer Architecture Instruction Set Architecture Course](https://www.udemy.com/course/computer-architecture-instruction-set-architecture-course/?couponCode=123456JUNE)
-[Figma Design Course 2023. Your Website from Start to Finish](https://www.udemy.com/course/figma-practical-design/?couponCode=FIGMA506)
-[Advanced Data Analysis using Wavelets and Machine Learning](https://www.udemy.com/course/advanced-data-analysis-using-wavelets-and-machine-learning/?couponCode=MACHINE1)
-[Partial Differential Equations: Comprehensive Course](https://www.udemy.com/course/mathematical-intuition-for-heisenberg-uncertainty-principle/?couponCode=PDEQUATIONS1)
-[English Placement Test](https://www.udemy.com/course/placementenglish/?couponCode=446B04F26F6DE1EB2186)
-[Math Intuition for Quantum Mechanics & Quantum Field Theory](https://www.udemy.com/course/math-intuition-for-quantum-mechanics-quantum-field-theory/?couponCode=QUANTUM1)
-[Master Course in Marketing Fundamentals and Development 2.0](https://www.udemy.com/course/marketing-fundamentals-marketing-development-marketing-mix-101-level/?couponCode=3E1794791EDD939E7C94)
-[Master Course in Employee Performance Management 2.0](https://www.udemy.com/course/employee-performance-management-employee-engagement-onboarding/?couponCode=B2AFCCD752D6D625C728)
-[Master Course of International Business](https://www.udemy.com/course/master-course-of-international-business/?couponCode=322D960D1C22D7148249)
+[Mastering Sencha EXT JS: Build High-Performance Web App](https://www.udemy.com/course/sencha-touch/?couponCode=SENCHAEXTFR)
+[AI-900: Microsoft Azure Artificial Intelligence Fundamentals](https://www.udemy.com/course/microsoft-ai-900/?couponCode=1ED60727BBACCC0D0DDB)
+[The Complete HTML5 Course: From Beginning to Expert](https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5JUNE2023)
+[Build your own virtual CCNA lab network – without emulators](https://www.udemy.com/course/virtual-ccna-lab-network/?couponCode=LASTCALL)
+[The SQL Programming Essentials 2023 Immersive Training](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=11E6107B81E2FE79A120)
+[Advanced Foundations of Python Programming | 2023 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=F2DFEFFF64291B35B391)
+[Applied Python: Building Projects with Python Programming](https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=E6B10E395FC0F57BB5B1)
+[Data Science: Python for Data Analysis 2023 Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=64E55FCC355C9341232B)
+[Essential Microsoft PowerPoint Course for Everyone](https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=CC27ABDE433AA5A17551)
+[Metaverse Architect: Building Virtual Space with No Code](https://www.udemy.com/course/metaverse-architect-building-virtual-space-with-no-code/?couponCode=4157CFACBB0175002CB3)
+[The Webrtc Bootcamp 2023 For Beginners](https://www.udemy.com/course/the-webrtc-bootcamp-2021/?couponCode=JUNE-GIFT)
+[Firebase 9 & JavaScript: Build Full-Stack Web Apps Faster](https://www.udemy.com/course/javascript-firebase-build-full-stack-web-apps-faster/?couponCode=JF-FC100-JUN-2023)
 
