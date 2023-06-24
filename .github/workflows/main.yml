@@ -21,6 +21,7 @@ on:
     types: udemyenrol
   schedule:
     - cron:  '1 0 * * *'
+  workflow_dispatch:
 jobs:
   #+-----------------------------------------------------------------------------------------+
   #|                                 C U S T O M   J O B                                     |
