@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
 ruamel.yaml==0.16.12
-selenium
+selenium==4.9.1
 webdriver-manager==3.8.3
