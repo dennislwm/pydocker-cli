@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome:113.0
+FROM selenium/standalone-chrome:4.9.1
 USER root
 RUN \ 
   apt-get update && \
