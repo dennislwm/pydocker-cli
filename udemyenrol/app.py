@@ -67,7 +67,7 @@ chrome_options.add_argument('--no-sandbox')
 # chrome_options.add_argument("--disable-setuid-sandbox")
 chrome_options.add_argument('--disable-extensions')
 chrome_options.add_argument('--disable-gpu')
-driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 
 # Maximizes the browser window since Udemy has a responsive design and the code only works
 driver.maximize_window()
