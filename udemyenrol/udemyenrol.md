@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/06/2023
+# Daily Free Udemy Courses - 24/06/2023
 
-[Mastering Sencha EXT JS: Build High-Performance Web App](https://www.udemy.com/course/sencha-touch/?couponCode=SENCHAEXTFR)
-[AI-900: Microsoft Azure Artificial Intelligence Fundamentals](https://www.udemy.com/course/microsoft-ai-900/?couponCode=1ED60727BBACCC0D0DDB)
-[The Complete HTML5 Course: From Beginning to Expert](https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5JUNE2023)
-[Build your own virtual CCNA lab network – without emulators](https://www.udemy.com/course/virtual-ccna-lab-network/?couponCode=LASTCALL)
-[The SQL Programming Essentials 2023 Immersive Training](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=11E6107B81E2FE79A120)
-[Advanced Foundations of Python Programming | 2023 Training](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=F2DFEFFF64291B35B391)
-[Applied Python: Building Projects with Python Programming](https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=E6B10E395FC0F57BB5B1)
-[Data Science: Python for Data Analysis 2023 Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=64E55FCC355C9341232B)
-[Essential Microsoft PowerPoint Course for Everyone](https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=CC27ABDE433AA5A17551)
-[Metaverse Architect: Building Virtual Space with No Code](https://www.udemy.com/course/metaverse-architect-building-virtual-space-with-no-code/?couponCode=4157CFACBB0175002CB3)
-[The Webrtc Bootcamp 2023 For Beginners](https://www.udemy.com/course/the-webrtc-bootcamp-2021/?couponCode=JUNE-GIFT)
-[Firebase 9 & JavaScript: Build Full-Stack Web Apps Faster](https://www.udemy.com/course/javascript-firebase-build-full-stack-web-apps-faster/?couponCode=JF-FC100-JUN-2023)
+[AWS Solutions Architect Associate SAA-C03 Practice Tests](https://www.udemy.com/course/aws-solutions-architect-associate-saa-c03-practice-exams-l/?couponCode=B25E41CCED340B9E244C)
+[C++ And PHP Complete Course 2023](https://www.udemy.com/course/c-and-php-complete-course-2023/?couponCode=4D7DF1539EF9F12530B4)
+[Certification in Kagi (TA) Charts & Smiling Buddha Strategy](https://www.udemy.com/course/kagi-chart/?couponCode=1JUN23)
+[Forex Trading MasterClass](https://www.udemy.com/course/forex-trading-masterclass-p/?couponCode=275FFBB42C177FA4CF10)
+[Smartphone Videography Masterclass for Beginners](https://www.udemy.com/course/smartphone-videography-masterclass-for-beginners/?couponCode=BF311D30C1CE4670AE63)
+[Redis Database Tutorial](https://www.udemy.com/course/redis-database-tutorial/?couponCode=PRODUCTIVITY)
+[How Websites Work](https://www.udemy.com/course/how-websites-work/?couponCode=PRODUCTIVITY)
+[Certified Kubernetes Administrator Ultimate Masterclass 2023](https://www.udemy.com/course/certified-kubernetes-administrator-ultimate-masterclass/?couponCode=BYEJUNE)
+[Certified Kubernetes Security Specialist Masterclass 2023](https://www.udemy.com/course/certified-kubernetes-security-specialist-masterclass/?couponCode=BYEJUNE)
+[Elastic Certified Engineer Exam V8.1 – 2023](https://www.udemy.com/course/elastic-certified-engineer-exam/?couponCode=BYEJUNE)
+[Python सीखे हिंदी मे with OOP, Mysql & SqLite](https://www.udemy.com/course/python-with-oop-mysql-sqlite/?couponCode=6A0DB412C2350CE54EB6)
+[Certified Kubernetes Application Developer Masterclass 2023](https://www.udemy.com/course/certified-kubernetes-application-developer-masterclass/?couponCode=BYEJUNE)
 
