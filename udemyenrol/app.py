@@ -15,6 +15,7 @@ from ruamel.yaml import YAML
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -61,13 +62,13 @@ if "zipcode" in settings["udemy"]:
     zipcode = settings["udemy"]["zipcode"]
 
 # DL
-chrome_options = webdriver.ChromeOptions()
+chrome_options = webdriver.Options()
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--no-sandbox')
 # chrome_options.add_argument("--disable-setuid-sandbox")
 chrome_options.add_argument('--disable-extensions')
 chrome_options.add_argument('--disable-gpu')
-driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=chrome_options)
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 
 # Maximizes the browser window since Udemy has a responsive design and the code only works
 driver.maximize_window()
