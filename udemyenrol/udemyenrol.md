@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/06/2023
+# Daily Free Udemy Courses - 27/06/2023
 
-[Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/course/master-network-security/?couponCode=19USD_JUNE2038)
-[Best SAP FICO Tutorial For Beginners & Freshers (SAP ERP)](https://www.udemy.com/course/sap-fico-tutorial-for-beginners/?couponCode=3057BDD851E5CFA3A310)
-[Learn SQL in 3 Hours : A tutorial for fast learners](https://www.udemy.com/course/learn_sql/?couponCode=19USD_JUNE2037)
-[Ultimate AWS Developer Associate Practice Exams 2023 500+ Q](https://www.udemy.com/course/aws-developer-associate-practice-exams-dva-c02/?couponCode=DVAC02-LIMITED)
-[AWS Solutions Architect Associate Real Practice Exams – 2023](https://www.udemy.com/course/aws-solutions-architect-associate-saa-c03-practice-exams-l/?couponCode=042F696D4D5A2A7FE86D)
-[Master Complete Statistics For Computer Science – I](https://www.udemy.com/course/master-complete-statistics-for-computer-science-i/?couponCode=FREEMCSCS23)
-[Mastering of Plumbing Systems : From Pipes to Principles2023](https://www.udemy.com/course/mastering-of-plumbing-systems-from-pipes-to-principles2023/?couponCode=B359407A83504C07FE80)
-[Plumbing Water Supply System 2023 – From A to Z](https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=96A3DF2337F2394E1F86)
-[How to get the lowest interest rate on a mortgage](https://www.udemy.com/course/how-to-get-the-lowest-interest-rate-on-a-mortgage/?couponCode=JUNEFREE)
-[Get Hired as a Mortgage Loan Processor](https://www.udemy.com/course/get-hired-as-a-mortgage-loan-processor/?couponCode=JUNEFREE)
-[English placement test](https://www.udemy.com/course/english-placement-test/?couponCode=901DA732A32033CCFCDE)
-[CPA Affiliate Marketing using Bing Ads & PPC Advertising](https://www.udemy.com/course/how-to-make-money-with-cpa-affiliate-marketing-using-bingads/?couponCode=3B0530083DE618611E27)
+[Azure DevOps Bootcamp: Zero to Hero (Pipelines,Boards,Repos)](https://www.udemy.com/course/azdevops/?couponCode=0B9F2B801F9A9D94E9E9)
+[Deployment of Machine Learning Models in Production | Python](https://www.udemy.com/course/nlp-with-bert-in-python/?couponCode=61906C4BDC86568A42A9)
+[Introduction to Spacy for Natural Language Processing](https://www.udemy.com/course/introduction-to-for-natural-language-processing/?couponCode=7BABC5DB3D73590BA2A1)
+[Data Visualization in Python Masterclass™: Beginners to Pro](https://www.udemy.com/course/complete-data-visualization-in-python/?couponCode=37AF7E2BFA52C764B299)
+[2023 Python for Machine Learning: A Step-by-Step Guide](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?couponCode=C5CF3924CF937B63D34E)
+[2023 Natural Language Processing in Python for Beginners](https://www.udemy.com/course/nlp-in-python/?couponCode=B3CF13F5EB69E637DC1F)
+[2023 Python for Linear Regression in Machine Learning](https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?couponCode=2E3A5509634AF3E3648F)
+[2023 R 4.0 Programming for Data Science || Beginners to Pro](https://www.udemy.com/course/r-programming-for-data-science-beginners-to-pro/?couponCode=304302583F82D7586162)
+[2023 Advanced Machine Learning and Deep Learning Projects](https://www.udemy.com/course/advanced-natural-language-and-image-processing-projects/?couponCode=4F8B7D1CDA60F97EEAE5)
+[Deep Learning with Tensorflow and Pytorch (Tutorial Ongoing)](https://www.udemy.com/course/deep-learning-tutorial-with-tensorflow-and-pytorch/?couponCode=BA7365C2CC1BD0B5552E)
+[The Complete Dart Learning Guide [2022 Edition]](https://www.udemy.com/course/dart-learning-guide/?couponCode=JU0-2023)
+[Color Workshop: The Basics for Artists and Illustrators](https://www.udemy.com/course/colorforartists/?couponCode=6FFE6CC19E2B3D646FFB)
 
