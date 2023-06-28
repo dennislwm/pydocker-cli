@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/06/2023
+# Daily Free Udemy Courses - 28/06/2023
 
-[Azure DevOps Bootcamp: Zero to Hero (Pipelines,Boards,Repos)](https://www.udemy.com/course/azdevops/?couponCode=0B9F2B801F9A9D94E9E9)
-[Deployment of Machine Learning Models in Production | Python](https://www.udemy.com/course/nlp-with-bert-in-python/?couponCode=61906C4BDC86568A42A9)
-[Introduction to Spacy for Natural Language Processing](https://www.udemy.com/course/introduction-to-for-natural-language-processing/?couponCode=7BABC5DB3D73590BA2A1)
-[Data Visualization in Python Masterclass™: Beginners to Pro](https://www.udemy.com/course/complete-data-visualization-in-python/?couponCode=37AF7E2BFA52C764B299)
-[2023 Python for Machine Learning: A Step-by-Step Guide](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?couponCode=C5CF3924CF937B63D34E)
-[2023 Natural Language Processing in Python for Beginners](https://www.udemy.com/course/nlp-in-python/?couponCode=B3CF13F5EB69E637DC1F)
-[2023 Python for Linear Regression in Machine Learning](https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?couponCode=2E3A5509634AF3E3648F)
-[2023 R 4.0 Programming for Data Science || Beginners to Pro](https://www.udemy.com/course/r-programming-for-data-science-beginners-to-pro/?couponCode=304302583F82D7586162)
-[2023 Advanced Machine Learning and Deep Learning Projects](https://www.udemy.com/course/advanced-natural-language-and-image-processing-projects/?couponCode=4F8B7D1CDA60F97EEAE5)
-[Deep Learning with Tensorflow and Pytorch (Tutorial Ongoing)](https://www.udemy.com/course/deep-learning-tutorial-with-tensorflow-and-pytorch/?couponCode=BA7365C2CC1BD0B5552E)
-[The Complete Dart Learning Guide [2022 Edition]](https://www.udemy.com/course/dart-learning-guide/?couponCode=JU0-2023)
-[Color Workshop: The Basics for Artists and Illustrators](https://www.udemy.com/course/colorforartists/?couponCode=6FFE6CC19E2B3D646FFB)
+[LeetCode in Java: Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-coding-interview-question-solution-explanation/?couponCode=DFC9B48BFA0C400D8C12)
+[Data Protection and Security](https://www.udemy.com/course/data-protection-and-security/?couponCode=9435132FC5F9B8CF8740)
+[Python Test Pro: Comprehensive Edition 4 Practice Test](https://www.udemy.com/course/python-test-pro-comprehensive-edition-4-practice-test/?couponCode=4QQ47G)
+[Alteryx Micro Credential Exam Preparation-November 2022](https://www.udemy.com/course/alteryx-micro-credential-exam-preparation/?couponCode=5229DC0301A1D7967CA0)
+[CSS, JavaScript And Python Complete Course](https://www.udemy.com/course/css-javascript-and-python-complete-course/?couponCode=F4C7C187733244056CB0)
+[Introduction To Azure Data Factory](https://www.udemy.com/course/azure-data-factory-use-cases/?couponCode=9204E25D1980C9576BBD)
+[Python Proficiency Test Bundle – 4 Practice Test](https://www.udemy.com/course/python-proficiency-test-bundle-4-practice-test/?couponCode=BXA7RI)
+[Prompt Engineering for ChatGPT: From Zero to Hero](https://www.udemy.com/course/prompt-engineering/?couponCode=REAL.DISCOUNT)
+[Postgraduate Diploma: Digitalization of Retail Banking](https://www.udemy.com/course/digitisation/?couponCode=A6DA3485C665A42B2946)
+[Popular Algorithms Coding Interview Questions](https://www.udemy.com/course/popular-algorithms-coding-interview-questions/?couponCode=0A94550808B3EAA6CAFA)
+[The Complete Data Structures and Algorithms Course in Java](https://www.udemy.com/course/data-structures-and-algorithms-for-coding-interview/?couponCode=97D06F00C3647201F7DC)
+[Character Drawing: Create Female Portraits in Procreate](https://www.udemy.com/course/characterdrawinginprocreate/?couponCode=JUNE1000)
 
