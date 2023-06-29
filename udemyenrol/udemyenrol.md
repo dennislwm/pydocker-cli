@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/06/2023
+# Daily Free Udemy Courses - 29/06/2023
 
-[LeetCode in Java: Algorithms Coding Interview Questions](https://www.udemy.com/course/leetcode-coding-interview-question-solution-explanation/?couponCode=DFC9B48BFA0C400D8C12)
-[Data Protection and Security](https://www.udemy.com/course/data-protection-and-security/?couponCode=9435132FC5F9B8CF8740)
-[Python Test Pro: Comprehensive Edition 4 Practice Test](https://www.udemy.com/course/python-test-pro-comprehensive-edition-4-practice-test/?couponCode=4QQ47G)
-[Alteryx Micro Credential Exam Preparation-November 2022](https://www.udemy.com/course/alteryx-micro-credential-exam-preparation/?couponCode=5229DC0301A1D7967CA0)
-[CSS, JavaScript And Python Complete Course](https://www.udemy.com/course/css-javascript-and-python-complete-course/?couponCode=F4C7C187733244056CB0)
-[Introduction To Azure Data Factory](https://www.udemy.com/course/azure-data-factory-use-cases/?couponCode=9204E25D1980C9576BBD)
-[Python Proficiency Test Bundle – 4 Practice Test](https://www.udemy.com/course/python-proficiency-test-bundle-4-practice-test/?couponCode=BXA7RI)
-[Prompt Engineering for ChatGPT: From Zero to Hero](https://www.udemy.com/course/prompt-engineering/?couponCode=REAL.DISCOUNT)
-[Postgraduate Diploma: Digitalization of Retail Banking](https://www.udemy.com/course/digitisation/?couponCode=A6DA3485C665A42B2946)
-[Popular Algorithms Coding Interview Questions](https://www.udemy.com/course/popular-algorithms-coding-interview-questions/?couponCode=0A94550808B3EAA6CAFA)
-[The Complete Data Structures and Algorithms Course in Java](https://www.udemy.com/course/data-structures-and-algorithms-for-coding-interview/?couponCode=97D06F00C3647201F7DC)
-[Character Drawing: Create Female Portraits in Procreate](https://www.udemy.com/course/characterdrawinginprocreate/?couponCode=JUNE1000)
+[Deep Learning with Tensorflow and Pytorch (Tutorial Ongoing)](https://www.udemy.com/course/deep-learning-tutorial-with-tensorflow-and-pytorch/?couponCode=3E150B3E21D9AACACFCB)
+[Linux Command Line](https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=WECANCHECK)
+[Ethical Hacking: Exploit Linux Server](https://www.udemy.com/course/ethical-hacking-exploit-linux-server/?couponCode=WECANCHECK)
+[Ultimate Oracle Cloud Infrastructure Foundation Associate-22](https://www.udemy.com/course/oracle-cloud-infrastructure-foundation-associate-certification-trainin/?couponCode=1F892384D27729896C3D)
+[Mastering Doodly: Create Engaging Whiteboard Animations](https://www.udemy.com/course/mastering-doodly-2d-animation-whiteboard-animation/?couponCode=DB2D9DC7E1FF272EAC84)
+[Big Data Programming Languages & Big Data Vs Data Science](https://www.udemy.com/course/big-data-programming-languages-big-data-vs-data-science/?couponCode=5ED2D6FA107A71DE952C)
+[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=652FBABF434CA3EED374)
+[Vue JS + Google Maps API: Ultimate Beginner’s Friendly Guide](https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/?couponCode=VG-FC-JUN-2023)
+[Data Analytics,Storage,Mining & Visual Big Data Technologies](https://www.udemy.com/course/different-technologies-in-big-data/?couponCode=D6EDAD5494A8B581959C)
+[Learn Big Data Basics](https://www.udemy.com/course/learn-big-data-basics/?couponCode=DB57297C136187890CE9)
+[poultry farming Bacterial diseases hindering satisfying prod](https://www.udemy.com/course/poultry-farming-bacterial-diseases-hindering-satisfying-prod/?couponCode=5D2336BE03413C33B36B)
+[Executive Diploma in Operations Management](https://www.udemy.com/course/operations_management/?couponCode=5E8B6D21AA6A5F1FDD22)
 
