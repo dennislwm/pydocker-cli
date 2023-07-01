@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/06/2023
+# Daily Free Udemy Courses - 01/07/2023
 
-[C# Object-Oriented Programming Fundamentals](https://www.udemy.com/course/pds-csharp-oop-fundamentals/?couponCode=5720F713E9E833E28A0C)
-[Minimal Web API Fundamentals in .NET 6/7](https://www.udemy.com/course/csharp-minimal-web-api-fundamentals/?couponCode=68299D238EFA29610B26)
-[Start and Run a Successful Business](https://www.udemy.com/course/start-and-run-a-successful-business/?couponCode=A5623B9D0EC63BE827D3)
-[C# Fundamentals](https://www.udemy.com/course/pds-csharp-fundamentals/?couponCode=3696C7BAB61E2ECFE461)
-[Web API Development Using MVC and .NET 6/7](https://www.udemy.com/course/pds-web-api-development-using-mvc/?couponCode=395F7746CC95B6F3063A)
-[Building Flappy Bird & Ping Pong Games with Godot Engine](https://www.udemy.com/course/building-flappy-bird-ping-pong-games-with-godot-engine/?couponCode=126D80BF48AA8A8549D1)
-[Data Analysis And Business Intelligence With Microsoft Excel](https://www.udemy.com/course/microsoft-excel-business-intelligence/?couponCode=EXCEL-BI-JUN-23)
-[CISCO CCNA : Practice Test](https://www.udemy.com/course/cisco-ccna-practice-test/?couponCode=52A3B67EA27BE9FD717A)
-[Data Analytics A-Z with Python](https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=424849B14F33BDD837EC)
-[The Ultimate ChatGPT Guide](https://www.udemy.com/course/the-ultimate-chatgpt-guide/?couponCode=9FF25BFA1A7BB59173D7)
-[Plumbing Water Supply System 2023 – From A to Z](https://www.udemy.com/course/mechanical-engineering-full-water-supply-system-a-z/?couponCode=60AC0E44158B2A74054F)
-[Web Scraping in Python using Beautiful Soup (with Project)](https://www.udemy.com/course/web-scraping-in-python-using-beautiful-soup-with-projects/?couponCode=206DF407367DBD5ACA10)
+[Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://www.udemy.com/course/master-responsive-web-dev-with-css3-flexbox-media-queries/?couponCode=2208581E6DA611FB27FF)
+[Microservices Interview Readiness Course](https://www.udemy.com/course/microservices-interview-readiness-course/?couponCode=7A28D7EA552B1ACF3C78)
+[Day to Day activities of an Agile Scrum team in real project](https://www.udemy.com/course/day-to-day-activities-of-an-agile-scrum-team-in-real-project/?couponCode=4754E2C56DFF54C342F0)
+[Certification Guide For Python 2 Course](https://www.udemy.com/course/python-for-complete-beginner-learn-from-scratch/?couponCode=405E4B64ABC607783151)
+[JavaScript for ABSOLUTE beginners!](https://www.udemy.com/course/javascript-for-absolute-beginners-r/?couponCode=64BD3CBB5D8496ABC892)
+[Ultimate Angular Course – Learn Angular Practically](https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically-r/?couponCode=5AB00F4BB9EA23A899F9)
+[Advanced SQL Guide](https://www.udemy.com/course/advanced-sql-guide/?couponCode=1472A3129DC66D9943B8)
+[The Cyber Security Metasploit Framework Guide For Beginners](https://www.udemy.com/course/shellcode-metasploit-ethical-hacking-course/?couponCode=80490637EFF851F18E81)
+[The Cyber Security Course: End Point Protection!](https://www.udemy.com/course/ios-penetration-testing-for-ethical-hacking-course/?couponCode=B49CC49E145DBADEA1B1)
+[The Beginner’s SQL Course](https://www.udemy.com/course/the-beginners-sql-course/?couponCode=1A4042B23D948C36A5F1)
+[Advanced Mobile Penetration Testing Course](https://www.udemy.com/course/advanced-mobile-penetration-testing-course/?couponCode=26E58D2CC09BE315E6CA)
+[Ethical Hacking Using Metasploit Hacking Operating System](https://www.udemy.com/course/advanced-ios-and-android-ethical-hacking-course/?couponCode=E5D82EC99A471761FCDC)
 
