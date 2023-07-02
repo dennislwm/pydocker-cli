@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 01/07/2023
+# Daily Free Udemy Courses - 02/07/2023
 
 [Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://www.udemy.com/course/master-responsive-web-dev-with-css3-flexbox-media-queries/?couponCode=2208581E6DA611FB27FF)
 [Microservices Interview Readiness Course](https://www.udemy.com/course/microservices-interview-readiness-course/?couponCode=7A28D7EA552B1ACF3C78)
