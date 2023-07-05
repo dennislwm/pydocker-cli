@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/07/2023
+# Daily Free Udemy Courses - 05/07/2023
 
-[Practical CSS3 Flexbox Media Queries & CSS Grid Mastery](https://www.udemy.com/course/master-responsive-web-dev-with-css3-flexbox-media-queries/?couponCode=2208581E6DA611FB27FF)
-[Microservices Interview Readiness Course](https://www.udemy.com/course/microservices-interview-readiness-course/?couponCode=7A28D7EA552B1ACF3C78)
-[Day to Day activities of an Agile Scrum team in real project](https://www.udemy.com/course/day-to-day-activities-of-an-agile-scrum-team-in-real-project/?couponCode=4754E2C56DFF54C342F0)
-[Certification Guide For Python 2 Course](https://www.udemy.com/course/python-for-complete-beginner-learn-from-scratch/?couponCode=405E4B64ABC607783151)
-[JavaScript for ABSOLUTE beginners!](https://www.udemy.com/course/javascript-for-absolute-beginners-r/?couponCode=64BD3CBB5D8496ABC892)
-[Ultimate Angular Course – Learn Angular Practically](https://www.udemy.com/course/ultimate-angular-course-learn-angular-practically-r/?couponCode=5AB00F4BB9EA23A899F9)
-[Advanced SQL Guide](https://www.udemy.com/course/advanced-sql-guide/?couponCode=1472A3129DC66D9943B8)
-[The Cyber Security Metasploit Framework Guide For Beginners](https://www.udemy.com/course/shellcode-metasploit-ethical-hacking-course/?couponCode=80490637EFF851F18E81)
-[The Cyber Security Course: End Point Protection!](https://www.udemy.com/course/ios-penetration-testing-for-ethical-hacking-course/?couponCode=B49CC49E145DBADEA1B1)
-[The Beginner’s SQL Course](https://www.udemy.com/course/the-beginners-sql-course/?couponCode=1A4042B23D948C36A5F1)
-[Advanced Mobile Penetration Testing Course](https://www.udemy.com/course/advanced-mobile-penetration-testing-course/?couponCode=26E58D2CC09BE315E6CA)
-[Ethical Hacking Using Metasploit Hacking Operating System](https://www.udemy.com/course/advanced-ios-and-android-ethical-hacking-course/?couponCode=E5D82EC99A471761FCDC)
+[Scrum Master Certification Exam Simulation PSM 1 and CSM](https://www.udemy.com/course/scrum-master-practice-assessment/?couponCode=SCRUM18)
+[Mastering JavaScript by Building 10 Projects from Scratch](https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=F43EE151536561C993E4)
+[Wireshark Ninja | Mastering Real Wireshark PROALL|2023WSHRK+](https://www.udemy.com/course/wireshark-training/?couponCode=BEST-COURSE-2023)
+[Java Network Programming – Mastering TCP/IP : CJNP+ 2023 JVA](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=BEST-COURSE-2023)
+[C++ Code Like you are in MATRIX : Mastering C++ in 12 Hours](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=BEST-COURSE-2023)
+[Digital Forensics Masterclass : Forensic Science 2023 DFMC+](https://www.udemy.com/course/digital-forensics-course/?couponCode=BEST-COURSE-2023)
+[Complete PYTHON Programming for Beginners – 2023](https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=18F6CA6E2FB805771703)
+[Build Responsive Real World Portfolio WordPress Website](https://www.udemy.com/course/build-responsive-real-world-portfolio-wordpress-website/?couponCode=FREE2023JULY)
+[Computer Networks Fundamentals](https://www.udemy.com/course/computer-networks-fundamentals/?couponCode=JULY23)
+[WordPress Theme Development for Themeforest with Elementor](https://www.udemy.com/course/wordpress-theme-elementor-integration-for-themeforest/?couponCode=HASIN2K13)
+[Java And PHP Complete Course](https://www.udemy.com/course/java-and-php-complete-course/?couponCode=62E5A1094461E05C5100)
+[CSS, JavaScript,PHP And Python Programming All in One Course](https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/?couponCode=AE7DC89705921A39B2CB)
 
