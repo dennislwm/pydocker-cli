@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/07/2023
+# Daily Free Udemy Courses - 15/07/2023
 
-[Introduction to Quantum Computing: Zero to Shor’s Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/?couponCode=2023QUANTUMSOAR)
-[Android Malware Analysis](https://www.udemy.com/course/android-malware-analysis-course/?couponCode=GEEKNESS)
-[Mastering AI in Coding: ChatGPT, GitHub Copilot & More](https://www.udemy.com/course/master-ai-assisted-coding-with-chatgpt/?couponCode=0C884A3DB7D0E506291F)
-[How Websites Work](https://www.udemy.com/course/how-websites-work/?couponCode=GEEKNESS)
-[Linux Security](https://www.udemy.com/course/linux-security-best-practices/?couponCode=GEEKNESS)
-[CSS And Javascript Crash Course](https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=9B0973A2D0DC7EC93FFD)
-[Excellent HR (Human Resources) Generalist (Master Course)](https://www.udemy.com/course/excellent-hr-generalist/?couponCode=7FB65DE3323295C74F8F)
-[Certified Chief Human Resources Officer (CHRO)](https://www.udemy.com/course/chief-human-resources-officer/?couponCode=D87239CA2EA0ADFF4A5B)
-[Master the New 1003 as a Mortgage Loan Processor, MLO, & UW](https://www.udemy.com/course/master-the-new-1003-as-a-mortgage-loan-processor-mlo-uw/?couponCode=JULYFREE2)
-[Master the Closing Disclosure as a Loan Processor & MLO](https://www.udemy.com/course/master-the-closing-disclosure-as-a-loan-processor-mlo/?couponCode=JULYFREE2)
-[How to get the lowest interest rate on a mortgage](https://www.udemy.com/course/how-to-get-the-lowest-interest-rate-on-a-mortgage/?couponCode=JULYFREE2)
-[How to Make an eCommerce Website with WordPress For Beginner](https://www.udemy.com/course/how-to-make-an-ecommerce-website-with-wordpress-elementor-for-beginner/?couponCode=ECOM1000)
+[Java (and Cucumber) for Automation Testing](https://www.udemy.com/course/java-and-cucumber-for-automation-testing/?couponCode=4379026B97F7F990C3DC)
+[Excellence in Time Management to increase productivity](https://www.udemy.com/course/excellence-in-time-management/?couponCode=D1FDD9CB460797B98D2A)
+[Practical Cisco Networking Labs in Cisco Packet Tracer](https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=JUL2023)
+[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=JUL2023)
+[Fundamentals of Electrical, Eelectronics & Power Engineering](https://www.udemy.com/course/learn-fundamentals-of-electrical-engineering/?couponCode=FCBB098AB2CCD53A80C5)
+[Women’s Leadership](https://www.udemy.com/course/womens-leadership/?couponCode=527C18C75704987DE087)
+[Sales For Entrepreneurs: How to Sell Without Being Sleazy](https://www.udemy.com/course/sales-for-entrepreneurs-tareq-hajj/?couponCode=DBD445BAD483F709C5E1)
+[Meditation To Manifest Financial Abundance](https://www.udemy.com/course/meditation-to-manifest-financial-abundance/?couponCode=UDEMYFREE)
+[Advanced Master Course in Banking and Insurance 3.0](https://www.udemy.com/course/banking-and-insurance-blockchain-ai-rpa-banking/?couponCode=C18DC9BB55CEA51A6555)
+[Agile Project Management+Scrum Step by Step with Examples](https://www.udemy.com/course/scrum-master-training/?couponCode=140723_FREE)
+[Mastering of Plumbing Systems : From Pipes to Principles2023](https://www.udemy.com/course/mastering-of-plumbing-systems-from-pipes-to-principles2023/?couponCode=C6D8544D96298F4F783C)
+[Managing Plumbing Ventilation in Construction (A-Z) 2023](https://www.udemy.com/course/managing-plumbing-ventilation-in-construction-a-z-2023/?couponCode=A469238EC88BEB27BD91)
 
