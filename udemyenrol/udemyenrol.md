@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/07/2023
+# Daily Free Udemy Courses - 18/07/2023
 
-[GO on AWS – Coding, Serverless and Infrastructure as Code](https://www.udemy.com/course/go-on-aws-coding-serverless-and-iac/?couponCode=B2753AF91264E3E5D22F)
-[Data Science and Machine Learning Basic to Advanced](https://www.udemy.com/course/data-science-and-machine-learning-basic-to-advanced/?couponCode=0B43361644EE5DB4D19A)
-[Arabic: Arabic language | writing and reading Step by Step](https://www.udemy.com/course/arabic-learn-to-read-and-to-write-arabic-like-a-pro/?couponCode=34BECCA9D20060B42690)
-[SQL Introduction Course 2023: SQL Crash Course.](https://www.udemy.com/course/sql-course/?couponCode=926B781226084BFF0855)
-[Dark Web 101 : Anonymous and Secure Browsing 2023](https://www.udemy.com/course/dark-web-101-anonymous-and-secure-browsing/?couponCode=LEARN300)
-[FastAPI course](https://www.udemy.com/course/fastapi-course-z/?couponCode=8F62D0C97CD5C0232B3F)
-[SQL Course 2023: SQL for Data Analysis and Data Science.](https://www.udemy.com/course/sql-course-for-data-science/?couponCode=EBD7511C25ADCDD85CD3)
-[15 machine learning projects 2023](https://www.udemy.com/course/industry-level-machine-learning-projects/?couponCode=4225365C0C623D58C41E)
-[3 real world deep learning projects](https://www.udemy.com/course/3-real-world-deep-learning-projects/?couponCode=F455122D1178A2008B8D)
-[python crash course 2023](https://www.udemy.com/course/python-crash-course-2022/?couponCode=7498421501C7807C8875)
-[Excel data analysis bootcamp](https://www.udemy.com/course/excel-data-analysis-bootcamp/?couponCode=190C50E497B59ADFABA5)
-[Linux Tmux](https://www.udemy.com/course/linux-tmux/?couponCode=PINGUIN)
+[Sharpen Your C++ Skills with 4 Challenging Practice Tests](https://www.udemy.com/course/sharpen-your-c-skills-with-4-challenging-practice-tests/?couponCode=Z0X95K)
+[Python Practice Test Bundle: 4 Comprehensive Tests](https://www.udemy.com/course/python-practice-test-bundle-4-comprehensive-tests/?couponCode=B6FJ9S)
+[Python Skills Refresher: 4 Practice Test 2023](https://www.udemy.com/course/python-skills-refresher-4-practice-test-2023/?couponCode=M9SZY4)
+[Python Practice Exam Bundle: Strengthen Your Skills](https://www.udemy.com/course/python-practice-exam-bundle-strengthen-your-skills/?couponCode=YJ5WSD)
+[Python Test Pro: Comprehensive Edition 4 Practice Test](https://www.udemy.com/course/python-test-pro-comprehensive-edition-4-practice-test/?couponCode=O11ONA)
+[AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-exams-fc/?couponCode=FAE77DB30B6AFE1807BE)
+[AWS Certified Developer Associate Practice Exams](https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-new/?couponCode=2104966C04AD064C3F2B)
+[Secured Login Registration System in PHP – Email Activation](https://www.udemy.com/course/secured-login-registration-system-in-php/?couponCode=0B1C5DDDEBE5431F7E26)
+[Automated Machine Learning for Beginners (Google & Apple)](https://www.udemy.com/course/automl-for-ai-powered-professionals/?couponCode=SMARTCOUPON)
+[Agile Scrum Master Training : Case Studies and Confessions](https://www.udemy.com/course/scrum-case-studies/?couponCode=CASESTDY_170723)
+[New Business Ideas Generation & Selection- Small or BIG!](https://www.udemy.com/course/learn-and-generate-select-right-business-ideas/?couponCode=B5D74202797B34A2301D)
+[Fundamental Course in Accounting, Auditing & Taxation 2.0](https://www.udemy.com/course/financial-accounting-auditing-taxation/?couponCode=8B1D289F92A4C02E3437)
 
