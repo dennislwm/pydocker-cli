@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/07/2023
+# Daily Free Udemy Courses - 21/07/2023
 
-[Data Visualization and advanced use of Matplotlib in Python](https://www.udemy.com/course/advanced-data-visualization-with-python/?couponCode=03B93511FE0240CD9840)
-[The Complete Dart Learning Guide [2022 Edition]](https://www.udemy.com/course/dart-learning-guide/?couponCode=JU1-2023)
-[C++ Proficiency Assessment: 4 Practice Tests Included](https://www.udemy.com/course/c-proficiency-assessment-4-practice-tests-included/?couponCode=VRYLLJ)
-[Python Practice Tests: Sharpen Your Programming Aptitude](https://www.udemy.com/course/python-practice-tests-sharpen-your-programming-aptitude/?couponCode=KB8DOI)
-[Computer Vision Fundamentals](https://www.udemy.com/course/computer-vision-fundamentals/?couponCode=F74CC8364783AFB84C31)
-[AZ-104 – Microsoft Azure Hands On Labs](https://www.udemy.com/course/az-104-microsoft-azure-hands-on-labs/?couponCode=CE009730DA61EC9B70D5)
-[Instrument Calibration Course – Viscosity Cup](https://www.udemy.com/course/calibration-training-for-viscosity-cup/?couponCode=AT_PUNYAMACADEMY)
-[Learn Ethical Hacking & Build Python Attack & Defense Tools](https://www.udemy.com/course/learn-ethical-hacking-build-python-attack-defense-tools/?couponCode=C8B97A8710F6945CB008)
-[Data Integration & ETL with Talend](https://www.udemy.com/course/data-integration-etl-with-talend/?couponCode=EDUCBA5)
-[Mastering Python Data Visualization with Seaborn](https://www.udemy.com/course/mastering-python-data-visualization-with-seaborn/?couponCode=EDUCBA5)
-[Squarespace Box of Tricks: Master Website Builders in 2023](https://www.udemy.com/course/squarespace-web-design-box-of-tricks/?couponCode=BEFCBD781AEE7210FC8F)
-[Method validation based on ISO/IEC 17025/2017 requirements](https://www.udemy.com/course/method-validation-based-on-iso-170252017-requirements/?couponCode=39B3A3A47A2322D3C08D)
+[The Essential Guide to Entrepreneurship: MBA 101](https://www.udemy.com/course/entrepreneurship-for-noobees/?couponCode=3EAF61031D0249EE8202)
+[Blogging For Beginners](https://www.udemy.com/course/blogging-for-noobees/?couponCode=312EA213DFDF40D62BEC)
+[Lean Startup: Pitch to Investors With 7 PowerPoint Slides](https://www.udemy.com/course/lean-startup-pitch-to-investors-with-7-powerpoint-slides/?couponCode=A61B1306D0545A04C358)
+[Etabs : From Zero to Hero](https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=B6635E55B0B35BE427E5)
+[Complete JavaScript Course 2023: From Basic to Advance level](https://www.udemy.com/course/complete-javascript-course-2023-from-basic-to-advance-level/?couponCode=00AB2355D77F9317B26F)
+[Exam PL-100: Microsoft Power Platform App Practice Tests 23](https://www.udemy.com/course/pl-100-en/?couponCode=JULY231)
+[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=5183A239A7C150A800B4)
+[React JS- Complete Guide for Frontend Web Development](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEJULY123)
+[Primavera P6 Project Planning and Scheduling Masterclass](https://www.udemy.com/course/primavera-p6-learning-foundations/?couponCode=4C13607698BF326DD39D)
+[CSS And Javascript Crash Course](https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=0887810FA11125C3D5E3)
+[A Practical Approach to Fundamental Equity Analysis](https://www.udemy.com/course/a-practical-approach-to-fundamental-equity-analysis/?couponCode=B087CCCE224E303C23D9)
+[Sales For Entrepreneurs: How to Sell Without Being Sleazy](https://www.udemy.com/course/sales-for-entrepreneurs-tareq-hajj/?couponCode=F73C56D4A9542DAAD9F0)
 
