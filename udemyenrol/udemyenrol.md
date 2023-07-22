@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/07/2023
+# Daily Free Udemy Courses - 22/07/2023
 
-[The Essential Guide to Entrepreneurship: MBA 101](https://www.udemy.com/course/entrepreneurship-for-noobees/?couponCode=3EAF61031D0249EE8202)
-[Blogging For Beginners](https://www.udemy.com/course/blogging-for-noobees/?couponCode=312EA213DFDF40D62BEC)
-[Lean Startup: Pitch to Investors With 7 PowerPoint Slides](https://www.udemy.com/course/lean-startup-pitch-to-investors-with-7-powerpoint-slides/?couponCode=A61B1306D0545A04C358)
-[Etabs : From Zero to Hero](https://www.udemy.com/course/etabs-from-zero-to-hero/?couponCode=B6635E55B0B35BE427E5)
-[Complete JavaScript Course 2023: From Basic to Advance level](https://www.udemy.com/course/complete-javascript-course-2023-from-basic-to-advance-level/?couponCode=00AB2355D77F9317B26F)
-[Exam PL-100: Microsoft Power Platform App Practice Tests 23](https://www.udemy.com/course/pl-100-en/?couponCode=JULY231)
-[Python Demonstrations For Practice Course](https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=5183A239A7C150A800B4)
-[React JS- Complete Guide for Frontend Web Development](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEJULY123)
-[Primavera P6 Project Planning and Scheduling Masterclass](https://www.udemy.com/course/primavera-p6-learning-foundations/?couponCode=4C13607698BF326DD39D)
-[CSS And Javascript Crash Course](https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=0887810FA11125C3D5E3)
-[A Practical Approach to Fundamental Equity Analysis](https://www.udemy.com/course/a-practical-approach-to-fundamental-equity-analysis/?couponCode=B087CCCE224E303C23D9)
-[Sales For Entrepreneurs: How to Sell Without Being Sleazy](https://www.udemy.com/course/sales-for-entrepreneurs-tareq-hajj/?couponCode=F73C56D4A9542DAAD9F0)
+[Mastering Database Management with Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?couponCode=EBC97BB95D2FF8EDF7DC)
+[Methodologies In Ethical Hacking](https://www.udemy.com/course/methodologies-in-ethical-hacking/?couponCode=059F9AE03FFB0597C685)
+[Java Blocks Course For Programmer](https://www.udemy.com/course/java-blocks-course-for-programmer/?couponCode=B0ECEED35754E2218412)
+[Probability and Statistics In Data Science](https://www.udemy.com/course/probability-and-statistics-in-data-science/?couponCode=45EE81BA7FE8315E5FAF)
+[Python Puzzler: Solve and Succeed with Python Practice Tests](https://www.udemy.com/course/python-puzzler-solve-and-succeed-with-python-practice-tests/?couponCode=JEVJA3)
+[A Beginner’s Guide To Lern Web Development From Scratch](https://www.udemy.com/course/complete-web-development-course-learn-hands-on-practically/?couponCode=86390B41719C49DF1202)
+[C++ Programming MADE EASY : A Concise C++ Course](https://www.udemy.com/course/c-programming-made-easy-a-concise-c-course/?couponCode=A512CAF37DFB20838FE0)
+[Program Flow In Java Course](https://www.udemy.com/course/program-flow-in-java-course/?couponCode=14C2B5747DC9E90248AE)
+[Data Types In Python 3 Course](https://www.udemy.com/course/data-types-in-python-3-course/?couponCode=7910E7A3C9870E2DDF91)
+[Strings and Comprehension In Python Course](https://www.udemy.com/course/strings-and-comprehension-in-python-course/?couponCode=85AB9FDCB1738A1EDE2D)
+[Variables and Data Types In Java Coding](https://www.udemy.com/course/the-java-bootcamp/?couponCode=4FF3154E887D09F25F67)
+[Java for ABSOLUTE beginners!](https://www.udemy.com/course/the-ultimate-java-bootcamp-learn-from-scratch/?couponCode=D5D4CB896289DA677B32)
 
