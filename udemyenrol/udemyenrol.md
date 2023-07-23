@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/07/2023
+# Daily Free Udemy Courses - 23/07/2023
 
-[Mastering Database Management with Knex.js and PostgreSQL](https://www.udemy.com/course/database-management-knexjs-postgresql/?couponCode=EBC97BB95D2FF8EDF7DC)
-[Methodologies In Ethical Hacking](https://www.udemy.com/course/methodologies-in-ethical-hacking/?couponCode=059F9AE03FFB0597C685)
-[Java Blocks Course For Programmer](https://www.udemy.com/course/java-blocks-course-for-programmer/?couponCode=B0ECEED35754E2218412)
-[Probability and Statistics In Data Science](https://www.udemy.com/course/probability-and-statistics-in-data-science/?couponCode=45EE81BA7FE8315E5FAF)
-[Python Puzzler: Solve and Succeed with Python Practice Tests](https://www.udemy.com/course/python-puzzler-solve-and-succeed-with-python-practice-tests/?couponCode=JEVJA3)
-[A Beginner’s Guide To Lern Web Development From Scratch](https://www.udemy.com/course/complete-web-development-course-learn-hands-on-practically/?couponCode=86390B41719C49DF1202)
-[C++ Programming MADE EASY : A Concise C++ Course](https://www.udemy.com/course/c-programming-made-easy-a-concise-c-course/?couponCode=A512CAF37DFB20838FE0)
-[Program Flow In Java Course](https://www.udemy.com/course/program-flow-in-java-course/?couponCode=14C2B5747DC9E90248AE)
-[Data Types In Python 3 Course](https://www.udemy.com/course/data-types-in-python-3-course/?couponCode=7910E7A3C9870E2DDF91)
-[Strings and Comprehension In Python Course](https://www.udemy.com/course/strings-and-comprehension-in-python-course/?couponCode=85AB9FDCB1738A1EDE2D)
-[Variables and Data Types In Java Coding](https://www.udemy.com/course/the-java-bootcamp/?couponCode=4FF3154E887D09F25F67)
-[Java for ABSOLUTE beginners!](https://www.udemy.com/course/the-ultimate-java-bootcamp-learn-from-scratch/?couponCode=D5D4CB896289DA677B32)
+[The Kali OS Uses In Cyber Security](https://www.udemy.com/course/cyber-security-kali-linux-course/?couponCode=1153C6EEDE4258091AD5)
+[Learn Python 3 From Scratch](https://www.udemy.com/course/learn-python-of-angular-from-scratch/?couponCode=254D17EB23863907003D)
+[Scanning Cyber Security Hacking Course](https://www.udemy.com/course/learn-and-understand-ethical-hacking-from-scratch/?couponCode=9F65E20F56D6D010CC60)
+[JavaScript for ABSOLUTE beginners!](https://www.udemy.com/course/javascript-for-absolute-beginners-r/?couponCode=E0A4E6C6A8C569EFC5B1)
+[Master Digital Music DAW for Special Needs People (Autism)](https://www.udemy.com/course/mastering-digital-music-daw-for-autistic-dyslexic-people/?couponCode=AE6B2A34049DAAD2BE03)
+[Graphic Design with Autism, Dyslexia & etc in 2023](https://www.udemy.com/course/graphic-designing-for-people-with-autism-dyslexia-etc/?couponCode=A2E167C5730F4561DE2A)
+[Multimedia and Graphic designing Course for Special Needs](https://www.udemy.com/course/graphic-designing-course-for-special-needs-people/?couponCode=00BEC0D0027AB5F2C63C)
+[3D Printing Design for Autism, Dyslexic & more in 2023](https://www.udemy.com/course/3d-printing-design-skills-for-people-with-autism-dyslexia/?couponCode=74F5C1B79539114FD7F0)
+[Learn 2D Animation Making for Special Needs People in 2023](https://www.udemy.com/course/learn-2d-animation-making-for-special-needs-people/?couponCode=8AF3175E9D6321C150FD)
+[Video Editing for Mobile Phones for Special Needs People](https://www.udemy.com/course/video-editing-for-mobile-phones-for-special-needs-people/?couponCode=B129C5F836F285B3C72B)
+[Mobile App Development for Autism, Dyslexia & etc in 2023](https://www.udemy.com/course/mobile-app-development-for-people-with-autism-dyslexia-etc/?couponCode=A33CB23CA850C2254ECA)
+[3D Printing Design Skills for Special Needs People](https://www.udemy.com/course/special-needs-people-digital-tech-training/?couponCode=D63991B3AE47C4ED507D)
 
