@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/07/2023
+# Daily Free Udemy Courses - 25/07/2023
 
-[Adobe Premiere Pro CC For Video Editing – Novice to Expert](https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=E3DBDF1ADD8628898636)
-[Learn Bookkeeping in 60 Minutes and Get Free Excel Software](https://www.udemy.com/course/learn-bookkeeping-in-60-minutes-and-get-free-excel-software/?couponCode=151D363AF0532BB9FE6F)
-[Attachment Styles 101: Love, Relationship & Dating Course](https://www.udemy.com/course/attachment-styles-101/?couponCode=GIFTCOURSE)
-[Parenting Skills To Raise Resilient Children](https://www.udemy.com/course/raising-resilient-children/?couponCode=PARENTING234)
-[Midjourney Mastery: Unlock Your Creative Potential with AI](https://www.udemy.com/course/midjourney-mastery-unlock-your-creative-potential-with-ai/?couponCode=D1FE4B05BB6BEB1A7711)
-[Ethical Hacking: File Inclusion](https://www.udemy.com/course/ethical-hacking-file-inclusion/?couponCode=KEEPGROWING)
-[Ethical Hacking: boot2root CTF](https://www.udemy.com/course/ethical-hacking-boot2root-ctf/?couponCode=KEEPGROWING)
-[Ethical Hacking: Offensive Security](https://www.udemy.com/course/ethical-hacking-offensive-security/?couponCode=KEEPGROWING)
-[Master Course in Automobile Management & Vehicle Management](https://www.udemy.com/course/automobile-management-vehicle-management-fourwheeler-showroom/?couponCode=E93F1E439898167374BD)
-[Get the Offer: Navigating the Uncertain Job Market in 2023](https://www.udemy.com/course/get-the-offer-navigating-an-uncertain-job-market/?couponCode=EARLYBIRDSPECIAL)
-[Python Programming & Software Design For Absolute Beginners](https://www.udemy.com/course/python-programming-software-design-for-absolute-beginners/?couponCode=E11B6AC232AF9E804BFF)
-[How I quit my job at 40, and you can do the same.](https://www.udemy.com/course/how-i-quit-my-job-at-40/?couponCode=FREEIT)
+[Corporate Finance: Financial Decision-Making and Growth](https://www.udemy.com/course/corporate-finance-financial-decision-making-and-growth/?couponCode=CFFREE1)
+[How To Ask For A Raise Or Promotion](https://www.udemy.com/course/how-to-ask-for-a-raise-or-promotion/?couponCode=F65C6B760319B777C6BA)
+[Mastering Inventory Control: Streamlining Supply Chains](https://www.udemy.com/course/inventory-control/?couponCode=MIIICSSC2023)
+[Short Story Reading](https://www.udemy.com/course/short-story-reading/?couponCode=F009E5979883FE7EA868)
+[Design Patterns Interview Questions and Answers [July 2023]](https://www.udemy.com/course/design-patterns-interview/?couponCode=DAD7E205D4143A44F6EA)
+[ISO 14001:2015 – Awareness on Environment Management (EMS)](https://www.udemy.com/course/iso-140012015-awareness-on-environment-management-ems/?couponCode=STARTERFREE)
+[ISO 31000:2018 – Enterprise Risk Management Awareness Course](https://www.udemy.com/course/iso-31000-risk-management-awareness-course/?couponCode=STARTERFREE)
+[Business Continuity Management Awareness on ISO 22301](https://www.udemy.com/course/iso-22301-business-continuity-management-awareness-course/?couponCode=STARTERFREE)
+[CSS, Bootstrap And JavaScript And Python Stack Course](https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=7F4B36BDF1415BC51378)
+[Scrum Master Certification Mock Exams 2023+Agile Scrum](https://www.udemy.com/course/scrum-master-certification-mock-exam-practice-test/?couponCode=240723_FREE)
+[Salesforce Integration for Beginners](https://www.udemy.com/course/salesforce-integration-for-beginners/?couponCode=01DCF2462AD9734DB45C)
+[Web 3 Marketer: Unlock Your Digital Future “Unofficial”](https://www.udemy.com/course/web-3-marketer-digital-future/?couponCode=GROWICWEB3)
 
