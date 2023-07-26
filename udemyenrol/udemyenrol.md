@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/07/2023
+# Daily Free Udemy Courses - 26/07/2023
 
-[Corporate Finance: Financial Decision-Making and Growth](https://www.udemy.com/course/corporate-finance-financial-decision-making-and-growth/?couponCode=CFFREE1)
-[How To Ask For A Raise Or Promotion](https://www.udemy.com/course/how-to-ask-for-a-raise-or-promotion/?couponCode=F65C6B760319B777C6BA)
-[Mastering Inventory Control: Streamlining Supply Chains](https://www.udemy.com/course/inventory-control/?couponCode=MIIICSSC2023)
-[Short Story Reading](https://www.udemy.com/course/short-story-reading/?couponCode=F009E5979883FE7EA868)
-[Design Patterns Interview Questions and Answers [July 2023]](https://www.udemy.com/course/design-patterns-interview/?couponCode=DAD7E205D4143A44F6EA)
-[ISO 14001:2015 – Awareness on Environment Management (EMS)](https://www.udemy.com/course/iso-140012015-awareness-on-environment-management-ems/?couponCode=STARTERFREE)
-[ISO 31000:2018 – Enterprise Risk Management Awareness Course](https://www.udemy.com/course/iso-31000-risk-management-awareness-course/?couponCode=STARTERFREE)
-[Business Continuity Management Awareness on ISO 22301](https://www.udemy.com/course/iso-22301-business-continuity-management-awareness-course/?couponCode=STARTERFREE)
-[CSS, Bootstrap And JavaScript And Python Stack Course](https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=7F4B36BDF1415BC51378)
-[Scrum Master Certification Mock Exams 2023+Agile Scrum](https://www.udemy.com/course/scrum-master-certification-mock-exam-practice-test/?couponCode=240723_FREE)
-[Salesforce Integration for Beginners](https://www.udemy.com/course/salesforce-integration-for-beginners/?couponCode=01DCF2462AD9734DB45C)
-[Web 3 Marketer: Unlock Your Digital Future “Unofficial”](https://www.udemy.com/course/web-3-marketer-digital-future/?couponCode=GROWICWEB3)
+[Marketing Strategy Mastery: Business Fundamentals 101](https://www.udemy.com/course/marketing-strategy-mastery-business-fundamentals-101/?couponCode=31ECBA409DAE24E38C5A)
+[Learn Salesforce (Admin + Developer) with LWC Live Project](https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=3105319CCA88879E87A9)
+[CISSP Practice Questions: All CISSP Domains 250 Q](https://www.udemy.com/course/piedpin-cissp-all-domains/?couponCode=9600B520AF0818384201)
+[Ethical Hacking: Introduction to Exploits](https://www.udemy.com/course/ethical-hacking-introduction-to-exploits/?couponCode=DIOGENES)
+[Ethical Hacking: Exploit Linux Server](https://www.udemy.com/course/ethical-hacking-exploit-linux-server/?couponCode=DIOGENES)
+[Earn More Money As An Expert In-Home Personal Trainer](https://www.udemy.com/course/basics-of-in-home-personal-training/?couponCode=1290B71468346D843E8A)
+[Python Programming for Beginners | Full Course 2023](https://www.udemy.com/course/python-programming-for-beginners-course/?couponCode=57479142BFA79FB4119F)
+[Tally ERP9 With GST Step By Step Guide From Basic to Advance](https://www.udemy.com/course/tally-erp9-with-gst-step-by-step-guide-from-basic-to-advance/?couponCode=TRICKMAN10)
+[Master Online Events! Virtual Audience Engagement Tools 2023](https://www.udemy.com/course/better-online-meetings-virtual-audience-engagement-tools/?couponCode=EVENT2023)
+[An Introduction to Financial Markets](https://www.udemy.com/course/financial-markets-e-learning/?couponCode=0628406B6458E9914B50)
+[Summaries of the 50 Top Business Books You Should Read](https://www.udemy.com/course/summaries-of-the-50-top-business-books-you-should-read/?couponCode=DA359F71DECE90D89C06)
+[SC-400 Microsoft Information Protection Admin – July 2023](https://www.udemy.com/course/sc-400-microsoft-information-protection-administrator-june-2023/?couponCode=B333C61E394B229D9A22)
 
