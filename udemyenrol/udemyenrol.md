@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/07/2023
+# Daily Free Udemy Courses - 28/07/2023
 
-[Learn Python by making games](https://www.udemy.com/course/learn-python-by-making-games/?couponCode=896728756D34F29C69C2)
-[Power Apps Part 1 – Intro to Canvas Apps](https://www.udemy.com/course/powerapps-part1/?couponCode=110CAEC47B2F92A1505A)
-[Excel Beginner to Pro](https://www.udemy.com/course/pro-excel/?couponCode=LIMITEDFREE)
-[Complete SQL & Relational Database Management System](https://www.udemy.com/course/complete-sql/?couponCode=LIMITEDFREE)
-[SAP BusinessObjects Interview Preparation](https://www.udemy.com/course/bo-interview/?couponCode=LIMITEDFREE)
-[Excel in Hindi माइक्रोसॉफ्ट एक्सेल सीखे Zero से Expert बनो](https://www.udemy.com/course/expert-in-excel/?couponCode=LIMITEDFREE)
-[Squarespace Templates Unleashed: Rapid Professional Websites](https://www.udemy.com/course/squarespace-templates-unleashed-rapid-professional-websites/?couponCode=B3A9B0E9E4E1080443FF)
-[Building a Face Detection and Recognition Model From Scratch](https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=86760F7B3F0EE5E86323)
-[Spanish for Beginners: Spanish Crash Course (Conversational)](https://www.udemy.com/course/spanish-for-beginners-udemy/?couponCode=30B7C8DD24DBF17DFE80)
-[How to validate an idea: Market Research for Business Owners](https://www.udemy.com/course/market-research-for-business-owners/?couponCode=358FC7AC95E493FEADAC)
-[Python Programming Complete Beginners Course Bootcamp 2023](https://www.udemy.com/course/learn-python-from-scratch-its-usage-by-nasa-in-mars-rovers/?couponCode=2282B5767EBAD2EF2163)
-[2023 Master class on Data Science using Python A-Z™ : for ML](https://www.udemy.com/course/master-class-on-datascience/?couponCode=2F8571D14AB5D1699BBE)
+[Configure NGINX on a Cloud Server: Digital Ocean & AWS](https://www.udemy.com/course/configure-nginx-on-a-cloud-server-digital-ocean-aws/?couponCode=YOUACCEL65666)
+[Cloud Computing Essentials: Linode, Linux, and LAMP Stack](https://www.udemy.com/course/cloud-computing-essentials-linode-linux-and-lamp-stack/?couponCode=YOUACCEL65666)
+[Learn How to Earn Cryptocurrency Worldwide in 2023](https://www.udemy.com/course/how-to-earn-cryptocurrency-for-free/?couponCode=A839C8F94980248F341A)
+[Python Interview Questions and Answers for Beginners [2023]](https://www.udemy.com/course/python-interview-questions-and-answers-for-beginners-2023/?couponCode=FE86172D1283F8035CAE)
+[Simulation of Electronic Circuits by Proteus in Arabic](https://www.udemy.com/course/simulation-of-electronic-circuits-by-proteus-in-arabic/?couponCode=82DB31E2C3D37DFE9CC2)
+[Aprende Lenguaje C y C++ de CERO a EXPERTO](https://www.udemy.com/course/aprende-lenguaje-c-y-c-de-cero-a-experto/?couponCode=2128DB04045C56EF8946)
+[Cómo Ganar Dinero con YouTube 2023 | Curso de YouTube 2023](https://www.udemy.com/course/como-ganar-dinero-con-youtube-desde-cero-paso-a-paso/?couponCode=YOUTUBE-GR5)
+[WP Rocket 2023: Mejora la Velocidad de Carga en WordPress](https://www.udemy.com/course/curso-de-wp-rocket-como-mejorar-la-velocidad-de-una-web-de-wordpress/?couponCode=WP-GR20)
+[Curso de Manualidades y Bolitas Navideñas](https://www.udemy.com/course/curso-de-manualidades-y-bolitas-navidenas/?couponCode=BOL-GR9)
+[Statistics for Data Science: Learn via 700+ MCQs Quiz [2023]](https://www.udemy.com/course/data-science-statistics/?couponCode=F801263DDE7CAC7C090B)
+[Master C++ Programming From Beginner To Advance – C++ Course](https://www.udemy.com/course/master-cpp-byteboard/?couponCode=CACA1A6797CF8A3C8CDC)
+[ChatGPT Guide: How to Make Money Online Using ChatGPT](https://www.udemy.com/course/chatgpt-guide-how-to-make-money-online-using-chatgpt-tareq-hajj/?couponCode=46DA26686426090E3B75)
 
