@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/07/2023
+# Daily Free Udemy Courses - 29/07/2023
 
-[Configure NGINX on a Cloud Server: Digital Ocean & AWS](https://www.udemy.com/course/configure-nginx-on-a-cloud-server-digital-ocean-aws/?couponCode=YOUACCEL65666)
-[Cloud Computing Essentials: Linode, Linux, and LAMP Stack](https://www.udemy.com/course/cloud-computing-essentials-linode-linux-and-lamp-stack/?couponCode=YOUACCEL65666)
-[Learn How to Earn Cryptocurrency Worldwide in 2023](https://www.udemy.com/course/how-to-earn-cryptocurrency-for-free/?couponCode=A839C8F94980248F341A)
-[Python Interview Questions and Answers for Beginners [2023]](https://www.udemy.com/course/python-interview-questions-and-answers-for-beginners-2023/?couponCode=FE86172D1283F8035CAE)
-[Simulation of Electronic Circuits by Proteus in Arabic](https://www.udemy.com/course/simulation-of-electronic-circuits-by-proteus-in-arabic/?couponCode=82DB31E2C3D37DFE9CC2)
-[Aprende Lenguaje C y C++ de CERO a EXPERTO](https://www.udemy.com/course/aprende-lenguaje-c-y-c-de-cero-a-experto/?couponCode=2128DB04045C56EF8946)
-[Cómo Ganar Dinero con YouTube 2023 | Curso de YouTube 2023](https://www.udemy.com/course/como-ganar-dinero-con-youtube-desde-cero-paso-a-paso/?couponCode=YOUTUBE-GR5)
-[WP Rocket 2023: Mejora la Velocidad de Carga en WordPress](https://www.udemy.com/course/curso-de-wp-rocket-como-mejorar-la-velocidad-de-una-web-de-wordpress/?couponCode=WP-GR20)
-[Curso de Manualidades y Bolitas Navideñas](https://www.udemy.com/course/curso-de-manualidades-y-bolitas-navidenas/?couponCode=BOL-GR9)
-[Statistics for Data Science: Learn via 700+ MCQs Quiz [2023]](https://www.udemy.com/course/data-science-statistics/?couponCode=F801263DDE7CAC7C090B)
-[Master C++ Programming From Beginner To Advance – C++ Course](https://www.udemy.com/course/master-cpp-byteboard/?couponCode=CACA1A6797CF8A3C8CDC)
-[ChatGPT Guide: How to Make Money Online Using ChatGPT](https://www.udemy.com/course/chatgpt-guide-how-to-make-money-online-using-chatgpt-tareq-hajj/?couponCode=46DA26686426090E3B75)
+[JavaScript – Basics to Advanced step by step](https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEJULY132)
+[How to Create a Marketing Video for Your Business or Product](https://www.udemy.com/course/marketing-videos/?couponCode=SUMMER23)
+[Introduction to Java Programming](https://www.udemy.com/course/introduction-to-java-programming-n/?couponCode=D27024616616987E91ED)
+[Build Your Own File Sharing Website](https://www.udemy.com/course/build-file-sharing-website/?couponCode=8B09AE57F2099A1B7EBA)
+[Batch Script Programming Crash Course (CMD)](https://www.udemy.com/course/batch-script-programming/?couponCode=760369DD8BB66126AD0B)
+[QR Code Generator Using JavaScript](https://www.udemy.com/course/qr-code-generator-using-javascript/?couponCode=016F685FDE053318FE9D)
+[Reverse Engineering .NET For Beginners (Visual Basic)](https://www.udemy.com/course/net-reverse-engineering/?couponCode=196AD898559E23ED1FE0)
+[Favicon Grabber Using JavaScript](https://www.udemy.com/course/favicon-grabber/?couponCode=3973222CAD390DF15A48)
+[Excel – Microsoft Excel Course Beginner to Expert 2023](https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=ALHAMDULILLAH_072523)
+[PowerPoint – Microsoft PowerPoint For Beginners 2023](https://www.udemy.com/course/powerpoint-microsoft-powerpoint-for-beginners/?couponCode=SUBHANALLAH_072523)
+[SEO Guide: How to Rank Higher on Google](https://www.udemy.com/course/seo-guide-how-to-rank-higher-on-google-tareq-hajj/?couponCode=666FFC7CF4BF6278708C)
+[Python For Data Engineering 2023 with 500+ Coding Questions](https://www.udemy.com/course/python-for-data-engineering/?couponCode=C16106053886D86A6074)
 
