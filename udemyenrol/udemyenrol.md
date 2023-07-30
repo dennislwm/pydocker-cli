@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/07/2023
+# Daily Free Udemy Courses - 30/07/2023
 
-[JavaScript – Basics to Advanced step by step](https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEJULY132)
-[How to Create a Marketing Video for Your Business or Product](https://www.udemy.com/course/marketing-videos/?couponCode=SUMMER23)
-[Introduction to Java Programming](https://www.udemy.com/course/introduction-to-java-programming-n/?couponCode=D27024616616987E91ED)
-[Build Your Own File Sharing Website](https://www.udemy.com/course/build-file-sharing-website/?couponCode=8B09AE57F2099A1B7EBA)
-[Batch Script Programming Crash Course (CMD)](https://www.udemy.com/course/batch-script-programming/?couponCode=760369DD8BB66126AD0B)
-[QR Code Generator Using JavaScript](https://www.udemy.com/course/qr-code-generator-using-javascript/?couponCode=016F685FDE053318FE9D)
-[Reverse Engineering .NET For Beginners (Visual Basic)](https://www.udemy.com/course/net-reverse-engineering/?couponCode=196AD898559E23ED1FE0)
-[Favicon Grabber Using JavaScript](https://www.udemy.com/course/favicon-grabber/?couponCode=3973222CAD390DF15A48)
-[Excel – Microsoft Excel Course Beginner to Expert 2023](https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/?couponCode=ALHAMDULILLAH_072523)
-[PowerPoint – Microsoft PowerPoint For Beginners 2023](https://www.udemy.com/course/powerpoint-microsoft-powerpoint-for-beginners/?couponCode=SUBHANALLAH_072523)
-[SEO Guide: How to Rank Higher on Google](https://www.udemy.com/course/seo-guide-how-to-rank-higher-on-google-tareq-hajj/?couponCode=666FFC7CF4BF6278708C)
-[Python For Data Engineering 2023 with 500+ Coding Questions](https://www.udemy.com/course/python-for-data-engineering/?couponCode=C16106053886D86A6074)
+[Hands-on GA4 and Looker Studio for New Website Owners](https://www.udemy.com/course/google-analytics-4-and-looker-studio-for-new-website-owners/?couponCode=08862D0E28843154D1E7)
+[Linux for Cloud Engineers: A Complete Project Based Learning](https://www.udemy.com/course/linux-for-cloud-engineers-a-complete-project-based-learning/?couponCode=4F1901B618983C16F181)
+[Cloud Computing with AWS for Beginners](https://www.udemy.com/course/cloud-computing-with-aws/?couponCode=F441B9405CDB3AA8F0A0)
+[Python NumPy Programming and Project Development using NumPy](https://www.udemy.com/course/advanced-python-programming-with-numpy/?couponCode=NUMPY_UPLATZ_JUL1)
+[Figma from start to finish: Design Like a Pro in Hindi](https://www.udemy.com/course/figma-from-start-to-finish-design-like-a-pro-in-hindi/?couponCode=GRABFAST)
+[SAS Predictive Modeling – Predictive Analytics and Modeling](https://www.udemy.com/course/predictive-analytics-and-modeling-for-decision-making/?couponCode=EDUCBA9)
+[REDIS – Hands-on Beginners Course on Redis](https://www.udemy.com/course/redis-for-beginners-hands-on-with-redis/?couponCode=EDUCBA9)
+[Java Swing for GUI Development](https://www.udemy.com/course/java-swing-for-gui-development/?couponCode=EDUCBA9)
+[CAPM Exam Prep Guide](https://www.udemy.com/course/capm-exam-prep-guide/?couponCode=EDUCBA)
+[Streamlit Bootcamp](https://www.udemy.com/course/streamlit-bootcamp/?couponCode=ADC9C5CAAE7286571A05)
+[HVAC DESIGNING MASTER CLASS – HVAC Manual Duct Sizing](https://www.udemy.com/course/hvac-duct/?couponCode=F0D66247ABF66CF2CB12)
+[Food & Courier : Collection Job, Delivery Job & Feedback](https://www.udemy.com/course/food-courier-collection-job-delivery-job-customer-feedback/?couponCode=88E33784D04846A5359A)
 
