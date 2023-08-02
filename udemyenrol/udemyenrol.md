@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/08/2023
+# Daily Free Udemy Courses - 02/08/2023
 
-[Mastering of Python Script for System Administrator](https://www.udemy.com/course/mastering-of-python-script-for-system-administrator/?couponCode=A3BF71467C9F26590605)
-[The Complete Attraction Course: Attract People Easily](https://www.udemy.com/course/the-complete-attraction-masterclass/?couponCode=17AEB072782D99EF1F0B)
-[Mastering Linux Privilege Escalation](https://www.udemy.com/course/mastering-linux-privilege-escalation/?couponCode=0ACC681605B94D88B9BF)
-[ITIL Services: Setup & Optimization,](https://www.udemy.com/course/setting-up-core-itil-services-a-practical-guide/?couponCode=C5DE967896E8BF3A9B5F)
-[ITIL Help Desk Operations: Best Practices](https://www.udemy.com/course/itil-service-desk-a-set-up-guide/?couponCode=E1E2CE00BD2CDC94083A)
-[Flask Master Class For Beginners To Pro](https://www.udemy.com/course/flask-master-class-for-beginners-to-pro/?couponCode=JULY23)
-[Cryptocurrency Guide: Beginner to Advanced](https://www.udemy.com/course/cryptocurrency-guide-beginner-to-advanced/?couponCode=CRYPTO09)
-[Quick ASP .NET Core 6 & MVC Web Design for absolute beginner](https://www.udemy.com/course/windows-forms-with-c-for-absolute-beginners/?couponCode=JULY_FREE_32)
-[CSSLP 101 : Certified Secure Software Lifecycle Professional](https://www.udemy.com/course/csslp-101-certified-secure-software-lifecycle-professional/?couponCode=D08C432E82A61599252B)
-[Arduino UNO Based Obstacle Avoiding Robot Car & RC-Control](https://www.udemy.com/course/arduino-uno-based-obstacle-avoiding-robot-car-rc-control/?couponCode=JULY23)
-[Python in Action: A Practical Course 50+ Real-World Projects](https://www.udemy.com/course/python-in-action-a-practical-course-50-real-world-projects/?couponCode=JULY23)
-[MidJourney Master Class: Elevate Your Artistic Skills](https://www.udemy.com/course/midjourney-master-class-elevate-your-artistic-skills/?couponCode=JULY23)
+[Employee CyberSecurity Awareness First Line of Defense](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=92D8D92A5054049E2B16)
+[Web Performance 101: Your Guide to Boost Your Web App](https://www.udemy.com/course/identify-and-fix-javascript-memory-leaks/?couponCode=A03F916E67E27FEF472C)
+[File & Folder Management Using PowerShell](https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=FREEGIFT81)
+[Empowering Personal Trainer Strategies for Client Boundaries](https://www.udemy.com/course/when-personal-training-gets-personal/?couponCode=75E90E4738E1B0FF9EEB)
+[Stop Waiting, Start Earning! Set Up Your Fitness Business](https://www.udemy.com/course/first-steps-to-set-up-your-fitness-business/?couponCode=09CC0361873EB96B6486)
+[Ms Excel/Excel 2023 – The Complete Introduction to Excel](https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=54C17A8D594AF2196CCD)
+[Deep Web- The complete Introduction to the hidden web](https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=7445F3A100FB7377E44E)
+[Plumbing 103 : Storm Water Practical Plumbing Design](https://www.udemy.com/course/plumbing-mastery-storm-water-practical-plumbing-design/?couponCode=E2ACABF98F27958894B9)
+[NodeJS Masterclass (Express, MongoDB, OpenAI & More) – 2023](https://www.udemy.com/course/nodejs-masterclass-express-mongodb-openai-and-more-2023/?couponCode=SUJAN_LEARN)
+[Revit MEP- HVAC- Duct design, Revit 3D Modeling](https://www.udemy.com/course/revit-mep-hvac-duct-design-revit-3d-modeling/?couponCode=51B6B719019F90758CAD)
+[Java (and Cucumber) for Automation Testing](https://www.udemy.com/course/java-and-cucumber-for-automation-testing/?couponCode=487CBB51BA9507B8EA30)
+[The Complete, Step-By-Step course to Ace your Job Interview](https://www.udemy.com/course/interview-hero/?couponCode=SUMMERTIME100)
 
