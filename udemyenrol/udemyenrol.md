@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/08/2023
+# Daily Free Udemy Courses - 03/08/2023
 
-[Employee CyberSecurity Awareness First Line of Defense](https://www.udemy.com/course/corporate-cyber-security-awareness-for-employees-2022/?couponCode=92D8D92A5054049E2B16)
-[Web Performance 101: Your Guide to Boost Your Web App](https://www.udemy.com/course/identify-and-fix-javascript-memory-leaks/?couponCode=A03F916E67E27FEF472C)
-[File & Folder Management Using PowerShell](https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=FREEGIFT81)
-[Empowering Personal Trainer Strategies for Client Boundaries](https://www.udemy.com/course/when-personal-training-gets-personal/?couponCode=75E90E4738E1B0FF9EEB)
-[Stop Waiting, Start Earning! Set Up Your Fitness Business](https://www.udemy.com/course/first-steps-to-set-up-your-fitness-business/?couponCode=09CC0361873EB96B6486)
-[Ms Excel/Excel 2023 – The Complete Introduction to Excel](https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=54C17A8D594AF2196CCD)
-[Deep Web- The complete Introduction to the hidden web](https://www.udemy.com/course/the-complete-introduction-to-the-deep-web/?couponCode=7445F3A100FB7377E44E)
-[Plumbing 103 : Storm Water Practical Plumbing Design](https://www.udemy.com/course/plumbing-mastery-storm-water-practical-plumbing-design/?couponCode=E2ACABF98F27958894B9)
-[NodeJS Masterclass (Express, MongoDB, OpenAI & More) – 2023](https://www.udemy.com/course/nodejs-masterclass-express-mongodb-openai-and-more-2023/?couponCode=SUJAN_LEARN)
-[Revit MEP- HVAC- Duct design, Revit 3D Modeling](https://www.udemy.com/course/revit-mep-hvac-duct-design-revit-3d-modeling/?couponCode=51B6B719019F90758CAD)
-[Java (and Cucumber) for Automation Testing](https://www.udemy.com/course/java-and-cucumber-for-automation-testing/?couponCode=487CBB51BA9507B8EA30)
-[The Complete, Step-By-Step course to Ace your Job Interview](https://www.udemy.com/course/interview-hero/?couponCode=SUMMERTIME100)
+[Android Jetpack Compose with Retrofit Room Hilt in Kotlin](https://www.udemy.com/course/android-jetpack-compose-retrofit-room-hilt/?couponCode=5577FC20D3C925CACAB0)
+[Master Android by Building 3 Applications in Kotlin Language](https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=B2165067DCD4A47B2FE6)
+[Make a passive Youtube channel with resources ready to earn](https://www.udemy.com/course/make-passive-income-with-youtube/?couponCode=A9D0B2EBA6416E19D678)
+[PHP with MySQL 2023: Build Real Estate Management System](https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE36)
+[Android Course Build 3 Applications from Scratch with Java](https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=372C75577600CEEFA1FC)
+[Android Very Basic App Development Course with Java in Hindi](https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=EDE59A243BE518BB68D0)
+[Learn Android App Development in Java Build 10 Application](https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/?couponCode=0460D3BF34A5AD9C7606)
+[Apache Hive for Data Engineers (Hands On) with 2 Projects](https://www.udemy.com/course/apache-hive-for-data-engineers-hands-on/?couponCode=EFA50DA6607CBA0C3265)
+[Excel in Hindi माइक्रोसॉफ्ट एक्सेल सीखे Zero से Expert बनो](https://www.udemy.com/course/expert-in-excel/?couponCode=LIMITED1)
+[Excel Beginner to Pro](https://www.udemy.com/course/pro-excel/?couponCode=LIMITED1)
+[Complete SQL & Relational Database Management System](https://www.udemy.com/course/complete-sql/?couponCode=LIMITED1)
+[Postgraduate Diploma: Project Management](https://www.udemy.com/course/project-managers/?couponCode=0B235556E71883EE2312)
 
