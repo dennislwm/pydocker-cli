@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/08/2023
+# Daily Free Udemy Courses - 04/08/2023
 
-[Android Jetpack Compose with Retrofit Room Hilt in Kotlin](https://www.udemy.com/course/android-jetpack-compose-retrofit-room-hilt/?couponCode=5577FC20D3C925CACAB0)
-[Master Android by Building 3 Applications in Kotlin Language](https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=B2165067DCD4A47B2FE6)
-[Make a passive Youtube channel with resources ready to earn](https://www.udemy.com/course/make-passive-income-with-youtube/?couponCode=A9D0B2EBA6416E19D678)
-[PHP with MySQL 2023: Build Real Estate Management System](https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE36)
-[Android Course Build 3 Applications from Scratch with Java](https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=372C75577600CEEFA1FC)
-[Android Very Basic App Development Course with Java in Hindi](https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=EDE59A243BE518BB68D0)
-[Learn Android App Development in Java Build 10 Application](https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/?couponCode=0460D3BF34A5AD9C7606)
-[Apache Hive for Data Engineers (Hands On) with 2 Projects](https://www.udemy.com/course/apache-hive-for-data-engineers-hands-on/?couponCode=EFA50DA6607CBA0C3265)
-[Excel in Hindi माइक्रोसॉफ्ट एक्सेल सीखे Zero से Expert बनो](https://www.udemy.com/course/expert-in-excel/?couponCode=LIMITED1)
-[Excel Beginner to Pro](https://www.udemy.com/course/pro-excel/?couponCode=LIMITED1)
-[Complete SQL & Relational Database Management System](https://www.udemy.com/course/complete-sql/?couponCode=LIMITED1)
-[Postgraduate Diploma: Project Management](https://www.udemy.com/course/project-managers/?couponCode=0B235556E71883EE2312)
+[Create a Movie Streaming Website and OTT App Like Netflix](https://www.udemy.com/course/movie-streaming-website-and-ott-app-like-netflix/?couponCode=14D8BDF5AF1075AFD1F4)
+[BIM- Autodesk Navisworks Manage 2023- from Zero to Advanced](https://www.udemy.com/course/bim-autodesk-navisworks-manage-2023-from-zero-to-advanced/?couponCode=058BDE79A9792026BB64)
+[The Complete, Step-By-Step course to Ace your Job Interview](https://www.udemy.com/course/interview-hero/?couponCode=SUMMERTIMEFREE)
+[Oracle 1Z0-1042-22 : Cloud Platform Application Integration](https://www.udemy.com/course/oracle-1z0-1042-22-cloud-platform-application-integration-oic/?couponCode=212EDE17BC2999D09487)
+[Introduction to Construction Management](https://www.udemy.com/course/introduction-to-construction-management/?couponCode=4045032A91107289C9E4)
+[The Complete Java Course: From Basics to Advanced](https://www.udemy.com/course/the-complete-java-course-from-basics-to-advanced/?couponCode=9582B00B9596D582B9A2)
+[Creating your own website, no coding needed](https://www.udemy.com/course/creating-your-own-website-no-coding-needed/?couponCode=7A772C426C81F678EC2F)
+[ISO 13485:2016 – Awareness on Medical Devices Development](https://www.udemy.com/course/iso-134852016-awareness-on-medical-devices-development/?couponCode=EXTRAFREE)
+[ISO 14001:2015 – Awareness on Environment Management (EMS)](https://www.udemy.com/course/iso-140012015-awareness-on-environment-management-ems/?couponCode=EXTRAFREE)
+[ISO 31000:2018 – Enterprise Risk Management Awareness Course](https://www.udemy.com/course/iso-31000-risk-management-awareness-course/?couponCode=EXTRAFREE)
+[Business Continuity Management Awareness on ISO 22301](https://www.udemy.com/course/iso-22301-business-continuity-management-awareness-course/?couponCode=EXTRAFREE)
+[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE-AUG)
 
