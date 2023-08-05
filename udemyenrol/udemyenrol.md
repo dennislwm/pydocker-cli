@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/08/2023
+# Daily Free Udemy Courses - 05/08/2023
 
-[Create a Movie Streaming Website and OTT App Like Netflix](https://www.udemy.com/course/movie-streaming-website-and-ott-app-like-netflix/?couponCode=14D8BDF5AF1075AFD1F4)
-[BIM- Autodesk Navisworks Manage 2023- from Zero to Advanced](https://www.udemy.com/course/bim-autodesk-navisworks-manage-2023-from-zero-to-advanced/?couponCode=058BDE79A9792026BB64)
-[The Complete, Step-By-Step course to Ace your Job Interview](https://www.udemy.com/course/interview-hero/?couponCode=SUMMERTIMEFREE)
-[Oracle 1Z0-1042-22 : Cloud Platform Application Integration](https://www.udemy.com/course/oracle-1z0-1042-22-cloud-platform-application-integration-oic/?couponCode=212EDE17BC2999D09487)
-[Introduction to Construction Management](https://www.udemy.com/course/introduction-to-construction-management/?couponCode=4045032A91107289C9E4)
-[The Complete Java Course: From Basics to Advanced](https://www.udemy.com/course/the-complete-java-course-from-basics-to-advanced/?couponCode=9582B00B9596D582B9A2)
-[Creating your own website, no coding needed](https://www.udemy.com/course/creating-your-own-website-no-coding-needed/?couponCode=7A772C426C81F678EC2F)
-[ISO 13485:2016 – Awareness on Medical Devices Development](https://www.udemy.com/course/iso-134852016-awareness-on-medical-devices-development/?couponCode=EXTRAFREE)
-[ISO 14001:2015 – Awareness on Environment Management (EMS)](https://www.udemy.com/course/iso-140012015-awareness-on-environment-management-ems/?couponCode=EXTRAFREE)
-[ISO 31000:2018 – Enterprise Risk Management Awareness Course](https://www.udemy.com/course/iso-31000-risk-management-awareness-course/?couponCode=EXTRAFREE)
-[Business Continuity Management Awareness on ISO 22301](https://www.udemy.com/course/iso-22301-business-continuity-management-awareness-course/?couponCode=EXTRAFREE)
-[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE-AUG)
+[Snowflake Mastery: Easy steps to gain expertise [2023]](https://www.udemy.com/course/snowflake-mastery-easy-steps-to-gain-expertise-2023/?couponCode=SMFREE08)
+[Web Development Masterclass – Online Certification Course](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=YOUACCEL12763)
+[Build a Custom E-Commerce Site in React + JavaScript Basics](https://www.udemy.com/course/build-a-custom-e-commerce-site-in-react-javascript-basics/?couponCode=YOUACCEL12763)
+[Build an Amazon Affiliate E-Commerce Store from Scratch](https://www.udemy.com/course/build-an-amazon-affiliate-e-commerce-store-from-scratch/?couponCode=YOUACCEL12763)
+[CSS & JavaScript – Certification Course for Beginners](https://www.udemy.com/course/css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL12763)
+[Learn MySQL – For Beginners](https://www.udemy.com/course/learn-mysql-for-beginners/?couponCode=YOUACCEL12763)
+[Learn JavaScript – For Beginners](https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=YOUACCEL12763)
+[NGINX, Apache, SSL Encryption – Certification Course](https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL12763)
+[6 Sigma Champion & White Belt | 6 Sigma in the era of AI?](https://www.udemy.com/course/leansixsigma-white-belt-training/?couponCode=D8296DB48524FC5F0121)
+[Awesome Personal Training Tips to Grow Your Business](https://www.udemy.com/course/12-bright-ideas-personal-trainers-can-teach-their-clients/?couponCode=1F6F3A32575898317F40)
+[The Ultimate ChatGPT Generative AI Course](https://www.udemy.com/course/the-ultimate-chatgpt-generative-ai-course/?couponCode=E2A21ED696795E0A2CE4)
+[Complete Python Bootcamp For Everyone From Zero to Hero 2023](https://www.udemy.com/course/python-foreveryone/?couponCode=PE_AUG)
 
