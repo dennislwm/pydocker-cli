@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/08/2023
+# Daily Free Udemy Courses - 07/08/2023
 
-[Learn Tradingview Pine Script PROPERLY from ZERO to HERO!!](https://www.udemy.com/course/learn-tradingview-pine-script-properly/?couponCode=7049ECB709E5070A2864)
-[Music Business Masterclass: Make a Living as a Musician](https://www.udemy.com/course/music-business/?couponCode=AUGUSTPROMO1)
-[DevOps Interview Questions Preparation Guide – 2023](https://www.udemy.com/course/devops-interview-questions-preparation-guide/?couponCode=05B63A33B1BFB6E27081)
-[Complete Beginners Trading Strategy For Passive Income](https://www.udemy.com/course/swing-trading-strategy-for-beginners-full-course/?couponCode=CC5FA63164895C87C40B)
-[React Router (v6) – The Complete Guide](https://www.udemy.com/course/react-router/?couponCode=0C94A74AD17DF4B340B2)
-[The Complete Facebook Training MasterClass – Master Facebook](https://www.udemy.com/course/the-complete-facebook-training/?couponCode=F26B6DBF9FF8CF09DBE1)
-[SmartPhone Graphic Design](https://www.udemy.com/course/smartphone-graphic-design/?couponCode=AUGUSTFREE1)
-[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=C083E3E50CCDA924CAB5)
-[JavaScript for Beginners – The Complete introduction to JS](https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=C2D0CA47FB7403397D8D)
-[How to Make Money Online for Beginners: Follow PROVEN STEPS!](https://www.udemy.com/course/make-money-online-for-beginners/?couponCode=20B829DCCDE132E9DF56)
-[Make Money Online Moving Your Fingers! (Blogging Course)](https://www.udemy.com/course/make-money-online-blogging/?couponCode=5CC3511A42D1F8FCC155)
-[Contracts Management in Construction Projects](https://www.udemy.com/course/contracts-management-in-construction-projects/?couponCode=CONTRACTSAUG23)
+[Python with NumPy For Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=4BBABF1E680F24EF58CE)
+[Fundamentals of Digital Marketing |Quick Guide for Business](https://www.udemy.com/course/digital-marketing-for-novels/?couponCode=F40CB5E72818A7A9B40C)
+[Laravel 10 – Build Complete Portfolio Website (2023)](https://www.udemy.com/course/laravel-portfolio-building-course/?couponCode=4D87634FA752498A2FA5)
+[Laravel 10 – For Beginner to Advanced (2023)](https://www.udemy.com/course/laravel-9-for-beginner-to-advanced-2023/?couponCode=6567FF2D8F6D937480C4)
+[Chat GPT for YouTube Growth: From Beginner to Pro](https://www.udemy.com/course/chat-gpt-for-youtube-growth-from-beginner-to-pro/?couponCode=2E145485B09561A80D5F)
+[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=COMPUTERFR-2023)
+[Wireshark Ninja | Mastering Real Wireshark PROALL|2023WSHRK+](https://www.udemy.com/course/wireshark-training/?couponCode=WIRESHARK2023X)
+[Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-AUGUST)
+[Data Structures and OOP with C++ : CS104, CS105 Masterclass](https://www.udemy.com/course/data-structures-cpp/?couponCode=CS104ANDCS105)
+[Mastering Linux: The Complete Guide to Becoming a Linux Pro](https://www.udemy.com/course/linux-training/?couponCode=LINUX-FOR-HACKING)
+[AWS Beginner to Intermediate: EC2, IAM, ELB, ASG, Route 53](https://www.udemy.com/course/aws-beginner-to-intermediate-ec2-iam-elb-asg-route-53/?couponCode=YOUACCEL28041)
+[CSS, Bootstrap, JavaScript And PHP Stack Complete Course](https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=A2F42B273D8522376F99)
 
