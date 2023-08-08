@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/08/2023
+# Daily Free Udemy Courses - 08/08/2023
 
-[Python with NumPy For Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=4BBABF1E680F24EF58CE)
-[Fundamentals of Digital Marketing |Quick Guide for Business](https://www.udemy.com/course/digital-marketing-for-novels/?couponCode=F40CB5E72818A7A9B40C)
-[Laravel 10 – Build Complete Portfolio Website (2023)](https://www.udemy.com/course/laravel-portfolio-building-course/?couponCode=4D87634FA752498A2FA5)
-[Laravel 10 – For Beginner to Advanced (2023)](https://www.udemy.com/course/laravel-9-for-beginner-to-advanced-2023/?couponCode=6567FF2D8F6D937480C4)
-[Chat GPT for YouTube Growth: From Beginner to Pro](https://www.udemy.com/course/chat-gpt-for-youtube-growth-from-beginner-to-pro/?couponCode=2E145485B09561A80D5F)
-[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=COMPUTERFR-2023)
-[Wireshark Ninja | Mastering Real Wireshark PROALL|2023WSHRK+](https://www.udemy.com/course/wireshark-training/?couponCode=WIRESHARK2023X)
-[Mastering Network Security: Defending Against Cyber Threats](https://www.udemy.com/course/master-network-security/?couponCode=NETSEC-AUGUST)
-[Data Structures and OOP with C++ : CS104, CS105 Masterclass](https://www.udemy.com/course/data-structures-cpp/?couponCode=CS104ANDCS105)
-[Mastering Linux: The Complete Guide to Becoming a Linux Pro](https://www.udemy.com/course/linux-training/?couponCode=LINUX-FOR-HACKING)
-[AWS Beginner to Intermediate: EC2, IAM, ELB, ASG, Route 53](https://www.udemy.com/course/aws-beginner-to-intermediate-ec2-iam-elb-asg-route-53/?couponCode=YOUACCEL28041)
-[CSS, Bootstrap, JavaScript And PHP Stack Complete Course](https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=A2F42B273D8522376F99)
+[Hands-on GA4 and Looker Studio for New Website Owners](https://www.udemy.com/course/google-analytics-4-and-looker-studio-for-new-website-owners/?couponCode=8504BB5D81921AD04720)
+[Object-Oriented Programming (OOP) – Learn to Code Faster](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=F60F953E3A4AD7606B3F)
+[SQL Mastery: Learn Enough SQL To Be A Professional [2023]](https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/?couponCode=C27D418FF3CB93E048C3)
+[Teaching Methods, Teaching Quality & Teaching Delivery 3.0](https://www.udemy.com/course/teaching-methods-teaching-quality-teaching-delivery/?couponCode=A78A6369D14AF4E53585)
+[Fast Python Programming For Absolute Beginners SQL in Python](https://www.udemy.com/course/easy-python-programming-for-absolute-beginners-sql-in-python/?couponCode=AUG_FREE_31)
+[Angular, Unit Testing, and Figma](https://www.udemy.com/course/angular-unit-testing-figma-and-numerical-analysis/?couponCode=A693D0AEB227F7F30156)
+[The Complete Introduction to C++ Programming](https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=5219F0ADF24CAD16B2DA)
+[Mastering Microsoft Power BI: From Beginner to Advanced](https://www.udemy.com/course/mastering-microsoft-power-bi-from-beginner-to-advanced/?couponCode=POWERBIFREE)
+[Solid Edge 2022 CAD + NX CAD + NX CAM (Siemens CAD / CAM)](https://www.udemy.com/course/solid-edge-2022-cad-nx-cad-nx-cam-siemens-cad-cam/?couponCode=07833A27405A084D3305)
+[Microsoft Teams Ultimate Guide](https://www.udemy.com/course/learn-microsoft-teams/?couponCode=FREE823G6S1)
+[Microsoft Sway Basics](https://www.udemy.com/course/learn-microsoft-sway-course/?couponCode=FREE823G6S1)
+[Microsoft PowerPoint Ultimate Guide](https://www.udemy.com/course/learn-microsoft-powerpoint/?couponCode=FREE823G6S1)
 
