@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/08/2023
+# Daily Free Udemy Courses - 09/08/2023
 
-[Hands-on GA4 and Looker Studio for New Website Owners](https://www.udemy.com/course/google-analytics-4-and-looker-studio-for-new-website-owners/?couponCode=8504BB5D81921AD04720)
-[Object-Oriented Programming (OOP) – Learn to Code Faster](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=F60F953E3A4AD7606B3F)
-[SQL Mastery: Learn Enough SQL To Be A Professional [2023]](https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/?couponCode=C27D418FF3CB93E048C3)
-[Teaching Methods, Teaching Quality & Teaching Delivery 3.0](https://www.udemy.com/course/teaching-methods-teaching-quality-teaching-delivery/?couponCode=A78A6369D14AF4E53585)
-[Fast Python Programming For Absolute Beginners SQL in Python](https://www.udemy.com/course/easy-python-programming-for-absolute-beginners-sql-in-python/?couponCode=AUG_FREE_31)
-[Angular, Unit Testing, and Figma](https://www.udemy.com/course/angular-unit-testing-figma-and-numerical-analysis/?couponCode=A693D0AEB227F7F30156)
-[The Complete Introduction to C++ Programming](https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=5219F0ADF24CAD16B2DA)
-[Mastering Microsoft Power BI: From Beginner to Advanced](https://www.udemy.com/course/mastering-microsoft-power-bi-from-beginner-to-advanced/?couponCode=POWERBIFREE)
-[Solid Edge 2022 CAD + NX CAD + NX CAM (Siemens CAD / CAM)](https://www.udemy.com/course/solid-edge-2022-cad-nx-cad-nx-cam-siemens-cad-cam/?couponCode=07833A27405A084D3305)
-[Microsoft Teams Ultimate Guide](https://www.udemy.com/course/learn-microsoft-teams/?couponCode=FREE823G6S1)
-[Microsoft Sway Basics](https://www.udemy.com/course/learn-microsoft-sway-course/?couponCode=FREE823G6S1)
-[Microsoft PowerPoint Ultimate Guide](https://www.udemy.com/course/learn-microsoft-powerpoint/?couponCode=FREE823G6S1)
+[Excellence in Solutions Design to become Solution Architect](https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=41045967DA6613F7D1B1)
+[2023 Core JAVA Bootcamp from Zero to Hero](https://www.udemy.com/course/2022-core-java-bootcamp-from-zero-to-hero/?couponCode=C84781DFE00396BE67EA)
+[Drinking Water Explained: Safety, Process & Challenges](https://www.udemy.com/course/introduction-to-drinking-water-treatment/?couponCode=B79DD36ADD8F050A465D)
+[Olympic Games Analytics Project in Apache Spark for beginner](https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=EC01339B885A6F378872)
+[Solid Edge 2022 CAD + Solidcam + NX CAD (4 Courses CAD CAM)](https://www.udemy.com/course/solid-edge-2022-cad-solidcam-2023-nx-cad-4-courses/?couponCode=F88C07AB4B67A5FA0663)
+[The Science of Epigenetics and Quantum Embodiment®.](https://www.udemy.com/course/learn-the-science-of-quantum-embodiment/?couponCode=3E29EE3FC8A87360A9A5)
+[PHP with MySQL 2023: Build 5 PHP and MySQL Projects](https://www.udemy.com/course/php-with-mysql-2022-build-5-php-and-mysql-projects/?couponCode=PHPWITHMYSQL43)
+[Introduction to Encryption (Cybersecurity)](https://www.udemy.com/course/introduction-to-encryption/?couponCode=E9ABD43A76DA7A883ABD)
+[Real Android App Dev in 15 Hours|KotlinDevX Certificate 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=REAL-ANDROID-BEST)
+[ChatGPT: Make Money with ChatGPT as a New Freelancer](https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=ALHAMDULILLAH_080823)
+[Become a Professional Programmer](https://www.udemy.com/course/become-a-programmer/?couponCode=AUG_SALE1)
+[Complete Python 2023 For Absolute Beginners](https://www.udemy.com/course/complete-python-2023-for-absolute-beginners/?couponCode=E5859F882A1597EE2F9F)
 
