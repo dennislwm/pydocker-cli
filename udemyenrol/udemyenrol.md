@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/08/2023
+# Daily Free Udemy Courses - 10/08/2023
 
-[Excellence in Solutions Design to become Solution Architect](https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=41045967DA6613F7D1B1)
-[2023 Core JAVA Bootcamp from Zero to Hero](https://www.udemy.com/course/2022-core-java-bootcamp-from-zero-to-hero/?couponCode=C84781DFE00396BE67EA)
-[Drinking Water Explained: Safety, Process & Challenges](https://www.udemy.com/course/introduction-to-drinking-water-treatment/?couponCode=B79DD36ADD8F050A465D)
-[Olympic Games Analytics Project in Apache Spark for beginner](https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/?couponCode=EC01339B885A6F378872)
-[Solid Edge 2022 CAD + Solidcam + NX CAD (4 Courses CAD CAM)](https://www.udemy.com/course/solid-edge-2022-cad-solidcam-2023-nx-cad-4-courses/?couponCode=F88C07AB4B67A5FA0663)
-[The Science of Epigenetics and Quantum Embodiment®.](https://www.udemy.com/course/learn-the-science-of-quantum-embodiment/?couponCode=3E29EE3FC8A87360A9A5)
-[PHP with MySQL 2023: Build 5 PHP and MySQL Projects](https://www.udemy.com/course/php-with-mysql-2022-build-5-php-and-mysql-projects/?couponCode=PHPWITHMYSQL43)
-[Introduction to Encryption (Cybersecurity)](https://www.udemy.com/course/introduction-to-encryption/?couponCode=E9ABD43A76DA7A883ABD)
-[Real Android App Dev in 15 Hours|KotlinDevX Certificate 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=REAL-ANDROID-BEST)
-[ChatGPT: Make Money with ChatGPT as a New Freelancer](https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=ALHAMDULILLAH_080823)
-[Become a Professional Programmer](https://www.udemy.com/course/become-a-programmer/?couponCode=AUG_SALE1)
-[Complete Python 2023 For Absolute Beginners](https://www.udemy.com/course/complete-python-2023-for-absolute-beginners/?couponCode=E5859F882A1597EE2F9F)
+[Fast WPF in C# Windows Presentation Foundation for Beginners](https://www.udemy.com/course/fast-wpf-in-c-windows-presentation-foundation-for-beginners/?couponCode=AUG_FREE_31)
+[SAP Fiori : the enduser guide](https://www.udemy.com/course/sap-fiori-the-enduser-guide/?couponCode=6BF737A7C2FBDDDA5F31)
+[AZ-900 | AZ900 Microsoft Azure Fundamentals | 06 Mock Exams](https://www.udemy.com/course/az-900-az900-microsoft-azure-fundamentals-06-mock-exams/?couponCode=DFB6F5177C35E21D0334)
+[Master Course in Chemical & Petroleum Engineering Management](https://www.udemy.com/course/chemical-petroleum-engineering-management/?couponCode=3AE14798B68DFE78771A)
+[Machine Learning in R & Predictive Models | 3 Courses in 1](https://www.udemy.com/course/machine-learning-predictive-models-in-r-theory-practice/?couponCode=D2B9F4480E7C6450D8BB)
+[Master Course of Art Gallery Management](https://www.udemy.com/course/master-course-of-art-gallery-management/?couponCode=B8990981347EF6022881)
+[Master Course of Cloud Management](https://www.udemy.com/course/cloud-management/?couponCode=8EA5AA75BC7865BFEDB0)
+[Inbound Marketing – Improve Your Skills Today](https://www.udemy.com/course/inbound-marketing-improve-your-skills-today/?couponCode=71B5FA7862F6EA24001D)
+[Mastering Presentations and Public Speaking (Ultimate guide)](https://www.udemy.com/course/presentations-and-public-speaking/?couponCode=C8151C5707B9912CCE05)
+[Master Course in Smart Management & Frontline Management 2.0](https://www.udemy.com/course/smart-management-frontline-management-change-management/?couponCode=C25ABA83307B4F7FE63F)
+[Method Validation, Verification & Uncertainty Calculations](https://www.udemy.com/course/method-validation-based-on-iso-170252017-requirements/?couponCode=D7C108FF16BA5AE0DC62)
+[Li-Ion Battery Pack Design for Electric Vehicles (2023)](https://www.udemy.com/course/electric-vehicles-battery-pack-li-ion/?couponCode=BATTERYPACK_1_AUG23)
 
