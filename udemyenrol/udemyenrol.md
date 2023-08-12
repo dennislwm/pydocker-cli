@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/08/2023
+# Daily Free Udemy Courses - 12/08/2023
 
-[Web Design Course for Beginners to Intermediate](https://www.udemy.com/course/web-development-beginners-to-advanced/?couponCode=38C161680CDA00A7C19B)
-[Git Command Line for Beginners](https://www.udemy.com/course/git-command-line-for-beginners/?couponCode=YOURGOAL)
-[Create a GUI with Python](https://www.udemy.com/course/create-a-gui-with-python-pysimplegui/?couponCode=YOURGOAL)
-[Browser Automation with Python Selenium](https://www.udemy.com/course/browser-automation-with-python-selenium/?couponCode=YOURGOAL)
-[Applied Cryptography with Python](https://www.udemy.com/course/applied-cryptography-with-python/?couponCode=YOURGOAL)
-[AutoML Automated Machine Learning BootCamp (No Code ML)](https://www.udemy.com/course/automl-automated-machine-learning-bootcamp-no-code-ml/?couponCode=2662E4DA4AF07DD61DFA)
-[Master Course : Amazon S3 Simple Storage Service (Deep Dive)](https://www.udemy.com/course/amazon-s3-simple-storage-service-aws-s3-amazon-lambda-cloud-storage/?couponCode=599EA018680511201EBD)
-[PHP with MySQL 2023: Build a Complete Job Portal](https://www.udemy.com/course/php-with-mysql-2022-build-a-complete-job-portal/?couponCode=PHPJOBPORTAL42)
-[CyberSecurity Bootcamp: The Ultimate Beginner’s Course](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=C48C1C51410713C8A2E7)
-[Cryptocurrency Guide: Beginner to Advanced](https://www.udemy.com/course/cryptocurrency-guide-beginner-to-advanced/?couponCode=CRYPTOCOURSE43)
-[Financial Education By Pirate Mike](https://www.udemy.com/course/financial-education-by-pirate-mike/?couponCode=92978E9007AD4920CCBB)
-[First impression hack – Scientific HUMINT cheats!](https://www.udemy.com/course/first-impression-hack/?couponCode=SALESTART05082023)
+[Bootstrap 4 for Beginners Build a modern Responsive website](https://www.udemy.com/course/bootstrap-4-for-beginners/?couponCode=0D2D845EAC850EFB1DEC)
+[The JavaScript Complete Guide Course](https://www.udemy.com/course/javascript-complete-guide-course/?couponCode=B9EA9588A1B286369037)
+[Food & Courier : Collection Job, Delivery Job & Feedback](https://www.udemy.com/course/food-courier-collection-job-delivery-job-customer-feedback/?couponCode=750EB4AD78BAF3EC83F1)
+[Nutanix 101 Professional Multi Cloud Infrastructure(NCP-MCI)](https://www.udemy.com/course/nutanix-certified-professional-multi-cloud-infrastructure-ncp-mci/?couponCode=B9EC421CB68E59A6B4A8)
+[CSSLP 101 : Certified Secure Software Lifecycle Professional](https://www.udemy.com/course/csslp-101-certified-secure-software-lifecycle-professional/?couponCode=9ADE01D88094D712FFDF)
+[Software Career Planning: Immigration, Domains, Tech Stacks](https://www.udemy.com/course/software-career-bootcamp-career-planning-and-interviews-101/?couponCode=D06B5EDE47A7CB031DC6)
+[Options Trading for Beginners – Intro Session](https://www.udemy.com/course/options-trading-for-beginners-intro-session/?couponCode=FREE_8_9_23)
+[5 Sample Butterfly Options Trades for Income](https://www.udemy.com/course/5-sample-butterfly-options-trades-for-income/?couponCode=FREE_8_9_23)
+[5 Calendar Trades – Detailed Walk through](https://www.udemy.com/course/5-calendar-trades-detailed-walk-through/?couponCode=FREE_8_9_23)
+[System Design Interview Preparation using ChatGPT](https://www.udemy.com/course/system-design-first-principles-thinking-in-60-minutes/?couponCode=CBD400C0C6DEFA7BE285)
+[Convert a one page HTML5 Template to a WordPress Theme](https://www.udemy.com/course/convert-html5-template-to-wordpress-theme/?couponCode=FREE-HTMLWP-AUG1)
+[Databricks Certified Associate Developer for Apache Spark 3](https://www.udemy.com/course/databricks-associate-developer-for-apache-spark/?couponCode=DATABRICKS)
 
