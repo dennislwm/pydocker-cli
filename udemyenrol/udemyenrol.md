@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/08/2023
+# Daily Free Udemy Courses - 14/08/2023
 
-[Complete Python Based Image Processing and Computer Vision](https://www.udemy.com/course/complete-python-based-image-processing-and-computer-vision/?couponCode=FREECOUPON2023A)
-[Information Security Fundamentals](https://www.udemy.com/course/infosec-fundamentals/?couponCode=AUGUST23)
-[Car Flipping : The Art of Car Business in 90 Minute ! |2023+](https://www.udemy.com/course/car-flipping-earn-money-from-selling-used-cars-ocsaly/?couponCode=CAR-FLIPPING-CERT)
-[Data Structures and OOP with C++ : CS104, CS105 Masterclass](https://www.udemy.com/course/data-structures-cpp/?couponCode=CS104ANDCS105AUG)
-[Figma from start to finish: Design Like a Pro in Hindi](https://www.udemy.com/course/figma-from-start-to-finish-design-like-a-pro-in-hindi/?couponCode=LOOTLOOT)
-[Contracts Managment & Contracts Administration Basic Course](https://www.udemy.com/course/contracts-managment-contracts-administration-basic-course/?couponCode=1BBF4CC52DF22165DD83)
-[Geospatial APIs For Data Science Applications In Python](https://www.udemy.com/course/geospatial-apis-for-data-science-applications-in-python/?couponCode=FREECOUPON2023A)
-[Decoding Antipatterns](https://www.udemy.com/course/decoding-antipatterns/?couponCode=085A828170A415ACBC60)
-[Species Distribution Models with GIS & Machine Learning in R](https://www.udemy.com/course/species-distribution-models-with-gis-machine-learning-in-r/?couponCode=FREECOUPON2023A)
-[Practical Recommender Systems For Business Applications in R](https://www.udemy.com/course/practical-recommender-systems-for-business-applications-in-r/?couponCode=FREECOUPON2023A)
-[Ultimate Facebook Advertising | Learn Facebook Ads in 2023](https://www.udemy.com/course/ultimate-facebook-advertising-learn-facebook/?couponCode=033C67DCDB5366FA437A)
-[Practical Cisco Networking Labs in Cisco Packet Tracer](https://www.udemy.com/course/practical-cisco-networking-labs/?couponCode=AUGUST23)
+[Make Money on YouTube Following PROVEN STEPS – Works in 2023](https://www.udemy.com/course/earn-money-on-youtube/?couponCode=2F77A785A8DC8445F4B9)
+[Make 3 IoT Projects – Beginner, Intermediate & Advanced 2023](https://www.udemy.com/course/getting-stared-with-asus-tinker-board/?couponCode=IOT_COURSE1)
+[How to Make an eCommerce Website with WordPress For Beginner](https://www.udemy.com/course/how-to-make-an-ecommerce-website-with-wordpress-elementor-for-beginner/?couponCode=756778)
+[CSS And Javascript Crash Course](https://www.udemy.com/course/css-and-javascript-crash-course/?couponCode=1423452FE4F7DF5BA8AA)
+[Financial Education By Pirate Mike](https://www.udemy.com/course/financial-education-by-pirate-mike/?couponCode=F5C0F0561E8C6C3778A0)
+[Togaf 9.2 Certified Training for Architecture Success](https://www.udemy.com/course/togaf-92-certified-training-for-architecture-success/?couponCode=FREETOGAFC)
+[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=A9DCC16586B9976086EB)
+[JavaScript for Beginners – The Complete introduction to JS](https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/?couponCode=24586A6DD61FD5CB06BD)
+[Quick SQL in VB .Net : Database Apps in Visual Basic & SQL](https://www.udemy.com/course/quick-sql-in-vb-net-database-apps-in-visual-basic-sql/?couponCode=AUG_FREE_32)
+[Deep Learning MasterClass](https://www.udemy.com/course/deep-learning-masterclass/?couponCode=249E70815F7F48F144C8)
+[On-Page SEO Training Course](https://www.udemy.com/course/on-page-web-optimization-for-seo/?couponCode=8567C22035443B92F484)
+[Fast track French for beginners](https://www.udemy.com/course/fast-track-french-for-beginners/?couponCode=E3CCC41DDCF7B4C079A2)
 
