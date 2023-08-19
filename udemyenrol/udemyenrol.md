@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/08/2023
+# Daily Free Udemy Courses - 19/08/2023
 
-[Data Visualization and advanced use of Matplotlib in Python](https://www.udemy.com/course/advanced-data-visualization-with-python/?couponCode=6E6386474F1E016C0AA4)
-[200 TypeScript Interview Questions and Answers [August 2023]](https://www.udemy.com/course/typescript-interview-questions/?couponCode=D384519273FE092D9B26)
-[Cybersecurity Fundamentals Quiz [August 2023]](https://www.udemy.com/course/cybersecurity-quiz/?couponCode=5578A7827DF2D0F701A0)
-[Cinematography Masterclass: The Complete Videography Guide](https://www.udemy.com/course/cinematography-masterclass/?couponCode=CINEMA-8)
-[Convert a one page HTML5 Template to a WordPress Theme](https://www.udemy.com/course/convert-html5-template-to-wordpress-theme/?couponCode=FREE-HTMLWP-AUG2)
-[WordPress Theme Development from Scratch 2.0](https://www.udemy.com/course/advanced-wordpress-theme-development-with-bootstrap/?couponCode=FREE-THEMES-AUG2)
-[Creating WordPress Plugins The Right Way](https://www.udemy.com/course/wordpress-plugin-development/?couponCode=FREE-PLUGINS-AUG2)
-[Machine Learning & Self-Driving Cars: Bootcamp with Python](https://www.udemy.com/course/machine-learning-self-driving-cars/?couponCode=AEC95FFB288F9924995D)
-[WooCommerce Theme Development: Advanced Course](https://www.udemy.com/course/woocommerce-wordpress-theme-development/?couponCode=FREE-WOOCOM-AUG2)
-[ChatGPT for Data Science and Machine Learning](https://www.udemy.com/course/chatgpt-for-data-science-and-machine-learning/?couponCode=10AB4D79A1214B867F04)
-[WordPress Beginners Guide Site Speed Optimization Made Easy](https://www.udemy.com/course/wordpress-speed-boost-for-beginners-zero-code-needed/?couponCode=953EF989F922347A5F0D)
-[PL-900: MS Power Platform Fundamentals Practice Tests 2023](https://www.udemy.com/course/pl-900-en/?couponCode=AUG232)
+[Microsoft Excel – Beginner to Advance with Example](https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/?couponCode=AUGTHREE23)
+[Canva, Midjourney & ChatGPT: The Best Passive income in 2023](https://www.udemy.com/course/canva-midjourney-chatgpt-the-best-passive-income/?couponCode=AC581FA99864F9C10E15)
+[ChatGPT: Create a Hospital Management System using ChatGPT](https://www.udemy.com/course/harness-the-power-of-chatgptcreate-a-revolutionary-hospital/?couponCode=8F959877A8285740D581)
+[Linux Terminal Productivity](https://www.udemy.com/course/linux-terminal-productivity/?couponCode=ISTODAY)
+[CGEIT 101 : Certified in the Governance of Enterprise IT](https://www.udemy.com/course/cgeit-101-certified-in-the-governance-of-enterprise-it/?couponCode=A6336D40429F896537C5)
+[How to choose the perfect diamond for your engagement ring](https://www.udemy.com/course/how-to-choose-the-perfect-diamond-for-your-engagement-ring/?couponCode=COURSEFREE)
+[Accelerated Learning: Study Skills for Success: IT industry](https://www.udemy.com/course/accelerated-certification-techniques/?couponCode=2CF656EA3741954EBF84)
+[Negotiation Skill Process, Tactics, Strategy and Style](https://www.udemy.com/course/negotiation-skill-process-tactics-strategy-and-style/?couponCode=406DBAED7C917563EA54)
+[Manage Your Boss – A guide to organisational success](https://www.udemy.com/course/manage-your-boss-a-guide-to-organisational-success/?couponCode=E324CDF60FA6DF6A8F18)
+[Mastering of Plumbing Systems : From Pipes to Principles2023](https://www.udemy.com/course/mastering-of-plumbing-systems-from-pipes-to-principles2023/?couponCode=D90309D4CECDB0F71E3B)
+[Pro-Level Home Plumbing:Water Supply&Ventilation Systems2023](https://www.udemy.com/course/pro-level-home-plumbing-water-supply-ventilation-systems/?couponCode=6082287CEE3055F8FE42)
+[Free Stock Market Trading Course in हिंदी](https://www.udemy.com/course/free-stock-market-trading-course-in-hindi/?couponCode=0EA4E20F4D9EAF70C284)
 
