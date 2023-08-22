@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/08/2023
+# Daily Free Udemy Courses - 22/08/2023
 
-[Learn Web Design using WordPress & Start Freelancing](https://www.udemy.com/course/become-successful-wordpress-freelancer-to-make-money-online/?couponCode=ALHAMDULILLAH0823)
-[Mastering Live(View) development in Go (GoLang)](https://www.udemy.com/course/mastering-liveview-development-in-go-golang/?couponCode=332D36A56F0429E2A800)
-[TikTok Marketing Domination : Mastering Marketing Strategies](https://www.udemy.com/course/tiktok-marketing-domination-mastering-marketing-strategies/?couponCode=80145DE1DDFA83F770AD)
-[Advanced Professional Photoshop Course](https://www.udemy.com/course/advanced-professional-photoshop-course/?couponCode=5F97705CFE96F67C7FFD)
-[Learn German Language: Best German A2 Course [Intermediate]](https://www.udemy.com/course/learn-german-language-a22-german-a2-course-must-see-2020/?couponCode=3EAE908D22825DE75049)
-[iOS 16 Swift & SwiftUI – Complete iOS App Development](https://www.udemy.com/course/ios-16-swift-complete-app-development/?couponCode=8B64382386E23BA2B65D)
-[Dart & Flutter | The Complete Flutter Development Course](https://www.udemy.com/course/dart-flutter-the-complete-flutter-development-course/?couponCode=98D55D9D6FEAD913C112)
-[Excellence in Leadership & Managing Skills for Good Managers](https://www.udemy.com/course/excellence-in-leadership-y/?couponCode=3F472FF64FD0F7A3BA9A)
-[Flutter REST Movie App: Master Flutter REST API Development](https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=416CDF8EF1275A356CE3)
-[Learn Content Writing using AI & Make Money Online](https://www.udemy.com/course/ai-content-course/?couponCode=ALHAMDULILLAH0823)
-[Learn Content Writing using AI & Start Freelancing](https://www.udemy.com/course/ai-content-writing/?couponCode=ALHAMDULILLAH0823)
-[Build a Portfolio Website without Coding 2022](https://www.udemy.com/course/build-your-own-portfolio-website-without-coding-wordpress/?couponCode=ALHAMDULILLAH0823)
+[Graphics Design and Video Editing Course for Beginner](https://www.udemy.com/course/graphics-design-and-video-editing-course-for-beginner/?couponCode=8586067C96487A461F22)
+[ChatGPT Masterclass: A Complete ChatGPT Zero to Hero!](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-zero-to-hero-openai/?couponCode=OPENAI)
+[Essential Photoshop Course for Beginner to Advanced](https://www.udemy.com/course/graphics-design-video-editing-for-beginner-to-advanced/?couponCode=E4F56889AD3F919577F3)
+[Ethical Hacking: Metasploit](https://www.udemy.com/course/ethical-hacking-metasploit/?couponCode=USAINBOLT)
+[SQLite Made Easy](https://www.udemy.com/course/sqlite-made-easy/?couponCode=USAINBOLT)
+[Hack Network PCs](https://www.udemy.com/course/hack-network-pcs/?couponCode=USAINBOLT)
+[Linux Terminal Productivity](https://www.udemy.com/course/linux-terminal-productivity/?couponCode=USAINBOLT)
+[C Programming the Basics](https://www.udemy.com/course/c-programming-the-basics/?couponCode=USAINBOLT)
+[Intro to ChatGPT: The Essential Skills for Getting Started](https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/?couponCode=97EB6A6BDEEF41007051)
+[Midjourney Mastery: Unlock Your Creative Potential with AI](https://www.udemy.com/course/midjourney-mastery-unlock-your-creative-potential-with-ai/?couponCode=DD84009D6418A6AAFC8C)
+[ChatGPT Plugins: The Complete Guide](https://www.udemy.com/course/chatgpt-plugins-the-complete-guide/?couponCode=GPTPLUGINS23)
+[New Small and Big Best Business Ideas Generation & Selection](https://www.udemy.com/course/learn-and-generate-select-right-business-ideas/?couponCode=06F859F208E860C1FCD9)
 
