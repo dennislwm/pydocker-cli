@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/08/2023
+# Daily Free Udemy Courses - 26/08/2023
 
-[Futures Trading Ninja: DIY 12Hour TOP-NOTCH Trading Strategy](https://www.udemy.com/course/futures-trading/?couponCode=1AUG23)
-[Midjourney et ChatGPT : Publiez vos Livres sur Amazon KDP](https://www.udemy.com/course/midjourney-chatgpt-amazon-kdp/?couponCode=C409A153DDBFE2C037CF)
-[Drinking Water Explained: Safety, Process & Challenges](https://www.udemy.com/course/introduction-to-drinking-water-treatment/?couponCode=E29DC50BC4F03575B684)
-[Introduction to Law in the U.S. (for every non-lawyer)](https://www.udemy.com/course/introduction-to-law/?couponCode=LEARNLAWFREEFALL2023)
-[Executive Diploma in General Management](https://www.udemy.com/course/postgraduate-executive-diploma-general-management/?couponCode=C1BD0BF322BEE5595A40)
-[Web Development full course](https://www.udemy.com/course/web-development-angulra-php-laravel-full-course/?couponCode=C7A6CB9E02785F825BAE)
-[Java Mastery: Unleashing the Power of Programming](https://www.udemy.com/course/java-mastery-unleashing-the-power-of-programming/?couponCode=JAVA_MASTER)
-[SAP OData services – Rest API and Consume Salesforce API](https://www.udemy.com/course/sap-odata-basics/?couponCode=ODATA_REST1)
-[Trading View Mastery: Unlock Your TradingView Potential](https://www.udemy.com/course/trading-view-master-class-unlock-your-tradingview-trading-skills/?couponCode=KARIMFREE)
-[Mastering Doodly: Create Engaging Whiteboard Animations](https://www.udemy.com/course/mastering-doodly-2d-animation-whiteboard-animation/?couponCode=4087D1B59042FB87C5E7)
-[Creative Photo Editing Mastery with Adobe Lightroom](https://www.udemy.com/course/photo-editing-mastery-with-adobe-lightroom/?couponCode=7C8288F9C87C0E0C965E)
-[Getting started with Azure Cloud](https://www.udemy.com/course/microsoft-azure-cloud/?couponCode=AZURE-CLOUD)
+[Learn Linux and Shell Scripting From Basic To Advanced](https://www.udemy.com/course/learn-linux-operating-system-from-basic-to-advanced/?couponCode=3915CBBC316295655D27)
+[Women Leaders Executive Programme](https://www.udemy.com/course/womens-leadership/?couponCode=73A426165377BD61C5BF)
+[Ethical Hacking: Hacking with Python](https://www.udemy.com/course/ethical-hacking-hacking-with-python/?couponCode=SKILLFULNESS)
+[Automate with Python](https://www.udemy.com/course/automate-with-python/?couponCode=SKILLFULNESS)
+[11 Days Math Challenge : Master Basics of Mathematics](https://www.udemy.com/course/math-fundamentals/?couponCode=3EC5E919500357CC6167)
+[C++ Complete Training Course for Beginners 2022](https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=55374E2ED39C8701FDBF)
+[Real Android App Dev in 15 Hours|KotlinDevX Certificate 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=ANDROID-CERT-2023)
+[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=SKILLFULNESS)
+[Ethical Hacking: Web Enumeration](https://www.udemy.com/course/ethical-hacking-web-enumeration/?couponCode=SKILLFULNESS)
+[OOP Design Patterns in Python](https://www.udemy.com/course/oop-design-patterns-in-python/?couponCode=SKILLFULNESS)
+[Criminology and Criminal Psychology | Certified CSI+ Course](https://www.udemy.com/course/criminology-and-criminal-psychology-certified-csi-course-ocsaly/?couponCode=FBI-TRAININGS)
+[The Complete Computer Forensics Course for 2023 PRO : CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=CERTIFIED-DFIR-2)
 
