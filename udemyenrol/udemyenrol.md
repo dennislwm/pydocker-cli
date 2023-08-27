@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 26/08/2023
+# Daily Free Udemy Courses - 27/08/2023
 
-[Learn Linux and Shell Scripting From Basic To Advanced](https://www.udemy.com/course/learn-linux-operating-system-from-basic-to-advanced/?couponCode=3915CBBC316295655D27)
-[Women Leaders Executive Programme](https://www.udemy.com/course/womens-leadership/?couponCode=73A426165377BD61C5BF)
-[Ethical Hacking: Hacking with Python](https://www.udemy.com/course/ethical-hacking-hacking-with-python/?couponCode=SKILLFULNESS)
-[Automate with Python](https://www.udemy.com/course/automate-with-python/?couponCode=SKILLFULNESS)
-[11 Days Math Challenge : Master Basics of Mathematics](https://www.udemy.com/course/math-fundamentals/?couponCode=3EC5E919500357CC6167)
-[C++ Complete Training Course for Beginners 2022](https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=55374E2ED39C8701FDBF)
-[Real Android App Dev in 15 Hours|KotlinDevX Certificate 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=ANDROID-CERT-2023)
-[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=SKILLFULNESS)
-[Ethical Hacking: Web Enumeration](https://www.udemy.com/course/ethical-hacking-web-enumeration/?couponCode=SKILLFULNESS)
-[OOP Design Patterns in Python](https://www.udemy.com/course/oop-design-patterns-in-python/?couponCode=SKILLFULNESS)
-[Criminology and Criminal Psychology | Certified CSI+ Course](https://www.udemy.com/course/criminology-and-criminal-psychology-certified-csi-course-ocsaly/?couponCode=FBI-TRAININGS)
-[The Complete Computer Forensics Course for 2023 PRO : CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=CERTIFIED-DFIR-2)
+[WebVR Basics](https://www.udemy.com/course/webxr-vr/?couponCode=FREE823G7S2)
+[Ethical Hacking: Weaponization](https://www.udemy.com/course/ethical-hacking-weaponization/?couponCode=JUSTKEEPHACKING)
+[Google Calendar : Virtual Assistant](https://www.udemy.com/course/google-calendar-virtual-assistant/?couponCode=9A51177D07B95CF15BB4)
+[Visual Studio Code Ultimate Guide](https://www.udemy.com/course/learn-visual-studio-code-v/?couponCode=FREE823G7S2)
+[Electronics : Bipolar Junction Transistor](https://www.udemy.com/course/electronics-bipolar-junction-transistor/?couponCode=AEB755F329B5A2A60C4E)
+[HTML and CSS: A Beginner’s Guide to Web Development (2023)](https://www.udemy.com/course/html-and-css-web-development/?couponCode=307488DC26EFA4738771)
+[Ethical Hacking: Hack by Uploading](https://www.udemy.com/course/ethical-hacking-hack-by-uploading/?couponCode=JUSTKEEPHACKING)
+[Malware Analysis](https://www.udemy.com/course/malware-analyze/?couponCode=JUSTKEEPHACKING)
+[Public Speaking and Real Time Communication Mastery](https://www.udemy.com/course/vocal-awareness/?couponCode=PSARTCMEXPAUG312023)
+[WordPress Mastery: A Complete and Easy Guide](https://www.udemy.com/course/wordpress-for-beginners-new/?couponCode=DISCOUNT99)
+[Three.js Basics](https://www.udemy.com/course/threejs-course/?couponCode=FREE823G7S2)
+[Zabbix Basics](https://www.udemy.com/course/zabbix-course/?couponCode=FREE823G7S2)
 
