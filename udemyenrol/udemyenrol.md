@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/08/2023
+# Daily Free Udemy Courses - 28/08/2023
 
-[WebVR Basics](https://www.udemy.com/course/webxr-vr/?couponCode=FREE823G7S2)
-[Ethical Hacking: Weaponization](https://www.udemy.com/course/ethical-hacking-weaponization/?couponCode=JUSTKEEPHACKING)
-[Google Calendar : Virtual Assistant](https://www.udemy.com/course/google-calendar-virtual-assistant/?couponCode=9A51177D07B95CF15BB4)
-[Visual Studio Code Ultimate Guide](https://www.udemy.com/course/learn-visual-studio-code-v/?couponCode=FREE823G7S2)
-[Electronics : Bipolar Junction Transistor](https://www.udemy.com/course/electronics-bipolar-junction-transistor/?couponCode=AEB755F329B5A2A60C4E)
-[HTML and CSS: A Beginner’s Guide to Web Development (2023)](https://www.udemy.com/course/html-and-css-web-development/?couponCode=307488DC26EFA4738771)
-[Ethical Hacking: Hack by Uploading](https://www.udemy.com/course/ethical-hacking-hack-by-uploading/?couponCode=JUSTKEEPHACKING)
-[Malware Analysis](https://www.udemy.com/course/malware-analyze/?couponCode=JUSTKEEPHACKING)
-[Public Speaking and Real Time Communication Mastery](https://www.udemy.com/course/vocal-awareness/?couponCode=PSARTCMEXPAUG312023)
-[WordPress Mastery: A Complete and Easy Guide](https://www.udemy.com/course/wordpress-for-beginners-new/?couponCode=DISCOUNT99)
-[Three.js Basics](https://www.udemy.com/course/threejs-course/?couponCode=FREE823G7S2)
-[Zabbix Basics](https://www.udemy.com/course/zabbix-course/?couponCode=FREE823G7S2)
+[Learn a Python Skill in 7 Days from Scratch: Web Scraping](https://www.udemy.com/course/learn-a-python-skill-in-7-days-from-scratch-web-scraping/?couponCode=FFA3B8906947A4713D9D)
+[Complete Cryptocurrency and Bitcoin Trading Course](https://www.udemy.com/course/complete-cryptocurrency-trading-course-2021/?couponCode=C54B11A308B1CE3B9808)
+[Blockchain Professional Certification](https://www.udemy.com/course/blockchain_web3/?couponCode=15F4762C3825056FA1A4)
+[600 NumPY Interview Questions & Answers [August 2023]](https://www.udemy.com/course/numpy-interview-questions/?couponCode=007C1AD8040AB2FE42EB)
+[WordPress Master Class – Fast And Best Methodes](https://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=NEWACCEZ)
+[Python Crash Course](https://www.udemy.com/course/python-crash-course/?couponCode=DONGATO)
+[SEO Guide: How to Rank Higher on Google](https://www.udemy.com/course/seo-guide-how-to-rank-higher-on-google-tareq-hajj/?couponCode=D7E80C1665B835F3264B)
+[Media Training for Doctors/Healthcare Pros: Master the Media](https://www.udemy.com/course/media-training-for-doctors-and-healthcare-professionals/?couponCode=B7BCD5812D3A96CAD272)
+[Communication Skills: Be a Star Presenter on a Panels](https://www.udemy.com/course/how-to-present-on-a-panel/?couponCode=80DF3AAC8B3687967D91)
+[Developing Professional Project Plans through MS Project](https://www.udemy.com/course/mastering-ms-project-to-develop-professional-project-plans/?couponCode=AUGFREEWAY)
+[Automating Podcast Production & Cloning Your Voice with AI](https://www.udemy.com/course/automating-podcast-production-cloning-your-voice-with-ai/?couponCode=ACFBB5CFFCB7DE993980)
+[Learn Chinese Language: Everyday & Business Chinese BEGINNER](https://www.udemy.com/course/learn-chinese-language-everyday-business-chinese/?couponCode=LEARNCHINESEAUG)
 
