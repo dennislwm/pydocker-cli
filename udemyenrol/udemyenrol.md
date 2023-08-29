@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/08/2023
+# Daily Free Udemy Courses - 29/08/2023
 
-[Learn a Python Skill in 7 Days from Scratch: Web Scraping](https://www.udemy.com/course/learn-a-python-skill-in-7-days-from-scratch-web-scraping/?couponCode=FFA3B8906947A4713D9D)
-[Complete Cryptocurrency and Bitcoin Trading Course](https://www.udemy.com/course/complete-cryptocurrency-trading-course-2021/?couponCode=C54B11A308B1CE3B9808)
-[Blockchain Professional Certification](https://www.udemy.com/course/blockchain_web3/?couponCode=15F4762C3825056FA1A4)
-[600 NumPY Interview Questions & Answers [August 2023]](https://www.udemy.com/course/numpy-interview-questions/?couponCode=007C1AD8040AB2FE42EB)
-[WordPress Master Class – Fast And Best Methodes](https://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=NEWACCEZ)
-[Python Crash Course](https://www.udemy.com/course/python-crash-course/?couponCode=DONGATO)
-[SEO Guide: How to Rank Higher on Google](https://www.udemy.com/course/seo-guide-how-to-rank-higher-on-google-tareq-hajj/?couponCode=D7E80C1665B835F3264B)
-[Media Training for Doctors/Healthcare Pros: Master the Media](https://www.udemy.com/course/media-training-for-doctors-and-healthcare-professionals/?couponCode=B7BCD5812D3A96CAD272)
-[Communication Skills: Be a Star Presenter on a Panels](https://www.udemy.com/course/how-to-present-on-a-panel/?couponCode=80DF3AAC8B3687967D91)
-[Developing Professional Project Plans through MS Project](https://www.udemy.com/course/mastering-ms-project-to-develop-professional-project-plans/?couponCode=AUGFREEWAY)
-[Automating Podcast Production & Cloning Your Voice with AI](https://www.udemy.com/course/automating-podcast-production-cloning-your-voice-with-ai/?couponCode=ACFBB5CFFCB7DE993980)
-[Learn Chinese Language: Everyday & Business Chinese BEGINNER](https://www.udemy.com/course/learn-chinese-language-everyday-business-chinese/?couponCode=LEARNCHINESEAUG)
+[MySQL for Beginners: A Complete Training for beginnners](https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/?couponCode=SUMMERTIMEFAREWELL52)
+[Cyber Security Awareness: Empowering Employees & Individuals](https://www.udemy.com/course/cyber-security-awareness-course/?couponCode=50724DC961CC23C5581B)
+[Assertiveness and Assertive Communication Skills](https://www.udemy.com/course/developing-assertiveness-in-the-right-way/?couponCode=ZAN-PDAW01-230828)
+[Complete PYTHON Programming for Beginners – 2023](https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=F5414325DD1688A4814E)
+[SQL Crash Course for beginners – Learn SQL with MySQL](https://www.udemy.com/course/sql-crash-course-for-beginners-learn-sql-with-mysql/?couponCode=FREE_SQL_AUG)
+[SQL for Beginners : learn SQL from scratch step by step](https://www.udemy.com/course/master-sql-in-3-hours/?couponCode=FREE_FULL_SQL_AUG)
+[The Complete Vue.JS Course for Beginners: Zero to Mastery](https://www.udemy.com/course/the-complete-vuejs-course-for-beginners-zero-to-mastery/?couponCode=AUGUSTWELCOME62)
+[The Complete Microsoft SQL Server Course: From A to Z](https://www.udemy.com/course/the-complete-microsoft-sql-server-course-from-a-to-z/?couponCode=HOTSUMMERS42)
+[Build a Shopify Store from Scratch: Lean Shopify from A to Z](https://www.udemy.com/course/build-a-shopify-store-from-scratch-lean-shopify-from-a-to-z/?couponCode=AUGUSTWARMTH80)
+[Python for Data Visualization: The Complete Masterclass](https://www.udemy.com/course/python-for-data-visualization-the-complete-masterclass/?couponCode=SUNSETSAVINGS40)
+[Python GUI Development with Tkinter: Build Pro Desktop Apps!](https://www.udemy.com/course/python-gui-development-with-tkinter-build-pro-desktop-apps/?couponCode=AUGUSTWINDS30)
+[SketchUp 2023: The A-Z Course to Mastering 3D Modeling](https://www.udemy.com/course/3d-modeling-simplified-master-sketchup-as-a-beginner/?couponCode=SUMMERENDS45)
 
