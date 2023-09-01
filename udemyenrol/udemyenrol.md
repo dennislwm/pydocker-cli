@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 31/08/2023
+# Daily Free Udemy Courses - 01/09/2023
 
 [200+ C++ Coding Challenges, Exercises and Solutions [2023]](https://www.udemy.com/course/cpp-coding/?couponCode=7E49B017D02F616A2474)
 [Flutter – Animations from Zero to Hero](https://www.udemy.com/course/flutter-animations-from-zero-to-hero/?couponCode=AUGUST_FREEE)
