@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/09/2023
+# Daily Free Udemy Courses - 02/09/2023
 
-[200+ C++ Coding Challenges, Exercises and Solutions [2023]](https://www.udemy.com/course/cpp-coding/?couponCode=7E49B017D02F616A2474)
-[Flutter – Animations from Zero to Hero](https://www.udemy.com/course/flutter-animations-from-zero-to-hero/?couponCode=AUGUST_FREEE)
-[The Complete ChatGPT Guide From Zero to Hero – 2023](https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=CAA4F9AE06463EEEEEDC)
-[Professional Diploma in Social Media Marketing & Management](https://www.udemy.com/course/smm-social-media-marketing/?couponCode=2DBE56EF71827A791867)
-[Child Psychology, Sport Psychology & Energy Psychology (EP)](https://www.udemy.com/course/child-psychology-sport-psychology-energy-psychology-ep/?couponCode=D20C58ACC3906C610DEA)
-[Grow Your Sales With Conversion Rate Optimization (CRO)](https://www.udemy.com/course/conversion-optimization-course/?couponCode=CROFREE3008)
-[Midjourney Mastery: Creating Visuals Using AI](https://www.udemy.com/course/midjourney-comprehensive/?couponCode=FREE2908)
-[Threat Intelligence](https://www.udemy.com/course/threat-intelligence/?couponCode=BLUEMOON)
-[PHP with MySQL 2023: Build 5 PHP and MySQL Projects](https://www.udemy.com/course/php-with-mysql-2022-build-5-php-and-mysql-projects/?couponCode=PHPWITHMYSQL44)
-[Docker Course for Beginners](https://www.udemy.com/course/docker-container-course-for-beginners/?couponCode=FREEAUGUST117)
-[Python Programming – From Basics to Advanced level](https://www.udemy.com/course/python-programming-beginner-to-advanced/?couponCode=FREEAUGUST144)
-[React JS- Complete Guide for Frontend Web Development](https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEAUGUST143)
+[4 Practice Tests for any C++ Certification](https://www.udemy.com/course/4-practice-tests-for-any-c-certification/?couponCode=EE3585528D0527AE62BD)
+[Accredited Edible Flower Healing Herbalist Certificate](https://www.udemy.com/course/accredited-edible-flower-healing-herbalist-certificate/?couponCode=CA7FA2BBE15A3A72CBE5)
+[Web Development Professional Certification](https://www.udemy.com/course/web-development-assessment/?couponCode=1825BA0ACBF85448E2EC)
+[Master Course : Making the Business Case for Sustainability](https://www.udemy.com/course/making-the-business-case-for-sustainability-circular-economy/?couponCode=EBA6EFAFA2ECE66C5B92)
+[Master Course in Purpose Driven Leadership & Leading Gen Z](https://www.udemy.com/course/purpose-driven-leadership-leading-gen-z-leadership/?couponCode=B37B5F563DA53891834C)
+[Master Course : CompTIA Project+ (PK0-005)](https://www.udemy.com/course/comptia-project-pk0-005-exam-preparation/?couponCode=21C94A968B89F17576CE)
+[DeFined – DeFi and crypto passive income for Beginners](https://www.udemy.com/course/defined-defi-and-crypto-passive-income-for-beginners/?couponCode=50ADCE877500AED0040B)
+[Child Psychology, Sport Psychology & Energy Psychology (EP)](https://www.udemy.com/course/child-psychology-sport-psychology-energy-psychology-ep/?couponCode=46D3472015FB5E621EB6)
+[Master Course in Public Policy & Political Economy 3.0](https://www.udemy.com/course/public-policy-political-economy-economic-development/?couponCode=0676C4FA695056F7304D)
+[Master Course : Outdoor Advertising & Billboards Management](https://www.udemy.com/course/outdoor-advertising-billboards-management-billboards-marketing/?couponCode=7D00BF549613F240BAD7)
+[Master Course in Poultry and Pet Management 2.0](https://www.udemy.com/course/poultry-and-pet-management-pet-training-poultry-farming/?couponCode=64CABB6CB1105CF638C3)
+[Machine Learning Intro for Python Developers](https://www.udemy.com/course/machine-learning-intro-for-python-developers/?couponCode=GINGER_CAT)
 
