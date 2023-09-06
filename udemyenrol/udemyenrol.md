@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/09/2023
+# Daily Free Udemy Courses - 06/09/2023
 
-[SQL Course 2023: SQL for Data Analysis and Data Science.](https://www.udemy.com/course/sql-course-for-data-science/?couponCode=B78A02BA826FA4F341BB)
-[Linux Terminal Productivity](https://www.udemy.com/course/linux-terminal-productivity/?couponCode=BRAINIAC)
-[The Complete NFT (Non-Fungible Tokens) Course: Art and Tech](https://www.udemy.com/course/the-complete-nft-non-fungible-tokens-course-for-artists/?couponCode=255A43F9F2E091BCB114)
-[Forecast Crypto Market with Time Series & Machine Learning](https://www.udemy.com/course/forecast-crypto-market-with-time-series-machine-learning/?couponCode=81A5C07C0E75B1AB3A5F)
-[Master Complete Statistics For Computer Science – I](https://www.udemy.com/course/master-complete-statistics-for-computer-science-i/?couponCode=FREEMCSCS26)
-[Non-technical Introduction to Large Language Models](https://www.udemy.com/course/non-technical-introduction-to-large-language-models/?couponCode=F400D0139EFFB3B40178)
-[Excellence in Time Management to increase work productivity](https://www.udemy.com/course/excellence-in-time-management/?couponCode=637AE8B9C2EB27F836E6)
-[Android Course Build 3 Applications from Scratch with Java](https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=6F6F81990A913A22FC30)
-[Master Android Application Build 3 Applications from Scratch](https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=9BDCF572A79E0A6ED711)
-[Android App’s Development Masterclass – Build 2 Apps – Java](https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=7B2D450CFB25BEDA44E9)
-[Master Android by Building 3 Applications in Kotlin Language](https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=B9052841A1E342C18B46)
-[Build a Backend REST API with Node JS from Scratch](https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=8B48B7417C78BA96C50B)
+[Productivity Mastery](https://www.udemy.com/course/productivity-mastery-b/?couponCode=LLL1000)
+[Microsoft Certified: Azure Fundamentals (AZ-900) – Exams](https://www.udemy.com/course/microsoft-certified-azure-fundamentals-az-900-exams/?couponCode=2465157E61101138290E)
+[PHP for Beginners: PDO Crash Course 2023](https://www.udemy.com/course/php-with-pdo-2021-the-ultimate-pdo-crash-course/?couponCode=PDOCOURSE57)
+[Build a Modern REST API with PHP 8](https://www.udemy.com/course/build-modern-php-api/?couponCode=E6AC408C5C3B85FD2B7E)
+[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=07F1412B9512158E9F87)
+[SQL Bootcamp: Learn Enough SQL To Be A Professional [2023]](https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/?couponCode=482F4750FBD56F8C5FF6)
+[Prompt & AI Engineering Safety Professional Certification](https://www.udemy.com/course/prompt-engineering-safety-ai-engineering-safety-expert/?couponCode=EC90D327940436EA711A)
+[AWS Solutions Architect – Associate SAA-C03 Latest Question](https://www.udemy.com/course/aws-solutions-architect-associate-saa-c03/?couponCode=CCC954E1700677AA0437)
+[Terraform Associate Certification 003 Latest Questions](https://www.udemy.com/course/terraform-associate-certification-003/?couponCode=66B472D7C0A1261C3E14)
+[Technical Support Troubleshooting for Server and Desktop](https://www.udemy.com/course/it-technical-support/?couponCode=B1AC6F9929390E30066B)
+[Training for Window 10 or 11 and Window Server 2016 or 2019](https://www.udemy.com/course/master-windows-10-and-get-your-dream-it-job-in-2020/?couponCode=0DEE5C9464527D728EE2)
+[ansible for every system administrator](https://www.udemy.com/course/ansible-for-linux-and-unix/?couponCode=2266A2DB468342D81C37)
 
