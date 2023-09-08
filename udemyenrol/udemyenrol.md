@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/09/2023
+# Daily Free Udemy Courses - 08/09/2023
 
-[Fastest Laravel app building trick](https://www.udemy.com/course/build-fast-laravel-applications-using-blueprint/?couponCode=F0B46D34BEA0DAD1B70F)
-[Business development and sales processes – a bird’s eye view](https://www.udemy.com/course/birds-eye-view-business-development-and-sales-processes/?couponCode=D0BCED65EAF72C76E5F1)
-[JavaScript Certification Exam JSE-40-01 – Preparation (2023)](https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=DB23AF295BDB1CD558D4)
-[Clojure Introduction: Learn Functional Programming](https://www.udemy.com/course/clojure-programming/?couponCode=JANMASHTAMI)
-[Complete AWS Cloud Practitioner Certification Handbook](https://www.udemy.com/course/aws-cloud-practitioner-certification-practice-test-2023/?couponCode=AWS-FREE-SEPT)
-[Become Master of Programming and it Concepts & Fundamentals](https://www.udemy.com/course/become-master-of-programming-and-it-concepts-funtamentals/?couponCode=E126E06AE30B0CFB3F49)
-[AI-900: Microsoft Azure Artificial Intelligence Fundamentals](https://www.udemy.com/course/microsoft-ai-900/?couponCode=CFD2E834EFCA16364DB6)
-[Enhance Lightroom Editing with the Luminar Neo Plugin](https://www.udemy.com/course/enhance-lightroom-editing-with-the-luminar-neo-plugin/?couponCode=FREENEW409)
-[AZ-900: Microsoft Azure Fundamentals (490Q with Explanation)](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-490q-questions-with-explanation/?couponCode=D5A09B36C536050767C1)
-[Building of Web3 Token Balance Applications](https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=67BDC03351984740F20A)
-[Master Android by Building 3 Applications in Kotlin Language](https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=C0E71B39D4969731E383)
-[Sales Training: Telephone Sales & Appointment Setting](https://www.udemy.com/course/sales-training-telephone-sales-appointment-setting/?couponCode=FREEACCESS2)
+[Complete Pandas for Absolute Beginners 2023](https://www.udemy.com/course/complete-pandas-for-absolute-beginners/?couponCode=A518649314BE80D4B82D)
+[Master Course : Generative AI for Business Leaders (101)](https://www.udemy.com/course/generative-ai-for-business-leaders-101/?couponCode=CAEACC323026AFDFCB06)
+[SHRM-CP Certification Professional Exam Test September 2023](https://www.udemy.com/course/shrm-cp-certification-exam-test/?couponCode=DBEC116DEFD896A1C8E5)
+[Master Course : Microsoft SC-200 Security Operations Analyst](https://www.udemy.com/course/microsoft-sc-200-security-operations-analyst-microsoft-sc-900/?couponCode=3FB2E2CED4D4DCDDB0C2)
+[Become A Millionaire Through Real Estate Investing UK](https://www.udemy.com/course/how-to-become-a-millionaire-through-real-estate-investing-uk/?couponCode=C3B3D4BA64F7F9BC7CA0)
+[Make 3 IoT Projects – Beginner, Intermediate & Advanced 2023](https://www.udemy.com/course/getting-stared-with-asus-tinker-board/?couponCode=IOT_PROJECT)
+[All In One Adobe Photoshop Essential Course For Everyone](https://www.udemy.com/course/all-in-one-adobe-photoshop-essential-course-for-everyone/?couponCode=GO7SEP2023)
+[FreeBSD 13.x – Mastering JAILS](https://www.udemy.com/course/freebsd-13x-mastering-jails/?couponCode=DD395A6442C3B2B80296)
+[Starting with Apache Wicket (version 9.x+)](https://www.udemy.com/course/starting-with-apache-wicket-version-9x/?couponCode=7ABF55AD90ACCCC559C8)
+[Full WordPress Website For Beginners: Learn WordPress A-Z](https://www.udemy.com/course/wordpress-website-beginners-tutorial-course-best-elementor-learn/?couponCode=COURSEVANIA3)
+[Photoshop & Design For Content Marketing, ads & Social Media](https://www.udemy.com/course/photoshop-design-for-content-marketing-ads-social-media-instagram-post/?couponCode=COURSEVANIA1)
+[Flutter for Beginners: Learn to Build Mobile Apps with Ease](https://www.udemy.com/course/flutter-for-beginners-learn-to-build-mobile-apps-with-ease/?couponCode=645D934F0F724DDB46E1)
 
