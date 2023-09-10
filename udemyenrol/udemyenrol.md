@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/09/2023
+# Daily Free Udemy Courses - 10/09/2023
 
-[Python Interview Questions and Answers for Beginners [2023]](https://www.udemy.com/course/python-interview-questions-and-answers-for-beginners-2023/?couponCode=MCQ-FREE)
-[800 C# Interview Questions and Answers [September 2023]](https://www.udemy.com/course/c-sharp-interview-questions/?couponCode=MCQ-FREE)
-[Data Science for Beginners: Learn via 450+ MCQ & Quiz [2023]](https://www.udemy.com/course/data-science-beginners/?couponCode=MCQ-FREE)
-[2023 PMI PMP/CAPM Mastery: Ultimate Exam Prep for CAPM/PMP](https://www.udemy.com/course/pmi-pmp-pmbok-7-eco-wise-practice-tests/?couponCode=39F2D0BED2433DAD6D73)
-[PowerShell Functions Master Class](https://www.udemy.com/course/powershell-functions-master-class/?couponCode=GREECOUPON93)
-[Docker Interview Questions and Answers [September 2023]](https://www.udemy.com/course/docker-exam/?couponCode=MCQ-FREE)
-[CFM Certified Facility Manager Certification September 2023](https://www.udemy.com/course/cfm-certified-facility-manager-certification-june-2023/?couponCode=MCQ-FREE)
-[500+ Python Coding Interview Challenges and Exercises [2023]](https://www.udemy.com/course/python-coding-challenges/?couponCode=MCQ-FREE)
-[600+ R Interview Questions and Answers [September 2023]](https://www.udemy.com/course/r-interview-questions/?couponCode=MCQ-FREE)
-[200+ Kotlin Interview Questions & Answers [September 2023]](https://www.udemy.com/course/kotlin-interview-questions/?couponCode=MCQ-FREE)
-[600 NumPY Interview Questions and Answers [September 2023]](https://www.udemy.com/course/numpy-interview-questions/?couponCode=MCQ-FREE)
-[140 SciPy Interview Questions & Answers [September 2023]](https://www.udemy.com/course/scipy-interview-questions/?couponCode=MCQ-FREE)
+[Squarespace Box of Tricks: Master Website Builders in 2023](https://www.udemy.com/course/squarespace-web-design-box-of-tricks/?couponCode=8BD4A4F51A98E48EFD7A)
+[The Website Blueprint – Planning for a web design project](https://www.udemy.com/course/planning-for-a-web-design-project/?couponCode=7021911449666A4CE78F)
+[[2023] Google Associate Cloud Engineer Certification – Exams](https://www.udemy.com/course/google-associate-cloud-engineer-certification-exams/?couponCode=CC03DD3752DBC77B019B)
+[Powerful Forex Scalping Trading Strategy: Works Every Time!](https://www.udemy.com/course/powerful-forex-scalping-trading-strategy/?couponCode=FREE4SEP)
+[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=B3BC1A5D7DEE1F7721DC)
+[Ms Excel/Excel 2023 – The Complete Introduction to Excel](https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=9F36ADF2310216A77350)
+[CISA Exam Questions for 2023 – 06 FULL HARD TEST](https://www.udemy.com/course/cisa-exam-questions-for-2023-06-full-hard-test/?couponCode=22625557AC2EE5DD29D8)
+[Android Malware Analysis](https://www.udemy.com/course/android-malware-analysis-course/?couponCode=FARMERSDAY)
+[Create a GUI with Python](https://www.udemy.com/course/create-a-gui-with-python-pysimplegui/?couponCode=FARMERSDAY)
+[Ethical Hacking: Hacking with Python](https://www.udemy.com/course/ethical-hacking-hacking-with-python/?couponCode=FARMERSDAY)
+[Automate with Python](https://www.udemy.com/course/automate-with-python/?couponCode=FARMERSDAY)
+[2023 PMI CAPM Mastery: Ultimate PMBOK 7th Prep for PMI CAPM](https://www.udemy.com/course/pmi-capm-2023-new-certification-2023-pmbok-7th-mock-exams/?couponCode=1B8419A2E146EA28C575)
 
