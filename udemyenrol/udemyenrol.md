@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 10/09/2023
+# Daily Free Udemy Courses - 11/09/2023
 
 [Squarespace Box of Tricks: Master Website Builders in 2023](https://www.udemy.com/course/squarespace-web-design-box-of-tricks/?couponCode=8BD4A4F51A98E48EFD7A)
 [The Website Blueprint – Planning for a web design project](https://www.udemy.com/course/planning-for-a-web-design-project/?couponCode=7021911449666A4CE78F)
