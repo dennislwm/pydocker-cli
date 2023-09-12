@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/09/2023
+# Daily Free Udemy Courses - 12/09/2023
 
-[Squarespace Box of Tricks: Master Website Builders in 2023](https://www.udemy.com/course/squarespace-web-design-box-of-tricks/?couponCode=8BD4A4F51A98E48EFD7A)
-[The Website Blueprint – Planning for a web design project](https://www.udemy.com/course/planning-for-a-web-design-project/?couponCode=7021911449666A4CE78F)
-[[2023] Google Associate Cloud Engineer Certification – Exams](https://www.udemy.com/course/google-associate-cloud-engineer-certification-exams/?couponCode=CC03DD3752DBC77B019B)
-[Powerful Forex Scalping Trading Strategy: Works Every Time!](https://www.udemy.com/course/powerful-forex-scalping-trading-strategy/?couponCode=FREE4SEP)
-[Microsoft Excel – Learn MS EXCEL For DATA Analysis](https://www.udemy.com/course/microsoft-excel-learn-ms-excel-for-data-analysis/?couponCode=B3BC1A5D7DEE1F7721DC)
-[Ms Excel/Excel 2023 – The Complete Introduction to Excel](https://www.udemy.com/course/microsoft-excel-the-complete-intro/?couponCode=9F36ADF2310216A77350)
-[CISA Exam Questions for 2023 – 06 FULL HARD TEST](https://www.udemy.com/course/cisa-exam-questions-for-2023-06-full-hard-test/?couponCode=22625557AC2EE5DD29D8)
-[Android Malware Analysis](https://www.udemy.com/course/android-malware-analysis-course/?couponCode=FARMERSDAY)
-[Create a GUI with Python](https://www.udemy.com/course/create-a-gui-with-python-pysimplegui/?couponCode=FARMERSDAY)
-[Ethical Hacking: Hacking with Python](https://www.udemy.com/course/ethical-hacking-hacking-with-python/?couponCode=FARMERSDAY)
-[Automate with Python](https://www.udemy.com/course/automate-with-python/?couponCode=FARMERSDAY)
-[2023 PMI CAPM Mastery: Ultimate PMBOK 7th Prep for PMI CAPM](https://www.udemy.com/course/pmi-capm-2023-new-certification-2023-pmbok-7th-mock-exams/?couponCode=1B8419A2E146EA28C575)
+[Automated Machine Learning for Beginners (Google & Apple)](https://www.udemy.com/course/automl-for-ai-powered-professionals/?couponCode=ENDINGSUMMER)
+[Build Complete 2023 CMS Blog in PHP MySQL Bootstrap & PDO](https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/?couponCode=PHPBLOG48)
+[Fashion Industry Professional Certification (FIPC)](https://www.udemy.com/course/fashion-industry-professional-certification/?couponCode=06E5D5A6C341449793A2)
+[Media Training -Radio: How to Speak Effectively on the Radio](https://www.udemy.com/course/how-to-speak-on-radio/?couponCode=54D525D845B343975206)
+[Make Money From Home: 12 EASY Options to Make Money Now](https://www.udemy.com/course/make-easy-money-from-home/?couponCode=98ED0C4DBD2DAE17241F)
+[Make Money From Home As a Transcriptionist: 10 Opportunities](https://www.udemy.com/course/work-home-transcription-jobs/?couponCode=C4C8CF44B166A50F8A92)
+[Learn to Program with C# from Scratch | C# Immersive](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=8629F341E5BCCEEF4B88)
+[The Future of Filmmaking: Text to Film AI Generation](https://www.udemy.com/course/the-future-of-filmmaking-text-to-film-ai-generation/?couponCode=5F2EC90C7766D1C9E7BD)
+[File & Folder Management Using PowerShell](https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=FREECOUPON93)
+[Office Administration Management Professional Certification](https://www.udemy.com/course/office-administration-management-professional-certification/?couponCode=6EF17C1F9565AB0D5841)
+[C++ Developer Interview Questions and Answers [2023]](https://www.udemy.com/course/cpp-developer-interview-questions/?couponCode=9275F8DE9B584F21F311)
+[ASP.NET Core Developer Interview Questions & Answers [2023]](https://www.udemy.com/course/asp-net-core-developer-interview-questions/?couponCode=E6FA814CC023B28BE61E)
 
