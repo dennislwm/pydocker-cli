@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/09/2023
+# Daily Free Udemy Courses - 14/09/2023
 
-[Java Network Programming – Mastering TCP/IP : CJNP+ 2023 JVA](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=J4VA_TCPIP_2023)
-[Digital Forensics Masterclass : Forensic Science 2023 DFMC+](https://www.udemy.com/course/digital-forensics-course/?couponCode=FORENSICS_DF1R)
-[Real Android App Dev in 15 Hours|KotlinDevX Certificate 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=J4V4_K0TL1N_2023)
-[Criminology and Criminal Psychology | Certified CSI+ Course](https://www.udemy.com/course/criminology-and-criminal-psychology-certified-csi-course-ocsaly/?couponCode=FB1-TRA1N1NG_2023)
-[Real Ethical Hacking in 43 Hours: Certificated CSEH+CEH 2023](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=REAL-H4CK1NG-2023)
-[The Complete Computer Forensics Course for 2023 PRO : CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=DIGITAL-F0RENSICS)
-[Car Repair and Electrician Training Certificated : CRET2023+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=ELECTRICAL-2023SEP)
-[Computer Forensics and Digital Forensics Masterclass 2023+](https://www.udemy.com/course/computer-forensics-and-digital-forensics-for-everyone/?couponCode=COMP-FRNSICS-2023)
-[Android App Development in 34 Hours : MobDevOps+ Android 13](https://www.udemy.com/course/android-kotlin-development/?couponCode=CERT-KOTLIN-2023)
-[Mastering Linux: The Complete Guide to Becoming a Linux Pro](https://www.udemy.com/course/linux-training/?couponCode=HACK-THE-WORLD)
-[Data Structures and OOP with C++ : CS104, CS105 Masterclass](https://www.udemy.com/course/data-structures-cpp/?couponCode=DATA-SCIENCE-2023)
-[Car Repair | Electrical Systems and Automotive Theory | 2023](https://www.udemy.com/course/car-electrician-and-car-tuning-course-car-repair/?couponCode=CAR_REPAIR-2023)
+[Microsoft PowerPoint School to Corporate : Basic to Advance](https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/?couponCode=8CF0B6C7F1E85F8E8A21)
+[Adobe Photoshop CC For Absolute Beginner to Advanced](https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=CEF49F1DEE22982D0229)
+[Facebook Ads Targeting Strategies For Success Fast 2023](https://www.udemy.com/course/facebook-ads-marketing-targeting-strategy-2021-2020/?couponCode=130923)
+[Run Search Ad In Google Ads & Easy SEO For Beginners-2023](https://www.udemy.com/course/digital-marketing-google-ads-adwords-search-seo-ppc/?couponCode=130923)
+[The Complete ChatGPT Guide From Zero to Hero – 2023](https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=469CAC70C8B5F14C7A1B)
+[Level 1 – Japanese Candlesticks Trading Mastery Program](https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=SEP-TRADER-L1-FREE)
+[Certified Yoga Mudra Reiki Master / Teacher – Accredited](https://www.udemy.com/course/certified-yoga-mudra-reiki-master-teacher-accredited/?couponCode=THANKING-ALUMNI)
+[Certified Sound Reiki Master / Teacher – Fully Accredited](https://www.udemy.com/course/certified-sound-reiki-master-teacher-fully-accredited/?couponCode=THANKING-ALUMNI)
+[Facebook Ads & Facebook Marketing Funnel Crash Course- 2023](https://www.udemy.com/course/facebook-marketing-social-media-marketing-advertising-strategy-ads/?couponCode=130923)
+[Facebook Ads Marketing Crash Course Traffic & leads – 2023](https://www.udemy.com/course/facebook-ads-facebook-marketing-strategy-advertising-for-traffic/?couponCode=130923)
+[Make 3 IoT Projects – Beginner, Intermediate & Advanced 2023](https://www.udemy.com/course/getting-stared-with-asus-tinker-board/?couponCode=IOT_PROJECT1)
+[Adobe Premiere Pro CC Essential Video Editing Zero To Hero](https://www.udemy.com/course/adobe-premiere-pro-cc-essential-video-editing-zero-to-hero/?couponCode=4F3478EFB450DFC47845)
 
