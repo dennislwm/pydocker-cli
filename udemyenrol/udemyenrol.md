@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/09/2023
+# Daily Free Udemy Courses - 16/09/2023
 
-[Practical Database Course for Beginners : 6 courses in 1](https://www.udemy.com/course/database-course/?couponCode=PDBSEP2023)
-[Learn 10 Ways to Make MORE Money on YouTube!](https://www.udemy.com/course/learn-to-make-money-on-youtube/?couponCode=844A39AF155C5E585CAA)
-[Risk Measurement 101: The Ultimate Uncertainty Crusher](https://www.udemy.com/course/risk-measurement-101-the-ultimate-uncertainty-crusher/?couponCode=823F48931D9B7174212C)
-[Modernizing Clinical Trials: Framework, Technology, & Beyond](https://www.udemy.com/course/modernizing-clinical-trials-framework-technology-beyond/?couponCode=SEPTCT2002)
-[Become a Measurement System Analysis Ninja](https://www.udemy.com/course/measurement-system-analysis-ninja/?couponCode=E14C762009189C2AE3DE)
-[How to Motivate Yourself: The Science and Art of Motivation](https://www.udemy.com/course/how-to-motivate-yourself-the-science-and-art-of-motivation/?couponCode=61A3902B179F1B5C13E7)
-[Python Complete Course For Beginners](https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=A978E85646E89984D7CF)
-[T-Shirt Design for Beginner to Advanced with Adobe Photoshop](https://www.udemy.com/course/t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop/?couponCode=40DA16576BFE46C36A9C)
-[C++ And Java Training Crash Course 2022](https://www.udemy.com/course/c-and-java-training-crash-course-2022/?couponCode=2925EF23768EF150E3E9)
-[Ultimate Crypto & Web3 Course, from DeFi to NFT all-in-one](https://www.udemy.com/course/ultimate-crypto-web3/?couponCode=GOJUONFT_11RH)
-[Excellence in Sales Management for Sales Managers](https://www.udemy.com/course/excellence-in-sales-management/?couponCode=5B4A3DDCF097F56CA6EF)
-[Solve Cases & Questions from Kotler’s Marketing Management](https://www.udemy.com/course/solve-cases-questions-from-kotlers-marketing-management/?couponCode=4BA2E01C7D8DAF65EABA)
+[Master Test – CISM (Certified Information Security Manager)](https://www.udemy.com/course/cism-certification-information-security-manager/?couponCode=5C5AA2617CE52DD9A125)
+[IoT for All: Build Your First Project from Scratch](https://www.udemy.com/course/internet-of-things-for-all/?couponCode=0D21A2A5A8B135BBAB43)
+[The Ultimate Self-Development Course](https://www.udemy.com/course/self-development-course/?couponCode=SEPTEMBER2023)
+[Instagram Marketing 2021: Growth and Promotion on Instagram](https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=24C3353248105EE11ADD)
+[Adobe Illustrator Course for Graphics Design](https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=5400FB0BCBC4BF7CD6A9)
+[Fundamental Course : Digital Marketing 101 (From A to Z)](https://www.udemy.com/course/fundamental-course-digital-marketing-101-from-a-to-z/?couponCode=A80CDBA6A9D9001F0609)
+[Master Course in Marine, Ship & Maritime Management 3.0](https://www.udemy.com/course/marine-ship-shipping-maritime-management/?couponCode=3E73F95A299C8F724F45)
+[Master Course in Food & Beverage (F&B) Management 3.0](https://www.udemy.com/course/food-beverge-hotel-management/?couponCode=40C9290FBE1F8DCF7C6E)
+[Master Course in Tourism Management & Travel Management 3.0](https://www.udemy.com/course/tourism-management-travel-management-travel-business-travel-tips/?couponCode=8AAC70781157655F7FDD)
+[Advanced WordPress Course for Professionals](https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=372EF619940C1E4DC8FC)
+[Adobe Photoshop Course from Basic to Advacned for Graphics](https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=58DF996D6618795C238F)
+[Essential Adobe Lightroom Course for Photo Editing](https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=69C8435B62FDA474BC68)
 
