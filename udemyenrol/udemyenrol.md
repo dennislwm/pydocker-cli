@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/09/2023
+# Daily Free Udemy Courses - 17/09/2023
 
-[Master Test – CISM (Certified Information Security Manager)](https://www.udemy.com/course/cism-certification-information-security-manager/?couponCode=5C5AA2617CE52DD9A125)
-[IoT for All: Build Your First Project from Scratch](https://www.udemy.com/course/internet-of-things-for-all/?couponCode=0D21A2A5A8B135BBAB43)
-[The Ultimate Self-Development Course](https://www.udemy.com/course/self-development-course/?couponCode=SEPTEMBER2023)
-[Instagram Marketing 2021: Growth and Promotion on Instagram](https://www.udemy.com/course/instagram-marketing-2021-growth-and-promotion-on-instagram/?couponCode=24C3353248105EE11ADD)
-[Adobe Illustrator Course for Graphics Design](https://www.udemy.com/course/adobe-illustrator-course-for-graphics-design/?couponCode=5400FB0BCBC4BF7CD6A9)
-[Fundamental Course : Digital Marketing 101 (From A to Z)](https://www.udemy.com/course/fundamental-course-digital-marketing-101-from-a-to-z/?couponCode=A80CDBA6A9D9001F0609)
-[Master Course in Marine, Ship & Maritime Management 3.0](https://www.udemy.com/course/marine-ship-shipping-maritime-management/?couponCode=3E73F95A299C8F724F45)
-[Master Course in Food & Beverage (F&B) Management 3.0](https://www.udemy.com/course/food-beverge-hotel-management/?couponCode=40C9290FBE1F8DCF7C6E)
-[Master Course in Tourism Management & Travel Management 3.0](https://www.udemy.com/course/tourism-management-travel-management-travel-business-travel-tips/?couponCode=8AAC70781157655F7FDD)
-[Advanced WordPress Course for Professionals](https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=372EF619940C1E4DC8FC)
-[Adobe Photoshop Course from Basic to Advacned for Graphics](https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/?couponCode=58DF996D6618795C238F)
-[Essential Adobe Lightroom Course for Photo Editing](https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=69C8435B62FDA474BC68)
+[Data Science and Machine Learning Basic to Advanced](https://www.udemy.com/course/data-science-and-machine-learning-basic-to-advanced/?couponCode=815EB95ED2A2E392A4F8)
+[Python Development Essentials](https://www.udemy.com/course/python-development-essentials/?couponCode=486D93947418C4D2AF12)
+[BEST Crypto Trading Bot Guide: Binance, Bybit, OKX & MORE!](https://www.udemy.com/course/best-crypto-trading-bot/?couponCode=CF19BDC653CCFDC15210)
+[Product Owner Professional Certification](https://www.udemy.com/course/certified-product-owner/?couponCode=DD9D2087419873DAE50D)
+[Bootstrap 4 Basics](https://www.udemy.com/course/learn-basic-bootstrap-4/?couponCode=FREE923G5S2)
+[Adobe XD Ultimate Guide](https://www.udemy.com/course/adobe-xd-cc-2020-master-course/?couponCode=FREE923G5S2)
+[Bootstrap 4 Ultimate Guide](https://www.udemy.com/course/learn-advanced-bootstrap-4/?couponCode=FREE923G5S2)
+[JavaScript Projects Course Build 20 Projects in 20 Days](https://www.udemy.com/course/javascript-projects-course-build-20-projects-in-20-days/?couponCode=0E5E3450D626AC4CEFED)
+[Apache Web Server Basics](https://www.udemy.com/course/apache-web-server/?couponCode=FREE923G5S2)
+[Blazor Basics](https://www.udemy.com/course/blazor-x/?couponCode=FREE923G5S2)
+[Apache Groovy Basics](https://www.udemy.com/course/apache-groovy-course/?couponCode=FREE923G5S2)
+[Amazon Virtual Private Cloud Basics](https://www.udemy.com/course/amazon-virtual-private-cloud/?couponCode=FREE923G5S2)
 
