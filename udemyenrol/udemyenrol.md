@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/09/2023
+# Daily Free Udemy Courses - 19/09/2023
 
-[Linux Bash Shell Scripting Incl. AWK, SED and 10+ Projects](https://www.udemy.com/course/learn-shell-scripting-incl-awksedand-more-than-10-project/?couponCode=FE7E10A72F9325747193)
-[6 Practice Tests for any Python Certification](https://www.udemy.com/course/6-practice-tests-for-any-python-certifications/?couponCode=3150F7042CB2ABAB7E13)
-[C Programming the Basics](https://www.udemy.com/course/c-programming-the-basics/?couponCode=TIMEISUP)
-[300+ HTML Practice Tests & Interview Questions [Sept. 2023]](https://www.udemy.com/course/html-practice-tests/?couponCode=8CBAE0B417DDA726B2E4)
-[Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=7FC3D6CAAE9438EEBB4C)
-[Complete Guide to eBay Selling as a Business](https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=57D0C2B1B7839C5CA7FF)
-[Shopify eCommerce Store Masterclass – Start a Business!](https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=D14A3166B22D521BE94E)
-[Building of Web3 Token Balance Applications](https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=D72BAB8A4DAF698A41E1)
-[How Websites Work](https://www.udemy.com/course/how-websites-work/?couponCode=TIMEISUP)
-[Linux Command Line](https://www.udemy.com/course/linux-command-line-tutorial/?couponCode=TIMEISUP)
-[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=ISAGIFT)
-[Create snake with Python PyGame](https://www.udemy.com/course/create-snake-with-python-pygame/?couponCode=ISAGIFT)
+[Leadership & Team Building Mastery](https://www.udemy.com/course/leadership-team-building-mastery/?couponCode=9B3308F51074AAB6AD47)
+[Python Proficiency Builder: 4 Practice Test Series 2023](https://www.udemy.com/course/python-proficiency-builder-4-practice-test-series-2023/?couponCode=2GARAB)
+[CyberSecurity Bootcamp: The Ultimate Beginner’s Course](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=70F850BD1D30BFBC4808)
+[The Complete Technology Investing & Wealth Building Course](https://www.udemy.com/course/the-complete-technology-investing-wealth-building-course/?couponCode=SEPTEMBER2)
+[Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=1E7B9FF3AE9B56B1EA61)
+[Leadership: Guide to Body Language & Nonverbal Communication](https://www.udemy.com/course/leadership-guide-to-body-language-nonverbal-communication/?couponCode=SEPTEMBER23)
+[Vocabulary Tests for English Exams: TOEFL IELTS PTE SAT YDS](https://www.udemy.com/course/vocabulary-tests-for-academic-exams-toefl-ielts-toeic-sat/?couponCode=ACCAGE1023)
+[Grammar Tests for English Exams: TOEFL, IELTS, PTE, SAT, YDS](https://www.udemy.com/course/english-grammar-tests-/?couponCode=ACCAGE1023)
+[Python Practice Exam Bundle: Strengthen Your Skills](https://www.udemy.com/course/python-practice-exam-bundle-strengthen-your-skills/?couponCode=N2MN2S)
+[Python Development Essentials](https://www.udemy.com/course/python-development-essentials/?couponCode=A7FDBF537191A29FB5D6)
+[Python Certification Exam: 4 Practice Tests to Ace Your Exam](https://www.udemy.com/course/python-certification-exam-4-practice-tests-to-ace-your-exam/?couponCode=BJL0VY)
+[Python Skills Refresher: 4 Practice Test 2023](https://www.udemy.com/course/python-skills-refresher-4-practice-test-2023/?couponCode=USV5WU)
 
