@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/09/2023
+# Daily Free Udemy Courses - 20/09/2023
 
-[Leadership & Team Building Mastery](https://www.udemy.com/course/leadership-team-building-mastery/?couponCode=9B3308F51074AAB6AD47)
-[Python Proficiency Builder: 4 Practice Test Series 2023](https://www.udemy.com/course/python-proficiency-builder-4-practice-test-series-2023/?couponCode=2GARAB)
-[CyberSecurity Bootcamp: The Ultimate Beginner’s Course](https://www.udemy.com/course/personal-digital-security-everyone-must-have-cybersecurity/?couponCode=70F850BD1D30BFBC4808)
-[The Complete Technology Investing & Wealth Building Course](https://www.udemy.com/course/the-complete-technology-investing-wealth-building-course/?couponCode=SEPTEMBER2)
-[Introduction to Forex- learn to trade forex by yourself](https://www.udemy.com/course/introduction-to-forex-learn-to-trade-forex-by-yourself/?couponCode=1E7B9FF3AE9B56B1EA61)
-[Leadership: Guide to Body Language & Nonverbal Communication](https://www.udemy.com/course/leadership-guide-to-body-language-nonverbal-communication/?couponCode=SEPTEMBER23)
-[Vocabulary Tests for English Exams: TOEFL IELTS PTE SAT YDS](https://www.udemy.com/course/vocabulary-tests-for-academic-exams-toefl-ielts-toeic-sat/?couponCode=ACCAGE1023)
-[Grammar Tests for English Exams: TOEFL, IELTS, PTE, SAT, YDS](https://www.udemy.com/course/english-grammar-tests-/?couponCode=ACCAGE1023)
-[Python Practice Exam Bundle: Strengthen Your Skills](https://www.udemy.com/course/python-practice-exam-bundle-strengthen-your-skills/?couponCode=N2MN2S)
-[Python Development Essentials](https://www.udemy.com/course/python-development-essentials/?couponCode=A7FDBF537191A29FB5D6)
-[Python Certification Exam: 4 Practice Tests to Ace Your Exam](https://www.udemy.com/course/python-certification-exam-4-practice-tests-to-ace-your-exam/?couponCode=BJL0VY)
-[Python Skills Refresher: 4 Practice Test 2023](https://www.udemy.com/course/python-skills-refresher-4-practice-test-2023/?couponCode=USV5WU)
+[Agile Made Easy: Including Scrum and Kanban Hands-On Course](https://www.udemy.com/course/hands-on-agile-kanban-scrum-master-exam-course/?couponCode=SCRUM2023)
+[Software Testing Interview Masterclass: Ace the QA interview](https://www.udemy.com/course/software-testing-interview-masterclass-ace-the-qa-interview/?couponCode=INTERVIEW2023)
+[AZ-900: Microsoft Azure Fundamentals 4 Practice Tests 2023](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-4-practice-tests/?couponCode=5FEF249FD82F4A21238F)
+[Solidworks : Basic to Industrial Level Certification](https://www.udemy.com/course/solid-works-in-hindi-basic-to-industrial-level/?couponCode=DD47C4B6704FB21A23A0)
+[Become Data Analyst With Microsoft Excel](https://www.udemy.com/course/microsoft-excel-data-analytics-course/?couponCode=C3CE786BF095EC01D11C)
+[Communication Skills: Acquire Effective Communication](https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=SEP_23)
+[Self Discipline will Change Your life for GOOD](https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=SELFDISCIPLINE28)
+[Online Business – Work from Home](https://www.udemy.com/course/online-business-work-from-home/?couponCode=30167E997CB8A97A8FD5)
+[Github Actions: Become the Jedi of CI/CD 2023](https://www.udemy.com/course/become-the-jedi-of-cicd-github-actions/?couponCode=005BF9E7F1D8F10FE244)
+[Learn German Language: Best German A1 Course [Beginners 1]](https://www.udemy.com/course/german-language-grammar-a1/?couponCode=CCC95FCD5C382362E477)
+[Learn German Language: Best German B1 Course [Advanced 1]](https://www.udemy.com/course/learn-german-language-b-1-german-b1-course-must-see-2020/?couponCode=935F5E75E53810016F13)
+[The SoulFire Awakening](https://www.udemy.com/course/the-soulfire-awakening/?couponCode=0853E4BB295637F23831)
 
