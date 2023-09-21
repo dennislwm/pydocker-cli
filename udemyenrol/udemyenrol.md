@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 20/09/2023
+# Daily Free Udemy Courses - 21/09/2023
 
-[Agile Made Easy: Including Scrum and Kanban Hands-On Course](https://www.udemy.com/course/hands-on-agile-kanban-scrum-master-exam-course/?couponCode=SCRUM2023)
-[Software Testing Interview Masterclass: Ace the QA interview](https://www.udemy.com/course/software-testing-interview-masterclass-ace-the-qa-interview/?couponCode=INTERVIEW2023)
-[AZ-900: Microsoft Azure Fundamentals 4 Practice Tests 2023](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-4-practice-tests/?couponCode=5FEF249FD82F4A21238F)
-[Solidworks : Basic to Industrial Level Certification](https://www.udemy.com/course/solid-works-in-hindi-basic-to-industrial-level/?couponCode=DD47C4B6704FB21A23A0)
-[Become Data Analyst With Microsoft Excel](https://www.udemy.com/course/microsoft-excel-data-analytics-course/?couponCode=C3CE786BF095EC01D11C)
-[Communication Skills: Acquire Effective Communication](https://www.udemy.com/course/communication-skills-acquire-effective-communication/?couponCode=SEP_23)
-[Self Discipline will Change Your life for GOOD](https://www.udemy.com/course/self-discipline-will-change-your-life-for-good/?couponCode=SELFDISCIPLINE28)
-[Online Business – Work from Home](https://www.udemy.com/course/online-business-work-from-home/?couponCode=30167E997CB8A97A8FD5)
-[Github Actions: Become the Jedi of CI/CD 2023](https://www.udemy.com/course/become-the-jedi-of-cicd-github-actions/?couponCode=005BF9E7F1D8F10FE244)
-[Learn German Language: Best German A1 Course [Beginners 1]](https://www.udemy.com/course/german-language-grammar-a1/?couponCode=CCC95FCD5C382362E477)
-[Learn German Language: Best German B1 Course [Advanced 1]](https://www.udemy.com/course/learn-german-language-b-1-german-b1-course-must-see-2020/?couponCode=935F5E75E53810016F13)
-[The SoulFire Awakening](https://www.udemy.com/course/the-soulfire-awakening/?couponCode=0853E4BB295637F23831)
+[Twitter Marketing For Expert Assessment Practise Test 2023](https://www.udemy.com/course/twitter-marketing-for-expert-assessment-practise-test-2023/?couponCode=862B871607CCCA0F418C)
+[Linkedin Marketing For Expert Assessment Practise Test 2023](https://www.udemy.com/course/linkedin-marketing-for-expert-assessment-practise-test-2023/?couponCode=6B63898B1EEC01BBD090)
+[Influencer Marketing For Expert Assessment Practise Test](https://www.udemy.com/course/influencer-marketing-for-expert-assessment-practise-test/?couponCode=DBEFA72664E04C3D98D6)
+[Instagram Marketing For Expert Assessment Practise Test 2023](https://www.udemy.com/course/instagram-marketing-for-expert-assessment-practise-test-2023/?couponCode=FD16009FD48049B39AEC)
+[Affiliate Marketing For Expert Assessment Practise Test 2023](https://www.udemy.com/course/affiliate-marketing-for-expert-assessment-practise-test-2023/?couponCode=1B3316481BD9DF191E39)
+[Microsoft AZ-900: 4 Comprehensive Practice Tests 2023](https://www.udemy.com/course/microsoft-az-900-4-comprehensive-practice-tests-2023/?couponCode=F9BCB1E2E36D28ABB426)
+[4 Practice Exams | AWS Certified Cloud Practitioner CLF-C01](https://www.udemy.com/course/4-practice-exams-aws-certified-cloud-practitioner-clf-c01/?couponCode=95DD0A865C2EA2B329FA)
+[Practice Tests: Crack the Python PCEP Certification Exam](https://www.udemy.com/course/practice-tests-crack-the-python-pcep-certification-exam/?couponCode=4E9F1N)
+[A Beginner’s Guide to the Top 5 Modern Free AI Tools 2023](https://www.udemy.com/course/a-beginners-guide-to-the-top-5-modern-free-ai-tools-2023/?couponCode=1D029D121CAD14856C33)
+[HVAC Engineering MASTER CLASS: HVAC AIR DISTRIBUTION DESIGN](https://www.udemy.com/course/hvac-air-distribution-design/?couponCode=BC849B7FF7F44E663C80)
+[Python for beginners – Learn all the basics of python](https://www.udemy.com/course/python-for-beginners-learn/?couponCode=959E26D0747054DCA5E4)
+[HTML, CSS & Python – Web Development Certification Course](https://www.udemy.com/course/html-css-python-certification-course/?couponCode=95D8236FBCAFA113554D)
 
