@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/09/2023
+# Daily Free Udemy Courses - 23/09/2023
 
-[Essential Microsoft PowerPoint Course for Everyone](https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/?couponCode=B8D1B3E92B980A84B854)
-[Mastering Linux: The Complete Guide to Becoming a Linux Pro](https://www.udemy.com/course/linux-training/?couponCode=OCSALY_1000SUBS_YT)
-[Python Practice Exam Bundle: Strengthen Your Skills](https://www.udemy.com/course/python-practice-exam-bundle-strengthen-your-skills/?couponCode=B09T5F)
-[Master Python Programming with 4 Rigorous Practice Tests](https://www.udemy.com/course/master-python-programming-with-4-rigorous-practice-tests/?couponCode=2V6YEE)
-[C++ Practice Exam Series: 4 Practice Tests](https://www.udemy.com/course/c-practice-exam-series-4-practice-tests/?couponCode=B8V0WY)
-[AI Mastery: From Language to Creativity and Beyond](https://www.udemy.com/course/ai-mastery-from-language-to-creativity-and-beyond/?couponCode=SEPCO4)
-[Object-Oriented Programming (OOP) – Learn to Code Faster](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=B4C5A919DD13E75B2FD6)
-[Public International Law (Module 4)-Law of ITL Institutions](https://www.udemy.com/course/public-international-law-module-4/?couponCode=DISCUDEMY.COM)
-[Data Structures and OOP with C++ : CS104, CS105 Masterclass](https://www.udemy.com/course/data-structures-cpp/?couponCode=OCSALY_1000SUBS_YT)
-[Build Responsive Real World Portfolio WordPress Website](https://www.udemy.com/course/build-responsive-real-world-portfolio-wordpress-website/?couponCode=FREEEFOLIOWP)
-[Personal Trainer Business Growth Machine Course 2023](https://www.udemy.com/course/12-bright-ideas-personal-trainers-can-teach-their-clients/?couponCode=CE7133CF6D247BB4BB50)
-[C++ Mastery: Sharpen Your Skills with 4 Practice Tests](https://www.udemy.com/course/c-mastery-sharpen-your-skills-with-4-practice-tests/?couponCode=OJJG34)
+[ChatGPT Prompt Engineering Interview Questions [2023]](https://www.udemy.com/course/prompt-engineering-interview-questions/?couponCode=EE67E3CF2D3BDF61D4D5)
+[Real Android App Dev in 15 Hours|KotlinDevX Certificate 2023](https://www.udemy.com/course/kotlin-android-training-android-app-development/?couponCode=OCSALY_1000SUBS_YT)
+[Digital Forensics Masterclass : Forensic Science 2023 DFMC+](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY_1000SUBS_YT)
+[C++ Code Like you are in MATRIX : Mastering C++ in 12 Hours](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=OCSALY_1000SUBS_YT)
+[Java Network Programming – Mastering TCP/IP : CJNP+ 2023 JVA](https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=OCSALY_1000SUBS_YT)
+[The Complete Computer Forensics Course for 2023 PRO : CFCT+](https://www.udemy.com/course/computer-forensics-beginner-to-advanced-cfct-masterclass/?couponCode=OCSALY_1000SUBS_YT)
+[Car Repair and Electrician Training Certificated : CRET2023+](https://www.udemy.com/course/car-repair-auto-mechanic-training/?couponCode=OCSALY_1000SUBS_YT)
+[Car Flipping : The Art of Car Business in 90 Minute ! |2023+](https://www.udemy.com/course/car-flipping-earn-money-from-selling-used-cars-ocsaly/?couponCode=OCSALY_1000SUBS_YT)
+[Supply Chain Management](https://www.udemy.com/course/supply-chain-management-nj/?couponCode=FT.SEP2023)
+[Lean Process Improvement](https://www.udemy.com/course/lean-process-improvement/?couponCode=FT.SEP2023)
+[Learn and Improve the OEE of your Manufacturing Plant](https://www.udemy.com/course/learn-and-improve-the-oee-of-your-manufacturing-plant/?couponCode=FT.SEP2023)
+[Agile Transformation A to Z | How To Make Any Company Agile](https://www.udemy.com/course/complete-guide-to-agile-transformation/?couponCode=5BBA66D203C9146DA3A5)
 
