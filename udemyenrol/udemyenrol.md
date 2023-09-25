@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/09/2023
+# Daily Free Udemy Courses - 25/09/2023
 
-[1000 C++ Interview Questions and Answers [September 2023]](https://www.udemy.com/course/cpp-interview-questions/?couponCode=MCQ-MASTER-FREE)
-[300+ Python Pandas Interview Questions & Answers [2023]](https://www.udemy.com/course/python-pandas-interview-questions/?couponCode=MCQ-MASTER-FREE)
-[200+ Kotlin Interview Questions & Answers [September 2023]](https://www.udemy.com/course/kotlin-interview-questions/?couponCode=MCQ-MASTER-FREE)
-[Data Science for Beginners: Learn via 450+ MCQ & Quiz [2023]](https://www.udemy.com/course/data-science-beginners/?couponCode=MCQ-MASTER-FREE)
-[300 PostgreSQL Interview Questions & Answers [2023]](https://www.udemy.com/course/postgresql-interview-questions/?couponCode=MCQ-MASTER-FREE)
-[Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=CAF5386F01AAED18DBF7)
-[STAAD Pro V8 Industrial Steel Warehouse Design from A to Z](https://www.udemy.com/course/staad-pro-v8-industrial-steel-warehouse-design-from-a-to-z/?couponCode=4CF4A482D5B79E53E598)
-[Complete Python Certified Examinations (Chapter Based: 2023)](https://www.udemy.com/course/python-certification-exam-preperation-chapter-wise-2023/?couponCode=PLEASE-SHARE-IT)
-[TensorFlow Developer Certificate – Exam Readiness Bootcamp](https://www.udemy.com/course/tensorflow-developer-certificate-exam-readiness-bootcamp/?couponCode=FREEDROP2)
-[SHRM-CP Certification Professional Exam Test September 2023](https://www.udemy.com/course/shrm-cp-certification-exam-test/?couponCode=MCQ-MASTER-FREE)
-[750 C Programming Interview Questions and Answers [2023]](https://www.udemy.com/course/c-interview-questions-answers/?couponCode=MCQ-MASTER-FREE)
-[1000 PHP Interview Questions and Answers [September 2023]](https://www.udemy.com/course/php-interview-questions-quiz/?couponCode=MCQ-MASTER-FREE)
+[Architectural Shop Drawing Plans in AutoCAD 2020](https://www.udemy.com/course/architectural-shop-drawing-plans-in-autocad-2020/?couponCode=29FBC51403549C945000)
+[ETABS & Safe in R.C.C 3m Cantilever Project without cracked](https://www.udemy.com/course/etabs-safe-in-rcc-3m-cantilever-project-without-cracked/?couponCode=9205ACC1A865DD1F3DD7)
+[Civil Engineering Structural Shop Drawing in AutoCAD](https://www.udemy.com/course/civil-engineering-structural-shop-drawing-in-autocad/?couponCode=928BA56FA3133800E8AD)
+[ETABS & Safe in 11m Span Slab without Cracked Of Glass Walls](https://www.udemy.com/course/etabs-safe-in-11m-span-slab-without-cracked-of-glass-walls/?couponCode=3A8039FE9F62F4A55BA5)
+[Structural&Construction Design of 2000m2 real Project Villa](https://www.udemy.com/course/structuralconstruction-design-of-2000m2-real-project-villa/?couponCode=B1714544749BF167C18C)
+[Robot structural design 15 stories residential buildings](https://www.udemy.com/course/robot-structural-design-15-stories-residential-buildings/?couponCode=17060D0083EFC035ECCE)
+[Learn ETABS & SAFE in the Structural Design of 15 Stories RC](https://www.udemy.com/course/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/?couponCode=1A1B43C77D868C3D2DD5)
+[Java Programming: Complete Beginner to Advanced](https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=7D10D1A37511A9E908FB)
+[Trading View Mastery: Unlock Your TradingView Potential](https://www.udemy.com/course/trading-view-master-class-unlock-your-tradingview-trading-skills/?couponCode=5E12F85704BCB0C0C7F0)
+[AI Chatbots Development Exploring Generative AI with ChatGPT](https://www.udemy.com/course/building-chatbots-with-openai-gpt-model-from-concept-to-deployment/?couponCode=0DA1C9538AF454139AA7)
+[Mastering Doodly: Create Engaging Whiteboard Animations](https://www.udemy.com/course/mastering-doodly-2d-animation-whiteboard-animation/?couponCode=993E25B052DAADB15A41)
+[Master SAT Maths Preparation Course 2023/ SAT Revision](https://www.udemy.com/course/sat-prep-maths/?couponCode=SEPOFFER)
 
