@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 25/09/2023
+# Daily Free Udemy Courses - 26/09/2023
 
-[Architectural Shop Drawing Plans in AutoCAD 2020](https://www.udemy.com/course/architectural-shop-drawing-plans-in-autocad-2020/?couponCode=29FBC51403549C945000)
-[ETABS & Safe in R.C.C 3m Cantilever Project without cracked](https://www.udemy.com/course/etabs-safe-in-rcc-3m-cantilever-project-without-cracked/?couponCode=9205ACC1A865DD1F3DD7)
-[Civil Engineering Structural Shop Drawing in AutoCAD](https://www.udemy.com/course/civil-engineering-structural-shop-drawing-in-autocad/?couponCode=928BA56FA3133800E8AD)
-[ETABS & Safe in 11m Span Slab without Cracked Of Glass Walls](https://www.udemy.com/course/etabs-safe-in-11m-span-slab-without-cracked-of-glass-walls/?couponCode=3A8039FE9F62F4A55BA5)
-[Structural&Construction Design of 2000m2 real Project Villa](https://www.udemy.com/course/structuralconstruction-design-of-2000m2-real-project-villa/?couponCode=B1714544749BF167C18C)
-[Robot structural design 15 stories residential buildings](https://www.udemy.com/course/robot-structural-design-15-stories-residential-buildings/?couponCode=17060D0083EFC035ECCE)
-[Learn ETABS & SAFE in the Structural Design of 15 Stories RC](https://www.udemy.com/course/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/?couponCode=1A1B43C77D868C3D2DD5)
-[Java Programming: Complete Beginner to Advanced](https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=7D10D1A37511A9E908FB)
-[Trading View Mastery: Unlock Your TradingView Potential](https://www.udemy.com/course/trading-view-master-class-unlock-your-tradingview-trading-skills/?couponCode=5E12F85704BCB0C0C7F0)
-[AI Chatbots Development Exploring Generative AI with ChatGPT](https://www.udemy.com/course/building-chatbots-with-openai-gpt-model-from-concept-to-deployment/?couponCode=0DA1C9538AF454139AA7)
-[Mastering Doodly: Create Engaging Whiteboard Animations](https://www.udemy.com/course/mastering-doodly-2d-animation-whiteboard-animation/?couponCode=993E25B052DAADB15A41)
-[Master SAT Maths Preparation Course 2023/ SAT Revision](https://www.udemy.com/course/sat-prep-maths/?couponCode=SEPOFFER)
+[PSM 2 Certification+PSM II Certification+Scrum Master](https://www.udemy.com/course/agile-scrum-certification-psm-2/?couponCode=250923_FREE)
+[Practice Tests: Agile, Scrum and using Kanban with Scrum](https://www.udemy.com/course/practice-tests-agile-scrum-and-using-kanban-with-scrum/?couponCode=LETSSPRINTDOTCOM923)
+[Professional Scrum Master ™ ( PSM ™): 6 Prep Tests, 240 QAs](https://www.udemy.com/course/be-agile-with-scrumquick-tests-scrum-master-certifications/?couponCode=LETSSPRINTDOTCOM923)
+[Introduction to Human Resources Management](https://www.udemy.com/course/introduction-to-human-resources-management/?couponCode=ABE9D77155A4229573AB)
+[Master HR Fundamentals and HR Leadership](https://www.udemy.com/course/hr-fundamentals-and-hr-leadership/?couponCode=8895E892C75DB05A6E43)
+[CSS Crash Course For Beginners](https://www.udemy.com/course/css-crash-course-for-beginners-g/?couponCode=9E96E5195058BF44124D)
+[Learn Android Hacking For Beginners](https://www.udemy.com/course/learn-android-hacking-for-beginners/?couponCode=925241A5395E7507AB6D)
+[Complete Accounting + Tallyprime + Tally ERP9 + GST (4 in 1)](https://www.udemy.com/course/ultimate-tallyprime-with-gst-step-by-step-guide-2021/?couponCode=294492666CD2050D4007)
+[CTO Chief Technology Officer Executive Certification](https://www.udemy.com/course/chief-technology-officer/?couponCode=10B574AA1F860E40A0DC)
+[The Complete ChatGPT Guide From Zero to Hero – 2023](https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=DAA7E831DDFA34BCFE5C)
+[Human Resource Development the complete course](https://www.udemy.com/course/human-resource-development-the-complete-course/?couponCode=SEP-DEAL2)
+[Github Actions: Become the Jedi of CI/CD 2023](https://www.udemy.com/course/become-the-jedi-of-cicd-github-actions/?couponCode=C19E326B404C51133CA6)
 
