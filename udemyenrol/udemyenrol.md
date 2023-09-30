@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/09/2023
+# Daily Free Udemy Courses - 30/09/2023
 
-[Linear Regression and Logistic Regression using R Studio](https://www.udemy.com/course/linear-regression-and-logistic-regression-r-studio-starttech/?couponCode=LEARN4FREE)
-[Artificial Neural Networks (ANN) with Keras in Python and R](https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/?couponCode=LEARN4FREE)
-[Artificial Neural Networks for Business Managers in R Studio](https://www.udemy.com/course/neural-network-understanding-and-building-an-ann-in-r/?couponCode=LEARN4FREE)
-[Machine Learning with TensorFlow on Google Cloud](https://www.udemy.com/course/machine-learning-with-tensorflow-on-google-cloud/?couponCode=LEARN4FREE)
-[Java Programming and Spring Boot Microservices](https://www.udemy.com/course/java-programming-and-spring-boot-microservices/?couponCode=007D38E57EA58E0BCD71)
-[Photoshop & Design For Content Marketing, ads & Social Media](https://www.udemy.com/course/photoshop-design-for-content-marketing-ads-social-media-instagram-post/?couponCode=COURSEVANIA5)
-[The Complete Video Editing Masterclass with Vegas Pro](https://www.udemy.com/course/video-editing-masterclass-with-vegas-pro/?couponCode=D363A0616463C8B22A04)
-[Agile Retrospective+Continuous Improvement+Kaizen wth Scrum](https://www.udemy.com/course/agile-retrospectives-kaizen-lean/?couponCode=280923_FREE)
-[Social Media Marketing Agency : Digital Marketing + Business](https://www.udemy.com/course/social-media-marketing-agency-digital-business-facebook-ads-instagram/?couponCode=COURSEVANIA5)
-[100+ Most Asked CSS MCQ Questions in Interview [Sept. 2023]](https://www.udemy.com/course/100-most-asked-css-mcq-questions-in-interview/?couponCode=D0E30A91F4A639EA626D)
-[Design Thinking Guide for Successful Professionals](https://www.udemy.com/course/design-thinking-for-long-term-business-success/?couponCode=SEP2023FREE001)
-[Master Course in World Peace, Human Rights and Diplomacy 2.0](https://www.udemy.com/course/world-peace-human-rights-and-diplomacy/?couponCode=58614320AF58D5DA249F)
+[Numpy For Data Science – Real Time Exercises](https://www.udemy.com/course/python-numpy-exercises/?couponCode=NEW3_SEPT28_NUMPY)
+[ChatGPT: Create a Hospital Management System using ChatGPT](https://www.udemy.com/course/harness-the-power-of-chatgptcreate-a-revolutionary-hospital/?couponCode=DFB1A292EC815CD06C3F)
+[Clojure For Beginners (Programming Language)](https://www.udemy.com/course/clojures-core-syntax/?couponCode=DC2AE9ED1514249A4B6D)
+[The Complete Artificial Intelligence (AI) for Professionals](https://www.udemy.com/course/the-complete-artificial-intelligence-ai-for-professionals/?couponCode=AI2023_S2)
+[Java 19 Mastery: The Complete and Fast-Paced Guide](https://www.udemy.com/course/java-groundup/?couponCode=C676D45B415BD58FF0BC)
+[Laravel 10 – Build News Portal and Magazine Website (2023)](https://www.udemy.com/course/complete-laravel-news-portal-project/?couponCode=EAB1ED5AD663CB56D6A8)
+[2023 Data Visualization in Tableau & Python (2 Courses in 1)](https://www.udemy.com/course/2023-data-visualization-in-tableau-python-2-courses-in-1/?couponCode=55CDB4F7643DE69F00A6)
+[Haskell for Beginners (programming language)](https://www.udemy.com/course/haskell-tutorial/?couponCode=96A78D1F5C583CA5622F)
+[Rust for Beginners](https://www.udemy.com/course/rust-programming-language-z/?couponCode=80EFA43E5DB8A0E19955)
+[Fundamentals of Financial Services](https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=FUNDAMENTALSFS25)
+[Master all the MS Excel Macros and the basics of Excel VBA](https://www.udemy.com/course/master-all-the-ms-excel-macros-and-the-basics-of-excel-vba/?couponCode=AED7E82662A5C0A78A61)
+[Basics of the Arabic Language](https://www.udemy.com/course/easy-way-to-learn-arabic-basics/?couponCode=FREE9ARABIC)
 
