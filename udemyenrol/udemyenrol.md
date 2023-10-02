@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/10/2023
+# Daily Free Udemy Courses - 02/10/2023
 
-[Introduction to Law in the U.S. (for every non-lawyer)](https://www.udemy.com/course/introduction-to-law/?couponCode=LEARNLAWFREE2023-10)
-[Vigilant Leadership](https://www.udemy.com/course/vigilant-leadership/?couponCode=VIGILANT20)
-[5 Step Marketing Plan – Get More Customers](https://www.udemy.com/course/5-step-marketing-plan/?couponCode=134C6C447B9B6D72DF28)
-[Firefox Basics](https://www.udemy.com/course/learn-firefox/?couponCode=FREE923G6S3)
-[The Complete React Native Course 2023 : from Zero to Hero](https://www.udemy.com/course/the-complete-react-native-course-from-zero-to-hero/?couponCode=B5E0E8C0C6ACA302B136)
-[Java and OOP concepts with interview tips.](https://www.udemy.com/course/java-interview-tips/?couponCode=01B83777B077DEF3462F)
-[Java Programming and Spring Boot Microservices](https://www.udemy.com/course/java-programming-and-spring-boot-microservices/?couponCode=60D1DB79B37ABF49EA2B)
-[Front End Web Development Ultimate Guide](https://www.udemy.com/course/learn-front-end-development/?couponCode=FREE923G6S3)
-[Evernote Ultimate Guide](https://www.udemy.com/course/learn-evernote/?couponCode=FREE923G6S3)
-[Domain Name Basics](https://www.udemy.com/course/learn-domain-names/?couponCode=FREE923G6S3)
-[Developer Tools Basics](https://www.udemy.com/course/developer-tools-course/?couponCode=FREE923G6S3)
-[Deno Basics](https://www.udemy.com/course/deno-course/?couponCode=FREE923G6S3)
+[JavaScript Certification Exam Preparation Tests 2023](https://www.udemy.com/course/javascript-certification-exam-preparation-tests/?couponCode=2A4VET)
+[Flutter with Spring Boot Crash Course](https://www.udemy.com/course/flutter-with-spring-boot-crash-course/?couponCode=FWSBCCSEP23FREE1000)
+[Adobe After Effects Ultimate Guide](https://www.udemy.com/course/adobe-after-effects-cc-2020/?couponCode=FREE1023G1S1)
+[AI-Driven Cybersecurity](https://www.udemy.com/course/cortezlabs-ai-driven-cybersecurity/?couponCode=09061D024OCTPROMO5)
+[C++ Practice Test Bank: Solidify Your Programming Foundation](https://www.udemy.com/course/c-practice-test-bank-solidify-your-programming-foundation/?couponCode=FZGOHL)
+[C++ Mastery through 4 Logical Practice Tests](https://www.udemy.com/course/c-mastery-through-4-logical-practice-tests/?couponCode=TVEBA2)
+[C++ Proficiency Assessment: 4 Practice Tests Included](https://www.udemy.com/course/c-proficiency-assessment-4-practice-tests-included/?couponCode=E9USTV)
+[Master Python: Test Your Skills with Practice Exams](https://www.udemy.com/course/master-python-test-your-skills-with-practice-exams/?couponCode=WEACHE)
+[C++ Mastery Evaluation: 4 Intensive Exams](https://www.udemy.com/course/c-2-nishant/?couponCode=0KRQ6J)
+[Secure Networking – A Company Network Project on Open-Source](https://www.udemy.com/course/secure-networking-a-company-network-project-on-open-source/?couponCode=CE0D7ED164CA57F4AAD6)
+[Professional Diploma in Digital Products Management](https://www.udemy.com/course/digital-product-owner/?couponCode=E908413E2E9043640155)
+[Pursue Top 1% Career: Become The No. 1 Success Magnet](https://www.udemy.com/course/become-a-corporate-winner/?couponCode=SEP2023FREE001)
 
