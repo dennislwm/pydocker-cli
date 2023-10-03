@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/10/2023
+# Daily Free Udemy Courses - 03/10/2023
 
-[JavaScript Certification Exam Preparation Tests 2023](https://www.udemy.com/course/javascript-certification-exam-preparation-tests/?couponCode=2A4VET)
-[Flutter with Spring Boot Crash Course](https://www.udemy.com/course/flutter-with-spring-boot-crash-course/?couponCode=FWSBCCSEP23FREE1000)
-[Adobe After Effects Ultimate Guide](https://www.udemy.com/course/adobe-after-effects-cc-2020/?couponCode=FREE1023G1S1)
-[AI-Driven Cybersecurity](https://www.udemy.com/course/cortezlabs-ai-driven-cybersecurity/?couponCode=09061D024OCTPROMO5)
-[C++ Practice Test Bank: Solidify Your Programming Foundation](https://www.udemy.com/course/c-practice-test-bank-solidify-your-programming-foundation/?couponCode=FZGOHL)
-[C++ Mastery through 4 Logical Practice Tests](https://www.udemy.com/course/c-mastery-through-4-logical-practice-tests/?couponCode=TVEBA2)
-[C++ Proficiency Assessment: 4 Practice Tests Included](https://www.udemy.com/course/c-proficiency-assessment-4-practice-tests-included/?couponCode=E9USTV)
-[Master Python: Test Your Skills with Practice Exams](https://www.udemy.com/course/master-python-test-your-skills-with-practice-exams/?couponCode=WEACHE)
-[C++ Mastery Evaluation: 4 Intensive Exams](https://www.udemy.com/course/c-2-nishant/?couponCode=0KRQ6J)
-[Secure Networking – A Company Network Project on Open-Source](https://www.udemy.com/course/secure-networking-a-company-network-project-on-open-source/?couponCode=CE0D7ED164CA57F4AAD6)
-[Professional Diploma in Digital Products Management](https://www.udemy.com/course/digital-product-owner/?couponCode=E908413E2E9043640155)
-[Pursue Top 1% Career: Become The No. 1 Success Magnet](https://www.udemy.com/course/become-a-corporate-winner/?couponCode=SEP2023FREE001)
+[Communication & Storytelling Skills For Beginners in Hindi](https://www.udemy.com/course/communication-skills-storytelling-communication-tips/?couponCode=CFB0A28CCAEBAF839DAD)
+[PAL / PAL I – Professional Agile Leadership Mock Exams 2023](https://www.udemy.com/course/pal-pal-i-professional-agile-leadership-mock-exams-2023/?couponCode=1EEF0CA6025AD34EC5FC)
+[Complete Arduino Course For Beginners](https://www.udemy.com/course/full-arduino-course-for-beginners/?couponCode=7OCT2023_5DS_1000ST)
+[Browser Automation with Python Selenium](https://www.udemy.com/course/browser-automation-with-python-selenium/?couponCode=GANDHI)
+[Master the Art of Content Marketing](https://www.udemy.com/course/content-manager-full-course/?couponCode=OCTOBER2023)
+[Computer Hacking Forensic Investigator (CHFI) Essentials](https://www.udemy.com/course/computer-hacking-forensic-investigator-chfi-essentials/?couponCode=FREECHFI)
+[Vue JS + Google Maps API: Ultimate Beginner’s Friendly Guide](https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/?couponCode=VG30-FREE-OCT23)
+[Learn Python Programming: by Building a Facebook ChatBot App](https://www.udemy.com/course/facebook-chat-bot-in-python/?couponCode=1A5CDB7A914FD58E9342)
+[Secure Networking – A Company Network Project on Open-Source](https://www.udemy.com/course/secure-networking-a-company-network-project-on-open-source/?couponCode=D1731A97D83978FB0FC0)
+[Project Management Professional Certification](https://www.udemy.com/course/project-management-assessment/?couponCode=D6E5071E01B998E6CBEC)
+[Boost Your C++ Skills with 4 Challenging Practice Tests](https://www.udemy.com/course/boost-your-c-skills-with-4-challenging-practice-tests/?couponCode=RR3JCE)
+[C++ Mastery Trials: Hone Expertise with 4 Practice Tests](https://www.udemy.com/course/c-mastery-trials-hone-expertise-with-4-practice-tests/?couponCode=4NH2S0)
 
