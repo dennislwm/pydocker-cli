@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/10/2023
+# Daily Free Udemy Courses - 05/10/2023
 
-[Ethically Hack the Planet Part 1](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=TSHACKEROCT2)
-[Python Mastery: Ace Your Exams with 4 Comprehensive Tests](https://www.udemy.com/course/python-mastery-ace-your-exams-with-4-comprehensive-tests/?couponCode=0KE41B)
-[Android Very Basic App Development Course with Java in Hindi](https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=2145C498FC62EA8C4F6C)
-[Accredited Grapho Therapy Practitioner Course](https://www.udemy.com/course/accredited-grapho-therapy-practitioner-course/?couponCode=D40C2296B35ACD91A518)
-[Practical HTML, CSS, JS: 10 Real-World Projects for Practice](https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=B439CAF04427CCA73186)
-[Strategic Partnerships and Collaborations](https://www.udemy.com/course/strategic-partnerships-and-collaborations/?couponCode=STRATEGICPARTNER29)
-[T-Shirt Design for Beginner to Advanced with Adobe Photoshop](https://www.udemy.com/course/t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop/?couponCode=BF4449B9A8856216C1EF)
-[Project Management: Project Management Success For Beginners](https://www.udemy.com/course/project-management-starter-guide/?couponCode=OCTOBER2023)
-[JavaScript Crash Course: Learn the Fundamentals and Beyond.](https://www.udemy.com/course/javascript-crash-course-bootcamp-projects/?couponCode=A431420BEC30A8A36540)
-[DevOps Interview Questions Preparation Guide – 2023](https://www.udemy.com/course/devops-interview-questions-preparation-guide/?couponCode=452502482BC68FE74FAD)
-[Practice Tests: Crack the Python PCEP Certification Exam](https://www.udemy.com/course/practice-tests-crack-the-python-pcep-certification-exam/?couponCode=UXOQZE)
-[Find a Job Online thru Networking and Hunting](https://www.udemy.com/course/how-to-get-calls-for-an-interview-for-a-desired-role/?couponCode=144FC41B4259F296C1E3)
+[IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://www.udemy.com/course/ielts-mastery/?couponCode=A62755D363338C8887E2)
+[Create a GUI with Python](https://www.udemy.com/course/create-a-gui-with-python-pysimplegui/?couponCode=ANIMALDAY)
+[Browser Automation with Python Selenium](https://www.udemy.com/course/browser-automation-with-python-selenium/?couponCode=ANIMALDAY)
+[Making Money with Artificial Intelligence Images Generator](https://www.udemy.com/course/how-make-money-with-artificial-intelligence-generated-image/?couponCode=397E68489A0E40272C91)
+[Laravel 10 – Build Multi Vendor Ecommerce Website (2023)](https://www.udemy.com/course/complete-laravel-multi-vendor-ecommerce-project/?couponCode=0F09AE9ED6655964E31D)
+[Master Course in Big Picture Thinking (Thinking Like a CEO)](https://www.udemy.com/course/big-picture-thinking-like-a-ceo-strategic-thinking-detail-oriented/?couponCode=CC0908A78C34BD6993DF)
+[Mastering Python: Test Your Knowledge with 60 Questions](https://www.udemy.com/course/mastering-python-test-your-knowledge-with-60-questions/?couponCode=PC4ULI)
+[SQLite Made Easy](https://www.udemy.com/course/sqlite-made-easy/?couponCode=ANIMALDAY)
+[Ethical Hacking: Introduction to Exploits](https://www.udemy.com/course/ethical-hacking-introduction-to-exploits/?couponCode=ANIMALDAY)
+[Python: Object Oriented Programming](https://www.udemy.com/course/python-object-oriented-programming/?couponCode=ANIMALDAY)
+[Ethical Hacking Exam Practice 2023](https://www.udemy.com/course/ethical-hacker-ceh-exam-prep-2023/?couponCode=CDFA7BC381535B709A4B)
+[Level 1 – Japanese Candlesticks Trading Mastery Program](https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=OCT-LEVEL1-1)
 
