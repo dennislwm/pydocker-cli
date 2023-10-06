@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/10/2023
+# Daily Free Udemy Courses - 06/10/2023
 
-[IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://www.udemy.com/course/ielts-mastery/?couponCode=A62755D363338C8887E2)
-[Create a GUI with Python](https://www.udemy.com/course/create-a-gui-with-python-pysimplegui/?couponCode=ANIMALDAY)
-[Browser Automation with Python Selenium](https://www.udemy.com/course/browser-automation-with-python-selenium/?couponCode=ANIMALDAY)
-[Making Money with Artificial Intelligence Images Generator](https://www.udemy.com/course/how-make-money-with-artificial-intelligence-generated-image/?couponCode=397E68489A0E40272C91)
-[Laravel 10 – Build Multi Vendor Ecommerce Website (2023)](https://www.udemy.com/course/complete-laravel-multi-vendor-ecommerce-project/?couponCode=0F09AE9ED6655964E31D)
-[Master Course in Big Picture Thinking (Thinking Like a CEO)](https://www.udemy.com/course/big-picture-thinking-like-a-ceo-strategic-thinking-detail-oriented/?couponCode=CC0908A78C34BD6993DF)
-[Mastering Python: Test Your Knowledge with 60 Questions](https://www.udemy.com/course/mastering-python-test-your-knowledge-with-60-questions/?couponCode=PC4ULI)
-[SQLite Made Easy](https://www.udemy.com/course/sqlite-made-easy/?couponCode=ANIMALDAY)
-[Ethical Hacking: Introduction to Exploits](https://www.udemy.com/course/ethical-hacking-introduction-to-exploits/?couponCode=ANIMALDAY)
-[Python: Object Oriented Programming](https://www.udemy.com/course/python-object-oriented-programming/?couponCode=ANIMALDAY)
-[Ethical Hacking Exam Practice 2023](https://www.udemy.com/course/ethical-hacker-ceh-exam-prep-2023/?couponCode=CDFA7BC381535B709A4B)
-[Level 1 – Japanese Candlesticks Trading Mastery Program](https://www.udemy.com/course/level-1-japanese-candlesticks-trading-mastery-program/?couponCode=OCT-LEVEL1-1)
+[Sentiment Analysis with NLP using Python and Flask](https://www.udemy.com/course/sentiment-analysis-with-nlp-using-python-flask/?couponCode=EAFC5DC174493A6C214D)
+[Web Scraping in Python using Beautiful Soup (with Project)](https://www.udemy.com/course/web-scraping-in-python-using-beautiful-soup-with-projects/?couponCode=61E97B828FE7BC833912)
+[Build 8 Mini Projects in Python from Scratch](https://www.udemy.com/course/build-8-mini-projects-in-python-from-scratch/?couponCode=C4C7196D7484492AFD6D)
+[Data Analytics A-Z with Python](https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=2C30B87A7C97DCFC4214)
+[Object Detection Web App with TensorFlow, OpenCV and Flask](https://www.udemy.com/course/object-detection-web-app-with-tensorflow-opencv-and-flask/?couponCode=9A2857F45D6F7A3C5EB1)
+[Git and GitHub For Beginners](https://www.udemy.com/course/gitandgithubforbeginners/?couponCode=951EF74F002355A80E3D)
+[Building a Face Detection and Recognition Model From Scratch](https://www.udemy.com/course/building-a-face-detection-and-recognition-model-from-scratch/?couponCode=6CF2F316354344CB38BC)
+[Prompt Engineering with ChatGPT](https://www.udemy.com/course/the-ultimate-chatgpt-guide/?couponCode=13ADB7FE032966769BEE)
+[Python For Absolute Beginners : Learn Python From Scratch](https://www.udemy.com/course/pythonforabsolutebeginners/?couponCode=84F28B02575BC336EA59)
+[AWS Identity and Access Management (IAM) Foundations](https://www.udemy.com/course/aws-identity-and-access-management-iam-foundations/?couponCode=YOUACCEL12101)
+[AWS Beginner to Intermediate: EC2, IAM, ELB, ASG, Route 53](https://www.udemy.com/course/aws-beginner-to-intermediate-ec2-iam-elb-asg-route-53/?couponCode=YOUACCEL20888)
+[AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]](https://www.udemy.com/course/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/?couponCode=YOUACCEL12101)
 
