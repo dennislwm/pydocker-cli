@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/10/2023
+# Daily Free Udemy Courses - 08/10/2023
 
-[NLP Neuro-Linguistic-Programming Certification (Associate)](https://www.udemy.com/course/neuro-linguistic-programming-nlp-practitioner-certificate-j/?couponCode=024A0D21DFABC4B8039E)
-[Building & Monetizing Newsletter Business with AI](https://www.udemy.com/course/building-monetizing-newsletter-business-with-ai/?couponCode=255CC49538D36B7B4642)
-[Realtor Podcast Marketing For Real Estate Agents Success](https://www.udemy.com/course/real-estate-marketing-for-realtors-podcast/?couponCode=RPMFREASEXPOCT102023)
-[The Complete HTML5 Course: From Beginning to Expert](https://www.udemy.com/course/interactive-html-course/?couponCode=HTML5OCT2023)
-[Achieve Anything with 10 Easy Ways to Build Self-Discipline](https://www.udemy.com/course/build-unbreakable-self-discipline-in-10-easy-ways/?couponCode=DISCIPLINEEASY)
-[Dynamic Calendar Spreads for Income](https://www.udemy.com/course/trading-options-for-consistent-returns-calendar-spreads/?couponCode=INCOME10)
-[Business Networking for Success and Company Growth: Part Two](https://www.udemy.com/course/business-networking-for-success-2/?couponCode=BNFSCG2EXPOCT112023)
-[C++ Refactoring Bootcamp: Learning Modern C++ by practice](https://www.udemy.com/course/cpp-refactoring-bootcamp/?couponCode=2F339B668C24BEB82DED)
-[CSS Fundamentals: Comprehensive Training for Web Developers](https://www.udemy.com/course/css-fundamentals-comprehensive-training-for-web-developers/?couponCode=6DBF94E0F93135AB24F0)
-[Learn Python using Statistics: Data Analysis & Data Science](https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=PYTHON_OCT23)
-[Mastering Social Media Marketing: Brand Building & Growth](https://www.udemy.com/course/mastering-social-media-marketing-brand-building-growth/?couponCode=OCT23_SMM)
-[Market Research: Key Strategies for Business Decision-Making](https://www.udemy.com/course/strategic-market-research-key-methods-for-success/?couponCode=OCT23_MR)
+[Mastering Python, Pandas, Numpy for Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=C77A79498DD7344ADCB1)
+[Learn Basics Of Adobe After Effects CC for Beginners](https://www.udemy.com/course/learn-basics-of-adobe-after-effects-cc-for-beginners-learn/?couponCode=9292FBC737DE2C2479B2)
+[The Complete Emacs Course](https://www.udemy.com/course/emacs-course/?couponCode=COTTONDAY)
+[CDO Chief Digital Officer Executive Certification](https://www.udemy.com/course/chief-digital-officer/?couponCode=F6CC235278FF07117795)
+[GoToWebinar MasterClass: Tell Your Story Anywhere With GTW!](https://www.udemy.com/course/gotowebinar-masterclass-tell-your-story-anywhere-with-gtw/?couponCode=476DE8EFC630B5E6F2AB)
+[Color Correction & Grading with Adobe Premiere Pro](https://www.udemy.com/course/color-correction-grading-with-adobe-premiere-pro/?couponCode=691E04B5D2FCA6752D93)
+[Learn Basics of Adobe Photoshop CC for Beginners](https://www.udemy.com/course/learn-basics-of-adobe-photoshop-cc-for-beginners/?couponCode=EFB6B519BB7CFEE4FB30)
+[Video Editing with Avid Media Composer First for Beginners](https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=581F0AA696162AD28450)
+[Color Grading and Video Editing with Davinci Resolve 18](https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=CD75EC1B09291B68AF82)
+[Gatsby JS | Build a personal blog using gatsbyJS](https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=OCT-2023)
+[Domina Outlook 365: Aumenta tu eficiencia](https://www.udemy.com/course/domina-outlook-365-aumenta-tu-eficiencia/?couponCode=GRATIS-OCTUBRE)
+[How To Successfully Set Up A Community Interest Company -CIC](https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=660844FF362ACC6AAC01)
 
