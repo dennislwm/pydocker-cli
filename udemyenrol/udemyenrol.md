@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/10/2023
+# Daily Free Udemy Courses - 09/10/2023
 
-[Mastering Python, Pandas, Numpy for Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=C77A79498DD7344ADCB1)
-[Learn Basics Of Adobe After Effects CC for Beginners](https://www.udemy.com/course/learn-basics-of-adobe-after-effects-cc-for-beginners-learn/?couponCode=9292FBC737DE2C2479B2)
-[The Complete Emacs Course](https://www.udemy.com/course/emacs-course/?couponCode=COTTONDAY)
-[CDO Chief Digital Officer Executive Certification](https://www.udemy.com/course/chief-digital-officer/?couponCode=F6CC235278FF07117795)
-[GoToWebinar MasterClass: Tell Your Story Anywhere With GTW!](https://www.udemy.com/course/gotowebinar-masterclass-tell-your-story-anywhere-with-gtw/?couponCode=476DE8EFC630B5E6F2AB)
-[Color Correction & Grading with Adobe Premiere Pro](https://www.udemy.com/course/color-correction-grading-with-adobe-premiere-pro/?couponCode=691E04B5D2FCA6752D93)
-[Learn Basics of Adobe Photoshop CC for Beginners](https://www.udemy.com/course/learn-basics-of-adobe-photoshop-cc-for-beginners/?couponCode=EFB6B519BB7CFEE4FB30)
-[Video Editing with Avid Media Composer First for Beginners](https://www.udemy.com/course/learn-avid-media-composer-first-for-beginners/?couponCode=581F0AA696162AD28450)
-[Color Grading and Video Editing with Davinci Resolve 18](https://www.udemy.com/course/color-grading-and-video-editing-with-davinci-resolve/?couponCode=CD75EC1B09291B68AF82)
-[Gatsby JS | Build a personal blog using gatsbyJS](https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=OCT-2023)
-[Domina Outlook 365: Aumenta tu eficiencia](https://www.udemy.com/course/domina-outlook-365-aumenta-tu-eficiencia/?couponCode=GRATIS-OCTUBRE)
-[How To Successfully Set Up A Community Interest Company -CIC](https://www.udemy.com/course/how-to-successfully-set-up-a-community-interest-company-cic/?couponCode=660844FF362ACC6AAC01)
+[Robot structural design 15 stories residential buildings](https://www.udemy.com/course/robot-structural-design-15-stories-residential-buildings/?couponCode=9968719C13B98335CF56)
+[Architectural Shop Drawing Plans in AutoCAD 2020](https://www.udemy.com/course/architectural-shop-drawing-plans-in-autocad-2020/?couponCode=15E59321937D22974C29)
+[ETABS v19 & SAFE v16 in Villa Structural Design in UAE+CAD](https://www.udemy.com/course/etabs-v19-safe-v16-in-villa-structural-design-in-uaecad/?couponCode=EB71E45144053998F891)
+[Prokon Analysis and Design of 3 Stories R.C.C Building](https://www.udemy.com/course/prokon-analysis-and-design-of-3-stories-rcc-building/?couponCode=EBDF0F9FF0586655BF7D)
+[Mastering HTML5: From Beginner to Advanced](https://www.udemy.com/course/mastering-html5-from-beginner-to-advanced/?couponCode=997330812A0EB5DC6A12)
+[CCNA to CCNP Transition: Miscellaneous Topics](https://www.udemy.com/course/ccna-to-ccnp-transition-miscellaneous-topics/?couponCode=D34BDD29BD001A2E085C)
+[Revit structural drawing of 15 stories residential building](https://www.udemy.com/course/revit-structural-drawing-of-15-stories-residential-building/?couponCode=06C9AFF9AF00F379C41F)
+[Learn ETABS & SAFE in the Structural Design of 15 Stories RC](https://www.udemy.com/course/learn-etabs-safe-in-the-structural-design-of-15-stories-rc/?couponCode=D3714EB59371E0AACE3F)
+[Advanced ETABS V2019 52 stories Tower different seismic sys](https://www.udemy.com/course/advanced-etabs-v2019-52-stories-tower-different-seismic-sys/?couponCode=3B60F679A4C943B146D6)
+[CSI Sap2000 3D building design + all type of (Stairs+Tanks)](https://www.udemy.com/course/csi-sap2000-3d-building-design-all-type-of-stairstanks/?couponCode=B61BE324A3E56D31C799)
+[AutoCAD2020 2D Basics & Advanced(Full Projects Civil + Arch)](https://www.udemy.com/course/autocad2020-basics-advancedfull-projects-civil-and-arch/?couponCode=DE5CBDCB9641C4DB7788)
+[PRINCE2 Foundation Practice Tests 2023 with Detailed Answer](https://www.udemy.com/course/prince2-foundation-practice-tests-2023-with-detailed-answer/?couponCode=PRINCE2FREE)
 
