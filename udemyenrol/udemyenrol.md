@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/10/2023
+# Daily Free Udemy Courses - 11/10/2023
 
-[PMI PMP Practice Tests – PMBOK 7th Align | 2023 Updated](https://www.udemy.com/course/pmi-pmp-practice-tests-pmbok-7th-align-2023-updated/?couponCode=F48A6BE7169EA8418F83)
-[Master Excel: 4 Practice Tests for Certification](https://www.udemy.com/course/master-excel-4-practice-tests-for-certification/?couponCode=6056857A60540FF694E5)
-[Makeup Artist Professional Certification (MAPC)](https://www.udemy.com/course/makeup-artist-professional-certification/?couponCode=5CAA2DF517F819FC3903)
-[Foundational Chinese-Mandarin for Novices and Intermediates](https://www.udemy.com/course/basic-chinese-101-chinese-for-beginners/?couponCode=40C0E0FB1B1BABEAAB4A)
-[Python Certification Preparation: 4 Practice Tests](https://www.udemy.com/course/python-certification-preparation-4-practice-tests/?couponCode=1A9A1E036B5F1EC5E0F8)
-[File Processing with Python](https://www.udemy.com/course/file-processing-with-python/?couponCode=COUPON4U)
-[Learn Web Design using WordPress & Start Freelancing](https://www.udemy.com/course/become-successful-wordpress-freelancer-to-make-money-online/?couponCode=ALHAMDULILLAH1023)
-[Become a Successful SEO Freelancer & Start Online Businesses](https://www.udemy.com/course/become-a-six-figure-seo-freelancer-start-getting-clients/?couponCode=ALHAMDULILLAH1023)
-[Ethical Hacking: Hack Linux Systems](https://www.udemy.com/course/hack-linux/?couponCode=COUPON4U)
-[Ethical Hacking: nmap in depth](https://www.udemy.com/course/ethical-hacking-nmap-in-depth/?couponCode=COUPON4U)
-[Business Continuity Management Awareness on ISO 22301](https://www.udemy.com/course/iso-22301-business-continuity-management-awareness-course/?couponCode=FIREPREVENTIONDAY23)
-[ISO 13485:2016 – Understanding the Introductory Clauses](https://www.udemy.com/course/iso-134852016-understanding-the-introductory-clauses/?couponCode=FIREPREVENTIONDAY23)
+[The Complete Job Interviewing Skills Masterclass](https://www.udemy.com/course/job-interview-resume-cv-career-hack-masterclass/?couponCode=LET-US-HELP)
+[poultry farming nutrition and clinical nutrition stepby step](https://www.udemy.com/course/poultry-farming-nutrition-and-clinical-nutrition-stepby-step/?couponCode=F4C844AB7BE73135E6B5)
+[Master Course in Food & Beverage (F&B) Management 3.0](https://www.udemy.com/course/food-beverge-hotel-management/?couponCode=B54B2BC471C4D02C1EBE)
+[Advanced Master Course in Banking and Insurance 3.0](https://www.udemy.com/course/banking-and-insurance-blockchain-ai-rpa-banking/?couponCode=58BBA201220E0B8578CB)
+[Master Course : Fundamentals of Machine Learning (101 level)](https://www.udemy.com/course/fundamentals-of-machine-learning-101-level/?couponCode=6B26326B50274741E2C0)
+[Fundamentals of Augmented Reality & Virtual Reality (101)](https://www.udemy.com/course/fundamentals-of-augmented-reality-virtual-reality-101-ar-vr/?couponCode=949935EA1FC49185730C)
+[PowerApps Menu Magic : Craft awesome navigation in powerapps](https://www.udemy.com/course/powerapps-menu-navigation/?couponCode=FREE_MENU_1010)
+[Tableau & Tableau Prep for Data Preparation & Visualization](https://www.udemy.com/course/tableau-and-tableau-prep/?couponCode=C87B5AB)
+[Power BI: Zero to Hero in Data Visualization using Power BI](https://www.udemy.com/course/power-bi-starttech/?couponCode=F33B02A)
+[Master Course in Data Science and Business Analytics 3.0](https://www.udemy.com/course/data-science-business-analytics-business-analysis-data-analyst/?couponCode=A2CE3C1889364131F82F)
+[Master Course in Marine, Ship & Maritime Management 3.0](https://www.udemy.com/course/marine-ship-shipping-maritime-management/?couponCode=960096E53D9CAF2B42B7)
+[Aging and Geriatrics](https://www.udemy.com/course/aging-and-geriatrics/?couponCode=EBDA79E4EA416C5CC761)
 
