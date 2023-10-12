@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/10/2023
+# Daily Free Udemy Courses - 12/10/2023
 
-[The Complete Job Interviewing Skills Masterclass](https://www.udemy.com/course/job-interview-resume-cv-career-hack-masterclass/?couponCode=LET-US-HELP)
-[poultry farming nutrition and clinical nutrition stepby step](https://www.udemy.com/course/poultry-farming-nutrition-and-clinical-nutrition-stepby-step/?couponCode=F4C844AB7BE73135E6B5)
-[Master Course in Food & Beverage (F&B) Management 3.0](https://www.udemy.com/course/food-beverge-hotel-management/?couponCode=B54B2BC471C4D02C1EBE)
-[Advanced Master Course in Banking and Insurance 3.0](https://www.udemy.com/course/banking-and-insurance-blockchain-ai-rpa-banking/?couponCode=58BBA201220E0B8578CB)
-[Master Course : Fundamentals of Machine Learning (101 level)](https://www.udemy.com/course/fundamentals-of-machine-learning-101-level/?couponCode=6B26326B50274741E2C0)
-[Fundamentals of Augmented Reality & Virtual Reality (101)](https://www.udemy.com/course/fundamentals-of-augmented-reality-virtual-reality-101-ar-vr/?couponCode=949935EA1FC49185730C)
-[PowerApps Menu Magic : Craft awesome navigation in powerapps](https://www.udemy.com/course/powerapps-menu-navigation/?couponCode=FREE_MENU_1010)
-[Tableau & Tableau Prep for Data Preparation & Visualization](https://www.udemy.com/course/tableau-and-tableau-prep/?couponCode=C87B5AB)
-[Power BI: Zero to Hero in Data Visualization using Power BI](https://www.udemy.com/course/power-bi-starttech/?couponCode=F33B02A)
-[Master Course in Data Science and Business Analytics 3.0](https://www.udemy.com/course/data-science-business-analytics-business-analysis-data-analyst/?couponCode=A2CE3C1889364131F82F)
-[Master Course in Marine, Ship & Maritime Management 3.0](https://www.udemy.com/course/marine-ship-shipping-maritime-management/?couponCode=960096E53D9CAF2B42B7)
-[Aging and Geriatrics](https://www.udemy.com/course/aging-and-geriatrics/?couponCode=EBDA79E4EA416C5CC761)
+[Mastering Reverse Engineering & Malware Analysis | REMASM+](https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=OCSALY_YOUTUBE_10K)
+[Master Agile Leadership Evidence-Based Management (PAL-EBM)](https://www.udemy.com/course/master-agile-leadership-evidence-based-management-pal-ebm/?couponCode=FREEPALEBM1)
+[AI Mastery Unleashed: ChatGPT and Beyond](https://www.udemy.com/course/ai-mastery-unleashed-chatgpt-and-beyond/?couponCode=OCT-FREE)
+[Complete Linux Training Course to Get Your Ideal IT Job](https://www.udemy.com/course/linux-full-course-and-some-tips-for-smart-linux-learning/?couponCode=FREE-ENROLL-RATE)
+[BIM- Revit Architecture 2024- From Zero to Advanced Level](https://www.udemy.com/course/bim-revit-architecture-full-course-from-zero-to-advanced/?couponCode=BC36F06AFDDF5163DD43)
+[Digital Forensics Masterclass : Forensic Science 2023 DFMC+](https://www.udemy.com/course/digital-forensics-course/?couponCode=OCSALY_YOUTUBE_10K)
+[2023 Core JAVA Bootcamp from Zero to Hero](https://www.udemy.com/course/2022-core-java-bootcamp-from-zero-to-hero/?couponCode=F911C07ED0FCFD82A4CA)
+[2023 C Programming Bootcamp – The Complete C Language Course](https://www.udemy.com/course/c-programming-bootcamp-for-beginners/?couponCode=7F6DE71115A62402F9C1)
+[Real Ethical Hacking in 43 Hours: Certificated CSEH+CEH 2023](https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=OCSALY_YOUTUBE_10K)
+[Android App Development in 34 Hours : MobDevOps+ Android 13](https://www.udemy.com/course/android-kotlin-development/?couponCode=OCSALY_YOUTUBE_10K)
+[Mastering Linux: The Complete Guide to Becoming a Linux Pro](https://www.udemy.com/course/linux-training/?couponCode=OCSALY_YOUTUBE_10K)
+[Criminology and Criminal Psychology | Certified CSI+ Course](https://www.udemy.com/course/criminology-and-criminal-psychology-certified-csi-course-ocsaly/?couponCode=OCSALY_YOUTUBE_10K)
 
