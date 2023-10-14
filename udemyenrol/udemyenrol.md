@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 13/10/2023
+# Daily Free Udemy Courses - 14/10/2023
 
-[Profitable Forex Swing Trading Strategy: Easy 100-200pips!](https://www.udemy.com/course/the-ultimate-swing-trading-strategy-for-forex-trading/?couponCode=ST4OCT)
-[Learn Coding with Java from Scratch: Essential Training](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=1598E44BBBFB040B86A4)
-[Advanced Microsoft Word With Job Success](https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=46B2273D0CC5C1E57FC6)
-[Midjourney Mastery: Unlock Your Creative Potential with AI](https://www.udemy.com/course/midjourney-mastery-unlock-your-creative-potential-with-ai/?couponCode=0EF37AEE24ECE27CF30B)
-[Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio](https://www.udemy.com/course/hands-on-sql-servermanagementstudiosql-queriesazurestudio/?couponCode=E0B36AE1D4FAAC6DA7CE)
-[Complete Windows Password Cracking Course | Practical Guide](https://www.udemy.com/course/crack-windows-passwords/?couponCode=A38311DE0EBC2A29BE00)
-[Mastering Logical Fallacies: How to Think & React positivly](https://www.udemy.com/course/mastering-logical-fallacies-how-to-think-react-positivly/?couponCode=75C71888482249C2957D)
-[[Update] The Ultimate Guide to Social Media Marketing 2023](https://www.udemy.com/course/update-the-ultimate-guide-to-social-media-marketing-2023/?couponCode=1BA016F2D352D02FEBE2)
-[Ethical Hacking: Weaponization](https://www.udemy.com/course/ethical-hacking-weaponization/?couponCode=HBDFER)
-[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=HBDFER)
-[ISO/IEC 17025:2017 – From Theory to Practice](https://www.udemy.com/course/mastering-isoiec-17025-2017-h/?couponCode=F7079C66DEA0EF9FF596)
-[Comparable Companies COMPS Valuation Masterclass](https://www.udemy.com/course/comparable-companies-comps-valuation-masterclass/?couponCode=EDUCBA62)
+[Create Your Own Filter For TikTok | Effect House Masterclass](https://www.udemy.com/course/create-your-own-filter-for-tiktok-effect-house-masterclass/?couponCode=45BC01E616E2D70AA378)
+[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE-OCT)
+[The Complete Beginner Course to Optimizing ChatGPT for Work](https://www.udemy.com/course/using-chatgpt-at-work/?couponCode=3996BE0819F4EAFBE3AF)
+[Be A Master Of Canva With New Tricks, Basics To Advance](https://www.udemy.com/course/be-a-master-of-canva-2023-with-new-tricks-basics-to-advance/?couponCode=CANVACOURSE121)
+[Easy Christmas Candy Cane Watercolor Gift Painting Course](https://www.udemy.com/course/easy-christmas-themed-watercolor-painting-course/?couponCode=45953A84581AB59ED9DC)
+[Make Money From Home: 45 Work From Home Opportunities](https://www.udemy.com/course/work-from-home-job-opportunities/?couponCode=049F11E4AB1D8CB5BF94)
+[Forest Fairy Watercolor Manga Portrait Painting Course](https://www.udemy.com/course/watercolor-manga-portrait-painting-course/?couponCode=3A475E8DAC517D263DAB)
+[Paint an Easy Watercolor Anime, Manga Portrait](https://www.udemy.com/course/paint-an-easy-watercolor-anime-manga-portrait/?couponCode=9C97129DED754CB8C46E)
+[Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://www.udemy.com/course/nursery-woodland-bear-drawing-course-easybeginnerfriendly/?couponCode=0182DD74796BB45825BC)
+[Paint an Easy Haunted House with Watercolors](https://www.udemy.com/course/watercolor-haunted-house/?couponCode=06A55E5D17EBF7F71C80)
+[BIM- Rhino 3D- From Zero to Advanced Level- Full Course](https://www.udemy.com/course/bim-rhino-3d-from-zero-to-advanced-level-full-course/?couponCode=7BE7654A6D33FF1D7B04)
+[Python Course:Learn Python By building Games 2023 in Python.](https://www.udemy.com/course/python-games-development/?couponCode=191499ECE1C1C6EA4B87)
 
