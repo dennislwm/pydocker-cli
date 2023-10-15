@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/10/2023
+# Daily Free Udemy Courses - 15/10/2023
 
-[Create Your Own Filter For TikTok | Effect House Masterclass](https://www.udemy.com/course/create-your-own-filter-for-tiktok-effect-house-masterclass/?couponCode=45BC01E616E2D70AA378)
-[Become Metaverse Master: The Ultimate Guide To The Metaverse](https://www.udemy.com/course/the-ultimate-guide-to-the-metaverse/?couponCode=METAVERSE-FREE-OCT)
-[The Complete Beginner Course to Optimizing ChatGPT for Work](https://www.udemy.com/course/using-chatgpt-at-work/?couponCode=3996BE0819F4EAFBE3AF)
-[Be A Master Of Canva With New Tricks, Basics To Advance](https://www.udemy.com/course/be-a-master-of-canva-2023-with-new-tricks-basics-to-advance/?couponCode=CANVACOURSE121)
-[Easy Christmas Candy Cane Watercolor Gift Painting Course](https://www.udemy.com/course/easy-christmas-themed-watercolor-painting-course/?couponCode=45953A84581AB59ED9DC)
-[Make Money From Home: 45 Work From Home Opportunities](https://www.udemy.com/course/work-from-home-job-opportunities/?couponCode=049F11E4AB1D8CB5BF94)
-[Forest Fairy Watercolor Manga Portrait Painting Course](https://www.udemy.com/course/watercolor-manga-portrait-painting-course/?couponCode=3A475E8DAC517D263DAB)
-[Paint an Easy Watercolor Anime, Manga Portrait](https://www.udemy.com/course/paint-an-easy-watercolor-anime-manga-portrait/?couponCode=9C97129DED754CB8C46E)
-[Nursery Woodland Bear Drawing Course [Easy/BeginnerFriendly]](https://www.udemy.com/course/nursery-woodland-bear-drawing-course-easybeginnerfriendly/?couponCode=0182DD74796BB45825BC)
-[Paint an Easy Haunted House with Watercolors](https://www.udemy.com/course/watercolor-haunted-house/?couponCode=06A55E5D17EBF7F71C80)
-[BIM- Rhino 3D- From Zero to Advanced Level- Full Course](https://www.udemy.com/course/bim-rhino-3d-from-zero-to-advanced-level-full-course/?couponCode=7BE7654A6D33FF1D7B04)
-[Python Course:Learn Python By building Games 2023 in Python.](https://www.udemy.com/course/python-games-development/?couponCode=191499ECE1C1C6EA4B87)
+[NGINX, Apache, SSL Encryption – Certification Course](https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL75596)
+[Master Data Science: 5-in-1 Projects Data Interview ShowOff.](https://www.udemy.com/course/data-science-projects-machine-learning-business-analysis-interview/?couponCode=16B00A19178AEC47BBAC)
+[Mastering Python, Pandas, Numpy for Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=0A81F2A5611FB1A3A2B8)
+[ElasticSearch as you have never known it before](https://www.udemy.com/course/elasticsearch-as-you-have-never-known-it-before/?couponCode=SALESOCTOBER2)
+[HTML 5,Python,Django And Flask Framework Full-Stack Course](https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/?couponCode=2F28055EC9193AF80767)
+[Company Valuation Masterclass](https://www.udemy.com/course/company-valuation-masterclass/?couponCode=EDUCBA62)
+[Financial Accounting for Beginners (FINAC101)](https://www.udemy.com/course/financial-accounting-for-beginners-finac101/?couponCode=EDUCBA62)
+[Mergers & Acquisitions Masterclass](https://www.udemy.com/course/mergers-acquisitions-masterclass/?couponCode=EDUCBA62)
+[Basics of the Arabic Language](https://www.udemy.com/course/easy-way-to-learn-arabic-basics/?couponCode=ARABIC10FREE)
+[Easily Master Google Forms – Create Online Forms & Quizzes](https://www.udemy.com/course/easily-master-google-forms/?couponCode=DCF6FA190BC0BFBD7A91)
+[Learn JavaScript – For Beginners](https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=YOUACCEL75596)
+[SQL Boot Camp 2023: Complete SQL Course](https://www.udemy.com/course/sql-bootcamp-course/?couponCode=22460ABEA57D8B7F0731)
 
