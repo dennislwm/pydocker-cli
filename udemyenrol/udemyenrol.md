@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/10/2023
+# Daily Free Udemy Courses - 16/10/2023
 
-[NGINX, Apache, SSL Encryption – Certification Course](https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL75596)
-[Master Data Science: 5-in-1 Projects Data Interview ShowOff.](https://www.udemy.com/course/data-science-projects-machine-learning-business-analysis-interview/?couponCode=16B00A19178AEC47BBAC)
-[Mastering Python, Pandas, Numpy for Absolute Beginners](https://www.udemy.com/course/python-numpy-for-absolute-beginners/?couponCode=0A81F2A5611FB1A3A2B8)
-[ElasticSearch as you have never known it before](https://www.udemy.com/course/elasticsearch-as-you-have-never-known-it-before/?couponCode=SALESOCTOBER2)
-[HTML 5,Python,Django And Flask Framework Full-Stack Course](https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/?couponCode=2F28055EC9193AF80767)
-[Company Valuation Masterclass](https://www.udemy.com/course/company-valuation-masterclass/?couponCode=EDUCBA62)
-[Financial Accounting for Beginners (FINAC101)](https://www.udemy.com/course/financial-accounting-for-beginners-finac101/?couponCode=EDUCBA62)
-[Mergers & Acquisitions Masterclass](https://www.udemy.com/course/mergers-acquisitions-masterclass/?couponCode=EDUCBA62)
-[Basics of the Arabic Language](https://www.udemy.com/course/easy-way-to-learn-arabic-basics/?couponCode=ARABIC10FREE)
-[Easily Master Google Forms – Create Online Forms & Quizzes](https://www.udemy.com/course/easily-master-google-forms/?couponCode=DCF6FA190BC0BFBD7A91)
-[Learn JavaScript – For Beginners](https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=YOUACCEL75596)
-[SQL Boot Camp 2023: Complete SQL Course](https://www.udemy.com/course/sql-bootcamp-course/?couponCode=22460ABEA57D8B7F0731)
+[2023 Complete Python Bootcamp from Zero to Hero in Python](https://www.udemy.com/course/python-programming-for-beginners-m/?couponCode=FD5BE8612BA11247FA30)
+[Fiverr Freelancing 2023-2024: Sell like the TOP 1%](https://www.udemy.com/course/the-complete-fiverr-course-i/?couponCode=LEVELUP)
+[OOP Design Patterns in Python](https://www.udemy.com/course/oop-design-patterns-in-python/?couponCode=HBDNIETZSCHE)
+[How Websites Work](https://www.udemy.com/course/how-websites-work/?couponCode=HBDNIETZSCHE)
+[CSO Chief Security Officer Executive Certification](https://www.udemy.com/course/chief-security-officer/?couponCode=5D20CC01687B40716862)
+[Revit MEP- Sanitary- Pipe Design and Revit 3D Modeling](https://www.udemy.com/course/revit-mep-sanitary-pipe-design-and-revit-3d-modeling/?couponCode=22968EDC03CB07F9656E)
+[Cybersecurity Digital Immune Systems (101 level)](https://www.udemy.com/course/cybersecurity-digital-immune-systems/?couponCode=EB33A22AF26ADDAE8021)
+[How to BUILD CONFIDENCE and SELF-ESTEEM: Unleash a New You!](https://www.udemy.com/course/boost-your-self-confidence-unleash-your-inner-potential/?couponCode=73491C2EC1330495D236)
+[Nmap Advanced Techniques Course A To Z On Network Scan 2023](https://www.udemy.com/course/nmap-advanced-techniques-course-a-to-z-on-network-scan-2021/?couponCode=FREE-OCT)
+[Complete Linux Training Course to Get Your Ideal IT Job](https://www.udemy.com/course/linux-full-course-and-some-tips-for-smart-linux-learning/?couponCode=ENROLL-AND-RATE)
+[Professional Diploma in Social Media Marketing & Management](https://www.udemy.com/course/smm-social-media-marketing/?couponCode=6E93E3243DA25CF67FF5)
+[PSPO 1 / PSPO I – Product Owner Mock Exams 2023](https://www.udemy.com/course/pspo-1-pspo-i-product-owner-mock-exams-2023/?couponCode=39AC272C6A5258902DFE)
 
