@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/10/2023
+# Daily Free Udemy Courses - 17/10/2023
 
-[2023 Complete Python Bootcamp from Zero to Hero in Python](https://www.udemy.com/course/python-programming-for-beginners-m/?couponCode=FD5BE8612BA11247FA30)
-[Fiverr Freelancing 2023-2024: Sell like the TOP 1%](https://www.udemy.com/course/the-complete-fiverr-course-i/?couponCode=LEVELUP)
-[OOP Design Patterns in Python](https://www.udemy.com/course/oop-design-patterns-in-python/?couponCode=HBDNIETZSCHE)
-[How Websites Work](https://www.udemy.com/course/how-websites-work/?couponCode=HBDNIETZSCHE)
-[CSO Chief Security Officer Executive Certification](https://www.udemy.com/course/chief-security-officer/?couponCode=5D20CC01687B40716862)
-[Revit MEP- Sanitary- Pipe Design and Revit 3D Modeling](https://www.udemy.com/course/revit-mep-sanitary-pipe-design-and-revit-3d-modeling/?couponCode=22968EDC03CB07F9656E)
-[Cybersecurity Digital Immune Systems (101 level)](https://www.udemy.com/course/cybersecurity-digital-immune-systems/?couponCode=EB33A22AF26ADDAE8021)
-[How to BUILD CONFIDENCE and SELF-ESTEEM: Unleash a New You!](https://www.udemy.com/course/boost-your-self-confidence-unleash-your-inner-potential/?couponCode=73491C2EC1330495D236)
-[Nmap Advanced Techniques Course A To Z On Network Scan 2023](https://www.udemy.com/course/nmap-advanced-techniques-course-a-to-z-on-network-scan-2021/?couponCode=FREE-OCT)
-[Complete Linux Training Course to Get Your Ideal IT Job](https://www.udemy.com/course/linux-full-course-and-some-tips-for-smart-linux-learning/?couponCode=ENROLL-AND-RATE)
-[Professional Diploma in Social Media Marketing & Management](https://www.udemy.com/course/smm-social-media-marketing/?couponCode=6E93E3243DA25CF67FF5)
-[PSPO 1 / PSPO I – Product Owner Mock Exams 2023](https://www.udemy.com/course/pspo-1-pspo-i-product-owner-mock-exams-2023/?couponCode=39AC272C6A5258902DFE)
+[Writing a query letter that avoids pitfalls and gets results](https://www.udemy.com/course/writing-a-query-letter-that-avoids-pitfalls-and-gets-results/?couponCode=104DF338D1996841540B)
+[Azure Devops CI/CD Pipelines with YAML | Practical Demos](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml/?couponCode=D42BA16586770C5BED73)
+[Emotional Intelligence: The complete guide](https://www.udemy.com/course/emotional-intelligence-the-complete-guide/?couponCode=ABF87D4A9CF2159862A4)
+[Linear Programming basics](https://www.udemy.com/course/linear-programming-basics/?couponCode=LPFREEOCT2023)
+[Latest CISM Exam Practice Tests with 600 Q/As & Explanations](https://www.udemy.com/course/latest-cism-exam-practice-tests-with-600-qas-explanations/?couponCode=0525E9FDE1136B4BFD8A)
+[Proven Formula For Independent Film Screenwriting That Works](https://www.udemy.com/course/independent-film-screenwriting/?couponCode=OCTOBER)
+[4 Practice Tests for Python Certification Preparation](https://www.udemy.com/course/4-practice-tests-for-python-certification-preparation/?couponCode=5375034A4860C9D48938)
+[How to Write Your Memoirs](https://www.udemy.com/course/how-to-write-your-memoirs/?couponCode=FC24E32EB63C849A77BF)
+[Excel Report Automation with Python](https://www.udemy.com/course/excel-report-automation-with-python/?couponCode=4F2B057E434A07AD7C1B)
+[The Ultimate Guide to Organisational Transformation](https://www.udemy.com/course/the-ultimate-guide-to-organisational-transformation/?couponCode=8B6E06B72250526A045C)
+[2D Character Animation Sprites in Cinema 4D and Aseprite](https://www.udemy.com/course/2d-character-animations-sprites-in-cinema-4d-and-aseprite/?couponCode=E571E7AEE970A8859901)
+[“Learn ChatGPT in an Hour with AI Erik”](https://www.udemy.com/course/chatgpt-in-an-hour-with-aierik/?couponCode=AIERIK2)
 
