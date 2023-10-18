@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/10/2023
+# Daily Free Udemy Courses - 18/10/2023
 
-[Writing a query letter that avoids pitfalls and gets results](https://www.udemy.com/course/writing-a-query-letter-that-avoids-pitfalls-and-gets-results/?couponCode=104DF338D1996841540B)
-[Azure Devops CI/CD Pipelines with YAML | Practical Demos](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml/?couponCode=D42BA16586770C5BED73)
-[Emotional Intelligence: The complete guide](https://www.udemy.com/course/emotional-intelligence-the-complete-guide/?couponCode=ABF87D4A9CF2159862A4)
-[Linear Programming basics](https://www.udemy.com/course/linear-programming-basics/?couponCode=LPFREEOCT2023)
-[Latest CISM Exam Practice Tests with 600 Q/As & Explanations](https://www.udemy.com/course/latest-cism-exam-practice-tests-with-600-qas-explanations/?couponCode=0525E9FDE1136B4BFD8A)
-[Proven Formula For Independent Film Screenwriting That Works](https://www.udemy.com/course/independent-film-screenwriting/?couponCode=OCTOBER)
-[4 Practice Tests for Python Certification Preparation](https://www.udemy.com/course/4-practice-tests-for-python-certification-preparation/?couponCode=5375034A4860C9D48938)
-[How to Write Your Memoirs](https://www.udemy.com/course/how-to-write-your-memoirs/?couponCode=FC24E32EB63C849A77BF)
-[Excel Report Automation with Python](https://www.udemy.com/course/excel-report-automation-with-python/?couponCode=4F2B057E434A07AD7C1B)
-[The Ultimate Guide to Organisational Transformation](https://www.udemy.com/course/the-ultimate-guide-to-organisational-transformation/?couponCode=8B6E06B72250526A045C)
-[2D Character Animation Sprites in Cinema 4D and Aseprite](https://www.udemy.com/course/2d-character-animations-sprites-in-cinema-4d-and-aseprite/?couponCode=E571E7AEE970A8859901)
-[“Learn ChatGPT in an Hour with AI Erik”](https://www.udemy.com/course/chatgpt-in-an-hour-with-aierik/?couponCode=AIERIK2)
+[TypeScript for Beginners: Mastering TypeScript Fundamentals](https://www.udemy.com/course/typescript-for-beginners-mastering-typescript-fundamentals/?couponCode=F25DCDB7C2AD56C70720)
+[Artificial Intelligence and ChatGPT for Beginners](https://www.udemy.com/course/artificial-intelligence-and-chatgpt-for-beginners/?couponCode=BD9730942F28C627C8F4)
+[Unleash Your Creative Mind](https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=OCT2023FREE01)
+[CSS And JavaScript Complete Course For Beginners](https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=844CF098930CA27BF667)
+[Python For Beginners Course In-Depth](https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=85D30B61F2DC71E8DA04)
+[Traffic Security, Road Safety, Public Security & Safety 2.0](https://www.udemy.com/course/traffic-security-road-safety-public-security-safety/?couponCode=32FF71558D843B47C2BE)
+[Airport Lounge Management & Cabin Crew Management 2.0](https://www.udemy.com/course/airport-lounge-management-cabin-crew-management/?couponCode=CDCC2FD16EA6B16C300A)
+[Certified Professional in Project Management 101 (CPPM-GAQM)](https://www.udemy.com/course/certified-professional-in-project-management-exam-prep-cppm-gaqm/?couponCode=4D2FEF6A1AF4F50051A7)
+[COBIT FOUNDATION 2019 Mock Questions – 06 Test & Explanation](https://www.udemy.com/course/cobit-foundation-2019-mock-questions-06-test-explanation/?couponCode=07D1D45750F4B0541132)
+[GIAC Security Essentials (GSEC) Practice Exam [OCT 2023]](https://www.udemy.com/course/giac-security-essentials-gsec-practice-exam-oct-2023/?couponCode=97562875C0D7816EB1B2)
+[Salesforce Interview Question with Answers](https://www.udemy.com/course/salesforce-interview-question-with-answers/?couponCode=FREESTUDY)
+[Marketing Management – MM Fundamentals 101 to Advanced](https://www.udemy.com/course/marketing-management-mm-fundamentals-101-to-advanced/?couponCode=EDUCBA62)
 
