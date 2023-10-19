@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/10/2023
+# Daily Free Udemy Courses - 19/10/2023
 
-[TypeScript for Beginners: Mastering TypeScript Fundamentals](https://www.udemy.com/course/typescript-for-beginners-mastering-typescript-fundamentals/?couponCode=F25DCDB7C2AD56C70720)
-[Artificial Intelligence and ChatGPT for Beginners](https://www.udemy.com/course/artificial-intelligence-and-chatgpt-for-beginners/?couponCode=BD9730942F28C627C8F4)
-[Unleash Your Creative Mind](https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=OCT2023FREE01)
-[CSS And JavaScript Complete Course For Beginners](https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=844CF098930CA27BF667)
-[Python For Beginners Course In-Depth](https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=85D30B61F2DC71E8DA04)
-[Traffic Security, Road Safety, Public Security & Safety 2.0](https://www.udemy.com/course/traffic-security-road-safety-public-security-safety/?couponCode=32FF71558D843B47C2BE)
-[Airport Lounge Management & Cabin Crew Management 2.0](https://www.udemy.com/course/airport-lounge-management-cabin-crew-management/?couponCode=CDCC2FD16EA6B16C300A)
-[Certified Professional in Project Management 101 (CPPM-GAQM)](https://www.udemy.com/course/certified-professional-in-project-management-exam-prep-cppm-gaqm/?couponCode=4D2FEF6A1AF4F50051A7)
-[COBIT FOUNDATION 2019 Mock Questions – 06 Test & Explanation](https://www.udemy.com/course/cobit-foundation-2019-mock-questions-06-test-explanation/?couponCode=07D1D45750F4B0541132)
-[GIAC Security Essentials (GSEC) Practice Exam [OCT 2023]](https://www.udemy.com/course/giac-security-essentials-gsec-practice-exam-oct-2023/?couponCode=97562875C0D7816EB1B2)
-[Salesforce Interview Question with Answers](https://www.udemy.com/course/salesforce-interview-question-with-answers/?couponCode=FREESTUDY)
-[Marketing Management – MM Fundamentals 101 to Advanced](https://www.udemy.com/course/marketing-management-mm-fundamentals-101-to-advanced/?couponCode=EDUCBA62)
+[[2023] Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.udemy.com/course/microsoft-certified-azure-fundamentals-az-900-exams/?couponCode=1287655D82E35E2C062D)
+[Generate Income with Your YouTube, Despite Limited Views](https://www.udemy.com/course/generate-income-with-your-youtube-despite-limited-views/?couponCode=5B19E180523C6FE6AEE3)
+[The Mega PRO Digital Marketing Course A-Z : In Hindi](https://www.udemy.com/course/learn-digital-marketing-course-hindi/?couponCode=DMARKETINGHINDI)
+[Make YouTube Thumbnails & Get More Views (Photoshop +Online)](https://www.udemy.com/course/create-youtube-thumbnails-in-photoshop-and-free-online-site/?couponCode=THUMBNAILCOURSE)
+[Online Course Masterclass: Create Your Own Course In 30 Days](https://www.udemy.com/course/online-course-masterclass/?couponCode=COURSE-B)
+[Actual PowerPoint Automation with Excel VBA](https://www.udemy.com/course/actual-powerpoint-automation-with-excel-vba/?couponCode=C68E02F3BBF451BD8B97)
+[Ultimate Guide To Core Stability](https://www.udemy.com/course/core-stability/?couponCode=9178FC0DBB0B8C11A25C)
+[Ultimate Front-End Bootcamp: CSS, Bootstrap, JQ, JS, React](https://www.udemy.com/course/ultimate-front-end-bootcamp-css-bootstrap-jq-js-react/?couponCode=YOUACCEL38116)
+[Linode: Build and Deploy Responsive Websites on the Cloud](https://www.udemy.com/course/linode-build-and-deploy-responsive-websites-on-the-cloud/?couponCode=YOUACCEL38116)
+[ChatGPT Plugins: The Complete Guide](https://www.udemy.com/course/chatgpt-plugins-the-complete-guide/?couponCode=HALLOWEEN)
+[PowerShell Functions Master Class](https://www.udemy.com/course/powershell-functions-master-class/?couponCode=294421655737B69507F1)
+[Corporate Governance Professional Certification (CGPC)](https://www.udemy.com/course/corporate-governance-certification/?couponCode=0A27D6A380E2CB29935A)
 
