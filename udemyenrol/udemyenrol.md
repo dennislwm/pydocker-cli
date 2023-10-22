@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 21/10/2023
+# Daily Free Udemy Courses - 22/10/2023
 
 [Ultimate Academic Writing course: Research + Essay Writing!](https://www.udemy.com/course/ultimate-thesis-guidelines/?couponCode=YARA-THESIS-18-10-23)
 [Revit MEP- HVAC- Duct Design, Revit 3D Modeling](https://www.udemy.com/course/revit-mep-hvac-duct-design-revit-3d-modeling/?couponCode=DCA85F071C8BA8779D13)
