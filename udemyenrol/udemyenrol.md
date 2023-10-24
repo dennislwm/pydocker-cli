@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/10/2023
+# Daily Free Udemy Courses - 24/10/2023
 
-[Ultimate Academic Writing course: Research + Essay Writing!](https://www.udemy.com/course/ultimate-thesis-guidelines/?couponCode=YARA-THESIS-18-10-23)
-[Revit MEP- HVAC- Duct Design, Revit 3D Modeling](https://www.udemy.com/course/revit-mep-hvac-duct-design-revit-3d-modeling/?couponCode=DCA85F071C8BA8779D13)
-[Generate Income with Your YouTube, Despite Limited Views](https://www.udemy.com/course/generate-income-with-your-youtube-despite-limited-views/?couponCode=5B19E180523C6FE6AEE3)
-[The Mega PRO Digital Marketing Course A-Z : In Hindi](https://www.udemy.com/course/learn-digital-marketing-course-hindi/?couponCode=DMARKETINGHINDI)
-[Easily Master the TOP 3 Databases MongoDB,Redis,InfluxDB](https://www.udemy.com/course/easily-master-the-top-3-databases-mongodbredisinfluxdb/?couponCode=560A8CEE3D4F1C13F488)
-[C programming language | The Complete C Course (Arabic)](https://www.udemy.com/course/c-programming-language-from-a-to-z/?couponCode=EFE6F65B40E8913418DB)
-[Executive Diploma in Business Strategy](https://www.udemy.com/course/diploma-business-strategy/?couponCode=98FE0172A1E5CE011029)
-[Help me I’m a parent! GPS Great Parenting Start](https://www.udemy.com/course/10-easy-lifestyle-assessments-to-raise-amazing-kidsadults/?couponCode=PHGPSGREATFREE1016)
-[Anxiety relieved reduced easily with EFT](https://www.udemy.com/course/anxiety-relieved-reduced-easily-with-eft/?couponCode=C72C62CFB88B47467381)
-[Ultra-Fast WordPress Speed With 10Web WordPress Web Hosting](https://www.udemy.com/course/ultra-fast-wordpress-speed/?couponCode=A21B42E467E98F07D442)
-[ChatGPT Plugins: The Complete Guide](https://www.udemy.com/course/chatgpt-plugins-the-complete-guide/?couponCode=HALLOWEEN)
-[PowerShell Functions Master Class](https://www.udemy.com/course/powershell-functions-master-class/?couponCode=294421655737B69507F1)
+[Enhance Lightroom Editing with the Luminar Neo Plugin](https://www.udemy.com/course/enhance-lightroom-editing-with-the-luminar-neo-plugin/?couponCode=EL2310)
+[Linux for Data Engineers (Hands On)](https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=09CC84353BA6F7929DD6)
+[A Beginner’s Guide to OSINT](https://www.udemy.com/course/a-beginners-guide-to-osint/?couponCode=OCT2023)
+[Revit Arch. : Modeling & Rendering Interior office project](https://www.udemy.com/course/modeling-rending-interior-office-project-in-revit/?couponCode=0C6E9CD9CA6173325917)
+[Financial Analyst Professional Certification](https://www.udemy.com/course/financial-analyst/?couponCode=283B2E8AED35C7BF3051)
+[Learning SOLIDWORKS : For Students, Engineers, and Designers](https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=GAGANYAAN)
+[Complete Course in AutoCAD Electrical 2022](https://www.udemy.com/course/complete-course-in-autocad-electrical-2022/?couponCode=MARSROVER)
+[Java Certification ( Java Oops feature )](https://www.udemy.com/course/basic-of-java-certification/?couponCode=59701C11622B3C5BCF1E)
+[Apache Spark Project World Development Indicators Analytics](https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/?couponCode=B0C1BF157C5830C60ED1)
+[Mastering Organizational Skills for Success](https://www.udemy.com/course/mastering-organizational-skills-for-success/?couponCode=CB2EA88E18738BE15E47)
+[Essential Excel With Tips Trick Shortcuts and Job Success](https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=17A8F3EFECEE0A3BD892)
+[Python Certification Preparation: 4 Practice Tests](https://www.udemy.com/course/python-certification-preparation-4-practice-tests/?couponCode=EF30D73D3CFCC2AE993C)
 
