@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/10/2023
+# Daily Free Udemy Courses - 25/10/2023
 
-[Enhance Lightroom Editing with the Luminar Neo Plugin](https://www.udemy.com/course/enhance-lightroom-editing-with-the-luminar-neo-plugin/?couponCode=EL2310)
-[Linux for Data Engineers (Hands On)](https://www.udemy.com/course/linux-for-data-engineers-hands-on/?couponCode=09CC84353BA6F7929DD6)
-[A Beginner’s Guide to OSINT](https://www.udemy.com/course/a-beginners-guide-to-osint/?couponCode=OCT2023)
-[Revit Arch. : Modeling & Rendering Interior office project](https://www.udemy.com/course/modeling-rending-interior-office-project-in-revit/?couponCode=0C6E9CD9CA6173325917)
-[Financial Analyst Professional Certification](https://www.udemy.com/course/financial-analyst/?couponCode=283B2E8AED35C7BF3051)
-[Learning SOLIDWORKS : For Students, Engineers, and Designers](https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=GAGANYAAN)
-[Complete Course in AutoCAD Electrical 2022](https://www.udemy.com/course/complete-course-in-autocad-electrical-2022/?couponCode=MARSROVER)
-[Java Certification ( Java Oops feature )](https://www.udemy.com/course/basic-of-java-certification/?couponCode=59701C11622B3C5BCF1E)
-[Apache Spark Project World Development Indicators Analytics](https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/?couponCode=B0C1BF157C5830C60ED1)
-[Mastering Organizational Skills for Success](https://www.udemy.com/course/mastering-organizational-skills-for-success/?couponCode=CB2EA88E18738BE15E47)
-[Essential Excel With Tips Trick Shortcuts and Job Success](https://www.udemy.com/course/essential-excel-with-tips-trick-shortcuts-and-job-success/?couponCode=17A8F3EFECEE0A3BD892)
-[Python Certification Preparation: 4 Practice Tests](https://www.udemy.com/course/python-certification-preparation-4-practice-tests/?couponCode=EF30D73D3CFCC2AE993C)
+[Build 13 Projects with PHP MySQL Bootstrap and PDO](https://www.udemy.com/course/build-13-projects-with-php-mysql-bootstrap-and-pdo/?couponCode=13PROJECTS30)
+[Ayurveda Certificate – Yoga Alliance YACEP](https://www.udemy.com/course/ayurveda-certificate-yoga-alliance-yacep/?couponCode=AYURSEPT20)
+[Master Course : Professional Google Workspace Administrator](https://www.udemy.com/course/professional-google-workspace-administrator/?couponCode=7612119C1E483A71D607)
+[Mini MBA in Human Resources Management](https://www.udemy.com/course/mini-mba-in-human-resources-management/?couponCode=3EE5D320C16BA1EC909F)
+[Build and Deploy Responsive Websites on AWS using HTML & CSS](https://www.udemy.com/course/build-and-deploy-responsive-websites-on-aws-using-html-css/?couponCode=YOUACCEL69251)
+[Essential Amazon Affiliate Marketing for Beginners](https://www.udemy.com/course/essential-amazon-affiliate-marketing-for-beginners/?couponCode=AA57DA6DD3E8B5072855)
+[Learn German Language: Best German A2 Course [Intermediate]](https://www.udemy.com/course/german-a-2-1/?couponCode=99A7846CC3F4EE8A095B)
+[Plumbing 103 : Storm Water Practical Plumbing Design](https://www.udemy.com/course/plumbing-mastery-storm-water-practical-plumbing-design/?couponCode=957090FE37F61F827183)
+[Technical Analysis That Matters](https://www.udemy.com/course/technical-analysis-that-matters/?couponCode=D5E5EE27E5C0D999C923)
+[Professional Diploma in Unit Economics Management](https://www.udemy.com/course/professional-diploma-in-unit-economics-and-sales-funnels/?couponCode=C312B424EE3086E1953F)
+[Comprehensive ABUNDANCE and MONEY ENERGY Course from A to Z](https://www.udemy.com/course/attract-abundance-and-money-into-your-life-with-this-course/?couponCode=C96F5B288C14486B8997)
+[Building Artificial Intelligence Automation Agency](https://www.udemy.com/course/building-artificial-intelligence-automation-agency/?couponCode=BF2178A474BB92CA8CC0)
 
