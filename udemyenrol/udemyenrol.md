@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/10/2023
+# Daily Free Udemy Courses - 28/10/2023
 
-[Artificial Intelligence and ChatGPT for Beginners](https://www.udemy.com/course/artificial-intelligence-and-chatgpt-for-beginners/?couponCode=8CAECD48C8B67F4677C2)
-[AWS Certified Cloud Practitioner ( CLF-C01 | CLF C01) Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-clf-c01-tests/?couponCode=4B21FA8A678C8FDAEA7C)
-[CISA Certified Information Systems Auditor – 06 Mock Exams](https://www.udemy.com/course/cisa-certified-information-systems-auditor-06-mock-exams/?couponCode=33962DBDE740CB770368)
-[Applied Python: Building Projects with Python Programming](https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=D58D3CCF844CC28AC431)
-[Business Fundamentals: How to Start a Business](https://www.udemy.com/course/business-fundamentals-how-to-start-a-business/?couponCode=HOWTOSTARTBUSINESS18)
-[Ethical Hacking: Command Injection](https://www.udemy.com/course/ethical-hacking-command-injection/?couponCode=HACKINGPRO)
-[Learn Just Enough Laravel to Get Started as a Web Developer](https://www.udemy.com/course/just-enough-laravel/?couponCode=C70249183C0E92606759)
-[Learn German Language: Best German A2 Course [Intermediate]](https://www.udemy.com/course/learn-german-language-a22-german-a2-course-must-see-2020/?couponCode=7BE16357C3FD5E99C2BF)
-[GMAT Focus Prep | Quant | Master Math Course | 2023 Updated](https://www.udemy.com/course/gmat-quantitative-master-course/?couponCode=ENDOCT)
-[Navisworks Manage – from Beginner to Advanced](https://www.udemy.com/course/navisworks-manage-from-beginners-to-advanced/?couponCode=19A06C9C86F4EBBEAC2C)
-[Mastering VMware Workstation: A Comprehensive Guide](https://www.udemy.com/course/vmware-vsphere-home-lab/?couponCode=WORKFREE)
-[Weekend Project: Time Tracker Using ReactJS and Firebase](https://www.udemy.com/course/weekend-project-time-tracker-using-reactjs-and-firebase/?couponCode=1713D43916628AD71F9E)
+[DevOps Practice Tests: Master ChatGPT for Devops.](https://www.udemy.com/course/devops-practice-tests-chatgpt-for-devops/?couponCode=94A4D850613AAB07D3F3)
+[Rumbo a la Certificación Linux: Preparación LPIC-1](https://www.udemy.com/course/rumbo-a-la-certificacion-linux-preparacion-lpic-1/?couponCode=EA8B147A06381119054D)
+[Git for Beginners](https://www.udemy.com/course/git-for-beginners-course/?couponCode=3B4322181A042F34CE78)
+[Mini MBA in Human Resources Management](https://www.udemy.com/course/mini-mba-in-human-resources-management/?couponCode=CA4B4E1EFC7A277C3D8C)
+[Practical Google Maps Static and Embed API for Frontend Devs](https://www.udemy.com/course/practical-google-maps-api-for-frontend-developers/?couponCode=617D4176FD9BBB8E73D4)
+[Forex Scalping Strategy Course-Guide in Scalping the Forex](https://www.udemy.com/course/forex-scalping-strategy-course-guide-in-scalping-the-forex/?couponCode=65750B64EBD7F623D044)
+[Day Trading Forex – simple forex day trading strategy WORK](https://www.udemy.com/course/day-trading-forex-simple-forex-day-trading-strategy/?couponCode=8E4B882224716A014EBB)
+[The complete forex course from scratch to professional](https://www.udemy.com/course/the-complete-forex-course-from-scratch-to-professional/?couponCode=21A7223BD542A3615BC0)
+[Simple and Strong Forex Swing Trading Strategy in the world](https://www.udemy.com/course/a-simple-forex-swing-trading-strategies-that-work-vip-only/?couponCode=D683766036753EC8821C)
+[Introduction to the language of criminal law](https://www.udemy.com/course/introduction-to-the-language-of-criminal-law/?couponCode=8FB6687EA02B52FF9249)
+[Ultimate Guide to Product Design: Design Thinking Approach](https://www.udemy.com/course/design-engaging-products-using-design-thinking/?couponCode=OCT2023FREE001)
+[Personal Branding System 3.0: UNIQUE Secret for YOUR Success](https://www.udemy.com/course/personal-branding-master-course/?couponCode=OCT2023FREE001)
 
