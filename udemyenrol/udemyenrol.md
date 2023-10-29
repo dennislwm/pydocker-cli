@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/10/2023
+# Daily Free Udemy Courses - 29/10/2023
 
-[DevOps Practice Tests: Master ChatGPT for Devops.](https://www.udemy.com/course/devops-practice-tests-chatgpt-for-devops/?couponCode=94A4D850613AAB07D3F3)
-[Rumbo a la Certificación Linux: Preparación LPIC-1](https://www.udemy.com/course/rumbo-a-la-certificacion-linux-preparacion-lpic-1/?couponCode=EA8B147A06381119054D)
-[Git for Beginners](https://www.udemy.com/course/git-for-beginners-course/?couponCode=3B4322181A042F34CE78)
-[Mini MBA in Human Resources Management](https://www.udemy.com/course/mini-mba-in-human-resources-management/?couponCode=CA4B4E1EFC7A277C3D8C)
-[Practical Google Maps Static and Embed API for Frontend Devs](https://www.udemy.com/course/practical-google-maps-api-for-frontend-developers/?couponCode=617D4176FD9BBB8E73D4)
-[Forex Scalping Strategy Course-Guide in Scalping the Forex](https://www.udemy.com/course/forex-scalping-strategy-course-guide-in-scalping-the-forex/?couponCode=65750B64EBD7F623D044)
-[Day Trading Forex – simple forex day trading strategy WORK](https://www.udemy.com/course/day-trading-forex-simple-forex-day-trading-strategy/?couponCode=8E4B882224716A014EBB)
-[The complete forex course from scratch to professional](https://www.udemy.com/course/the-complete-forex-course-from-scratch-to-professional/?couponCode=21A7223BD542A3615BC0)
-[Simple and Strong Forex Swing Trading Strategy in the world](https://www.udemy.com/course/a-simple-forex-swing-trading-strategies-that-work-vip-only/?couponCode=D683766036753EC8821C)
-[Introduction to the language of criminal law](https://www.udemy.com/course/introduction-to-the-language-of-criminal-law/?couponCode=8FB6687EA02B52FF9249)
-[Ultimate Guide to Product Design: Design Thinking Approach](https://www.udemy.com/course/design-engaging-products-using-design-thinking/?couponCode=OCT2023FREE001)
-[Personal Branding System 3.0: UNIQUE Secret for YOUR Success](https://www.udemy.com/course/personal-branding-master-course/?couponCode=OCT2023FREE001)
+[Ultimate Character Design Course with Adobe Illustrator](https://www.udemy.com/course/ultimate-character-design-course/?couponCode=NEW-OCT1)
+[Computer Vision Fundamentals](https://www.udemy.com/course/computer-vision-fundamentals/?couponCode=09EDDCDF88DF63910A9F)
+[The Complete Life Purpose Course – Personal Success for You](https://www.udemy.com/course/the-complete-life-purpose-course-personal-success-for-you/?couponCode=6C299B3CFD25176F4502)
+[Microsoft Power BI DAX from Scratch](https://www.udemy.com/course/microsoft-power-bi-dax-foundation-from-scratch/?couponCode=9D3EE22AD9728E6D5984)
+[Data Analytics with Excel Pivot Tables](https://www.udemy.com/course/data-analytics-with-excel-pivottables-2016/?couponCode=767C35B9174BA7E87AC3)
+[Master in Microsoft Power BI Desktop and Service](https://www.udemy.com/course/power-bi-master-course/?couponCode=421DCACA0598CC2A7E77)
+[Salesforce LWC (Lightning Web Component) with Live Project](https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=74C04E7F8E588BDDFB08)
+[Laravel 10 – Build Multi Vendor Ecommerce Website (2023)](https://www.udemy.com/course/complete-laravel-multi-vendor-ecommerce-project/?couponCode=C06FADD5ED016479DAEC)
+[HTML 5,Python,Django And Flask Framework Full-Stack Course](https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/?couponCode=6B661A4CBD35515BE3B6)
+[CSS, JavaScript,PHP And Python Programming All in One Course](https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/?couponCode=05662217B3A87ACAA40B)
+[Java And PHP Complete Course](https://www.udemy.com/course/java-and-php-complete-course/?couponCode=30CDBF223789A003CDBA)
+[Executive Diploma in Corporate Entrepreneurship](https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=85A480D74AB7B2B33553)
 
