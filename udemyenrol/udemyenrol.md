@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/10/2023
+# Daily Free Udemy Courses - 30/10/2023
 
-[Ultimate Character Design Course with Adobe Illustrator](https://www.udemy.com/course/ultimate-character-design-course/?couponCode=NEW-OCT1)
-[Computer Vision Fundamentals](https://www.udemy.com/course/computer-vision-fundamentals/?couponCode=09EDDCDF88DF63910A9F)
-[The Complete Life Purpose Course – Personal Success for You](https://www.udemy.com/course/the-complete-life-purpose-course-personal-success-for-you/?couponCode=6C299B3CFD25176F4502)
-[Microsoft Power BI DAX from Scratch](https://www.udemy.com/course/microsoft-power-bi-dax-foundation-from-scratch/?couponCode=9D3EE22AD9728E6D5984)
-[Data Analytics with Excel Pivot Tables](https://www.udemy.com/course/data-analytics-with-excel-pivottables-2016/?couponCode=767C35B9174BA7E87AC3)
-[Master in Microsoft Power BI Desktop and Service](https://www.udemy.com/course/power-bi-master-course/?couponCode=421DCACA0598CC2A7E77)
-[Salesforce LWC (Lightning Web Component) with Live Project](https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=74C04E7F8E588BDDFB08)
-[Laravel 10 – Build Multi Vendor Ecommerce Website (2023)](https://www.udemy.com/course/complete-laravel-multi-vendor-ecommerce-project/?couponCode=C06FADD5ED016479DAEC)
-[HTML 5,Python,Django And Flask Framework Full-Stack Course](https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/?couponCode=6B661A4CBD35515BE3B6)
-[CSS, JavaScript,PHP And Python Programming All in One Course](https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/?couponCode=05662217B3A87ACAA40B)
-[Java And PHP Complete Course](https://www.udemy.com/course/java-and-php-complete-course/?couponCode=30CDBF223789A003CDBA)
-[Executive Diploma in Corporate Entrepreneurship](https://www.udemy.com/course/corporate-entrepreneurship/?couponCode=85A480D74AB7B2B33553)
+[Object-Oriented Programming (OOP) – Learn to Code Faster](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=999EFF381694A4339CAB)
+[Learn Coding with Java from Scratch: Essential Training](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=3C8F88537E299FB3752E)
+[Microsoft Excel – Beginner to Advance with Example](https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/?couponCode=OCTTHREE23)
+[Photoshop- Architectural Post Production and Presentation](https://www.udemy.com/course/photoshop-architectural-post-production-and-presentation/?couponCode=E1117F5095605316137E)
+[Bionic Arm Mastery with Arduino](https://www.udemy.com/course/bionic-arm-using-arduino/?couponCode=5FBFAF9AE9538E64F25A)
+[Easy Guitar for Beginners](https://www.udemy.com/course/easy-guitar-for-beginners/?couponCode=ACB7CC73161F403F23E7)
+[Ultimate Crypto & Web3 Course, from DeFi to NFT all-in-one](https://www.udemy.com/course/ultimate-crypto-web3/?couponCode=GOJUONFT_15EL)
+[Linux System Administration (Part-1) (Hindi | हिंदी)](https://www.udemy.com/course/linux-system-adimistration-hindi-1/?couponCode=GETFREE3)
+[Master ACT PREP& SAT PREP MATHS through Animated Videos-2023](https://www.udemy.com/course/act-prep-maths/?couponCode=FESTIVEOFFER)
+[SQL Bootcamp: Learn Enough SQL To Be A Professional [2023]](https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/?couponCode=4178378584CD1E1A795C)
+[Coding Basics: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=B586716DACAE81BA0D9F)
+[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=0C123EF45CB8B9061EFF)
 
