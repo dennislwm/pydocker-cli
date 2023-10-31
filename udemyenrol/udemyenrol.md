@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/10/2023
+# Daily Free Udemy Courses - 31/10/2023
 
-[Object-Oriented Programming (OOP) – Learn to Code Faster](https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=999EFF381694A4339CAB)
-[Learn Coding with Java from Scratch: Essential Training](https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=3C8F88537E299FB3752E)
-[Microsoft Excel – Beginner to Advance with Example](https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/?couponCode=OCTTHREE23)
-[Photoshop- Architectural Post Production and Presentation](https://www.udemy.com/course/photoshop-architectural-post-production-and-presentation/?couponCode=E1117F5095605316137E)
-[Bionic Arm Mastery with Arduino](https://www.udemy.com/course/bionic-arm-using-arduino/?couponCode=5FBFAF9AE9538E64F25A)
-[Easy Guitar for Beginners](https://www.udemy.com/course/easy-guitar-for-beginners/?couponCode=ACB7CC73161F403F23E7)
-[Ultimate Crypto & Web3 Course, from DeFi to NFT all-in-one](https://www.udemy.com/course/ultimate-crypto-web3/?couponCode=GOJUONFT_15EL)
-[Linux System Administration (Part-1) (Hindi | हिंदी)](https://www.udemy.com/course/linux-system-adimistration-hindi-1/?couponCode=GETFREE3)
-[Master ACT PREP& SAT PREP MATHS through Animated Videos-2023](https://www.udemy.com/course/act-prep-maths/?couponCode=FESTIVEOFFER)
-[SQL Bootcamp: Learn Enough SQL To Be A Professional [2023]](https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/?couponCode=4178378584CD1E1A795C)
-[Coding Basics: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=B586716DACAE81BA0D9F)
-[Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD](https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/?couponCode=0C123EF45CB8B9061EFF)
+[BIM -Dynamo Advanced (Level 3)- Project Based](https://www.udemy.com/course/dynamo-advanced-level-3-bim-tool-project-based-k/?couponCode=4730D2F2179A3CD9C0DC)
+[Design Patterns & Antipatterns in JavaScript 2023](https://www.udemy.com/course/mastering-design-patterns-with-javascript/?couponCode=738691C3264BA6CE65BA)
+[Healthy Home Cooking: Recipes and Techniques](https://www.udemy.com/course/healthy-home-cooking-recipes-and-techniques/?couponCode=229683EB0B798A8827FD)
+[cPanel Essentials: Mastering Web Hosting Management](https://www.udemy.com/course/cpanel-essentials-mastering-web-hosting-management/?couponCode=32E960764CC8C08E9AB4)
+[Microsoft Power BI DAX from Scratch](https://www.udemy.com/course/microsoft-power-bi-dax-foundation-from-scratch/?couponCode=F9014EF04F0FF26B308D)
+[Contract Law Guide: How to Write a Service Contract](https://www.udemy.com/course/contract-law-guide-tareq-hajj/?couponCode=131104B4776EA25C27AE)
+[Online Reputation Management Guide: Rank Highly on Google](https://www.udemy.com/course/online-reputation-management-guide-rank-highly-on-google-tareq-hajj/?couponCode=9CB8CF9D3DD237E5A9E3)
+[SEO Guide: SEO Tips to Rank Better on Google](https://www.udemy.com/course/seo-guide-seo-tips-to-rank-better-on-google-tareq-hajj/?couponCode=F210FE23CCD7CC85FD00)
+[Amazon SEO Guide: Building Sales Funnels for Amazon](https://www.udemy.com/course/amazon-seo-guide-building-sales-funnels-for-amazon-tareq-hajj/?couponCode=320D826300593422E92B)
+[Flask Master Class For Beginners To Pro](https://www.udemy.com/course/flask-master-class-for-beginners-to-pro/?couponCode=OCTFREE23)
+[New Methods in Data Visualization with Python](https://www.udemy.com/course/advanced-data-visualization-with-python/?couponCode=6B6DF7461A40137F7A6B)
+[Complete Python and Machine Learning in Financial Analysis](https://www.udemy.com/course/python-and-machine-learning-in-financial-analysis/?couponCode=E7ADAF331A281203CE17)
 
