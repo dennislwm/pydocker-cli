@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/10/2023
+# Daily Free Udemy Courses - 01/11/2023
 
-[BIM -Dynamo Advanced (Level 3)- Project Based](https://www.udemy.com/course/dynamo-advanced-level-3-bim-tool-project-based-k/?couponCode=4730D2F2179A3CD9C0DC)
-[Design Patterns & Antipatterns in JavaScript 2023](https://www.udemy.com/course/mastering-design-patterns-with-javascript/?couponCode=738691C3264BA6CE65BA)
-[Healthy Home Cooking: Recipes and Techniques](https://www.udemy.com/course/healthy-home-cooking-recipes-and-techniques/?couponCode=229683EB0B798A8827FD)
-[cPanel Essentials: Mastering Web Hosting Management](https://www.udemy.com/course/cpanel-essentials-mastering-web-hosting-management/?couponCode=32E960764CC8C08E9AB4)
-[Microsoft Power BI DAX from Scratch](https://www.udemy.com/course/microsoft-power-bi-dax-foundation-from-scratch/?couponCode=F9014EF04F0FF26B308D)
-[Contract Law Guide: How to Write a Service Contract](https://www.udemy.com/course/contract-law-guide-tareq-hajj/?couponCode=131104B4776EA25C27AE)
-[Online Reputation Management Guide: Rank Highly on Google](https://www.udemy.com/course/online-reputation-management-guide-rank-highly-on-google-tareq-hajj/?couponCode=9CB8CF9D3DD237E5A9E3)
-[SEO Guide: SEO Tips to Rank Better on Google](https://www.udemy.com/course/seo-guide-seo-tips-to-rank-better-on-google-tareq-hajj/?couponCode=F210FE23CCD7CC85FD00)
-[Amazon SEO Guide: Building Sales Funnels for Amazon](https://www.udemy.com/course/amazon-seo-guide-building-sales-funnels-for-amazon-tareq-hajj/?couponCode=320D826300593422E92B)
-[Flask Master Class For Beginners To Pro](https://www.udemy.com/course/flask-master-class-for-beginners-to-pro/?couponCode=OCTFREE23)
-[New Methods in Data Visualization with Python](https://www.udemy.com/course/advanced-data-visualization-with-python/?couponCode=6B6DF7461A40137F7A6B)
-[Complete Python and Machine Learning in Financial Analysis](https://www.udemy.com/course/python-and-machine-learning-in-financial-analysis/?couponCode=E7ADAF331A281203CE17)
+[Market Research | Quantitative and Qualitative Methods](https://www.udemy.com/course/market-research-quantitative-and-qualitative-methods/?couponCode=7312362DE3DF00602D56)
+[Ethically Hack the Planet Part 1](https://www.udemy.com/course/ethically-hack-the-planet-part-1/?couponCode=TSHACKER3)
+[Ethically Hack the Planet Part 2](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=TSHACKER3)
+[SOLAR COURSE for Beginners of Solar Energy-](https://www.udemy.com/course/complete-course-for-beginners-for-solar-energy/?couponCode=9067E7DFC2121487FE0C)
+[2023 Python Bootcamp | Learn Python Programming Masterclass](https://www.udemy.com/course/learn-python-programming-with-jafricode-tutorials/?couponCode=B0CADE8729C530D3FE51)
+[Learn Programming in Go (golang): A Rich Guide for Beginners](https://www.udemy.com/course/learn-programming-in-go-golang-a-rich-guide-for-beginners/?couponCode=LEARN-GO-4-FREE)
+[300+ Python Exercises (Simple, Intermediate & Complex)](https://www.udemy.com/course/300-python-exercises-simple-and-complex-with-algorithm/?couponCode=251213D25A97B81AD1B2)
+[Complete Web Designing Course | Web-Development BootCamp](https://www.udemy.com/course/master-classes-for-web-design-course-html-css-js-seo/?couponCode=D9A51111F5077EA1BF62)
+[Beginners Bootcamp | HTML CSS Coding for Website Development](https://www.udemy.com/course/master-in-html-css-coding-for-web-design/?couponCode=280623B4CF384E111BD8)
+[Learn FIVE (5) Computer Programming Languages in ONE COURSE](https://www.udemy.com/course/learn-five-5-computer-programming-languages-in-one-course/?couponCode=FF6DBDFCF3424C1448D4)
+[Complete JS Bootcamp | JavaScript Programming in 7 DAYS](https://www.udemy.com/course/learn-javascript-programming-in-7-days/?couponCode=A3511EEE1520B9A83ACC)
+[07 Days of Code | Python Programming BootCamp](https://www.udemy.com/course/learn-python-in-7-days-with-exercises-and-assignments/?couponCode=0989B8E1998AFAC303BF)
 
