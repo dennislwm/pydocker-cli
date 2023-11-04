@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/11/2023
+# Daily Free Udemy Courses - 04/11/2023
 
-[Poisson Regression with SAS Stat](https://www.udemy.com/course/poisson-regression-with-sas-stat/?couponCode=EDUCBATARGETED1)
-[Azure Devops CI/CD Pipelines with YAML | Practical Demos](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml/?couponCode=DC8BD59D89CE2F0F0482)
-[Machine Learning and Deep Learning Projects in Python](https://www.udemy.com/course/machine-learning-and-deep-learning-projects-in-python/?couponCode=9101745D9DF9CD8A8202)
-[Dart & Flutter | The Complete Flutter Development Course](https://www.udemy.com/course/dart-flutter-the-complete-flutter-development-course/?couponCode=3C88BC0FAAC45A1FE57F,)
-[Master Python Web Scraping & Automation using BS4 & Selenium](https://www.udemy.com/course/master-python-web-scraping-automation-using-bs4-selenium/?couponCode=B9EA2317CAA0F3DB9122,)
-[Logistic Regression using SAS Stat](https://www.udemy.com/course/logistic-regression-using-sas-stat/?couponCode=EDUCBATARGETED1)
-[Predictive Analytics and Modeling with Python](https://www.udemy.com/course/predictive-analytics-and-modeling-with-python/?couponCode=EDUCBATARGETED1)
-[Women Leaders Executive Programme](https://www.udemy.com/course/womens-leadership/?couponCode=3F56ACDCF604901DC9AE)
-[DevOps Interview Questions Preparation Guide – 2023](https://www.udemy.com/course/devops-interview-questions-preparation-guide/?couponCode=58CB5341E4D4E14EDB99)
-[PHP for Beginners 2023: The Complete PHP MySQL PDO Course](https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK91)
-[Midjourney Mastery: Creating Visuals Using AI](https://www.udemy.com/course/midjourney-comprehensive/?couponCode=MM0111)
-[Build A Chat Application With Firebase, Flutter and Provider](https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/?couponCode=9DC9E51AD8D5F266B844,)
+[Solving LeetCode’s Top Interview Questions in Java [2023]](https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/?couponCode=59DF09F8D7AD1743488B)
+[Professional Scrum Master 1 ( PSM 1 – PSM I) 6 Mock Exams](https://www.udemy.com/course/professional-scrum-master-1-psm-1-psm-i-6-mock-exams/?couponCode=BF11BD21A478B8D0F305)
+[Ultimate LinkedIn Ads Course | LinkedIn Advertising in 2023](https://www.udemy.com/course/ultimate-linkedin-ads-course-linkedin-advertising-in-2023/?couponCode=321917E29BE87C880C0B)
+[Applied Cryptography with Python](https://www.udemy.com/course/applied-cryptography-with-python/?couponCode=WALKON)
+[Hack Network PCs](https://www.udemy.com/course/hack-network-pcs/?couponCode=SKILLS4U)
+[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=SKILLS4U)
+[OSINT: Content Discovery](https://www.udemy.com/course/osint-content-discovery/?couponCode=SKILLS4U)
+[Professional Agile Leadership PAL Mock Exams – Total 6 Tests](https://www.udemy.com/course/professional-agile-leadership-pal-mock-exams-total-6-tests/?couponCode=338D7FA941AB48C1BC02)
+[AWS Certified Developer – Associate (DVA-C02) Mock Exams](https://www.udemy.com/course/aws-certified-developer-associate-dva-c02-mock-exams/?couponCode=0CF1587673ADA464CBF3)
+[Professional Scrum Master PSM 1 Mock Exams – Total 6 Tests](https://www.udemy.com/course/professional-scrum-master-psm-1-mock-exams-total-6-tests/?couponCode=F3FF61EC4DD1C1C6E6BA)
+[AWS Certified Cloud Practitioner CLF C01 | 6 Mock Exam 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-6-mock-exam-2023/?couponCode=982A7CEE727ACB0B8718)
+[Salesforce Admin Certification ADM-201 | FULL 6 Mock Tests](https://www.udemy.com/course/salesforce-admin-certification-adm-201-full-6-mock-tests/?couponCode=037C2ADA5A67E5075A36)
 
