@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 05/11/2023
+# Daily Free Udemy Courses - 06/11/2023
 
-[Solving LeetCode’s Top Interview Questions in Java [2023]](https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/?couponCode=59DF09F8D7AD1743488B)
-[Professional Scrum Master 1 ( PSM 1 – PSM I) 6 Mock Exams](https://www.udemy.com/course/professional-scrum-master-1-psm-1-psm-i-6-mock-exams/?couponCode=BF11BD21A478B8D0F305)
-[Ultimate LinkedIn Ads Course | LinkedIn Advertising in 2023](https://www.udemy.com/course/ultimate-linkedin-ads-course-linkedin-advertising-in-2023/?couponCode=321917E29BE87C880C0B)
-[Applied Cryptography with Python](https://www.udemy.com/course/applied-cryptography-with-python/?couponCode=WALKON)
-[Hack Network PCs](https://www.udemy.com/course/hack-network-pcs/?couponCode=SKILLS4U)
-[Ethical Hacking: Hacker Methodology](https://www.udemy.com/course/ethical-hacking-hacker-methodology/?couponCode=SKILLS4U)
-[OSINT: Content Discovery](https://www.udemy.com/course/osint-content-discovery/?couponCode=SKILLS4U)
-[Professional Agile Leadership PAL Mock Exams – Total 6 Tests](https://www.udemy.com/course/professional-agile-leadership-pal-mock-exams-total-6-tests/?couponCode=338D7FA941AB48C1BC02)
-[AWS Certified Developer – Associate (DVA-C02) Mock Exams](https://www.udemy.com/course/aws-certified-developer-associate-dva-c02-mock-exams/?couponCode=0CF1587673ADA464CBF3)
-[Professional Scrum Master PSM 1 Mock Exams – Total 6 Tests](https://www.udemy.com/course/professional-scrum-master-psm-1-mock-exams-total-6-tests/?couponCode=F3FF61EC4DD1C1C6E6BA)
-[AWS Certified Cloud Practitioner CLF C01 | 6 Mock Exam 2023](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-6-mock-exam-2023/?couponCode=982A7CEE727ACB0B8718)
-[Salesforce Admin Certification ADM-201 | FULL 6 Mock Tests](https://www.udemy.com/course/salesforce-admin-certification-adm-201-full-6-mock-tests/?couponCode=037C2ADA5A67E5075A36)
+[Salesforce Development Lifecycle and Deployment Designer 101](https://www.udemy.com/course/salesforce-development-lifecycle-and-deployment-designer-101/?couponCode=B94D30410FD7A158D5DF)
+[Serial Entrepreneur, Solopreneur & Green Entrepreneur 2.0](https://www.udemy.com/course/serial-entrepreneur-solopreneur-green-entrepreneur/?couponCode=240B999B31B3EBBDA878)
+[Arteterapia: Desarrollo personal y autocuración con el arte](https://www.udemy.com/course/arteterapia-desarrollo-personal-y-autocuracion-con-el-arte/?couponCode=ARTETERAPIAOCT)
+[Certified Internal Auditor (CIA) Essential Training](https://www.udemy.com/course/certified-internal-auditor-cia-essential-training/?couponCode=FREECIA1)
+[CSS, Bootstrap ,JavaScript, Web Development Course](https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/?couponCode=1A62AD545750B1197948)
+[The Ultimate Day Trading Strategy for Forex Trading](https://www.udemy.com/course/the-ultimate-day-trading-strategy-forex-trading-course/?couponCode=UD4NOV)
+[The Complete Introduction to C++ Programming](https://www.udemy.com/course/the-complete-introduction-to-c-programming/?couponCode=BF94A1F6B4AA8E5F8071)
+[Java for Beginners – Learn all the Basics of Java](https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=9CEB1717A205242A069D)
+[HVAC Ductwork Quantity Take off for Quantity Surveyors](https://www.udemy.com/course/hvac-duct-quantity-take-off-for-quantity-surveyors/?couponCode=HVAC4UNOV23)
+[ISACA COBIT Foundation 2019 – Full Practice Mock Exams](https://www.udemy.com/course/isaca-cobit-foundation-2019-full-practice-mock-exams/?couponCode=1D2E3677B0CF996E1563)
+[AWS Certified Cloud Practitioner ( CLF-C01 | CLF C01) Tests](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-clf-c01-tests/?couponCode=4377176A06AC57A87487)
+[Unleash Your Creative Mind](https://www.udemy.com/course/unleash-your-creative-mind-and-transform-your-world/?couponCode=NOV2023FREE1)
 
