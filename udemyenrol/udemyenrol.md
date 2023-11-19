@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/11/2023
+# Daily Free Udemy Courses - 19/11/2023
 
-[Introduction to the language of tax](https://www.udemy.com/course/introduction-to-the-language-of-tax/?couponCode=7E2DA922F9F440F033E1)
-[Data Science kompakt](https://www.udemy.com/course/data-science-kompakt/?couponCode=FREE-NOVEMBER2)
-[Options Trading for Beginners – Intro Session](https://www.udemy.com/course/options-trading-for-beginners-intro-session/?couponCode=FREE_11_15_23)
-[Shopify Guide: Start your own clothing brand with Shopify](https://www.udemy.com/course/start-your-own-clothing-brand-with-shopify/?couponCode=537D9888118CD048229F)
-[PSPO 1 / PSPO I – Product Owner Mock Exams 2023](https://www.udemy.com/course/pspo-1-pspo-i-product-owner-mock-exams-2023/?couponCode=24DDAF7DF6A0036D660E)
-[BIM- Steel Structure Project- From Zero to Project Delivery](https://www.udemy.com/course/bim-steel-structure-project-from-zero-to-hero/?couponCode=93D6C9AE48411531E81B)
-[Active Directory Administration for Helpdesk Technicians](https://www.udemy.com/course/active-directory-administration-for-helpdesk-technicians/?couponCode=BFRI2023)
-[Windows Command Line (cmd) and Batch Script Management](https://www.udemy.com/course/windows-command-line-cmd-batch-script-management/?couponCode=BFRI2023)
-[Computer Networking Basics for Desktop Support Technicians](https://www.udemy.com/course/computer-networking-basics-for-desktop-support-technicians/?couponCode=BFRI2023)
-[CIPT Course 101 : Certified Information Privacy Technologist](https://www.udemy.com/course/cipt-course-101-certified-information-privacy-technologist/?couponCode=DBBB41309F2C206DE774)
-[Executive Assistant Professional Certification (EAPC)](https://www.udemy.com/course/executive-assistant/?couponCode=BBDC88384BE5F33183CB)
-[Machine Learning in R & Predictive Models | 3 Courses in 1](https://www.udemy.com/course/machine-learning-predictive-models-in-r-theory-practice/?couponCode=48A92E22F7AC8D2AF0AC)
+[Mastering Active Directory: Manage and Optimize The Network](https://www.udemy.com/course/mastering-active-directory-manage-and-optimize-the-network/?couponCode=B557F6B265027128C556)
+[CGRC 101 : Certified in Governance, Risk and Compliance](https://www.udemy.com/course/cgrc-101-certified-in-governance-risk-and-compliance/?couponCode=08EA872E3C9CF1458D27)
+[Customizable Project Risk Management Templates](https://www.udemy.com/course/customizable-project-risk-management-templates/?couponCode=PSTEMPLATES01)
+[Certification in Event Management](https://www.udemy.com/course/certification-in-event-management/?couponCode=35F81ACE97EF8CC32408)
+[Coding Basics: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=2DAA0CB3E829A67881F6)
+[The AI Toolkit: Unlocking Artificial Intelligence](https://www.udemy.com/course/the-ai-toolkit-unlocking-artificial-intelligence/?couponCode=B7FEABB8F7B4100F0D32)
+[JavaScript Certification Exam Preparation: 6 Practice Tests](https://www.udemy.com/course/javascript-certification-exam-preparation-6-practice-tests/?couponCode=ED3FB5ED9D07806739CA)
+[6 Practice Tests for any Python Certification](https://www.udemy.com/course/6-practice-tests-for-any-python-certifications/?couponCode=154CD9A24AAEDA7DFDDC)
+[AI applied for business](https://www.udemy.com/course/ai-applied-for-business/?couponCode=11C54868C5A155FECD1D)
+[Mini MBA in Entrepreneurship](https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=56C4DE6C27A02731A2FE)
+[Adeus Windows! Curso Completo de Linux Desktop —Iniciantes—](https://www.udemy.com/course/adeus-windows-curso-de-linux-desktop-completo/?couponCode=411223C42DF515D58929)
+[Sequence Alignment Made Simple for Research: A Quick Guide](https://www.udemy.com/course/sequence-alignment-made-simple-for-research-a-quick-guide/?couponCode=9EA38588DBA3E195C61C)
 
