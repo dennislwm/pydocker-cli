@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 19/11/2023
+# Daily Free Udemy Courses - 20/11/2023
 
-[Mastering Active Directory: Manage and Optimize The Network](https://www.udemy.com/course/mastering-active-directory-manage-and-optimize-the-network/?couponCode=B557F6B265027128C556)
-[CGRC 101 : Certified in Governance, Risk and Compliance](https://www.udemy.com/course/cgrc-101-certified-in-governance-risk-and-compliance/?couponCode=08EA872E3C9CF1458D27)
-[Customizable Project Risk Management Templates](https://www.udemy.com/course/customizable-project-risk-management-templates/?couponCode=PSTEMPLATES01)
-[Certification in Event Management](https://www.udemy.com/course/certification-in-event-management/?couponCode=35F81ACE97EF8CC32408)
-[Coding Basics: Gentle Intro to Computer Programming](https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=2DAA0CB3E829A67881F6)
-[The AI Toolkit: Unlocking Artificial Intelligence](https://www.udemy.com/course/the-ai-toolkit-unlocking-artificial-intelligence/?couponCode=B7FEABB8F7B4100F0D32)
-[JavaScript Certification Exam Preparation: 6 Practice Tests](https://www.udemy.com/course/javascript-certification-exam-preparation-6-practice-tests/?couponCode=ED3FB5ED9D07806739CA)
-[6 Practice Tests for any Python Certification](https://www.udemy.com/course/6-practice-tests-for-any-python-certifications/?couponCode=154CD9A24AAEDA7DFDDC)
-[AI applied for business](https://www.udemy.com/course/ai-applied-for-business/?couponCode=11C54868C5A155FECD1D)
-[Mini MBA in Entrepreneurship](https://www.udemy.com/course/minimba-in-business-management-and-entrepreneurship/?couponCode=56C4DE6C27A02731A2FE)
-[Adeus Windows! Curso Completo de Linux Desktop —Iniciantes—](https://www.udemy.com/course/adeus-windows-curso-de-linux-desktop-completo/?couponCode=411223C42DF515D58929)
-[Sequence Alignment Made Simple for Research: A Quick Guide](https://www.udemy.com/course/sequence-alignment-made-simple-for-research-a-quick-guide/?couponCode=9EA38588DBA3E195C61C)
+[Talent Acquisition: HR Planning, Recruiting and Onboarding](https://www.udemy.com/course/talent-acquisition-hr-planning-recruiting-and-onboarding/?couponCode=9AFBB1F7C3699ED262CC)
+[Microsoft Excel Fundamentals: A Beginners Guide](https://www.udemy.com/course/microsoft-excel-fundamentals-a-beginners-guide/?couponCode=727E22770179A79885C5)
+[Practical Password cracking – Office files | Ethical Hacking](https://www.udemy.com/course/office-password-cracking/?couponCode=F872F91A3ABC18ED0EAC)
+[Fitness and Weight Loss: The Best Adventure in Exercise”](https://www.udemy.com/course/fitness-and-weight-loss-the-best-adventure-in-exercise/?couponCode=E9EAE6C346913E444CF8)
+[Master Adobe Illustrator: Design Awesome Logos and Graphics](https://www.udemy.com/course/master-adobe-illustrator-design-awesome-logos-and-graphics/?couponCode=81F8829A998124060A7D)
+[Selling on Amazon Complete Course: FBA, FBM, Sponsored Ads](https://www.udemy.com/course/selling-on-amazon-complete-course-fba-fbm-sponsored-ads/?couponCode=27F25103EDA5BF3C5484)
+[Shopify eCommerce Store Masterclass – Start a Business!](https://www.udemy.com/course/shopify-ecommerce-store-masterclass/?couponCode=A916FA89922A110B0A15)
+[Complete Guide to eBay Selling as a Business](https://www.udemy.com/course/complete-guide-to-ebay-selling-as-a-business/?couponCode=69065D28E58370A13FA8)
+[Job Interview Masterclass: Acing The Job Interview Course!](https://www.udemy.com/course/job-interview-masterclass/?couponCode=DBE059F57219E63080AB)
+[YouTube As Your Business (Automation, Step-by-Step)](https://www.udemy.com/course/youtube-as-a-business-earn-no-filming-no-editing/?couponCode=FREEYOUTUBE)
+[The Complete ChatGPT Guide From Zero to Hero – 2023](https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=GPTNOV19)
+[[2023] AWS Certified Cloud Practitioner (CLF-C01) – Exams](https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01-practice-exams-i/?couponCode=B2BDEC779905247BD5C0)
 
