@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/11/2023
+# Daily Free Udemy Courses - 24/11/2023
 
-[Women Leaders Executive Programme](https://www.udemy.com/course/womens-leadership/?couponCode=3242AD73293C83B02F54)
-[Ultimate Jenkins Certified Engineer Practice Exam 2023 | JCE](https://www.udemy.com/course/jenkins-certified-engineer-practice-exam-2023/?couponCode=THANKSGIVING-AWS)
-[Artificial Intelligence MCQ [2023]](https://www.udemy.com/course/artificial-intelligence-mcq/?couponCode=59285A4E53F1F1EC7F23)
-[Executive Diploma in Sales and Service Management](https://www.udemy.com/course/executive-diploma-in-sales-and-service-management/?couponCode=76AE4FC1D1B5D28D7824)
-[Master Visual Studio Code 2023: Your Complete VS Code Guide](https://www.udemy.com/course/master-visual-studio-code-your-complete-vs-code-guide/?couponCode=FC48080818A3E0F07E16)
-[Linked List MCQ [2023]](https://www.udemy.com/course/linked-list-mcq/?couponCode=D20EA291E117968177D5)
-[Microneedling for hairloss with Stem Cells](https://www.udemy.com/course/microneedling-jacina/?couponCode=BLACKFRIDAY)
-[2023 C++ Programming : Beginners to Advanced for Developers](https://www.udemy.com/course/cpp-programming-beginners-to-advanced-for-developers/?couponCode=4A2A59E7F4A5391E3527)
-[How To Love Your Job – Help Yourself and Others](https://www.udemy.com/course/how-to-love-your-job-and-make-an-impact/?couponCode=8B34121A9E8B522FB4DF)
-[Google Cloud (GCP) MasterClass 2023 : GCP for Beginner – Pro](https://www.udemy.com/course/google-cloud-specialization/?couponCode=21NOV2023)
-[The Complete Fire Fighting with AutoCAD,Elite,Excel & NFPA](https://www.udemy.com/course/the-complete-fire-fighting-with-autocadeliteexcel-nfpa/?couponCode=36E0C6D90F9B356C0352)
-[Process Improvement Plan](https://www.udemy.com/course/process-improvement-plan/?couponCode=1B909B81F55B4FA66348)
+[Twinmotion 2023: Rendering, Lighting and Animation](https://www.udemy.com/course/twinmotion-2023-rendering-lighting-and-animation/?couponCode=4744D768CAB715C273F9)
+[Clinical Trial Foundations [2023]](https://www.udemy.com/course/clinical-trial-foundations/?couponCode=COURSE1NOV23)
+[Modernizing Clinical Trials: Framework, Technology, & Beyond](https://www.udemy.com/course/modernizing-clinical-trials-framework-technology-beyond/?couponCode=COURSE2NOV23)
+[Open-Source Intelligence (OSINT)](https://www.udemy.com/course/open-source-intelligence-osint/?couponCode=FIBONACCI_DAY)
+[Excel files with Python](https://www.udemy.com/course/excel-files-with-python/?couponCode=FIBONACCI_DAY)
+[Create Space Invaders with Python PyGame](https://www.udemy.com/course/create-space-invaders-with-python-pygame/?couponCode=FIBONACCI_DAY)
+[How To Build Instagram Clone Using Ruby on Rails 7](https://www.udemy.com/course/building-instagram-from-scratch-using-ruby-on-rails-7/?couponCode=BLACKFRIDAY100)
+[Design flat vector icons with shapes using Adobe illustrator](https://www.udemy.com/course/design-flat-vector-icons-with-shapes-using-adobe-illustrator/?couponCode=DC6538F6A7D920DE9540)
+[Build a WordPress Blog Website Step by Step](https://www.udemy.com/course/build-a-wordpress-blog-step-by-step/?couponCode=FEE5241BA4977846B8EC)
+[PHP with Laravel 2023: Build CMS Blog with Admin Panel](https://www.udemy.com/course/php-with-laravel-2023-build-cms-blog-with-admin-panel/?couponCode=LARABLOG33)
+[Risk Measurement and Risk Management Effective Techniques](https://www.udemy.com/course/risk-measurement-and-risk-management-effective-techniques/?couponCode=RISKM1FREE)
+[2023 Data Visualization in Tableau & Python (2 Courses in 1)](https://www.udemy.com/course/2023-data-visualization-in-tableau-python-2-courses-in-1/?couponCode=80CB978BE94A01A3B85E)
 
