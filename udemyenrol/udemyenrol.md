@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 24/11/2023
+# Daily Free Udemy Courses - 25/11/2023
 
-[Twinmotion 2023: Rendering, Lighting and Animation](https://www.udemy.com/course/twinmotion-2023-rendering-lighting-and-animation/?couponCode=4744D768CAB715C273F9)
-[Clinical Trial Foundations [2023]](https://www.udemy.com/course/clinical-trial-foundations/?couponCode=COURSE1NOV23)
-[Modernizing Clinical Trials: Framework, Technology, & Beyond](https://www.udemy.com/course/modernizing-clinical-trials-framework-technology-beyond/?couponCode=COURSE2NOV23)
-[Open-Source Intelligence (OSINT)](https://www.udemy.com/course/open-source-intelligence-osint/?couponCode=FIBONACCI_DAY)
-[Excel files with Python](https://www.udemy.com/course/excel-files-with-python/?couponCode=FIBONACCI_DAY)
-[Create Space Invaders with Python PyGame](https://www.udemy.com/course/create-space-invaders-with-python-pygame/?couponCode=FIBONACCI_DAY)
-[How To Build Instagram Clone Using Ruby on Rails 7](https://www.udemy.com/course/building-instagram-from-scratch-using-ruby-on-rails-7/?couponCode=BLACKFRIDAY100)
-[Design flat vector icons with shapes using Adobe illustrator](https://www.udemy.com/course/design-flat-vector-icons-with-shapes-using-adobe-illustrator/?couponCode=DC6538F6A7D920DE9540)
-[Build a WordPress Blog Website Step by Step](https://www.udemy.com/course/build-a-wordpress-blog-step-by-step/?couponCode=FEE5241BA4977846B8EC)
-[PHP with Laravel 2023: Build CMS Blog with Admin Panel](https://www.udemy.com/course/php-with-laravel-2023-build-cms-blog-with-admin-panel/?couponCode=LARABLOG33)
-[Risk Measurement and Risk Management Effective Techniques](https://www.udemy.com/course/risk-measurement-and-risk-management-effective-techniques/?couponCode=RISKM1FREE)
-[2023 Data Visualization in Tableau & Python (2 Courses in 1)](https://www.udemy.com/course/2023-data-visualization-in-tableau-python-2-courses-in-1/?couponCode=80CB978BE94A01A3B85E)
+[AI Impact: Enhancing Your Daily Life](https://www.udemy.com/course/ai-impact-enhancing-your-daily-life/?couponCode=775C154F3EFBA7314930)
+[Fitness and Weight Loss: The Best Adventure in Exercise”](https://www.udemy.com/course/fitness-and-weight-loss-the-best-adventure-in-exercise/?couponCode=805676AF12507252F7F4)
+[Professional Scrum Master PSM 2 / PSM2 Mock Exams](https://www.udemy.com/course/professional-scrum-master-psm-2-mock-exams-total-6-tests/?couponCode=0EA312ED32BD5FCA8F71)
+[Binary Options Trading Ninja: The Bandit Strategy](https://www.udemy.com/course/binary-bandit/?couponCode=2NOV23)
+[Whatsapp stock market bot with Python, Twilio & MarketStack](https://www.udemy.com/course/whatsapp-stock-market-bot-with-python-twilio-marketstack/?couponCode=LEARN_NOVEMBER)
+[WordPress & AI: Comprehensive Guide to Blogging for Money](https://www.udemy.com/course/plug-play-profits-ai-for-immediate-online-income/?couponCode=BLACKFRIDAYSALE)
+[Excel Essentials: Unlocking Mastery with Practical Exercises](https://www.udemy.com/course/excel-essentials-unlocking-mastery-with-practical-exercises/?couponCode=59BBE07FAE132EDABC80)
+[Introduction to Calculus 1: Differentiation](https://www.udemy.com/course/calculus-1-differentiation/?couponCode=BLACKFRIDAY2023)
+[Introduction to Electrostatics: Electric Force and Field](https://www.udemy.com/course/introduction-to-electrostatics-electric-force-and-field/?couponCode=BLACKFRIDAY2023)
+[Introduction to Mechanics: Kinematics](https://www.udemy.com/course/introduction-to-mechanics-kinematics/?couponCode=BLACKFRIDAY2023)
+[Salesforce Administration](https://www.udemy.com/course/salesforce-administration-c/?couponCode=1C9896EB57C4D91125F2)
+[Performing Sentiment Analysis on Customer Reviews & Tweets](https://www.udemy.com/course/performing-sentiment-analysis-on-customer-reviews-tweets/?couponCode=9434AD44056126B8AB26)
 
