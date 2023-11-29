@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 28/11/2023
+# Daily Free Udemy Courses - 29/11/2023
 
-[Currency Management for Small Businesses & Corporates](https://www.udemy.com/course/currency-management-for-small-businesses-corporates/?couponCode=CURRENCYMGT3)
-[Practice Test for Six Sigma Green Belt Certification](https://www.udemy.com/course/practice-test-for-six-sigma-green-belt/?couponCode=1A99420CB9DD822C2C5C)
-[Growth Hacking Professional Certification (GHPC)](https://www.udemy.com/course/growth-hacking-professional-certification/?couponCode=8FD309749B2EF563CA85)
-[Be Professional With MetaSploit Framework Course MSF A To Z](https://www.udemy.com/course/be-professional-with-metasploit-framework-course-msf-a-to-z/?couponCode=RATEHAPPYBLACK)
-[NSE7 SD-WAN 7.0 Practice Exam](https://www.udemy.com/course/nse7-sd-wan-70/?couponCode=078085B3D07AFE740CA1)
-[Mastering Cold Email: 10 Secrets for Small Businesses](https://www.udemy.com/course/10-habits-of-highly-successful-cold-email-prospectors/?couponCode=A75A233F87D708E1D08B)
-[Flutter & Dart Development Course – 2024 [Arabic]](https://www.udemy.com/course/flutter-dart-development-course-2024-arabic/?couponCode=27NOV11)
-[Data Science: Python for Data Analysis Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=C6CEE2922CFD665A72BC)
-[The SQL Programming Essentials Immersive Training](https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/?couponCode=65862D0F825E1C8550C1)
-[Advanced Foundations of Python Programming](https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=5FA26BEFDB00A04060F6)
-[Applied Python: Building Projects with Python Programming](https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=70DE255280D17D2B2597)
-[Data Science: R Programming Complete Diploma 2023](https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=9FDE44C2659508048738)
+[Fast track French for beginners](https://www.udemy.com/course/fast-track-french-for-beginners/?couponCode=283174E21D8612909BDB)
+[Mastering Google Docs – Complete Google Docs Course](https://www.udemy.com/course/mastering-google-docs-complete-google-docs-course/?couponCode=99DC6BFBEAB8347A0DE1)
+[PHP Laravel 2023: Build Hotel Booking Management System](https://www.udemy.com/course/php-laravel-2023-build-hotel-booking-management-system/?couponCode=LARAVELHOTEL33)
+[Learning Business Contracts for Beginners](https://www.udemy.com/course/winning-with-contracts/?couponCode=FREEACCESS)
+[C-level management: analyzing a business for maximal growth](https://www.udemy.com/course/c-level-management-analyzing-a-business-for-maximal-growth/?couponCode=CCF039F95C0CAC909277)
+[The Complete Google Forms Course – Mastering Google Forms](https://www.udemy.com/course/the-complete-google-forms-course-mastering-google-forms/?couponCode=0ABABFA8F3AAAB4F3544)
+[Essential Adobe Lightroom Course for Photo Editing](https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=2AB530FE2F370C15A53E)
+[Executive Diploma in Human Resources Management](https://www.udemy.com/course/executive-diploma-in-human-resources-management/?couponCode=42A3EB12CB1257AF0E08)
+[AWS Certified Cloud Practitioner Foundational 101 Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-foundational-101-course/?couponCode=319DB4C54073ED7B96F0)
+[Restful API Laravel Restaurant Menu App](https://www.udemy.com/course/restful-api-laravel-restaurant-menu-app/?couponCode=FREEPALESTINE)
+[Executive Diploma in Sales and Service Management](https://www.udemy.com/course/executive-diploma-in-sales-and-service-management/?couponCode=05C9F16C34262D7DA925)
+[Primavera P6 Project Planning and Scheduling Masterclass](https://www.udemy.com/course/primavera-p6-learning-foundations/?couponCode=B5643F558F0079D22A2F)
 
