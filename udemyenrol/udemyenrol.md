@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/12/2023
+# Daily Free Udemy Courses - 02/12/2023
 
-[SOLAR COURSE for Beginners of Solar Energy-](https://www.udemy.com/course/complete-course-for-beginners-for-solar-energy/?couponCode=8394D644C3D04BF313DC)
-[Salesforce CRM : Guide Complet pour une Performance Optimale](https://www.udemy.com/course/salesforce-crm-guide-complet-pour-une-performance-optimale/?couponCode=9727B67E450D2B7D763A)
-[Python Training for Beginners – Python Programming in Hindi](https://www.udemy.com/course/easy-python-programming-in-hindi/?couponCode=B957C48731A9BD61F1F5)
-[REST Assured API Testing (Automation) – REST Assured Java](https://www.udemy.com/course/rest-assured-api-testing-automation-rest-assured-java/?couponCode=EDUCBA12)
-[practical clinical chemistry from scratch](https://www.udemy.com/course/practical-clinical-chemistry-from-scratch/?couponCode=3861EF9AA9684BFB9246)
-[poultry farming nutrition and clinical nutrition stepby step](https://www.udemy.com/course/poultry-farming-nutrition-and-clinical-nutrition-stepby-step/?couponCode=F925E7A7E2FA3E5F0DF1)
-[Healing Trauma Through the Body](https://www.udemy.com/course/healing-trauma-through-the-body/?couponCode=6A726EB88449CBF9F505)
-[Product Design in AI | Artificial Intelligence and Users](https://www.udemy.com/course/product-design-in-ai/?couponCode=VER11UX2)
-[XML and XSD: a complete W3C-content based course (+10 hours)](https://www.udemy.com/course/xml-and-xsd-a-complete-w3c-content-based-course/?couponCode=FREE-NOV-2023-C)
-[Practice Exams | AWS Certified Solutions Architect Associate](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate-practicehub/?couponCode=FREECOUPON)
-[AWS Certified Data Analytics Specialty | Practice Exams 2023](https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-2023-tamer-ben/?couponCode=FREECOUPON)
-[Python PCEP-30-02 Certification Exam: Practice Exams 2023](https://www.udemy.com/course/python-pcep-certification-exam-practice-tests-2023/?couponCode=FREECOUPON)
+[Angular MCQ [2023]](https://www.udemy.com/course/angular-mcq/?couponCode=A3DBC39B09B89A9C055B)
+[Complete Ethical Hacking Masterclass: Go from Zero to Hero](https://www.udemy.com/course/top-course/?couponCode=56C4880EA44ECD77FBBA)
+[Intro to ChatGPT: The Essential Skills for Getting Started](https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/?couponCode=5DBCFB3E99152C0DBBD8)
+[CISSP – Certified Information Systems Security Professional](https://www.udemy.com/course/cissp-certified-information-systems-security-professional-exam-prep/?couponCode=5E507C248A24996D5B5D)
+[Fintech 101 Blockchain & Crypto](https://www.udemy.com/course/fintech-101-blockchain-crypto/?couponCode=FREEBLOCKCHAIN)
+[Computer networks for physical security systems installers](https://www.udemy.com/course/computer-networks-for-physical-security-systems-installers/?couponCode=6CE0E370980E1B8685DA)
+[Flutter REST Movie App: Master Flutter REST API Development](https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=CE444A62C5A315D15A9C,)
+[Project Management with ChatGPT: Complete Guide](https://www.udemy.com/course/project-management-with-chatgpt-learnit/?couponCode=61E3776E6C266F7EC4F7)
+[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=FF8132C540152CCE6536)
+[Quantity Surveyor’s Guide for Pre-Contracts Management](https://www.udemy.com/course/quantity-surveyors-guide-for-pre-contracts-management/?couponCode=QSPRECONTRACTSDEC23)
+[Computer Networking Masterclass: Interview Success](https://www.udemy.com/course/computer-networking-masterclass-interview-success/?couponCode=D3041D21A923EA0241B9)
+[Figma to WordPress: Learn to Design and Build Website](https://www.udemy.com/course/the-complete-figma-course-design-portfolio-website/?couponCode=9AD7BAD910828FD571A6)
 
