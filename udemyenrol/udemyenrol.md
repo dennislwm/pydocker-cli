@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/12/2023
+# Daily Free Udemy Courses - 03/12/2023
 
-[Angular MCQ [2023]](https://www.udemy.com/course/angular-mcq/?couponCode=A3DBC39B09B89A9C055B)
-[Complete Ethical Hacking Masterclass: Go from Zero to Hero](https://www.udemy.com/course/top-course/?couponCode=56C4880EA44ECD77FBBA)
-[Intro to ChatGPT: The Essential Skills for Getting Started](https://www.udemy.com/course/intro-to-chatgpt-the-essential-skills-for-getting-started/?couponCode=5DBCFB3E99152C0DBBD8)
-[CISSP – Certified Information Systems Security Professional](https://www.udemy.com/course/cissp-certified-information-systems-security-professional-exam-prep/?couponCode=5E507C248A24996D5B5D)
-[Fintech 101 Blockchain & Crypto](https://www.udemy.com/course/fintech-101-blockchain-crypto/?couponCode=FREEBLOCKCHAIN)
-[Computer networks for physical security systems installers](https://www.udemy.com/course/computer-networks-for-physical-security-systems-installers/?couponCode=6CE0E370980E1B8685DA)
-[Flutter REST Movie App: Master Flutter REST API Development](https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=CE444A62C5A315D15A9C,)
-[Project Management with ChatGPT: Complete Guide](https://www.udemy.com/course/project-management-with-chatgpt-learnit/?couponCode=61E3776E6C266F7EC4F7)
-[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=FF8132C540152CCE6536)
-[Quantity Surveyor’s Guide for Pre-Contracts Management](https://www.udemy.com/course/quantity-surveyors-guide-for-pre-contracts-management/?couponCode=QSPRECONTRACTSDEC23)
-[Computer Networking Masterclass: Interview Success](https://www.udemy.com/course/computer-networking-masterclass-interview-success/?couponCode=D3041D21A923EA0241B9)
-[Figma to WordPress: Learn to Design and Build Website](https://www.udemy.com/course/the-complete-figma-course-design-portfolio-website/?couponCode=9AD7BAD910828FD571A6)
+[Android Projects Course Build 3 Applications from Scratch](https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/?couponCode=D6CD6A2819CA5D8243D7)
+[Learn JavaScript by Creating 10 Practical Projects](https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/?couponCode=8ED31640F2E0CF17F2C6)
+[Mastering JavaScript by Building 10 Projects from Scratch](https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=5601608EC54955AC9D01)
+[Android App’s Development Masterclass – Build 2 Apps – Java](https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=809EC4D9BFA3C9908E1C)
+[Master Android Application Build 3 Applications from Scratch](https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=C1C7586FEE6CABB4720F)
+[Android Course Build 3 Applications from Scratch with Java](https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=A69739E02ED0CF61C2EA)
+[Master Android by Building 3 Applications in Kotlin Language](https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=6838812A1A7E02B888F2)
+[Practical HTML, CSS, JS: 10 Real-World Projects for Practice](https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=58049EC53FFA5D309B06)
+[JavaScript 10 Projects in 10 Days Course for Beginners](https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners/?couponCode=582F7ED34A19D7CD03AA)
+[Android Apps Development in Hindi and Build 10 Applications](https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/?couponCode=68E239659C39E6CAA343)
+[Android Very Basic App Development Course with Java in Hindi](https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=D8465ACB213068F3F9B5)
+[Ethical Hacking: Introduction to Exploits](https://www.udemy.com/course/ethical-hacking-introduction-to-exploits/?couponCode=FREEURMIND)
 
