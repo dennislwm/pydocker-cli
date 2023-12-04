@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 03/12/2023
+# Daily Free Udemy Courses - 04/12/2023
 
-[Android Projects Course Build 3 Applications from Scratch](https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/?couponCode=D6CD6A2819CA5D8243D7)
-[Learn JavaScript by Creating 10 Practical Projects](https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/?couponCode=8ED31640F2E0CF17F2C6)
-[Mastering JavaScript by Building 10 Projects from Scratch](https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/?couponCode=5601608EC54955AC9D01)
-[Android App’s Development Masterclass – Build 2 Apps – Java](https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/?couponCode=809EC4D9BFA3C9908E1C)
-[Master Android Application Build 3 Applications from Scratch](https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=C1C7586FEE6CABB4720F)
-[Android Course Build 3 Applications from Scratch with Java](https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=A69739E02ED0CF61C2EA)
-[Master Android by Building 3 Applications in Kotlin Language](https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=6838812A1A7E02B888F2)
-[Practical HTML, CSS, JS: 10 Real-World Projects for Practice](https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=58049EC53FFA5D309B06)
-[JavaScript 10 Projects in 10 Days Course for Beginners](https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners/?couponCode=582F7ED34A19D7CD03AA)
-[Android Apps Development in Hindi and Build 10 Applications](https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/?couponCode=68E239659C39E6CAA343)
-[Android Very Basic App Development Course with Java in Hindi](https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=D8465ACB213068F3F9B5)
-[Ethical Hacking: Introduction to Exploits](https://www.udemy.com/course/ethical-hacking-introduction-to-exploits/?couponCode=FREEURMIND)
+[AZ-801 Configuring Windows Server Hybrid Advanced Services](https://www.udemy.com/course/az-801-configuring-windows-server-hybrid-advanced-services-t/?couponCode=BD7FE453326FBB3FCD41)
+[The Complete ChatGPT Guide From Zero to Hero – 2023](https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=00F17BB68E0E7C4E2015)
+[Fiverr Masterclass • How to DOUBLE Your Orders (In 2 Hours!)](https://www.udemy.com/course/how-to-sell-your-virtual-assistant-job-skills-on-fiverr/?couponCode=1F11A2A14EF82A4FFF51)
+[Public Relations for Startups 2023 | Dekker Fraser, MBA](https://www.udemy.com/course/public-relations-startups/?couponCode=0655F1CB871A9B969D8D)
+[Learn How To Use Imitation and Shadow Technique](https://www.udemy.com/course/how-to-use-imitation-and-shadow-technique/?couponCode=ACCENT)
+[Chemistry Basics: Mastering the Chemistry Fundamentals](https://www.udemy.com/course/chemistry-basics-mastering-the-chemistry-fundamentals/?couponCode=B75C3C50533C987C0EB7)
+[400+ JavaScript Interview Questions Practice Test [2023]](https://www.udemy.com/course/javascript-interview-questions/?couponCode=E2EA5B6A6B1811466FB6)
+[300-425 ENWLSD 300-430 ENWLSI & 300-435 ENAUTO Practice Test](https://www.udemy.com/course/300-425-enwlsd-300-430-enwlsi-300-435-enauto-practice-test/?couponCode=8FF043A1D7BF37A2D256)
+[Python Course:Learn Python By building Games 2024 in Python.](https://www.udemy.com/course/python-games-development/?couponCode=32D23ED41EC1E3DFDF7D)
+[400+ PHP Interview Questions Practice Test [2023]](https://www.udemy.com/course/php-interview-question/?couponCode=CBBE7140BAACC3E4C379)
+[C++ Certification Preparation: 4 Practice Tests](https://www.udemy.com/course/c-certification-preparation-4-practice-tests/?couponCode=D045E353051F6866CDBC)
+[Digital Marketing Course: SEO, Ads, ChatGPT & Social Media](https://www.udemy.com/course/digital-marketing-2021/?couponCode=LUCKYWATERRABBIT10)
 
