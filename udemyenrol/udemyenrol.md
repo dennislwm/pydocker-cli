@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/12/2023
+# Daily Free Udemy Courses - 08/12/2023
 
-[Small Business Digital Transformation Accelerator – Premium](https://www.udemy.com/course/small-business-digital-transformation-accelerator-premium/?couponCode=39F53C6A4952B1EA2EE1)
-[Python-Introduction to Data Science and Machine learning A-Z](https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=4E10A652713E6A6DCBC8)
-[Comptia A+ 220- 1102 core 2 practice exam](https://www.udemy.com/course/comptia-a-220-1101-core-2-practice-exam/?couponCode=D9C2BD931EA0DD4DFAC4)
-[Learn XML-AJAX – For Beginners](https://www.udemy.com/course/learn-xml-ajax-for-beginners/?couponCode=YOUACCEL16555)
-[How to Install a Free SSL Certificate using Let’s Encrypt](https://www.udemy.com/course/fix-googles-new-not-secure-warning-with-lets-encrypt/?couponCode=YOUACCEL16555)
-[Ultimate Character Design Course with Adobe Illustrator](https://www.udemy.com/course/ultimate-character-design-course/?couponCode=EFB4A33D42121D0482AA)
-[Google Professional Cloud Security Engineer – Practice Exams](https://www.udemy.com/course/google-professional-cloud-security-engineer-practice-exams-cse/?couponCode=FREEDROP8)
-[AWS Certified Database Specialty DBS-C01 Mock Exams](https://www.udemy.com/course/aws-certified-database-specialty-dbs-c01-exams/?couponCode=FREEDROP5)
-[Professional Google Workspace Administrator – Mock Exams](https://www.udemy.com/course/professional-google-workspace-administrator-exams/?couponCode=FREEDROP2)
-[How to Build a Successful Amazon Self-Publishing Business](https://www.udemy.com/course/how-to-build-a-successful-amazon-self-publishing-business/?couponCode=DECEMBER)
-[Aerospace Engineering: Aircraft Design Project Course](https://www.udemy.com/course/aerospace-engineering-aircraft-design-project-course/?couponCode=DEC2-FREE)
-[Microsoft Excel -Basic Excel/ Advanced Excel Formulas](https://www.udemy.com/course/microsoft-excel-basic-excel-advanced-excel-formulas/?couponCode=D3839AE64EEAF5AADF08)
+[Corporate Finance #7 Short Term Financing](https://www.udemy.com/course/corporate-finance-7-short-term-financing/?couponCode=9A4048578BD8B3F2832F)
+[Corporate Finance #3 Forecasting & Budgeting](https://www.udemy.com/course/corporate-finance-3-forecasting-budgeting/?couponCode=D23733A44CE73FA4A588)
+[Complete Graphics Design and Video Editing MasterClass](https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass-t/?couponCode=A5F6B21AB2E91D42BC87)
+[Office Administration Management Professional Certification](https://www.udemy.com/course/office-administration-management-professional-certification/?couponCode=778DF35F3AA9DFE1520F)
+[Kids Yoga Training Certificate – Yoga Alliance YACEP](https://www.udemy.com/course/kids-yoga-teacher-training-online-yoga-alliance/?couponCode=KIDSDEC5)
+[Makeup Artist Professional Certification (MAPC)](https://www.udemy.com/course/makeup-artist-professional-certification/?couponCode=31B80FF9AC94B1C50C66)
+[Corporate Finance #1 Introduction & Financial Statements](https://www.udemy.com/course/corporate-finance-1-introduction-financial-statements/?couponCode=B7F185ED40691CE01A60)
+[Corporate Finance #8 Time Value of Money (PV & FV)](https://www.udemy.com/course/corporate-finance-8-time-value-of-money-pv-fv/?couponCode=A095055A13E5A1D93489)
+[Corporate Finance #5 Financing Decisions](https://www.udemy.com/course/corporate-finance-5-financing-decisions/?couponCode=93038ECB81CCFA541EFD)
+[Corporate Finance #6 Management of Current Assets](https://www.udemy.com/course/corporate-finance-6-management-of-current-assets/?couponCode=FE5656FA2C4B87AE960E)
+[Corporate Finance #2 Financial Ratios](https://www.udemy.com/course/corporate-finance-2-financial-ratios/?couponCode=C38BC0F2AC460E0C090C)
+[Corporate Finance #9 Valuation-Bond, Common /Preferred Stock](https://www.udemy.com/course/corporate-finance-9-valuation-bond-common-preferred-stock/?couponCode=C00DCBE9D0653003CC90)
 
