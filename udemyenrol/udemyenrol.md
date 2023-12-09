@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/12/2023
+# Daily Free Udemy Courses - 09/12/2023
 
-[Corporate Finance #7 Short Term Financing](https://www.udemy.com/course/corporate-finance-7-short-term-financing/?couponCode=9A4048578BD8B3F2832F)
-[Corporate Finance #3 Forecasting & Budgeting](https://www.udemy.com/course/corporate-finance-3-forecasting-budgeting/?couponCode=D23733A44CE73FA4A588)
-[Complete Graphics Design and Video Editing MasterClass](https://www.udemy.com/course/complete-graphics-design-and-video-editing-masterclass-t/?couponCode=A5F6B21AB2E91D42BC87)
-[Office Administration Management Professional Certification](https://www.udemy.com/course/office-administration-management-professional-certification/?couponCode=778DF35F3AA9DFE1520F)
-[Kids Yoga Training Certificate – Yoga Alliance YACEP](https://www.udemy.com/course/kids-yoga-teacher-training-online-yoga-alliance/?couponCode=KIDSDEC5)
-[Makeup Artist Professional Certification (MAPC)](https://www.udemy.com/course/makeup-artist-professional-certification/?couponCode=31B80FF9AC94B1C50C66)
-[Corporate Finance #1 Introduction & Financial Statements](https://www.udemy.com/course/corporate-finance-1-introduction-financial-statements/?couponCode=B7F185ED40691CE01A60)
-[Corporate Finance #8 Time Value of Money (PV & FV)](https://www.udemy.com/course/corporate-finance-8-time-value-of-money-pv-fv/?couponCode=A095055A13E5A1D93489)
-[Corporate Finance #5 Financing Decisions](https://www.udemy.com/course/corporate-finance-5-financing-decisions/?couponCode=93038ECB81CCFA541EFD)
-[Corporate Finance #6 Management of Current Assets](https://www.udemy.com/course/corporate-finance-6-management-of-current-assets/?couponCode=FE5656FA2C4B87AE960E)
-[Corporate Finance #2 Financial Ratios](https://www.udemy.com/course/corporate-finance-2-financial-ratios/?couponCode=C38BC0F2AC460E0C090C)
-[Corporate Finance #9 Valuation-Bond, Common /Preferred Stock](https://www.udemy.com/course/corporate-finance-9-valuation-bond-common-preferred-stock/?couponCode=C00DCBE9D0653003CC90)
+[ChatGPT to Start an AI Social Media Marketing AGENCY (SMMA)](https://www.udemy.com/course/chatgpt-to-start-an-ai-social-media-marketing-agency-smma/?couponCode=11C5167CE6E728654AD6)
+[AI & ML Starter Course with Hands-On Projects [2023]](https://www.udemy.com/course/zero-to-hero-ai-ml-starter-course-with-hands-on-projects/?couponCode=AIDEC001)
+[Pro Frontend Engineer ReactJS + TypeScript + Redux – بالعربى](https://www.udemy.com/course/pro-frontend-engineer-reactjs-typescript-redux-nextjs-api-tailwindcss/?couponCode=D6AA8706A0E117F022C1)
+[Microsoft Excel 2023: Beginner to Excel Pro in only 6 hours](https://www.udemy.com/course/6-hr-excel-mastery-beginner-to-pro/?couponCode=B53D838733DA0739419E)
+[10 ‘Must Listen’ Ideas for Your Next Podcast](https://www.udemy.com/course/create-unlimited-ideas-for-your-podcast/?couponCode=10TOPPROMPTS)
+[Professional Diploma in Unit Economics Management](https://www.udemy.com/course/professional-diploma-in-unit-economics-and-sales-funnels/?couponCode=92C13048099E18ED9D8F)
+[Master JDBC Servlet JSP Spring | Learn Advance Java Basics](https://www.udemy.com/course/master-jdbc-servlet-jsp-spring-learn-advance-java-basics/?couponCode=CF5CF281E20AA948B7A8)
+[Digital Parenting Online Safety Bootcamp](https://www.udemy.com/course/digital-parenting-cybercourse/?couponCode=EF5BC36553E771CBED7E)
+[TOP RATED – Public Relations – Publicist PR Masterclass](https://www.udemy.com/course/public-relations-pr-school/?couponCode=NIAPRFREE)
+[The Millionaire Path](https://www.udemy.com/course/the-millionaire-path/?couponCode=767F0786F70BEC9F22E5)
+[Complete Software Engineering Course : Build Better Software](https://www.udemy.com/course/complete-software-engineering-course-build-develop-better-software/?couponCode=C40F34F3ECF9B43A81C9)
+[Talent Acquisition: HR Planning, Recruiting and Onboarding](https://www.udemy.com/course/talent-acquisition-hr-planning-recruiting-and-onboarding/?couponCode=895589F6D9E87937F714)
 
