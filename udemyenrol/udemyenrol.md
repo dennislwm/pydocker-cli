@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 10/12/2023
+# Daily Free Udemy Courses - 11/12/2023
 
+[How to write Best Resume (CV) & Application Covering Letter](https://www.udemy.com/course/how-to-prepare-a-great-cv/?couponCode=93423AAFD198FA50EB33)
+[Excellence in Interpersonal and Public Communication Skills](https://www.udemy.com/course/excellence-in-oral-communication/?couponCode=8E182385478329B6B49E)
+[Talent Acquisition Excellence by Skilled Interview Taking](https://www.udemy.com/course/how-to-become-a-skilled-interviewer/?couponCode=911E4BDB2BBC041D81B2)
+[Excellence in Interpersonal Skills (People & Social Skills)](https://www.udemy.com/course/excellence-in-interpersonal-skills/?couponCode=B72845F051F20032E9B2)
+[Excellence in Solutions Design to become Solutions Architect](https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=511703D58DE9B041D1F1)
+[New Big, Small & Tiny Business Ideas Generation & Selection](https://www.udemy.com/course/learn-and-generate-select-right-business-ideas/?couponCode=4C20431BFEDBD0265C96)
+[Sales Excellence- Strategic and Operational Sales Training](https://www.udemy.com/course/sales-excellence/?couponCode=3609D9B42A317C855DFB)
+[Excellence in Product and Brand Management- FMCG, FMCD etc.](https://www.udemy.com/course/excellence-in-product-management/?couponCode=D83951F4F4A5CD4F0BD4)
+[Practical Fundamental Equity, Shares & Stock Analysis](https://www.udemy.com/course/a-practical-approach-to-fundamental-equity-analysis/?couponCode=09CB1059EB767861C260)
+[Placement Readiness Tests- Life, Career & Management Skills](https://www.udemy.com/course/career-management-life-management-skills-assessment-tests/?couponCode=96FD10C9021791C9CA78)
 [Creatives Guide to Master for Success in the Music Business](https://www.udemy.com/course/creatives-guide-to-master-for-success-in-the-music-business/?couponCode=6676B881FA1FF361FDD9)
 [SC-900 MS Security, Compliance & Identity Practice Tests](https://www.udemy.com/course/sc-900-ms-security-compliance-identity-fundamentals-practice-test/?couponCode=SC-900FREE)
-[ChatGPT-4 ChatBots with Assistants API, Voiceflow, Botpress](https://www.udemy.com/course/mastering-custom-chatbots-with-assistants-api-and-voiceflow/?couponCode=DECEMBERSALE)
-[HTML 5 With Quizzes And Python 3 Complete Course 2023](https://www.udemy.com/course/html-5-with-quizzes-and-python-3-complete-course-2023/?couponCode=34B93F68AC1DA6ABE547)
-[Javascript Build a Calculator using HTML, CSS and Javascript](https://www.udemy.com/course/build-a-simple-calculator-using-html-css-and-javascript/?couponCode=FF90F7FC39678466E7AB)
-[Yoo: Develop Confidence; Build Relationships; Make Changes!](https://www.udemy.com/course/yoo-course/?couponCode=ALL-ABOUT-YOO-FREE1)
-[Self Care 101: Design Your UNCOMFORTABLE Box](https://www.udemy.com/course/self-care-101-design-your-uncomfortable-box/?couponCode=SELFBOX)
-[EARN MONEY ON YOUR PHONE, Even While You Sleep](https://www.udemy.com/course/earn-bitcoin-for-free/?couponCode=E5ACA4B1EB8026F9CB5F)
-[English Grammar tenses & structures](https://www.udemy.com/course/english-grammar-course-tenses-structures/?couponCode=DECEMBER3)
-[jQuery for Absolute Beginners : From Beginning to Advanced](https://www.udemy.com/course/learn-jquery-from-beginning-to-advanced/?couponCode=JQUERYDEC2023)
-[Food Truck Start Up – Step by Step Guide!](https://www.udemy.com/course/food-truck-start-up-step-by-step-guide/?couponCode=FOOD2024)
-[Salesforce Administration](https://www.udemy.com/course/salesforce-administration-c/?couponCode=4AF90677527AAB8B5ABF)
 
