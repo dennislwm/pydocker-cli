@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 11/12/2023
+# Daily Free Udemy Courses - 12/12/2023
 
 [How to write Best Resume (CV) & Application Covering Letter](https://www.udemy.com/course/how-to-prepare-a-great-cv/?couponCode=93423AAFD198FA50EB33)
 [Excellence in Interpersonal and Public Communication Skills](https://www.udemy.com/course/excellence-in-oral-communication/?couponCode=8E182385478329B6B49E)
