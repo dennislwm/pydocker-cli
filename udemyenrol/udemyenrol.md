@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 21/12/2023
+# Daily Free Udemy Courses - 29/12/2023
 
 [Project – Rooftop Solar Panel Detection using Deep Learning](https://www.udemy.com/course/project-rooftop-solar-panel-detection-using-deep-learning/?couponCode=EEB9104F096D2B26C44A)
 [2023 Data Structures Using Python](https://www.udemy.com/course/data-structures-using-python/?couponCode=REVIEWS)
