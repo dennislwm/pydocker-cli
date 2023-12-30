@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/12/2023
+# Daily Free Udemy Courses - 30/12/2023
 
-[Project – Rooftop Solar Panel Detection using Deep Learning](https://www.udemy.com/course/project-rooftop-solar-panel-detection-using-deep-learning/?couponCode=EEB9104F096D2B26C44A)
-[2023 Data Structures Using Python](https://www.udemy.com/course/data-structures-using-python/?couponCode=REVIEWS)
-[Astronomy Research Data Analysis with Python](https://www.udemy.com/course/astronomy-research-data-analysis-with-python/?couponCode=A0013775032DE38C0C5D)
-[Attacking And Defending Active Directory: AD Pentesting](https://www.udemy.com/course/attacking-and-defending-active-directory/?couponCode=F6F215F869F254B5048D)
-[Bash Shell Scripting Bootcamp: 10 Project-Based Learnings](https://www.udemy.com/course/bash-shell-scripting-bootcamp-10-project-based-learning/?couponCode=8D8A57A5B46C71E6B652)
-[Mastering WordPress: WordPress Development and Monetization](https://www.udemy.com/course/master-wordpress-website-development-and-monetization/?couponCode=93EFD1BB226BF0B1F136)
-[Choosing Your Career Path: Finding Your True Calling](https://www.udemy.com/course/career-choosing-and-career-counselling/?couponCode=CAE40F9BFF05ECEBA139)
-[Online Transactions : A Comprehensive Introduction](https://www.udemy.com/course/online-transactions-step-by-step-guide/?couponCode=5F2D370D32410848628A)
-[Human Resource : Designing the Candidate Experience (101)](https://www.udemy.com/course/human-resource-designing-the-candidate-experience-101/?couponCode=3A35605A962CB60B5D64)
-[LinkedIn Success Formula: Driving Leads and Generating Sales](https://www.udemy.com/course/generate-quality-leads-with-linkedin/?couponCode=HOLIDAYPROMO)
-[Data Architecture 101 for Data Science in AI driven 2024](https://www.udemy.com/course/data-architecture-101-for-data-science/?couponCode=LAUNCH_FREE)
-[Ethical Hacking: Web Enumeration](https://www.udemy.com/course/ethical-hacking-web-enumeration/?couponCode=ISNOTOVER)
+[Zero to Hero NextJS 14 course for real project development](https://www.udemy.com/course/practical-nextjs-14-mastery-course-for-beginners/?couponCode=6D22E2EE82E3C58AB9B2)
+[Life extension and Wellbeing](https://www.udemy.com/course/living-as-old-as-your-grandfather/?couponCode=JANUARY1)
+[(Oxford) Diploma : Economics by Workbooks](https://www.udemy.com/course/workbook-to-201920-current-real-world-macro-economics/?couponCode=JANUARY)
+[Lifting yourself out of negativity…](https://www.udemy.com/course/november-blues/?couponCode=JANUARY)
+[(Oxford) Diploma in Art Therapy for Families](https://www.udemy.com/course/art-therapy-and-other-coping-strategies-for-kids/?couponCode=JANUARYGIFT2)
+[(Oxford) Combined Diploma: Economics and Art Therapy](https://www.udemy.com/course/sakshieconomicsart-therapycovid/?couponCode=JANUARYGIFT1)
+[Business Fundamentals : Management by…cartoons](https://www.udemy.com/course/management-bycartoons/?couponCode=JANUARYGIFT)
+[Ethically Hack the Planet Part 2](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=DECFREELAST1)
+[Working from home (WFH)](https://www.udemy.com/course/work-from-home-work-at-work-or-play/?couponCode=JANUARYGIFT2)
+[(Oxford) Diploma in : Art Therapy for All (reduce sadness)](https://www.udemy.com/course/art-therapy-for-men/?couponCode=JANUARYGIFT2)
+[Gospel Piano Keyboard Chord Mastery Course](https://www.udemy.com/course/gospel-piano-chord-mastery-piano-lesson/?couponCode=D062EEBD0B9500FC116D)
+[Business Fundamentals : The Leadership Program](https://www.udemy.com/course/leadership-getting-ahead-and-staying-ahead/?couponCode=NEWYEARGIFT)
 
