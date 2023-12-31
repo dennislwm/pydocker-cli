@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 30/12/2023
+# Daily Free Udemy Courses - 31/12/2023
 
-[Zero to Hero NextJS 14 course for real project development](https://www.udemy.com/course/practical-nextjs-14-mastery-course-for-beginners/?couponCode=6D22E2EE82E3C58AB9B2)
-[Life extension and Wellbeing](https://www.udemy.com/course/living-as-old-as-your-grandfather/?couponCode=JANUARY1)
-[(Oxford) Diploma : Economics by Workbooks](https://www.udemy.com/course/workbook-to-201920-current-real-world-macro-economics/?couponCode=JANUARY)
-[Lifting yourself out of negativity…](https://www.udemy.com/course/november-blues/?couponCode=JANUARY)
-[(Oxford) Diploma in Art Therapy for Families](https://www.udemy.com/course/art-therapy-and-other-coping-strategies-for-kids/?couponCode=JANUARYGIFT2)
-[(Oxford) Combined Diploma: Economics and Art Therapy](https://www.udemy.com/course/sakshieconomicsart-therapycovid/?couponCode=JANUARYGIFT1)
-[Business Fundamentals : Management by…cartoons](https://www.udemy.com/course/management-bycartoons/?couponCode=JANUARYGIFT)
-[Ethically Hack the Planet Part 2](https://www.udemy.com/course/ethically-hack-the-planet-part-2/?couponCode=DECFREELAST1)
-[Working from home (WFH)](https://www.udemy.com/course/work-from-home-work-at-work-or-play/?couponCode=JANUARYGIFT2)
-[(Oxford) Diploma in : Art Therapy for All (reduce sadness)](https://www.udemy.com/course/art-therapy-for-men/?couponCode=JANUARYGIFT2)
-[Gospel Piano Keyboard Chord Mastery Course](https://www.udemy.com/course/gospel-piano-chord-mastery-piano-lesson/?couponCode=D062EEBD0B9500FC116D)
-[Business Fundamentals : The Leadership Program](https://www.udemy.com/course/leadership-getting-ahead-and-staying-ahead/?couponCode=NEWYEARGIFT)
+[Salesforce CRM : Guide Complet pour une Performance Optimale](https://www.udemy.com/course/salesforce-crm-guide-complet-pour-une-performance-optimale/?couponCode=F92F89BE3B8D928B9E12)
+[Monétisation TikTok : Comment gagner de l’argent sur TikTok?](https://www.udemy.com/course/comment-gagner-de-largent-sur-tiktok/?couponCode=C0348156DA8A3B498A04)
+[Node-RED: IoT projects with ESP32, MQTT and Docker](https://www.udemy.com/course/node-red-iot-projects-with-esp32/?couponCode=DEC-DEAL1)
+[Business development and sales processes – a bird’s eye view](https://www.udemy.com/course/birds-eye-view-business-development-and-sales-processes/?couponCode=98731A080C52DE1B0B4A)
+[Java And C++ And PHP Crash Course For Beginners](https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=6FC0FC763A48E9F3B37E)
+[CSS, Bootstrap, JavaScript And PHP Stack Complete Course](https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=F9CCE32DB8BA2BD6AED7)
+[(Oxford) Diploma : Business Fundamentals](https://www.udemy.com/course/egg-timer-igcse-business-studies/?couponCode=BUSINESSJANUARY)
+[A Beginner’s Guide to OSINT](https://www.udemy.com/course/a-beginners-guide-to-osint/?couponCode=FREEGIFT)
+[Social Media Mastery 2023| Increase Customer Conversion Rate](https://www.udemy.com/course/social-media-mastery-increase-customer-conversion-rate/?couponCode=0602564A6670197259E9)
+[HTML & CSS from scratch](https://www.udemy.com/course/html-css-from-scratch-m/?couponCode=3431E3D650A1059C8DAA)
+[PHP Tutorial Beginner to Advanced](https://www.udemy.com/course/php-beginner-to-advanced/?couponCode=HAPPYNEWYEAR23-24)
+[Writing with Impact: Compelling Articles and Letters](https://www.udemy.com/course/articles-and-lettersapplications/?couponCode=246604237876273C7E19)
 
