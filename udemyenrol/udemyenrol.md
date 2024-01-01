@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/12/2023
+# Daily Free Udemy Courses - 01/01/2024
 
-[Salesforce CRM : Guide Complet pour une Performance Optimale](https://www.udemy.com/course/salesforce-crm-guide-complet-pour-une-performance-optimale/?couponCode=F92F89BE3B8D928B9E12)
-[Monétisation TikTok : Comment gagner de l’argent sur TikTok?](https://www.udemy.com/course/comment-gagner-de-largent-sur-tiktok/?couponCode=C0348156DA8A3B498A04)
-[Node-RED: IoT projects with ESP32, MQTT and Docker](https://www.udemy.com/course/node-red-iot-projects-with-esp32/?couponCode=DEC-DEAL1)
-[Business development and sales processes – a bird’s eye view](https://www.udemy.com/course/birds-eye-view-business-development-and-sales-processes/?couponCode=98731A080C52DE1B0B4A)
-[Java And C++ And PHP Crash Course For Beginners](https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=6FC0FC763A48E9F3B37E)
-[CSS, Bootstrap, JavaScript And PHP Stack Complete Course](https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=F9CCE32DB8BA2BD6AED7)
-[(Oxford) Diploma : Business Fundamentals](https://www.udemy.com/course/egg-timer-igcse-business-studies/?couponCode=BUSINESSJANUARY)
-[A Beginner’s Guide to OSINT](https://www.udemy.com/course/a-beginners-guide-to-osint/?couponCode=FREEGIFT)
-[Social Media Mastery 2023| Increase Customer Conversion Rate](https://www.udemy.com/course/social-media-mastery-increase-customer-conversion-rate/?couponCode=0602564A6670197259E9)
-[HTML & CSS from scratch](https://www.udemy.com/course/html-css-from-scratch-m/?couponCode=3431E3D650A1059C8DAA)
-[PHP Tutorial Beginner to Advanced](https://www.udemy.com/course/php-beginner-to-advanced/?couponCode=HAPPYNEWYEAR23-24)
-[Writing with Impact: Compelling Articles and Letters](https://www.udemy.com/course/articles-and-lettersapplications/?couponCode=246604237876273C7E19)
+[Spring Framework for Java Developers: Practical Guide](https://www.udemy.com/course/spring-learnit/?couponCode=A3C87CC9B28D29A5FBF8)
+[Essential Adobe Lightroom Course for Photo Editing](https://www.udemy.com/course/essential-adobe-lightroom-course-for-photo-editing/?couponCode=031C9E9A9BCD5D47221A)
+[WebServices testing (RestSharp + Postman) Complete Guide](https://www.udemy.com/course/webservices-testing-restsharp-postman-complete-guide/?couponCode=EF4289C479E1184F364F)
+[AWS Certified Cloud Practitioner Exam Practice Tests-CLF-02](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-tests/?couponCode=FREELEARN)
+[Facebook Ads Lead Generation Marketing for business](https://www.udemy.com/course/facebook-leads-generation-business-marketing-ads-strategy-hack/?couponCode=311223)
+[Business Fundamentals: Enterprise](https://www.udemy.com/course/entrepreneurial-business-and-economics/?couponCode=ENTERPRISEJAN)
+[Advanced Professional Photoshop Course to Become Expert](https://www.udemy.com/course/advanced-professional-photoshop-course/?couponCode=22E483DBB7B2FDF0B2C4)
+[Relational Databases & SQL: Complete Guide for Developers](https://www.udemy.com/course/databases-learnit/?couponCode=51FF62E9BFB6E2B0F738)
+[Quick C# by Windows Forms – Create Windows Apps, SQL in C#](https://www.udemy.com/course/quick-c-by-windows-forms-create-windows-apps-sql-in-c/?couponCode=5D_FREE_DEC_33)
+[Hack-Proof Banking: Defend Against Credit Threats!](https://www.udemy.com/course/how-to-avoid-credit-card-fraud/?couponCode=DE4B29CA56C8A8937A9A)
+[Mastering Business Blueprints 101: The Ultimate Guide](https://www.udemy.com/course/mastering-business-blueprints-101-the-ultimate-guide/?couponCode=EFA28588C0F8ED15A986)
+[Professional Diploma in Python Development](https://www.udemy.com/course/introduction-to-python-development/?couponCode=5C4C3C84E9481F0F91F7)
 
