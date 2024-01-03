@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 02/01/2024
+# Daily Free Udemy Courses - 03/01/2024
 
-[Master Course in Early Childhood Education](https://www.udemy.com/course/early-childhood-education-teacher-training-child-psychology/?couponCode=A90CA110179DC27BAEE3)
-[Master Course in Earned Value Management (EVM)](https://www.udemy.com/course/earned-value-management-evm-project-management-pmp/?couponCode=68ABC8A95A1A26113520)
-[Master Course in Business Branding and Brand Management](https://www.udemy.com/course/business-branding-brand-management/?couponCode=BF90344A6878ED1B392E)
-[Master Course in Interviewing Skills and Career Development](https://www.udemy.com/course/interviewing-skills-career-development-resume-cv-writing-linkedin/?couponCode=6EB3FD064E7C6088E17C)
-[HACCP: Food Safety and Quality Management](https://www.udemy.com/course/haccp-food-safety/?couponCode=8E5117DE2EB8867A3C73)
-[Master Course in Social Media Marketing 5.0](https://www.udemy.com/course/instagram-snapchat-facebook-pinterest-social-media-marketing/?couponCode=A29609BC7FF13B3B2ABE)
-[Master Course in Time Management](https://www.udemy.com/course/time-management-personal-office-productivity-management-skills/?couponCode=8BFCACE9C872D2A460F4)
-[Master Course in Leadership](https://www.udemy.com/course/leadership-management-skills-personal-development/?couponCode=358ABF6B8E4073DE2C9A)
-[Master Course in Advanced SEO (Search Engine Optimization)](https://www.udemy.com/course/search-engine-optimization-seo-audit/?couponCode=119F59FAB2DFA5D2E7FB)
-[Master Course in Public Speaking](https://www.udemy.com/course/public-speaking-leadership/?couponCode=03970A14F1F0AFAF25AD)
-[Master Course in Circular Economy 3.0](https://www.udemy.com/course/circular-economy-sustainable-development/?couponCode=B62DA760DD0C4A8F496D)
-[Master Course in E-Commerce 3.0](https://www.udemy.com/course/e-commerce-augmented-reality-virtual-reality/?couponCode=8B289D576AA8CE1FC271)
+[Photoshop CC Masterclass: Professional Flyer & Poster Design](https://www.udemy.com/course/photoshop-cc-masterclass-professional-flyer-poster-design/?couponCode=CAD1CB2E58523CE49E9E)
+[Negotiation Unlocked: 14 Master Strategies for Winning](https://www.udemy.com/course/negotiation-unlocked-14-master-strategies-for-winning/?couponCode=A2B5E2050C7C45CED826)
+[Leadership A-Z: Managing Across Different Personality Types](https://www.udemy.com/course/leadership-a-z-managing-across-different-personality-types/?couponCode=37FE6C934EB372917A69)
+[Unveiling Organizational Behaviour Fundamentals](https://www.udemy.com/course/unveiling-organizational-behaviour-fundamentals/?couponCode=90D17BDF69AC0233E59C)
+[Microsoft Excel Fundamentals – The Beginner’s Masterclass](https://www.udemy.com/course/microsoft-excel-fundamentals-masterclass/?couponCode=35203A4DA0B3566772B8)
+[IT Fundamentals & Troubleshooting for Computer Technicians](https://www.udemy.com/course/it-fundamentals-troubleshooting-for-computer-technicians/?couponCode=8F22506415F1F6281FB8)
+[ChatGPT for Creative Ideas: Generate Powerful Concepts](https://www.udemy.com/course/chatgpt-for-advertising-creative-generate-campaign-concepts/?couponCode=CF124E127F6880A254C8)
+[Complete Payroll Management in Excel &TALLY ERP9 &TallyPrime](https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=3EEF3503216D0E33BAB4)
+[Digital Marketing Professional Certification](https://www.udemy.com/course/digital-marketing-expert-assessment/?couponCode=C751AB315D1085B66083)
+[Art Therapy – the Grand Finale : 1](https://www.udemy.com/course/art-therapy-the-grand-finale-1/?couponCode=JANUARY2024)
+[Master Course : Generative AI for Business Leaders (101)](https://www.udemy.com/course/generative-ai-for-business-leaders-101/?couponCode=8AE5BAF5FDB32B85555F)
+[Certification in Project Management – Accredited Masterclass](https://www.udemy.com/course/project-management-certification-masterclass/?couponCode=GIFT-4-SUPPORT-IN-23)
 
