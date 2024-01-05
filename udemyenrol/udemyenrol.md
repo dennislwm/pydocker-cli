@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 04/01/2024
+# Daily Free Udemy Courses - 05/01/2024
 
-[Essential Canva for Graphics Design to Boost Productivity](https://www.udemy.com/course/essential-canva-for-graphics-design-to-boost-productivity/?couponCode=4AFE170DF922CAF31A90)
-[Complete Payroll Management in Excel &TALLY ERP9 &TallyPrime](https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=TRICKYMAN3)
-[The Complete Data Entry Skill From Basic to Advanced](https://www.udemy.com/course/the-complete-data-entry-skill-from-basic-to-advanced/?couponCode=8F26444B20D775307641)
-[Agile Project Management Certification Prep+Agile Scrum+Jira](https://www.udemy.com/course/agile-project-management-certification/?couponCode=020124_FREE)
-[Complete Deep Learning YOLOv7 Project : From Noob To Expert](https://www.udemy.com/course/complete-deep-learning-yolov7-project-from-noob-to-expert/?couponCode=37F90ADBCCCC5F016662)
-[ACCREDITED CERT- Acceptance and Commitment Therapy (ACT)](https://www.udemy.com/course/accredited-diploma-certificate-acceptance-and-commitment-therapy-act/?couponCode=GIFT-4-SUPPORT-IN-23)
-[Master TOEFL in 30 days (2024)](https://www.udemy.com/course/prepare-for-the-toefl-in-30-days-without-wasting-a-dollar/?couponCode=DEEPWEBMAROC)
-[CompTIA Security+ (SY0-701): Comprehensive Practice Exams](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/?couponCode=01AC33DCE8DEF4BFA874)
-[The Complete Firebase 9 (new version) Beginner’s Guide 2024](https://www.udemy.com/course/javascript-firebase-build-full-stack-web-apps-faster/?couponCode=JF100-FREE-JAN24)
-[RDBMS MCQ [2024]](https://www.udemy.com/course/rdbms-mcq/?couponCode=B8393EE77765C7918521)
-[Cultural Heritage Management](https://www.udemy.com/course/cultural-heritage/?couponCode=FREE1000)
-[Portrait Photography for Absolute Beginners](https://www.udemy.com/course/mastering-portrait-photography/?couponCode=PPJAN2024)
+[CHRO Chief Human Resources Officer Executive Certification](https://www.udemy.com/course/chief-human-resources-officer/?couponCode=468093E1F4FB9EDF117F)
+[600+ UiPath Interview Questions Practice Test [2024]](https://www.udemy.com/course/uipath-interview-questions/?couponCode=DA4DEE80CEB1B1893963)
+[Statistics and Hypothesis Testing for Data science](https://www.udemy.com/course/statistics-and-hypothesis-testing-for-data-science/?couponCode=213722757827FB700F9C)
+[Profitable App Development Blueprint for Startups](https://www.udemy.com/course/profitable-app-development-blueprint-for-startups/?couponCode=SAASAPPS128)
+[Learn Linux and Shell Scripting From Basic To Advanced](https://www.udemy.com/course/learn-linux-operating-system-from-basic-to-advanced/?couponCode=088202641247FCFADD9A)
+[CTO Chief Technology Officer Executive Certification](https://www.udemy.com/course/chief-technology-officer/?couponCode=273E48BC28B37D33B55B)
+[Entry Certificate in Business Analysis ECBA Practice Tests](https://www.udemy.com/course/entry-certificate-in-business-analysis-ecba-practice-tests/?couponCode=60C49DD9410F47514BB1)
+[PSPO 2 / PSPO II – Product Owner 2 Mock Exams | 2023 Passed](https://www.udemy.com/course/pspo-2-pspo-ii-product-owner-2-mock-exams-2023-passed/?couponCode=E7836E5BE7CCE4C02457)
+[C++ Code Like you are in MATRIX : Mastering C++ in 12 Hours](https://www.udemy.com/course/c-programming-for-everyone/?couponCode=NEW_YEAR_GIFT)
+[Python MCQ [2024]](https://www.udemy.com/course/python-mcq/?couponCode=2CE70F240CB321E44A5B)
+[4 Practice Tests for C++ Certification Preparation](https://www.udemy.com/course/4-practice-tests-for-c-certification-preparation/?couponCode=E1A6BCF155D267EBD226)
+[Prompt & AI Engineering Safety Professional Certification](https://www.udemy.com/course/prompt-engineering-safety-ai-engineering-safety-expert/?couponCode=D6F4177F297FFAE8DDD8)
 
