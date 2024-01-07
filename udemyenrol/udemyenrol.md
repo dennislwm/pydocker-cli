@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 06/01/2024
+# Daily Free Udemy Courses - 07/01/2024
 
-[Business Improvement Plan](https://www.udemy.com/course/business-improvement-plan/?couponCode=CA2B45D43B095E8F3525)
-[Root Cause Analysis: Drill Down Tool](https://www.udemy.com/course/drill-down-tool/?couponCode=6CFCB68D06E1F4ADBA5F)
-[Organizational Culture Change](https://www.udemy.com/course/organizational-culture-change-m/?couponCode=5A7E35DF8CD219E2E805)
-[YouTube Marketing with Dekker](https://www.udemy.com/course/youtube-marketing-dekker/?couponCode=9D5F5B88ECE1AD60C948)
-[Build a Backend REST API with Node JS from Scratch](https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=AA495C4BAE1532FC8799)
-[Master Course : Finance Fundamentals and Finance Management](https://www.udemy.com/course/finance-fundamentals-finance-management-corporate-finance/?couponCode=77AD4EF784141AADFF44)
-[Master Course in Management Coaching and Manager Training](https://www.udemy.com/course/management-coaching-manager-training-business-coaching-leadership/?couponCode=D6A1CC073F159D76EBC5)
-[Master Course in Sales Forecasting and Sales Management 2.0](https://www.udemy.com/course/sales-forecasting-sales-management-forecasting-models-sales-skills/?couponCode=97BA5B2C8801FA114C03)
-[Master Course in Inventory Management and Inventory Control](https://www.udemy.com/course/inventory-management-inventory-control-logistics-supplychain-warehouse/?couponCode=77AD4DF9FEA0BA73A941)
-[Master Course in Stress Management and Anger Management](https://www.udemy.com/course/stress-management-anger-management-emotions-meditations-mindfulness/?couponCode=20E13229B1443E3BD315)
-[Master Course in Management Consulting and Management Skills](https://www.udemy.com/course/management-consulting-management-skills-coaching-consulting-business/?couponCode=D67CD3D4E418CAE4E4C5)
-[Master Course in Business Writing and Business Strategy 2.0](https://www.udemy.com/course/business-writing-business-strategy-email-writing-editing-proof-reading/?couponCode=1EDFEAB2BC27C0E02F57)
+[Quick VB .NET by Windows Forms Create Windows App, SQL in VB](https://www.udemy.com/course/quick-vb-by-windows-forms-create-windows-apps-sql-in-vb/?couponCode=JAN_5D_FREE_42)
+[SAP BI, SAP BusinessObjects, SAP Business One (101 Level)](https://www.udemy.com/course/sap-bi-sap-businessobjects-sap-business-one-sap-bw-erp/?couponCode=65546E38A055C7B3249D)
+[Master Course in Cloud Computing and Cloud Architecture 2.0](https://www.udemy.com/course/cloud-computing-cloud-architecture-cloud-security-cloud-monitoring/?couponCode=B6D9FC3178B703BC7183)
+[Master Course in Cryptocurrency and Blockchain 2.0](https://www.udemy.com/course/cryptocurrency-blockchain-technology-bitcoin-ethereum-crypto/?couponCode=CAC99BF96C3DE46ACBB1)
+[Master Course in Microsoft MB-260 (Customer Data Platform)](https://www.udemy.com/course/microsoft-mb-260-customer-data-platform-specialty/?couponCode=BD1A464B9C939BFFC1B6)
+[Fundamental Course of Data Architecture 2.0 (101 level)](https://www.udemy.com/course/data-architecture-big-data-architecture-data-mesh-database-management/?couponCode=29F0EFB8B20B597FB6BD)
+[Microsoft MB-800 Dynamics 365 Business Central (101 Level)](https://www.udemy.com/course/microsoft-mb-800-dynamics-365-business-central-functional-consultant/?couponCode=B36E2544984C0DB7A834)
+[Master Course in Microsoft MB-330 and MB-335 (Supply Chain)](https://www.udemy.com/course/microsoft-mb-330-mb-335-dynamics-365-supply-chain-management/?couponCode=1CA30AF55D15A1E82AD6)
+[Web Development Wizardry: HTML & CSS Course for Beginners.](https://www.udemy.com/course/html-and-css-2-in-1-course-from-zero-for-beginners-2022/?couponCode=FA847FDBB842D56C2C35)
+[Root Cause Analysis: Certification](https://www.udemy.com/course/rca-root-cause-analysis/?couponCode=670C90C96A39001112C1)
+[Clinical Trial Foundations [2023]](https://www.udemy.com/course/clinical-trial-foundations/?couponCode=CT01JAN001)
+[Master Course in Hazard Analysis and Critical Control Points](https://www.udemy.com/course/haccp-hazard-analysis-and-critical-control-points-food-safety-harpc/?couponCode=9B6632DC36CEE1ADCF56)
 
