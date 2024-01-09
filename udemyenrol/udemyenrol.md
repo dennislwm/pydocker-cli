@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 08/01/2024
+# Daily Free Udemy Courses - 09/01/2024
 
-[How To Become A Top Amazon Seller Without Risking Your Money](https://www.udemy.com/course/becoming-amazon-seller-the-zero-risk-zero-budget-method/?couponCode=2E2D02E5FD5BAEEBE8F4)
-[Javascript Build a Calculator using HTML, CSS and Javascript](https://www.udemy.com/course/build-a-simple-calculator-using-html-css-and-javascript/?couponCode=GETITNOW2024)
-[The Beginner’s Guide to Bash Scripting and Automation](https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=JANFREE1)
-[Textile Industry, Manufacturing and Business Management 2.0](https://www.udemy.com/course/textile-industry-manufacturing-and-business-management/?couponCode=1799AD92D736230A896D)
-[Conscious Consumption, Environmental Stewardship Management](https://www.udemy.com/course/conscious-consumption-environmental-stewardship-management/?couponCode=084CD5856154853995A2)
-[Building a Supplier Diversity Program for Your Organization](https://www.udemy.com/course/building-a-supplier-diversity-program-for-your-organization/?couponCode=7B60BD812C84BE1ED3E6)
-[Master Course in Sustainable Technologies & Datafication 2.0](https://www.udemy.com/course/sustainable-technologies-datafication/?couponCode=D801BCBF76808B0268E3)
-[Certified Professional in Project Management 101 (CPPM-GAQM)](https://www.udemy.com/course/certified-professional-in-project-management-exam-prep-cppm-gaqm/?couponCode=9EF62D3CE1B69306E1BD)
-[Microsoft Excel : A Crash Course for Beginners](https://www.udemy.com/course/excel-101-for-beginners/?couponCode=91898702022C0617BC8D)
-[Business Contract Management in U.S. (ACCREDITED Course)](https://www.udemy.com/course/contract-management/?couponCode=86E1055B4C0C355FC9B8)
-[Complete Photography : 21 Courses in 1 [Beginner to Expert]](https://www.udemy.com/course/interactive-photography-basics/?couponCode=PHOTO21JAN2024)
-[1V0-21.20 and 2V0-21.23 VMware Exam Practice Test](https://www.udemy.com/course/1v0-2120-and-2v0-2123-vmware-exam-practice-test/?couponCode=0D78FB3FD322435DA276)
+[Design Thinking For Everyone](https://www.udemy.com/course/design-thinking-for-everyone/?couponCode=DESIGN_THINKING-2024)
+[BIM Modeling Project- Architectural + Structural +Mechanical](https://www.udemy.com/course/bim-modeling-project-architectural-structural-mechanical/?couponCode=C6FF3E8837D2F51C573E)
+[PHP Tutorial Beginner to Advanced](https://www.udemy.com/course/php-beginner-to-advanced/?couponCode=PHPJAN24)
+[4 Latest Practice Tests for any Python Certification](https://www.udemy.com/course/4-latest-practice-tests-for-any-python-certification/?couponCode=286A941B470EE010E392)
+[Adobe Photoshop CC For Absolute Beginner to Advanced](https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=0E148FEF24B0D8C5725A)
+[Building of Web3 Token Balance Applications](https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=0CF707A43E497FFD0D70)
+[NGINX, Apache, SSL Encryption – Certification Course](https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL61808)
+[BEAT BOREDOM AT HOME: 21-Day Activity Guide (Mastery Course)](https://www.udemy.com/course/beat-boredom-at-home-21-day-activity-guide-mastery-course/?couponCode=861A324AE61E30DFAF42)
+[Stuck No More – Turning Dreams into Plans](https://www.udemy.com/course/stuck-no-more-turning-dreams-into-plans/?couponCode=AWAKENING)
+[The “BigTech” System Design Interview Bootcamp](https://www.udemy.com/course/the-bigtech-system-design-interview-bootcamp/?couponCode=7EA916FC811255F25B81)
+[ElasticSearch as you have never known it before](https://www.udemy.com/course/elasticsearch-as-you-have-never-known-it-before/?couponCode=SALESJANUARY2)
+[Guitar Chords & Progressions – Rhythm Guitar Foundation](https://www.udemy.com/course/guitar-chords-progressions-rhythm-guitar-foundation/?couponCode=GCP001)
 
