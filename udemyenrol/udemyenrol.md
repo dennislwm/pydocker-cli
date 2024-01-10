@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/01/2024
+# Daily Free Udemy Courses - 10/01/2024
 
-[Design Thinking For Everyone](https://www.udemy.com/course/design-thinking-for-everyone/?couponCode=DESIGN_THINKING-2024)
-[BIM Modeling Project- Architectural + Structural +Mechanical](https://www.udemy.com/course/bim-modeling-project-architectural-structural-mechanical/?couponCode=C6FF3E8837D2F51C573E)
-[PHP Tutorial Beginner to Advanced](https://www.udemy.com/course/php-beginner-to-advanced/?couponCode=PHPJAN24)
-[4 Latest Practice Tests for any Python Certification](https://www.udemy.com/course/4-latest-practice-tests-for-any-python-certification/?couponCode=286A941B470EE010E392)
-[Adobe Photoshop CC For Absolute Beginner to Advanced](https://www.udemy.com/course/adobe-photoshop-cc-for-absolute-beginner-to-advanced/?couponCode=0E148FEF24B0D8C5725A)
-[Building of Web3 Token Balance Applications](https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=0CF707A43E497FFD0D70)
-[NGINX, Apache, SSL Encryption – Certification Course](https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=YOUACCEL61808)
-[BEAT BOREDOM AT HOME: 21-Day Activity Guide (Mastery Course)](https://www.udemy.com/course/beat-boredom-at-home-21-day-activity-guide-mastery-course/?couponCode=861A324AE61E30DFAF42)
-[Stuck No More – Turning Dreams into Plans](https://www.udemy.com/course/stuck-no-more-turning-dreams-into-plans/?couponCode=AWAKENING)
-[The “BigTech” System Design Interview Bootcamp](https://www.udemy.com/course/the-bigtech-system-design-interview-bootcamp/?couponCode=7EA916FC811255F25B81)
-[ElasticSearch as you have never known it before](https://www.udemy.com/course/elasticsearch-as-you-have-never-known-it-before/?couponCode=SALESJANUARY2)
-[Guitar Chords & Progressions – Rhythm Guitar Foundation](https://www.udemy.com/course/guitar-chords-progressions-rhythm-guitar-foundation/?couponCode=GCP001)
+[Learn Blockchain and Cryptocurrency from Beginning](https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/?couponCode=9A1B30F11FCF27F78F17)
+[File Processing with Python](https://www.udemy.com/course/file-processing-with-python/?couponCode=BUILDYOURLIFE)
+[Mac Security Masterclass](https://www.udemy.com/course/mac-security-masterclass/?couponCode=LEARNING)
+[Ethical Hacking: Hack Android](https://www.udemy.com/course/ethical-hacking-hack-android/?couponCode=LEARNING)
+[How Websites Work](https://www.udemy.com/course/how-websites-work/?couponCode=BUILDYOURLIFE)
+[Fast track French for beginners](https://www.udemy.com/course/fast-track-french-for-beginners/?couponCode=6A4F844B142E90F78721)
+[Mastering Microsoft Excel A Comprehensive Guide to Boost You](https://www.udemy.com/course/mastering-microsoft-excel-a-comprehensive-guide-to-boost-you/?couponCode=EB766079F34C921C6ACB)
+[Profitable boom and crash strategies | Forex Trading Class](https://www.udemy.com/course/profitable-trading-strategies/?couponCode=51502D957D9EE898E6C9)
+[AI ChatGPT for Entrepreneurs – Start, Grow, Scale a Business](https://www.udemy.com/course/ai-chatgpt-for-entrepreneurs-start-grow-scale-a-business/?couponCode=NEWYEAR)
+[Binance Futures Trading with Python | Build a Martingale Bot](https://www.udemy.com/course/binance-futures-trading-with-python-build-a-martingale-bot/?couponCode=18181DC2ACE95005E6C2)
+[Snowflake Mastery: Easy steps to gain expertise [2024]](https://www.udemy.com/course/snowflake-mastery-easy-steps-to-gain-expertise-2023/?couponCode=HNY202401)
+[Create Space Invaders with Python PyGame](https://www.udemy.com/course/create-space-invaders-with-python-pygame/?couponCode=BUILDYOURLIFE)
 
