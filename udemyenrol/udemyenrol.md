@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 12/01/2024
+# Daily Free Udemy Courses - 13/01/2024
 
-[Professional Diploma in Python Development](https://www.udemy.com/course/introduction-to-python-development/?couponCode=841A1F69DD55E0A854B5)
-[Build a User Web App from Scratch with Vanilla PHP 8+](https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=825F3BE8293F43755323)
-[Mastering Azure PowerShell: Automate Azure Administration](https://www.udemy.com/course/mastering-azure-powershell/?couponCode=874AE0F335926D030408)
-[Mini MBA](https://www.udemy.com/course/mini-mba-diploma/?couponCode=DEDF21555FF0EF3B0BCD)
-[Career Advancement Strategies: Module-III](https://www.udemy.com/course/career-counselling-module-iii/?couponCode=97DFB30A95CE878077A7)
-[Fractional Reserve Banking:The Heartbeat of Modern Economies](https://www.udemy.com/course/exploring-fractional-reserve-banking-the-heartbeat-of-moder/?couponCode=9E20EE493C200D74766C)
-[Sales, Marketing and Branding Basics Course (+ Cheat Sheet!)](https://www.udemy.com/course/sales-and-marketing-course-small-online-business-manager/?couponCode=05FB5154332E0D7D4B11)
-[Leadership A-Z: Managing Across Different Personality Types](https://www.udemy.com/course/leadership-a-z-managing-across-different-personality-types/?couponCode=8705C54121B84C2A0033)
-[Plywood, Glass, Building Hardware & Sanitaryware Businesses](https://www.udemy.com/course/plywood-glass-building-hardware-sanitaryware-businesses/?couponCode=AF2696D1E3E06C2916AC)
-[Master Course in Shopping Mall & Supermarket Management](https://www.udemy.com/course/hopping-mall-supermarket-management/?couponCode=3FE2AB4ACA7560F358EA)
-[Master Course in Salon Business and Beauty Salon Operations](https://www.udemy.com/course/salon-business-and-beauty-salon-operations/?couponCode=545D84AA00435D20790D)
-[Master Course in Financial Technology and Fintech Management](https://www.udemy.com/course/financial-technology-and-fintech-management/?couponCode=5AE60C10ABD49366B7F0)
+[Python – Data Analytics – Real World Hands-on Projects](https://www.udemy.com/course/bigdata-analysis-python/?couponCode=PROJECTS_JAN12)
+[Company Secretary Course – Get Hired Without Certifications](https://www.udemy.com/course/company-secretary-course-cs/?couponCode=1C0D395E92258695AC89)
+[Problem Solving with C programming language](https://www.udemy.com/course/problem-solving-with-c-programming-language/?couponCode=0415DBF6017DCB87B0DC)
+[Problem Solving with C++ programming language](https://www.udemy.com/course/c-plus-plus-programming-language/?couponCode=08BFC1A6196DA6D0EEE0)
+[Python Programming Language (Practice Projects)](https://www.udemy.com/course/python-clothes-application/?couponCode=CB646C676D90C00526B4)
+[Steel, Cement, Bricks & Tiles Business Management](https://www.udemy.com/course/steel-cement-bricks-tiles-business-management/?couponCode=09D5A1A9B5114FEB7CCA)
+[Professional Diploma in Omnichannel Sales&Service Management](https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=72FEA8F4DB1CC6DA7C96)
+[TOEFL Preparation: Listening Section](https://www.udemy.com/course/toefl-preparation-how-to-get-27-in-toefl-listening-section/?couponCode=5BEDCFD2F4C7CA494F61)
+[Mastering AI Chatbots: From Voiceflow, StackAI, and Zapier](https://www.udemy.com/course/mastering-ai-chatbots-from-voiceflow-stackai-and-zapier/?couponCode=BUSINESS)
+[Master Travel Writing, blogging, travel journalism & Earning](https://www.udemy.com/course/master-travel-writing-blogging-travel-journalism-earning/?couponCode=B9C7CE4DD5362C13174E)
+[Ethical Hacking: Web Hacking Intro](https://www.udemy.com/course/hack-simple-websites/?couponCode=SUNNYDAY)
+[Ethical Hacking: File Inclusion](https://www.udemy.com/course/ethical-hacking-file-inclusion/?couponCode=SUNNYDAY)
 
