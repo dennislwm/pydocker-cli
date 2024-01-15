@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 14/01/2024
+# Daily Free Udemy Courses - 15/01/2024
 
-[Computer Networking Masterclass: Interview Success](https://www.udemy.com/course/computer-networking-masterclass-interview-success/?couponCode=EDF375163D1FA56B8122)
-[Scrum Master Professional Certification](https://www.udemy.com/course/professional-scrum-master-assessment-psma/?couponCode=F4582ED37AB27BC15BC0)
-[Master Travel Writing, blogging, travel journalism & Earning](https://www.udemy.com/course/master-travel-writing-blogging-travel-journalism-earning/?couponCode=183E4259E909D6A04A19)
-[KeepassXC Mastery](https://www.udemy.com/course/keepassxc-mastery/?couponCode=MILITO)
-[Linux Security](https://www.udemy.com/course/linux-security-best-practices/?couponCode=MILITO)
-[Artificial Intelligence and Machine Learning: Complete Guide](https://www.udemy.com/course/artificial-intelligence-and-machine-learning-complete-guide/?couponCode=FC02F82F4E16D9F23CDC)
-[Problem Solving with C programming language](https://www.udemy.com/course/problem-solving-with-c-programming-language/?couponCode=B80189E9B9DF3F995D77)
-[Threat Intelligence](https://www.udemy.com/course/threat-intelligence/?couponCode=MILITO)
-[Ethical Hacking: Command Injection](https://www.udemy.com/course/ethical-hacking-command-injection/?couponCode=MILITO)
-[Certified Information Systems Auditor (CISA) Mock Tests](https://www.udemy.com/course/certified-information-systems-auditor-cisa-mock-tests/?couponCode=F0A6D3ABD4C9F6DE633F)
-[ServiceNow Certified System Administrator (CSA) Quizz Test](https://www.udemy.com/course/servicenow-certified-system-administrator-csa-quizz-test/?couponCode=C4036C4ECFC3BBA073F2)
-[ITIL Foundation 4 Practice Tests | 06 Set Latest Questions](https://www.udemy.com/course/itil-foundation-4-practice-tests-06-set-latest-questions/?couponCode=78D879401C5263C83144)
+[Learn Machine learning & AI (Including Hands-on 3 Projects)](https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=JAN2024FREE)
+[Python Programming Language (Practice Projects)](https://www.udemy.com/course/python-clothes-application/?couponCode=CC0E5525B2D7B862E318)
+[Adobe Illustrator Course For Beginner](https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=9D1695BC1F68FF1594D4)
+[Linux Modules](https://www.udemy.com/course/linux-modules/?couponCode=DAVE_GROHL)
+[Cyber Security: Detect and Prevent Malware](https://www.udemy.com/course/cyber-security-detect-and-prevent-malware/?couponCode=DAVE_GROHL)
+[Master Course : Catering Services & Food Service Contractors](https://www.udemy.com/course/master-course-catering-services-food-service-contractors/?couponCode=D7FBE409B6FB210D6634)
+[Master the Art of the Persuasive “PITCH DECK” Presentations](https://www.udemy.com/course/art-of-the-persuasive-pitch-deck-presentations/?couponCode=19590C70CB04DBDB570C)
+[Complete Beginners Trading Strategy For Passive Income](https://www.udemy.com/course/swing-trading-strategy-for-beginners-full-course/?couponCode=B7BC4043BBC169ABDBB6)
+[Generate Passive Income From Trade Automation](https://www.udemy.com/course/trade-automation/?couponCode=5AF26B01AD31FD476280)
+[Product Innovation • DOUBLE Your Sales With These 7 Tactics!](https://www.udemy.com/course/product-innovation-ideas-process-business-course/?couponCode=8EE9D4E829F3A0F3FFC3)
+[Company Secretary Course – Get Hired Without Certifications](https://www.udemy.com/course/company-secretary-course-cs/?couponCode=594151C1C4C4C7EEBCA2)
+[Amazon Virtual Assistant – Tools To Work Better and Faster](https://www.udemy.com/course/amazon-virtual-assistant-tools-training-course/?couponCode=3652D9DEA922C17E69EC)
 
