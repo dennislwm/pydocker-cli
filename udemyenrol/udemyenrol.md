@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/01/2024
+# Daily Free Udemy Courses - 17/01/2024
 
-[Flutter & Dart Development Course – 2024 [Arabic]](https://www.udemy.com/course/flutter-dart-development-course-2024-arabic/?couponCode=THREEONE)
-[Advanced HTML 5 – Web and Game Development](https://www.udemy.com/course/advanced-html-5-web-and-game-development/?couponCode=EDUCBANY24)
-[MS SQL Server – Beginners](https://www.udemy.com/course/ms-sql-server-beginners/?couponCode=EDUCBANY24)
-[Master Excel VBA and Excel Macros](https://www.udemy.com/course/master-excel-vba-and-excel-macros/?couponCode=EDUCBANY24)
-[Microsoft Excel with Java and Python & OpenPyXL](https://www.udemy.com/course/microsoft-excel-with-java-and-python-openpyxl/?couponCode=EDUCBANY24)
-[IPO Masterclass – IPOs | FPOs | Valuation | Raising Capital](https://www.udemy.com/course/ipo-masterclass-ipos-fpos-valuation-raising-capital/?couponCode=EDUCBANY24)
-[Pitchbook | Pitch Deck for Investor Pitching](https://www.udemy.com/course/pitchbook-pitch-deck-for-investor-pitching/?couponCode=EDUCBANY24)
-[Java Unit Testing with jUnit – Complete Course Bundle](https://www.udemy.com/course/java-unit-testing-with-junit-complete-course-bundle/?couponCode=EDUCBANY24)
-[PostgreSQL – Complete Course Bundle](https://www.udemy.com/course/postgresql-complete-course-bundle/?couponCode=EDUCBANY24)
-[Python Hacking – Complete Beginner to Advanced Course Bundle](https://www.udemy.com/course/python-hacking-complete-beginner-to-advanced-course-bundle/?couponCode=EDUCBANY24)
-[Selenium using Java Bundle](https://www.udemy.com/course/selenium-using-java-bundle/?couponCode=EDUCBANY24)
-[IntelliJ IDEA – Complete Course Bundle](https://www.udemy.com/course/intellij-idea-complete-course-bundle/?couponCode=EDUCBANY24)
+[Ethical Hacking: Reverse Shells](https://www.udemy.com/course/ethical-hacking-reverse-shells/?couponCode=AALIYAH)
+[Transformational Breathwork For Getting Unstuck [Accredited]](https://www.udemy.com/course/transformational-breathwork/?couponCode=1615C21B2D5087A0B997)
+[Lean Management: Course & certification](https://www.udemy.com/course/lean-management-z/?couponCode=3C3A03B9D3FA81ED21DB)
+[FMEA: Failure, Modes, Effects, Analysis](https://www.udemy.com/course/fmea-failure-modes-effects-analysis/?couponCode=9E25B8FF49812E14700F)
+[Laravel 10 – Build Complete Portfolio Website (2023)](https://www.udemy.com/course/laravel-portfolio-building-course/?couponCode=9CE78CCAD6C8BBD7D7FB)
+[The Ultimate Professional Scrum Master I Certification Prep](https://www.udemy.com/course/the-ultimate-professional-scrum-master-1-certification-prep/?couponCode=FREEPSM12024)
+[Proceso CRUD (C Sharp y Microsoft Access)](https://www.udemy.com/course/proceso-crud-c-sharp-y-microsoft-access/?couponCode=7DE7AF9636E93C611FA0)
+[Proceso CRUD (C Sharp y SQLite)](https://www.udemy.com/course/proceso-crud-c-sharp-y-sqlite/?couponCode=DA07257421D0BD7BF8F4)
+[SAFe 6 Scrum Master SSM : 6 Full-Length Practice Exams](https://www.udemy.com/course/safe-6-ssm-5-full-length-practice-exams-explanations/?couponCode=SAFE_SSM_FDO)
+[Cómo Crear una Academia Online con WordPress y Tutor LMS](https://www.udemy.com/course/como-crear-una-academia-online-con-wordpress-y-tutor-lms/?couponCode=TUTOR-GR2)
+[Cómo Crear una Página Web con WordPress y Elementor PRO 2024](https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor-pro/?couponCode=ELE-GR25)
+[Cómo Crear una Tienda Online con WordPress y ChatGPT 2024](https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-chatgpt/?couponCode=TIENDA-CH28)
 
