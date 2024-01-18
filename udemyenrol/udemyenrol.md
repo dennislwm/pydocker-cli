@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 17/01/2024
+# Daily Free Udemy Courses - 18/01/2024
 
-[Ethical Hacking: Reverse Shells](https://www.udemy.com/course/ethical-hacking-reverse-shells/?couponCode=AALIYAH)
-[Transformational Breathwork For Getting Unstuck [Accredited]](https://www.udemy.com/course/transformational-breathwork/?couponCode=1615C21B2D5087A0B997)
-[Lean Management: Course & certification](https://www.udemy.com/course/lean-management-z/?couponCode=3C3A03B9D3FA81ED21DB)
-[FMEA: Failure, Modes, Effects, Analysis](https://www.udemy.com/course/fmea-failure-modes-effects-analysis/?couponCode=9E25B8FF49812E14700F)
-[Laravel 10 – Build Complete Portfolio Website (2023)](https://www.udemy.com/course/laravel-portfolio-building-course/?couponCode=9CE78CCAD6C8BBD7D7FB)
-[The Ultimate Professional Scrum Master I Certification Prep](https://www.udemy.com/course/the-ultimate-professional-scrum-master-1-certification-prep/?couponCode=FREEPSM12024)
-[Proceso CRUD (C Sharp y Microsoft Access)](https://www.udemy.com/course/proceso-crud-c-sharp-y-microsoft-access/?couponCode=7DE7AF9636E93C611FA0)
-[Proceso CRUD (C Sharp y SQLite)](https://www.udemy.com/course/proceso-crud-c-sharp-y-sqlite/?couponCode=DA07257421D0BD7BF8F4)
-[SAFe 6 Scrum Master SSM : 6 Full-Length Practice Exams](https://www.udemy.com/course/safe-6-ssm-5-full-length-practice-exams-explanations/?couponCode=SAFE_SSM_FDO)
-[Cómo Crear una Academia Online con WordPress y Tutor LMS](https://www.udemy.com/course/como-crear-una-academia-online-con-wordpress-y-tutor-lms/?couponCode=TUTOR-GR2)
-[Cómo Crear una Página Web con WordPress y Elementor PRO 2024](https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor-pro/?couponCode=ELE-GR25)
-[Cómo Crear una Tienda Online con WordPress y ChatGPT 2024](https://www.udemy.com/course/como-crear-una-tienda-online-con-wordpress-y-chatgpt/?couponCode=TIENDA-CH28)
+[Python Interview Questions – Practice Tests](https://www.udemy.com/course/python-1000-interview-questions-practice-tests/?couponCode=HAPPYCODER)
+[Facial Recognition And Emotion Detection Using YOLOv7 Course](https://www.udemy.com/course/facial-recognition-and-emotion-detection-using-yolov7-course/?couponCode=7A57764F4C0A068BD5ED)
+[Youtube Masterclass With Video Editing and Graphics Design](https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=0418FF93BE41876D47E0)
+[UIUX with Figma and Adobe XD](https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=41C303F71C65DEE1C65C)
+[Adobe After Effect Essential: Learn Video Motion Animation](https://www.udemy.com/course/adobe-after-effect-essential-learn-video-motion-animation/?couponCode=7FF4D142FEF42757C315)
+[Fiverr Mastery: Unlock the Secrets of Gig Ranking and SEO](https://www.udemy.com/course/fiverr-mastery-unlock-the-secrets-of-gig-ranking-and-seo/?couponCode=54F11C27830453B87611)
+[SOLIDWORKS Beginner to Intermediate Level and Sheet Metal](https://www.udemy.com/course/solidworks-basics-m/?couponCode=45DFCF3EA8BD8DF04E13)
+[Content Marketing Excellence: HubSpot Practice Test](https://www.udemy.com/course/content-marketing-excellence-hubspot-practice-test/?couponCode=3EF39604C3FA71216278)
+[Mastering C++ Language – C++ Programming For Beginners](https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=584C9F043945EBB0113F)
+[The Complete JavaScript Course: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=04D4CD93D5CD2324278C)
+[ChatGPT: Make Money with ChatGPT as a New Freelancer](https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_011724)
+[Excel – Formulas & Functions Beginner to Expert Course 2024](https://www.udemy.com/course/excel-formulas-functions-beginner-to-expert-course/?couponCode=SUBHANALLAH_011724)
 
