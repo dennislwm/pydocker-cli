@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 18/01/2024
+# Daily Free Udemy Courses - 19/01/2024
 
-[Python Interview Questions – Practice Tests](https://www.udemy.com/course/python-1000-interview-questions-practice-tests/?couponCode=HAPPYCODER)
-[Facial Recognition And Emotion Detection Using YOLOv7 Course](https://www.udemy.com/course/facial-recognition-and-emotion-detection-using-yolov7-course/?couponCode=7A57764F4C0A068BD5ED)
-[Youtube Masterclass With Video Editing and Graphics Design](https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=0418FF93BE41876D47E0)
-[UIUX with Figma and Adobe XD](https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=41C303F71C65DEE1C65C)
-[Adobe After Effect Essential: Learn Video Motion Animation](https://www.udemy.com/course/adobe-after-effect-essential-learn-video-motion-animation/?couponCode=7FF4D142FEF42757C315)
-[Fiverr Mastery: Unlock the Secrets of Gig Ranking and SEO](https://www.udemy.com/course/fiverr-mastery-unlock-the-secrets-of-gig-ranking-and-seo/?couponCode=54F11C27830453B87611)
-[SOLIDWORKS Beginner to Intermediate Level and Sheet Metal](https://www.udemy.com/course/solidworks-basics-m/?couponCode=45DFCF3EA8BD8DF04E13)
-[Content Marketing Excellence: HubSpot Practice Test](https://www.udemy.com/course/content-marketing-excellence-hubspot-practice-test/?couponCode=3EF39604C3FA71216278)
-[Mastering C++ Language – C++ Programming For Beginners](https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=584C9F043945EBB0113F)
-[The Complete JavaScript Course: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course-from-zero-to-expert-o/?couponCode=04D4CD93D5CD2324278C)
-[ChatGPT: Make Money with ChatGPT as a New Freelancer](https://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_011724)
-[Excel – Formulas & Functions Beginner to Expert Course 2024](https://www.udemy.com/course/excel-formulas-functions-beginner-to-expert-course/?couponCode=SUBHANALLAH_011724)
+[Advanced Process Modelling with BPMN 2.0](https://www.udemy.com/course/advanced-process-modelling-with-bpmn-20/?couponCode=2EAFFEEE3498FE10FE18)
+[Offworlder Sculpting and Texturing in 3D Coat for Blender](https://www.udemy.com/course/offworlder-sculpting-and-texturing-in-3d-coat-for-blender/?couponCode=UDEMY2024)
+[Introduction to Web Development [HTML, CSS, JAVASCRIPT]](https://www.udemy.com/course/introduction-to-web-development-h/?couponCode=B639147E57F3362999CA)
+[Revit Expert: for Experienced BIM Modelers and Coordinators](https://www.udemy.com/course/revit-expert-for-experienced-bim-modelers-and-coordinators/?couponCode=09C5480C33AE2D46DE76)
+[MySQL creating and managing relational databases](https://www.udemy.com/course/mysql-creating-and-managing-relational-databases/?couponCode=NEWYEAR2415)
+[Scaling Sci-Fi – 3D Sketching from Jets to Motherships](https://www.udemy.com/course/scaling-sci-fi/?couponCode=UDEMY2024)
+[TOTAL: CompTIA PenTest+ (Ethical Hacking) PT0-002 + 2 Tests](https://www.udemy.com/course/ethical-hacking-and-comptia-pentest-exam-prep-pt0-001/?couponCode=PEN002010224)
+[AI ChatGPT for Entrepreneurs – Start, Grow, Scale a Business](https://www.udemy.com/course/ai-chatgpt-for-entrepreneurs-start-grow-scale-a-business/?couponCode=NEWYEARCOURSE)
+[Personal Finance 101: Asset Classes, Investments & Budgeting](https://www.udemy.com/course/best-personal-finance-course/?couponCode=BOT_FCWC)
+[JavaScript & jQuery – Certification Course for Beginners](https://www.udemy.com/course/javascript-jquery-certification-course-for-beginners/?couponCode=YOUACCEL93688)
+[HTML, CSS, & JavaScript – Certification Course for Beginners](https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/?couponCode=YOUACCEL93688)
+[Twinmotion 2023: Rendering, Lighting and Animation](https://www.udemy.com/course/twinmotion-2023-rendering-lighting-and-animation/?couponCode=9498B5ECA530A0F463A5)
 
