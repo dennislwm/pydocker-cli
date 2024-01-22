@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 21/01/2024
+# Daily Free Udemy Courses - 22/01/2024
 
-[Linux Preparatory Exam For Higher Certificates in Management](https://www.udemy.com/course/linux-preparatory-exam-for-higher-certificates-in-management/?couponCode=FREE-HAPPY24)
-[CSS Complete Course For Beginners](https://www.udemy.com/course/css-complete-course-for-beginners/?couponCode=9AE8225608CB186540F6)
-[Build, Host & Manage WordPress Websites using AI [10Web]](https://www.udemy.com/course/build-host-manage-super-fast-wordpress-websites-in-10web/?couponCode=ALHAMDULILLAH0124)
-[Learn Content Writing using AI & Make Money Online](https://www.udemy.com/course/ai-content-course/?couponCode=ALHAMDULILLAH0124)
-[Marketing Psychology & Neuromarketing with Dekker](https://www.udemy.com/course/product-marketing-psychology/?couponCode=2546D13D83D584D333C0)
-[Agile Transformation A to Z | How To Make Any Company Agile](https://www.udemy.com/course/complete-guide-to-agile-transformation/?couponCode=JAN-SALE3)
-[Computer Vision with Python](https://www.udemy.com/course/computer-vision-with-python/?couponCode=PENGUINDAY)
-[Python Desktop Apps with Tkinter](https://www.udemy.com/course/python-gui-tkinter/?couponCode=PENGUINDAY)
-[Ethical Hacking: Web App Hacking](https://www.udemy.com/course/ethical-hacking-web-app-hacking/?couponCode=PENGUINDAY)
-[C# for Beginners](https://www.udemy.com/course/csharp-for-beginners/?couponCode=PENGUINDAY)
-[Ethical Hacking: Post-Exploitation](https://www.udemy.com/course/ethical-hacking-post-exploitation/?couponCode=PENGUINDAY)
-[Ace Mendix Rapid Developer Cert: Full-Length Mock Exams](https://www.udemy.com/course/mendix-rapid-developer/?couponCode=547C787F769F9EF4E717)
+[Python Certification Preparation:4 Practice Tests for (2024)](https://www.udemy.com/course/python-certification-preparation4-practice-tests-for-2024/?couponCode=0B78B6FAD112A4C41008)
+[Step by Step DV360 Tutorial – 2023 (Programmatic Ads)](https://www.udemy.com/course/dv360-step-by-step-guide/?couponCode=11A2A35F1603070D985C)
+[Active Directory Exploitation and Lateral Movement Black-Box](https://www.udemy.com/course/active-directory-exploitation-and-lateral-movement-black-box/?couponCode=JAN19TH)
+[AZ-104: Microsoft Azure Administrator Practice Test 2024](https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-test-2024/?couponCode=JANUARYSALE)
+[Python 600+ Interview Questions – Practice Tests](https://www.udemy.com/course/python-interview-questions-practice-tests-v/?couponCode=26-JAN)
+[Hack Windows](https://www.udemy.com/course/hack-windows/?couponCode=MARIACHIDAY)
+[QuickBooks Payroll – QuickBooks Pro Desktop](https://www.udemy.com/course/quickbooks-payroll-quickbooks-pro-desktop-2019/?couponCode=D5FF3B63D47477C0896C)
+[QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://www.udemy.com/course/quickbooks-pro-bookkeeping-the-easy-way-for-small-businesses/?couponCode=D1730C0C4C902D759055)
+[Image Processing with Python PIL](https://www.udemy.com/course/python-image-processing-with-pil/?couponCode=MARIACHIDAY)
+[QuickBooks Pro-Business & Personal-One QuickBooks File](https://www.udemy.com/course/quickbooks-pro-2019-business-personal-one-quickbooks-file/?couponCode=859566F38E38D95D2484)
+[Ethical Hacking: Hack Linux Systems](https://www.udemy.com/course/hack-linux/?couponCode=MARIACHIDAY)
+[Intro to Django Python Web Apps](https://www.udemy.com/course/intro-to-django-python-web-apps/?couponCode=MARIACHIDAY)
 
