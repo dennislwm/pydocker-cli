@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 22/01/2024
+# Daily Free Udemy Courses - 23/01/2024
 
-[Python Certification Preparation:4 Practice Tests for (2024)](https://www.udemy.com/course/python-certification-preparation4-practice-tests-for-2024/?couponCode=0B78B6FAD112A4C41008)
-[Step by Step DV360 Tutorial – 2023 (Programmatic Ads)](https://www.udemy.com/course/dv360-step-by-step-guide/?couponCode=11A2A35F1603070D985C)
-[Active Directory Exploitation and Lateral Movement Black-Box](https://www.udemy.com/course/active-directory-exploitation-and-lateral-movement-black-box/?couponCode=JAN19TH)
-[AZ-104: Microsoft Azure Administrator Practice Test 2024](https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-test-2024/?couponCode=JANUARYSALE)
-[Python 600+ Interview Questions – Practice Tests](https://www.udemy.com/course/python-interview-questions-practice-tests-v/?couponCode=26-JAN)
-[Hack Windows](https://www.udemy.com/course/hack-windows/?couponCode=MARIACHIDAY)
-[QuickBooks Payroll – QuickBooks Pro Desktop](https://www.udemy.com/course/quickbooks-payroll-quickbooks-pro-desktop-2019/?couponCode=D5FF3B63D47477C0896C)
-[QuickBooks Pro Desktop -Bookkeeping Business-Easy Way](https://www.udemy.com/course/quickbooks-pro-bookkeeping-the-easy-way-for-small-businesses/?couponCode=D1730C0C4C902D759055)
-[Image Processing with Python PIL](https://www.udemy.com/course/python-image-processing-with-pil/?couponCode=MARIACHIDAY)
-[QuickBooks Pro-Business & Personal-One QuickBooks File](https://www.udemy.com/course/quickbooks-pro-2019-business-personal-one-quickbooks-file/?couponCode=859566F38E38D95D2484)
-[Ethical Hacking: Hack Linux Systems](https://www.udemy.com/course/hack-linux/?couponCode=MARIACHIDAY)
-[Intro to Django Python Web Apps](https://www.udemy.com/course/intro-to-django-python-web-apps/?couponCode=MARIACHIDAY)
+[Mastering Sales Prospecting: Unlock lucrative opportunities](https://www.udemy.com/course/mastering-sales-prospecting-unlock-lucrative-opportunities/?couponCode=3188A50E8CB44620A4BA)
+[Professional Diploma in Project Management](https://www.udemy.com/course/project-managers/?couponCode=343955DCEFB795111EE2)
+[Advance MS Excel VBA for Beginner to Advanced](https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=71E5BCAB0F4BC96189FD)
+[Unity tutorial from scratch till infinity](https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/?couponCode=7F3272AA279E516E7327)
+[Essential Canva Course for Graphics Design Learn in 2 Hour](https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=6CBC6AE680F9C45CCE05)
+[Securing your Digital Life](https://www.udemy.com/course/securing-your-digital-life/?couponCode=22SOFAR)
+[Python Video Processing](https://www.udemy.com/course/python-video-processing/?couponCode=22SOFAR)
+[Windows Networking](https://www.udemy.com/course/windows-networking/?couponCode=22SOFAR)
+[Mastering Data Magic : Power BI + Tableau + SQL , Analytics](https://www.udemy.com/course/mastering-data-magic-power-bi-tableau-analytics/?couponCode=BIJAN24)
+[Adobe Premiere Pro Advanced Video Editing Course](https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=01A85B9CDC88D2EBEAFD)
+[Desalination Explained](https://www.udemy.com/course/introduction-to-reverse-osmosis-desalination/?couponCode=E61EADB14956832873E7)
+[Professional Diploma in Digital Products Management](https://www.udemy.com/course/digital-product-owner/?couponCode=1D79F35379A27CA8C17B)
 
