@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 23/01/2024
+# Daily Free Udemy Courses - 24/01/2024
 
-[Mastering Sales Prospecting: Unlock lucrative opportunities](https://www.udemy.com/course/mastering-sales-prospecting-unlock-lucrative-opportunities/?couponCode=3188A50E8CB44620A4BA)
-[Professional Diploma in Project Management](https://www.udemy.com/course/project-managers/?couponCode=343955DCEFB795111EE2)
-[Advance MS Excel VBA for Beginner to Advanced](https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=71E5BCAB0F4BC96189FD)
-[Unity tutorial from scratch till infinity](https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/?couponCode=7F3272AA279E516E7327)
-[Essential Canva Course for Graphics Design Learn in 2 Hour](https://www.udemy.com/course/essential-canva-course-for-graphics-design-learn-in-2-hour/?couponCode=6CBC6AE680F9C45CCE05)
-[Securing your Digital Life](https://www.udemy.com/course/securing-your-digital-life/?couponCode=22SOFAR)
-[Python Video Processing](https://www.udemy.com/course/python-video-processing/?couponCode=22SOFAR)
-[Windows Networking](https://www.udemy.com/course/windows-networking/?couponCode=22SOFAR)
-[Mastering Data Magic : Power BI + Tableau + SQL , Analytics](https://www.udemy.com/course/mastering-data-magic-power-bi-tableau-analytics/?couponCode=BIJAN24)
-[Adobe Premiere Pro Advanced Video Editing Course](https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=01A85B9CDC88D2EBEAFD)
-[Desalination Explained](https://www.udemy.com/course/introduction-to-reverse-osmosis-desalination/?couponCode=E61EADB14956832873E7)
-[Professional Diploma in Digital Products Management](https://www.udemy.com/course/digital-product-owner/?couponCode=1D79F35379A27CA8C17B)
+[Data Science: R Programming Complete Diploma](https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=AB3D7009C9445604F30E)
+[WP Rocket 2024: Mejora la Velocidad de Carga en WordPress](https://www.udemy.com/course/curso-de-wp-rocket-como-mejorar-la-velocidad-de-una-web-de-wordpress/?couponCode=WP-GR37)
+[C Programming – Basics to Advanced Level](https://www.udemy.com/course/c-programming-basics-to-advanced-level/?couponCode=4518DE408E33B1851A0B)
+[Ethical Hacking: Hack Linux Systems](https://www.udemy.com/course/hack-linux/?couponCode=THEOCEAN)
+[Data Science Skillpath: SQL, ML, Looker Studio & Alteryx](https://www.udemy.com/course/data-science-skillpath/?couponCode=REPUBLICDAYSALE)
+[NGINX MasterClass: NGINX Server & Custom Load Balancer- 2024](https://www.udemy.com/course/-training/?couponCode=C030124)
+[Mastering the Fundamentals of ChatGPT and AI Tools](https://www.udemy.com/course/mastering-the-fundamentals-of-chatgpt-and-ai-tools/?couponCode=C1ABA2A2F864F8C54DB3)
+[JDBC : Java Database Connectivity](https://www.udemy.com/course/jdbc-java-database-connectivity-basics/?couponCode=0D3C288159863EAE2915)
+[SAP SD S/4 HANA with Certification Practice Test & Interview](https://www.udemy.com/course/sap-sd-s4-hana-with-certification-practice-test-interview/?couponCode=SAPSDJAN24)
+[Generate Income with Your YouTube, Despite Limited Views](https://www.udemy.com/course/generate-income-with-your-youtube-despite-limited-views/?couponCode=D11CB30D67A4917F29D1)
+[Data Science: Python for Data Analysis Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=F3AE5A11661557A96783)
+[150+ Exercises – Object Oriented Programming in Python – OOP](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/?couponCode=FREEDROP6)
 
