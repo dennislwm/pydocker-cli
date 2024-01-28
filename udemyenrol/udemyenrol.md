@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 27/01/2024
+# Daily Free Udemy Courses - 28/01/2024
 
-[Learn How Pre-Forclosures & Short Sales work from Scratch](https://www.udemy.com/course/learn-how-pre-forclosures-short-sales-work-from-scratch/?couponCode=B5EAC3706C79DE117D21)
-[Google Cloud – Associate Cloud Engineer Practice Exam 2024](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-practice-exam/?couponCode=24D6E42193545CA44628)
-[Mastering Kali Linux for Ethical Hackers](https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/?couponCode=FREEJAN)
-[JavaScript Interview Questions – Practice Tests](https://www.udemy.com/course/javascript-interview-questions-practice-tests/?couponCode=HAPPY-26-JAN)
-[Beginner English with Emojis](https://www.udemy.com/course/english-with-emojis/?couponCode=77CFF2701553B5586CC3)
-[Amazon Web Services (AWS) Certified](https://www.udemy.com/course/amazon-web-services-aws-certified-2022/?couponCode=EDUCBA1NY24)
-[Become Fullstack Developer with NextJS SpringBoot Tailwind](https://www.udemy.com/course/become-fullstack-developer-with-nextjs-springboot-tailwind/?couponCode=87897EB3ED44AC91F533)
-[Critical Thinking and Decision Making Skills Training](https://www.udemy.com/course/critical-thinking-and-decision-making-skills-training/?couponCode=FREE-MIND)
-[CSS And JavaScript Complete Course For Beginners](https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=1B8F5215E3FE32BE5E43)
-[Black book for sales – the secrets and tricks of the trade](https://www.udemy.com/course/blackbook-for-sales-the-secrets-and-tricks-of-the-trade/?couponCode=501C90F80836C43C8C4D)
-[Edit Entire Feature Film By Yourself](https://www.udemy.com/course/how-to-edit-a-feature-film-by-yourself/?couponCode=BYEJAN)
-[Independent Film Screenwriting That Works](https://www.udemy.com/course/independent-film-screenwriting/?couponCode=BYEJAN)
+[Ultimate Python Bootcamp For Data Science & Machine Learning](https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?couponCode=A295E76E3B53F2B4AEE4)
+[Git & GitHub A Practical Course: Beginner To Advanced Level](https://www.udemy.com/course/git-and-github-a-practical-course-beginner-to-advanced/?couponCode=A88BF5AD817DB2B26656)
+[Excellent Python 3 Bootcamp For Absolute Beginners In 2023](https://www.udemy.com/course/excellent-python-3-bootcamp-in-2023/?couponCode=767D302428CA7FA367C8)
+[JavaScript Interview Questions – Practice Tests](https://www.udemy.com/course/javascript-interview-questions-practice-tests/?couponCode=DDA3D36BA9E7B351A0B7)
+[HTML Practice Test for Certification, Exams & Interviews](https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=9B0444AB2EE1BE0F2FFC)
+[Management Executive Certification](https://www.udemy.com/course/certified-management-professional/?couponCode=795292E5C90E941DC54A)
+[ServiceNow Certified System Administrator (CSA) Practice](https://www.udemy.com/course/servicenow-certified-system-administrator-csa-practice-rq/?couponCode=B37250171AD6CB727F5D)
+[Professional Scrum Product Owner – PSPO1 Tests | Update 2024](https://www.udemy.com/course/professional-scrum-product-owner-pspo1-tests-update-2024/?couponCode=D747FCC49FF80B099952)
+[Start Career in CyberSecurity – The Ultimate Guide](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=0E8E09835BA0D3C886D5)
+[Agile Professional Certification](https://www.udemy.com/course/agile-certified-professional/?couponCode=F452803BF1A0759EE0AB)
+[Salesforce Certified Admin (ADM 201 | ADM-201) Tests | 2024](https://www.udemy.com/course/salesforce-certified-admin-adm-201-adm-201-tests-2024/?couponCode=37EC614EAFC7DCC56F9B)
+[Certified Information Systems Auditor (CISA) – Updated 2024](https://www.udemy.com/course/certified-information-systems-auditor-cisa-updated-2024/?couponCode=75C081905AA407323A09)
 
