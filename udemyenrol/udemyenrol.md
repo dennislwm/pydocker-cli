@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 29/01/2024
+# Daily Free Udemy Courses - 30/01/2024
 
-[A Complete Roadmap to become a Successful Data Scientist](https://www.udemy.com/course/a-complete-roadmap-to-become-a-successful-data-scientist/?couponCode=4C982FCB401737A17412)
-[Dart Programming language from zero تعلم لغة الدرات من الصفر](https://www.udemy.com/course/dart-programming-language-from-zero_in_arabic/?couponCode=63D3144F93C507349F71)
-[Start Career in CyberSecurity – The Ultimate Guide](https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/?couponCode=A02B4165F092ABC68FD2)
-[Corporate Governance Professional Certification (CGPC)](https://www.udemy.com/course/corporate-governance-certification/?couponCode=F9C7EEE24A5412788162)
-[Learn PHP and MySQL for Web Application and Web Development](https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/?couponCode=A5E26AC55A211543D7EE)
-[Certified Risk Information Systems Control(CRISC) TESTS 2024](https://www.udemy.com/course/certified-risk-information-systems-controlcrisc-tests-2024/?couponCode=EB839BF00E400598AD96)
-[UIUX with Figma and Adobe XD](https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=B478E390861DFCAF3C8E)
-[Fintech 101 Blockchain & Crypto](https://www.udemy.com/course/fintech-101-blockchain-crypto/?couponCode=FREECRYPTOCOURSE)
-[Deep Learning Recognition Using YOLOv8 Complete Project](https://www.udemy.com/course/brain-tumor-detection-using-yolov8-complete-project/?couponCode=B44C9F7D8591DDFA85E4)
-[Data Analysis : Learn Data Science & Analytics](https://www.udemy.com/course/data-analysis-learn-data-science-analytics/?couponCode=E451CD9930E4C1A7AFD5)
-[Pro Mastering Advanced Excel – Formulas, Functions & Charts](https://www.udemy.com/course/pro-mastering-advanced-excel-formulas-functions-charts/?couponCode=FB7006BA0D5AB413891E)
-[Complete React Native App Developer Course 2024](https://www.udemy.com/course/complete-react-native-app-developer-course/?couponCode=EE9CFE3F7BD087D1DD2B)
+[Learn to Program with C# from Scratch | C# Immersive](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=07BF0DE79A62990034FB)
+[Create and Sell AI Prompts for Profit](https://www.udemy.com/course/create-and-sell-ai-prompts-for-profit/?couponCode=3062C429E1516B8B69DE)
+[C++ Programming: The Coding Interview](https://www.udemy.com/course/c-programming-the-coding-interview/?couponCode=FCC127C63FB35154563E)
+[11 Days Math Challenge : Master Basics of Mathematics](https://www.udemy.com/course/math-fundamentals/?couponCode=B9189169070FB75F82A5)
+[PyCharm: The perfect Pyhton IDE in 2023](https://www.udemy.com/course/pycharm-the-perfect-pyhton-ide-in-2021/?couponCode=BBD71BBF89ACF2894FA4)
+[The Windows Command Line 2023 Course (CMD, Batch, MS-DOS)](https://www.udemy.com/course/the-windows-command-line-course-cmd-batch-ms-dos/?couponCode=9D9FA649F7EF875959C4)
+[Google Professional Cloud DevOps Engineer – GCP – Exams](https://www.udemy.com/course/google-professional-cloud-devops-engineer-gcp-exams/?couponCode=FREEDROP11)
+[Learning SOLIDWORKS : For Students, Engineers, and Designers](https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=SOLIDESIGN)
+[Mini MBA in Innovations and Digital Transformation](https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=2AE04BB7C29E9F4B0030)
+[Data Science: Python for Data Analysis Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=775A0F6384757C1F3A81)
+[Building of Web3 Token Balance Applications](https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=58508AAC719F0D6970C9)
+[Databases with Python: MySQL, SQLite & MongoDB with Python](https://www.udemy.com/course/databases-with-python-mysql-sqlite-mongodb-with-python/?couponCode=3ED52134CA9CC392E571)
 
