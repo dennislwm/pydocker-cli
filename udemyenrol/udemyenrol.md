@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 30/01/2024
+# Daily Free Udemy Courses - 31/01/2024
 
 [Learn to Program with C# from Scratch | C# Immersive](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=07BF0DE79A62990034FB)
 [Create and Sell AI Prompts for Profit](https://www.udemy.com/course/create-and-sell-ai-prompts-for-profit/?couponCode=3062C429E1516B8B69DE)
