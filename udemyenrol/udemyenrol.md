@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 31/01/2024
+# Daily Free Udemy Courses - 01/02/2024
 
-[Learn to Program with C# from Scratch | C# Immersive](https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=07BF0DE79A62990034FB)
-[Create and Sell AI Prompts for Profit](https://www.udemy.com/course/create-and-sell-ai-prompts-for-profit/?couponCode=3062C429E1516B8B69DE)
-[C++ Programming: The Coding Interview](https://www.udemy.com/course/c-programming-the-coding-interview/?couponCode=FCC127C63FB35154563E)
-[11 Days Math Challenge : Master Basics of Mathematics](https://www.udemy.com/course/math-fundamentals/?couponCode=B9189169070FB75F82A5)
-[PyCharm: The perfect Pyhton IDE in 2023](https://www.udemy.com/course/pycharm-the-perfect-pyhton-ide-in-2021/?couponCode=BBD71BBF89ACF2894FA4)
-[The Windows Command Line 2023 Course (CMD, Batch, MS-DOS)](https://www.udemy.com/course/the-windows-command-line-course-cmd-batch-ms-dos/?couponCode=9D9FA649F7EF875959C4)
-[Google Professional Cloud DevOps Engineer – GCP – Exams](https://www.udemy.com/course/google-professional-cloud-devops-engineer-gcp-exams/?couponCode=FREEDROP11)
-[Learning SOLIDWORKS : For Students, Engineers, and Designers](https://www.udemy.com/course/learning-solidworks-for-students-engineers-and-designers/?couponCode=SOLIDESIGN)
-[Mini MBA in Innovations and Digital Transformation](https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/?couponCode=2AE04BB7C29E9F4B0030)
-[Data Science: Python for Data Analysis Full Bootcamp](https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=775A0F6384757C1F3A81)
-[Building of Web3 Token Balance Applications](https://www.udemy.com/course/building-of-web3-token-balance-application/?couponCode=58508AAC719F0D6970C9)
-[Databases with Python: MySQL, SQLite & MongoDB with Python](https://www.udemy.com/course/databases-with-python-mysql-sqlite-mongodb-with-python/?couponCode=3ED52134CA9CC392E571)
+[Shotcut Video Editing Tutorial: A Guide For Beginners](https://www.udemy.com/course/shotcut-video-editing-tutorial-a-guide-for-beginners/?couponCode=63A180CEDE5A2029D5C1)
+[Fintech 101 Introduction](https://www.udemy.com/course/fintech-101-series-introduction/?couponCode=FREEFINTECHCOURSE)
+[How to Use Phemex Worldwide (Even as a Beginner)](https://www.udemy.com/course/how-to-make-money-on-phemex/?couponCode=579B8103EB3FAA2DFDBE)
+[The Modern JavaScript for Beginners](https://www.udemy.com/course/the-modern-javascript-for-beginners/?couponCode=E0ECEDE98BB76EFB297E)
+[Art Therapy for Business: Work-Life Balance](https://www.udemy.com/course/art-therapy-for-business-work-life-balance/?couponCode=B66477C9A85F73077CF3)
+[Salesforce Certified Data Cloud Consultant -101 level course](https://www.udemy.com/course/salesforce-certified-data-cloud-consultant-101-level-course/?couponCode=D891EC1CB5826AFD7EEC)
+[GRE – GMAT | Advanced Learners | Math Marathon](https://www.udemy.com/course/gre-gmat-advanced-learners-math-marathon/?couponCode=D7C44BB84A3DDE14EFFC)
+[Complete AWS Cloud Practitioner Certification Handbook](https://www.udemy.com/course/aws-cloud-practitioner-certification-practice-test-2023/?couponCode=CCAT-MASTERY-2024)
+[Python Development & Data Science: Variables and Data Types](https://www.udemy.com/course/python-development-data-science-variables-and-data-types/?couponCode=33F524625F1B0D61091F)
+[Java for Beginners – Learn all the Basics of Java](https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=FF6790E9664B66993B4E)
+[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=DE1F7F77FE0BF472FB71)
+[Web Development Wizardry: HTML & CSS Course for Beginners.](https://www.udemy.com/course/html-and-css-2-in-1-course-from-zero-for-beginners-2022/?couponCode=79E72CE9C70CF91F14AB)
 
