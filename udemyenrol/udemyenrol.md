@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 01/02/2024
+# Daily Free Udemy Courses - 02/02/2024
 
-[Shotcut Video Editing Tutorial: A Guide For Beginners](https://www.udemy.com/course/shotcut-video-editing-tutorial-a-guide-for-beginners/?couponCode=63A180CEDE5A2029D5C1)
-[Fintech 101 Introduction](https://www.udemy.com/course/fintech-101-series-introduction/?couponCode=FREEFINTECHCOURSE)
-[How to Use Phemex Worldwide (Even as a Beginner)](https://www.udemy.com/course/how-to-make-money-on-phemex/?couponCode=579B8103EB3FAA2DFDBE)
-[The Modern JavaScript for Beginners](https://www.udemy.com/course/the-modern-javascript-for-beginners/?couponCode=E0ECEDE98BB76EFB297E)
-[Art Therapy for Business: Work-Life Balance](https://www.udemy.com/course/art-therapy-for-business-work-life-balance/?couponCode=B66477C9A85F73077CF3)
-[Salesforce Certified Data Cloud Consultant -101 level course](https://www.udemy.com/course/salesforce-certified-data-cloud-consultant-101-level-course/?couponCode=D891EC1CB5826AFD7EEC)
-[GRE – GMAT | Advanced Learners | Math Marathon](https://www.udemy.com/course/gre-gmat-advanced-learners-math-marathon/?couponCode=D7C44BB84A3DDE14EFFC)
-[Complete AWS Cloud Practitioner Certification Handbook](https://www.udemy.com/course/aws-cloud-practitioner-certification-practice-test-2023/?couponCode=CCAT-MASTERY-2024)
-[Python Development & Data Science: Variables and Data Types](https://www.udemy.com/course/python-development-data-science-variables-and-data-types/?couponCode=33F524625F1B0D61091F)
-[Java for Beginners – Learn all the Basics of Java](https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/?couponCode=FF6790E9664B66993B4E)
-[Excel Tips and trick : Learn MS Excel by making 7 Projects](https://www.udemy.com/course/excel-tips-and-trick-learn-ms-excel-by-making-7-projects/?couponCode=DE1F7F77FE0BF472FB71)
-[Web Development Wizardry: HTML & CSS Course for Beginners.](https://www.udemy.com/course/html-and-css-2-in-1-course-from-zero-for-beginners-2022/?couponCode=79E72CE9C70CF91F14AB)
+[Figma to WordPress: Learn to Design and Build Website](https://www.udemy.com/course/the-complete-figma-course-design-portfolio-website/?couponCode=CC9AD822A7243962F8CD)
+[Ultimate AWS Cloud Practitioner Practice Exam 2023 | 600+ Q](https://www.udemy.com/course/ultimate-aws-certified-cloud-practitioner-practice-exam-2023/?couponCode=LINKEDIN)
+[Python Practice Tests: Master Your Python Skills.](https://www.udemy.com/course/python-practice-tests-master-your-python-skills/?couponCode=A39D0811E9F046FE7CAB)
+[Master Course in Chemical & Petroleum Engineering Management](https://www.udemy.com/course/chemical-petroleum-engineering-management/?couponCode=AD9B798A310AACE35D40)
+[Master Course in Chatbot Technology and Google Bard AI](https://www.udemy.com/course/chatbot-technology-google-bard-ai/?couponCode=29C6AB40C60F9C7B0BB1)
+[Digital Mastery: Google Ads Certification Challenge](https://www.udemy.com/course/digital-mastery-google-ads-certification-challenge/?couponCode=5C1A03B969149D3B04C4)
+[Content Marketing Excellence: HubSpot Practice Test](https://www.udemy.com/course/content-marketing-excellence-hubspot-practice-test/?couponCode=5CBC2B960494A254D73C)
+[Quality & Skill Based Practice Test On MS Excel [2024]](https://www.udemy.com/course/ms-excel-test/?couponCode=01E9387304F7F2B2B7DB)
+[ChatGPT, Canva, Dall-E, Bard, Guide for Business Profit](https://www.udemy.com/course/chatgpt-canva-dall-e-bard-guide-for-busy-entrepreneur/?couponCode=BE4DEE8D751B587F0AEE)
+[Preparation Tests For Python Certification Exams 2024](https://www.udemy.com/course/preparation-tests-for-python-certification-exam-2024/?couponCode=B30CED859E395CA278FE)
+[4 Practice Tests for any C++ Certification](https://www.udemy.com/course/4-practice-tests-for-any-c-certification/?couponCode=3DD1638C6990E22CB789)
+[Python Programming for Beginners | Full Course in Hindi](https://www.udemy.com/course/python-for-beginners-full-course-in-hindi/?couponCode=1B812DA5455BF06F1706)
 
