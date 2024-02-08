@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 07/02/2024
+# Daily Free Udemy Courses - 08/02/2024
 
-[Grow your business with Chatbot Marketing!](https://www.udemy.com/course/chatbot-marketing-course/?couponCode=CHM0602)
-[Master TOEFL in 30 days (2024)](https://www.udemy.com/course/prepare-for-the-toefl-in-30-days-without-wasting-a-dollar/?couponCode=5B973C9D268DD4EFA0C0)
-[TOEFL Preparation: Listening Section](https://www.udemy.com/course/toefl-preparation-how-to-get-27-in-toefl-listening-section/?couponCode=C7D0A8F8748BA8F607A1)
-[Learn ChatGPT, Midjourney, AI and Use it For Passive Income](https://www.udemy.com/course/learn-chatgpt-midjourney-ai-and-use-it-for-passive-income/?couponCode=28D62A1D050F7C2097C0)
-[Master Course in Real Estate and Property Management 2.0](https://www.udemy.com/course/real-estate-and-property-management/?couponCode=20F8EB09C791CC1B85A9)
-[Master Course in Automobile Management & Vehicle Management](https://www.udemy.com/course/automobile-management-vehicle-management-fourwheeler-showroom/?couponCode=67436262BEAFF855AEFF)
-[Master Course in Food & Beverage (F&B) Management 3.0](https://www.udemy.com/course/food-beverge-hotel-management/?couponCode=5093AC5A5FD208C57CD1)
-[Master Course in Tourism Management & Travel Management 3.0](https://www.udemy.com/course/tourism-management-travel-management-travel-business-travel-tips/?couponCode=AF0B8D8800CEA6F1D259)
-[Master Course in Airport, Airline & Aviation Management 2.0](https://www.udemy.com/course/airport-airline-aviation-management/?couponCode=61BDEC3FA17C9C54EC51)
-[Advanced Master Course in Banking and Insurance 3.0](https://www.udemy.com/course/banking-and-insurance-blockchain-ai-rpa-banking/?couponCode=B265A8AA96541187FD1A)
-[Master Course in Gas Station & Petrol Station Management 2.0](https://www.udemy.com/course/gas-station-petrol-station-management-filling-station-management/?couponCode=A97A0EF71E3752E4E51B)
-[Advance MS Excel VBA for Beginner to Advanced](https://www.udemy.com/course/advance-ms-excel-vba-for-beginner-to-advanced/?couponCode=AB575ECEBE341A1906CD)
+[Luxury Industry Professional Certification (LIPC)](https://www.udemy.com/course/luxury-industry-professional-certification/?couponCode=423CB8A2DF2E8445BD00)
+[Professional Diploma in WEB3 NFT Business](https://www.udemy.com/course/professional-diploma-in-web3-nft-business/?couponCode=EB0620D72B5CA75AE1D7)
+[Understanding Financial Markets: Your Essential Guide (2024)](https://www.udemy.com/course/understanding-financial-markets-your-essential-guide-2024/?couponCode=BOT_5_FEB)
+[Autodesk Advance Steel](https://www.udemy.com/course/autodesk-advance-steel-aulageo/?couponCode=MEGAPROM5X1F)
+[1000+ JavaScript Interview Questions – Practice Tests](https://www.udemy.com/course/javascript-interview-questions-practice-tests/?couponCode=AFC6A892517057299455)
+[Hands-On Docker Tutorial for Beginners in 2024](https://www.udemy.com/course/hands-on-docker-tutorial-for-beginners/?couponCode=C446CFEA6C664FB0A29C)
+[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=441A9DF0F0C0F97C504D)
+[Oracle Primavera P6: Essentials Training for Project Success](https://www.udemy.com/course/project-schedule-management-oracle-primavera-p6-foundations-training/?couponCode=EBF6CBC861DEFE95AA2D)
+[Professional Diploma in Web Design for SME Enterprises](https://www.udemy.com/course/website-design-course-for-small-business-owners/?couponCode=83A5D2A6EFB031312F3F)
+[HTML Practice Test for Certification, Exams & Interviews](https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=1EED99EBD9A086C100B8)
+[Excel Certification Exam Preparation: 4 Practice Tests 2024](https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests-2024-v/?couponCode=384B79086F6D48681235)
+[Podcast Outsourcing](https://www.udemy.com/course/outsource-podcasts-social-media-marketing/?couponCode=PODOUTEXPFEB122024)
 
