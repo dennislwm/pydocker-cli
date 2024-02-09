@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 08/02/2024
+# Daily Free Udemy Courses - 09/02/2024
 
 [Luxury Industry Professional Certification (LIPC)](https://www.udemy.com/course/luxury-industry-professional-certification/?couponCode=423CB8A2DF2E8445BD00)
 [Professional Diploma in WEB3 NFT Business](https://www.udemy.com/course/professional-diploma-in-web3-nft-business/?couponCode=EB0620D72B5CA75AE1D7)
