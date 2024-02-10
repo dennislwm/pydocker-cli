@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 09/02/2024
+# Daily Free Udemy Courses - 10/02/2024
 
-[Luxury Industry Professional Certification (LIPC)](https://www.udemy.com/course/luxury-industry-professional-certification/?couponCode=423CB8A2DF2E8445BD00)
-[Professional Diploma in WEB3 NFT Business](https://www.udemy.com/course/professional-diploma-in-web3-nft-business/?couponCode=EB0620D72B5CA75AE1D7)
-[Understanding Financial Markets: Your Essential Guide (2024)](https://www.udemy.com/course/understanding-financial-markets-your-essential-guide-2024/?couponCode=BOT_5_FEB)
-[Autodesk Advance Steel](https://www.udemy.com/course/autodesk-advance-steel-aulageo/?couponCode=MEGAPROM5X1F)
-[1000+ JavaScript Interview Questions – Practice Tests](https://www.udemy.com/course/javascript-interview-questions-practice-tests/?couponCode=AFC6A892517057299455)
-[Hands-On Docker Tutorial for Beginners in 2024](https://www.udemy.com/course/hands-on-docker-tutorial-for-beginners/?couponCode=C446CFEA6C664FB0A29C)
-[The complete introduction to cryptocurrencies trading](https://www.udemy.com/course/the-complete-introduction-to-cryptocurrencies-trading/?couponCode=441A9DF0F0C0F97C504D)
-[Oracle Primavera P6: Essentials Training for Project Success](https://www.udemy.com/course/project-schedule-management-oracle-primavera-p6-foundations-training/?couponCode=EBF6CBC861DEFE95AA2D)
-[Professional Diploma in Web Design for SME Enterprises](https://www.udemy.com/course/website-design-course-for-small-business-owners/?couponCode=83A5D2A6EFB031312F3F)
-[HTML Practice Test for Certification, Exams & Interviews](https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=1EED99EBD9A086C100B8)
-[Excel Certification Exam Preparation: 4 Practice Tests 2024](https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests-2024-v/?couponCode=384B79086F6D48681235)
-[Podcast Outsourcing](https://www.udemy.com/course/outsource-podcasts-social-media-marketing/?couponCode=PODOUTEXPFEB122024)
+[Bootstrap 4 for Beginners Build a modern Responsive website](https://www.udemy.com/course/bootstrap-4-for-beginners/?couponCode=7E8EA32F2C55BD053546)
+[Build Complete 2024 CMS Blog in PHP MySQL Bootstrap & PDO](https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/?couponCode=PHPBLOG53)
+[C Programming Mastery-Structured Approach from Novice to Pro](https://www.udemy.com/course/structured-programming-in-c-the-ultimate-beginners-course/?couponCode=E8F0AD0138D40A98ABE8)
+[Build a Backend REST API with Node JS from Scratch](https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=3A30A34DD943253D5C5C)
+[Microsoft Certified: Azure Solutions Architect Expert Exams](https://www.udemy.com/course/microsoft-certified-azure-solutions-architect-expert-exams/?couponCode=FREEDROP4)
+[AWS Certified Solutions Architect Associate – Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-tests-new/?couponCode=FREEDROP6)
+[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=3A21AB47D49CD5FCA2DA)
+[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=8D36E24EF7C5A54CC1E4)
+[Vision Statement Course: Find Your Purpose & Your Calling](https://www.udemy.com/course/vision-statement/?couponCode=WITHGRATITUDE)
+[Seawater Desalination Explained](https://www.udemy.com/course/introduction-to-reverse-osmosis-desalination/?couponCode=31A1AF80EC48C115593C)
+[Ethical Hacking: Post-Exploitation](https://www.udemy.com/course/ethical-hacking-post-exploitation/?couponCode=HBDDORIS)
+[Hack Network PCs](https://www.udemy.com/course/hack-network-pcs/?couponCode=HBDDORIS)
 
