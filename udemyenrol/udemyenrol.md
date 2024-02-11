@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 10/02/2024
+# Daily Free Udemy Courses - 11/02/2024
 
 [Bootstrap 4 for Beginners Build a modern Responsive website](https://www.udemy.com/course/bootstrap-4-for-beginners/?couponCode=7E8EA32F2C55BD053546)
 [Build Complete 2024 CMS Blog in PHP MySQL Bootstrap & PDO](https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/?couponCode=PHPBLOG53)
