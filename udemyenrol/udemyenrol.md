@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 11/02/2024
+# Daily Free Udemy Courses - 12/02/2024
 
-[Bootstrap 4 for Beginners Build a modern Responsive website](https://www.udemy.com/course/bootstrap-4-for-beginners/?couponCode=7E8EA32F2C55BD053546)
-[Build Complete 2024 CMS Blog in PHP MySQL Bootstrap & PDO](https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/?couponCode=PHPBLOG53)
-[C Programming Mastery-Structured Approach from Novice to Pro](https://www.udemy.com/course/structured-programming-in-c-the-ultimate-beginners-course/?couponCode=E8F0AD0138D40A98ABE8)
-[Build a Backend REST API with Node JS from Scratch](https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/?couponCode=3A30A34DD943253D5C5C)
-[Microsoft Certified: Azure Solutions Architect Expert Exams](https://www.udemy.com/course/microsoft-certified-azure-solutions-architect-expert-exams/?couponCode=FREEDROP4)
-[AWS Certified Solutions Architect Associate – Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-tests-new/?couponCode=FREEDROP6)
-[Introduction to Quantum Computing](https://www.udemy.com/course/introduction-to-quantum-computing/?couponCode=3A21AB47D49CD5FCA2DA)
-[Javascript For Beginners Complete Course](https://www.udemy.com/course/javascript-for-beginners-complete-course/?couponCode=8D36E24EF7C5A54CC1E4)
-[Vision Statement Course: Find Your Purpose & Your Calling](https://www.udemy.com/course/vision-statement/?couponCode=WITHGRATITUDE)
-[Seawater Desalination Explained](https://www.udemy.com/course/introduction-to-reverse-osmosis-desalination/?couponCode=31A1AF80EC48C115593C)
-[Ethical Hacking: Post-Exploitation](https://www.udemy.com/course/ethical-hacking-post-exploitation/?couponCode=HBDDORIS)
-[Hack Network PCs](https://www.udemy.com/course/hack-network-pcs/?couponCode=HBDDORIS)
+[PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=96C3575D2534785FA4F2)
+[PMI-ACP®: Agile Certified Project Management 200 Questions](https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=4D3A54C288F339345550)
+[Beginning Bash Scripting](https://www.udemy.com/course/bash-scripting-on-linux/?couponCode=THOMAS_EDISON)
+[Fostering Customer Engagement with CE Analytics & Strategies](https://www.udemy.com/course/fostering-customer-engagement-with-ce-analytics-strategies/?couponCode=288FFFCBECA5BD2B9175)
+[Master Course in Cloud Computing and Cloud Architecture 2.0](https://www.udemy.com/course/cloud-computing-cloud-architecture-cloud-security-cloud-monitoring/?couponCode=CB59B29C1A50B327E07E)
+[Programming Network Applications in Java](https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=FEBRARY24)
+[T-Shirt Design for Beginner to Expert With Photoshop](https://www.udemy.com/course/t-shirt-design-for-beginner-to-expert-with-photoshop/?couponCode=D42A2B73F94AAF769B0B)
+[Microsoft AZ-104: Azure Administrator Exam Prep Test](https://www.udemy.com/course/microsoft-az-104-azure-administrator-exam-prep-test/?couponCode=4FB6670692B7C976019E)
+[PSM1 Practice Tests Scrum Master certification-160Q](https://www.udemy.com/course/psm1-practice-tests-scrum-master-certification-160q/?couponCode=2016CD83ABDCC8D3CDA0)
+[Microsoft AZ-900: Azure Fundamentals Exam Preparation Test](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-preparation-test/?couponCode=E2CCAB5BCC2D5751F198)
+[Master Travel Writing, blogging, travel journalism & Earning](https://www.udemy.com/course/master-travel-writing-blogging-travel-journalism-earning/?couponCode=198BE9891DB87ABB9C4B)
+[4 Latest Practice Tests for any C++ Certification](https://www.udemy.com/course/4-latest-practice-tests-for-any-c-certification/?couponCode=751A3E59EBF16622E706)
 
