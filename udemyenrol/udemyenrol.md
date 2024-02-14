@@ -1,4 +1,4 @@
-# Daily Free Udemy Courses - 13/02/2024
+# Daily Free Udemy Courses - 14/02/2024
 
 [PSPO1 Practice Tests Scrum Product Owner certification-160Q](https://www.udemy.com/course/pspo1tm-practice-tests-scrum-product-owner-certification-160q/?couponCode=96C3575D2534785FA4F2)
 [PMI-ACP®: Agile Certified Project Management 200 Questions](https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=4D3A54C288F339345550)
