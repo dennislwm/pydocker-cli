@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 15/02/2024
+# Daily Free Udemy Courses - 16/02/2024
 
-[Beginner UI UX YouTube Design Course From Scratch In Figma](https://www.udemy.com/course/beginner-ui-ux-youtube-design-course-from-scratch-in-figma/?couponCode=8726CEC7ED5D289E19C7)
-[Build A Chat Application With Firebase, Flutter and Provider](https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/?couponCode=67D9ECAEF2653B7BC90F)
-[Python & Django REST API Bootcamp – Build A Python Web API](https://www.udemy.com/course/the-complete-python-django-rest-api-development-bootcamp/?couponCode=BF50AD1E0B534DC94E90)
-[Flutter REST Movie App: Master Flutter REST API Development](https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=B0B113B5962A0045809D)
-[Flutter UI Bootcamp | Build Beautiful Apps using Flutter](https://www.udemy.com/course/the-complete-flutter-ui-course-build-amazing-mobile-ui/?couponCode=E96E1D6A7078DC742FD8)
-[Master Python Web Scraping & Automation using BS4 & Selenium](https://www.udemy.com/course/master-python-web-scraping-automation-using-bs4-selenium/?couponCode=7058B7DF108ED7210CA2)
-[WordPress for beginners: Best WordPress and marketing course](https://www.udemy.com/course/wordpress-for-beginners-best-wordpress-and-marketing-course/?couponCode=3724112C0963F08B860B)
-[Flutter & Firebase Chat App: Master Flutter and Firebase](https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/?couponCode=51C9D0595BE38C2DBE7F)
-[IELTS Band 8: IELTS Listening Mastery | IELTS Tenses](https://www.udemy.com/course/ielts-mastery/?couponCode=BA7719E61E956081ACC2)
-[Master 3 AI Chatbots in 1 Course: ChatGPT, Gemini, Bing Chat](https://www.udemy.com/course/learn-ai-chatbots-chatgpt-google-bard-bing-chat-edge-image-creator/?couponCode=FEBRUARY14)
-[American English Vowels for Indian IT Professionals](https://www.udemy.com/course/american-english-vowels-for-indian-it-professionals/?couponCode=FREEINFEB)
-[CCNA Success Blueprint 2024 : Utimate Test Series](https://www.udemy.com/course/ccna-test-series/?couponCode=TODAY_ONLY)
+[Navigate the Linux File System](https://www.udemy.com/course/navigate-the-linux-file-system/?couponCode=HIPPODAY)
+[Cyber Security: Detect and Prevent Malware](https://www.udemy.com/course/cyber-security-detect-and-prevent-malware/?couponCode=HIPPODAY)
+[Certified Agile Associate: The Fundamentals of Agility](https://www.udemy.com/course/certified-agile-associate-the-fundamentals-of-agility/?couponCode=AA50B6693EF6F0E2E38F)
+[The Ultimate Guide to Stock Investing for Complete Beginners](https://www.udemy.com/course/the-ultimate-guide-to-stock-investing-for-complete-beginners/?couponCode=BA371A5C905E02BC029F)
+[Forecasting Sales with Time Series, LightGBM & Random Forest](https://www.udemy.com/course/forecasting-sales-with-time-series-lightgbm-random-forest/?couponCode=7E4C6274221F1DC2D352)
+[GoViral-Generate Passive Income On YouTube Despite Low Views](https://www.udemy.com/course/generate-income-with-your-youtube-despite-limited-views/?couponCode=41772A8EEC466FB351A8)
+[Mastering React: React Crash Course with Mini Projects](https://www.udemy.com/course/mastering-react-react-crash-course-with-mini-projects/?couponCode=6A6885926F27192FD27A)
+[Midjourney Mastery: Creating Visuals Using AI](https://www.udemy.com/course/midjourney-comprehensive/?couponCode=MM1502)
+[ChatGPT & Midjourney: Personal Digital Marketing Assistants](https://www.udemy.com/course/chatgpt-digital-marketing/?couponCode=CMPDM1502)
+[[2024] AWS Certified Solutions Architect Associate (SAA-C03)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saac03/?couponCode=AF405A0B504C609BBB18)
+[Learn Content Writing using AI & Make Money Online](https://www.udemy.com/course/ai-content-course/?couponCode=ALHAMDULILLAH0224)
+[Learn Chess in Hindi : Zero to Master Level](https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=68443F02E3879C481785)
 
