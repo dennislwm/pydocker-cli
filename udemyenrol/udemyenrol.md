@@ -1,15 +1,15 @@
-# Daily Free Udemy Courses - 16/02/2024
+# Daily Free Udemy Courses - 17/02/2024
 
+[PHP with MySQL 2024: Build Real Estate Management System](https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/?couponCode=PHPREALESTATE42)
+[Contact Center Manager Professional Certification](https://www.udemy.com/course/sales-service-contact-center-manager/?couponCode=361559386AF6DCB5CA4D)
+[The Complete SEO Guide: SEO For Beginner to Expert 2024](https://www.udemy.com/course/rank-your-blog-website-in-google-beginners-seo-course/?couponCode=SUBHANALLAH_021624)
+[CSS, Bootstrap And JavaScript And Python Stack Course](https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=F2B72FE7BDCCA1C4386F)
+[Python Complete Course For Beginners](https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=FF2F77CB8B00179EDE42)
+[ChatGPT: Complete ChatGPT Guide For Beginners](https://www.udemy.com/course/chatgpt-complete-chatgpt-guide-for-beginners/?couponCode=ALHAMDULILLAH_021623)
+[The Complete 2023 Swift & SwiftUI (IOS App Course) [Arabic]](https://www.udemy.com/course/swift-swiftui-ios/?couponCode=7F08ABB64862BB2AAB38)
+[Aprende Lenguaje C, C++ y C# de CERO a EXPERTO](https://www.udemy.com/course/aprende-lenguaje-c-c-y-c-de-cero-a-experto/?couponCode=2D0205D76E209CB3FB71)
+[Adeus Windows! Curso Completo de Linux Desktop —Iniciantes—](https://www.udemy.com/course/adeus-windows-curso-de-linux-desktop-completo/?couponCode=15-02-24--8B264CD900)
 [Navigate the Linux File System](https://www.udemy.com/course/navigate-the-linux-file-system/?couponCode=HIPPODAY)
 [Cyber Security: Detect and Prevent Malware](https://www.udemy.com/course/cyber-security-detect-and-prevent-malware/?couponCode=HIPPODAY)
 [Certified Agile Associate: The Fundamentals of Agility](https://www.udemy.com/course/certified-agile-associate-the-fundamentals-of-agility/?couponCode=AA50B6693EF6F0E2E38F)
-[The Ultimate Guide to Stock Investing for Complete Beginners](https://www.udemy.com/course/the-ultimate-guide-to-stock-investing-for-complete-beginners/?couponCode=BA371A5C905E02BC029F)
-[Forecasting Sales with Time Series, LightGBM & Random Forest](https://www.udemy.com/course/forecasting-sales-with-time-series-lightgbm-random-forest/?couponCode=7E4C6274221F1DC2D352)
-[GoViral-Generate Passive Income On YouTube Despite Low Views](https://www.udemy.com/course/generate-income-with-your-youtube-despite-limited-views/?couponCode=41772A8EEC466FB351A8)
-[Mastering React: React Crash Course with Mini Projects](https://www.udemy.com/course/mastering-react-react-crash-course-with-mini-projects/?couponCode=6A6885926F27192FD27A)
-[Midjourney Mastery: Creating Visuals Using AI](https://www.udemy.com/course/midjourney-comprehensive/?couponCode=MM1502)
-[ChatGPT & Midjourney: Personal Digital Marketing Assistants](https://www.udemy.com/course/chatgpt-digital-marketing/?couponCode=CMPDM1502)
-[[2024] AWS Certified Solutions Architect Associate (SAA-C03)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saac03/?couponCode=AF405A0B504C609BBB18)
-[Learn Content Writing using AI & Make Money Online](https://www.udemy.com/course/ai-content-course/?couponCode=ALHAMDULILLAH0224)
-[Learn Chess in Hindi : Zero to Master Level](https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=68443F02E3879C481785)
 
